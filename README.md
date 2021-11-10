@@ -4,7 +4,7 @@ _combine-csv_ is a Java tool to combine CSV-formatted files into a single file. 
 
 ## Dependencies
 
-- Java SDK (Java 8 or higher)
+- Java OpenJDK (version 8 or higher)
 - Maven (or GNU make)
 - Apache Commons CSV (see [https://commons.apache.org/proper/commons-csv/](https://commons.apache.org/proper/commons-csv/))
 
@@ -26,9 +26,9 @@ The documentation is located in `./target/site/index.html` in the project direct
 
 ## Usage
 
-`combine-csv-x.y.z.jar` takes as arguments the paths of the CSV files that are to be combined. The result is printed to `stdout`.
+`combine-csv-1.0.0.jar` takes as arguments the paths of the CSV files that are to be combined. The result is printed to `stdout`.
 
-Let us assume `combine-csv-x.y.z.jar` is located in the working directory, and the CSV files are located in `./csv-dir`. 
+Let us assume `combine-csv-1.0.0.jar` is located in the working directory, and the CSV files are located in `./csv-dir`. 
 
 Depending on whether we created a regular or an uber-jar, the commands for merging CSV files may slightly differ.
 

@@ -79,32 +79,25 @@ compile: $(CLASSDIR) $(LIBDIR)/$(CCSV_JAR)
 
 # Create jar
 jar: $(TARGETDIR)/$(PACKAGE_JAR)
-$(TARGETDIR)/$(PACKAGE_JAR): compile
-	$(info *** Create jar $(PACKAGE_JAR) ***)
-	@cd $(CLASSDIR) && \
-	$(JAR) -cfe $(PACKAGE_JAR) \
+$(TARGETDIR)/$(PACKAGE_JAR): $(CLASSDIR) compile
+	$(info *** Create jar $@ ***)
+	@$(JAR) -cfe $@ \
 		de.staudtlex.csvtools.CombineCsv \
-		de/staudtlex/csvtools/*.class && \
-	mv $(PACKAGE_JAR) ../$(PACKAGE_JAR) && \
-	cd ../
-
+		-C $< de
 
 # Create uber-jar
 $(TMPDIR):
 	@[ -d $@ ] || mkdir -p $@;
 
 uber-jar: $(TARGETDIR)/$(PACKAGE_UBER_JAR)
-$(TARGETDIR)/$(PACKAGE_UBER_JAR): compile $(LIBDIR)/$(CCSV_JAR) $(TMPDIR)
+$(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(CCSV_JAR) $(TMPDIR) compile 
 	$(info *** Create uber-jar $(PACKAGE_UBER_JAR) ***)
-	@cp $(LIBDIR)/* $(TMPDIR) && \
-	cp -r $(CLASSDIR)/* $(TMPDIR) && \
-	cd $(TMPDIR) && \
-	$(JAR) -xf $(CCSV_JAR) && \
-	$(JAR) -cfe $(PACKAGE_UBER_JAR) \
+	@(cp $< $(TMPDIR)/ && cd $(TMPDIR) && $(JAR) -xf $(CCSV_JAR)) && \
+	$(JAR) -cfe $@ \
 		de.staudtlex.csvtools.CombineCsv \
-		de/* org/* META-INF/* && \
-	mv $(PACKAGE_UBER_JAR) ../$(PACKAGE_UBER_JAR) && \
-	cd ../../ && rm -rf $(TMPDIR)
+		-C $(CLASSDIR) de \
+		-C $(TMPDIR) org \
+		-C $(TMPDIR) META-INF
 
 
 # Example: run example
