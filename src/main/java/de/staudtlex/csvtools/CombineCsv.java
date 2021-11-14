@@ -26,6 +26,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -55,7 +56,7 @@ public class CombineCsv {
    * @return the list of files
    * @throws IOException if an I/O error occurs
    */
-  private static List<File> findFiles(String dirOrFilePath) throws IOException {
+  public static List<File> findFiles(String dirOrFilePath) throws IOException {
     String filePath = new File(dirOrFilePath).isDirectory()
         ? dirOrFilePath + "/*"
         : dirOrFilePath;
@@ -207,10 +208,10 @@ public class CombineCsv {
    *                 rearranged record
    * @return the rearranged record as {@code Map<String, String>}
    */
-  public static Map<String, String> rearrangeMap(Map<String, String> record,
-      List<String> keys) {
-    Map<String, String> rearrangedMap = keys.parallelStream()
-        .collect(Collectors.toMap(e -> e, e -> ""));
+  public static LinkedHashMap<String, String> rearrangeMap(
+      Map<String, String> record, List<String> keys) {
+    LinkedHashMap<String, String> rearrangedMap = keys.parallelStream().collect(
+        Collectors.toMap(e -> e, e -> "", (o1, o2) -> o1, LinkedHashMap::new));
     record.keySet().stream().forEach(e -> rearrangedMap.put(e, record.get(e)));
     return rearrangedMap;
   }
@@ -227,7 +228,7 @@ public class CombineCsv {
    * @see #rearrangeMap(Map, List)
    */
   public static CsvData rearrange(ImportedCsvData csvData, List<String> keys) {
-    List<Map<String, String>> rearrangedRecords = csvData.getRecords()
+    List<LinkedHashMap<String, String>> rearrangedRecords = csvData.getRecords()
         .parallelStream().map(e -> rearrangeMap(e, keys))
         .collect(Collectors.toList());
     return new CsvData(rearrangedRecords);
@@ -242,7 +243,7 @@ public class CombineCsv {
    * @return the CsvData containing the merged records
    */
   public static CsvData merge(List<CsvData> csvDataList) {
-    List<Map<String, String>> records = csvDataList.stream()
+    List<LinkedHashMap<String, String>> records = csvDataList.stream()
         .flatMap(e -> e.getRecords().stream()).collect(Collectors.toList());
     return new CsvData(records);
   }
@@ -253,7 +254,7 @@ public class CombineCsv {
    */
   public static class CsvData {
     private List<String> keys;
-    private List<Map<String, String>> records;
+    private List<LinkedHashMap<String, String>> records;
 
     /**
      * Creates a CsvData instance from the specified records.
@@ -261,7 +262,7 @@ public class CombineCsv {
      * @param records the list of records (as {@code List<Map<String, String>>})
      *                  from which to create the CsvData instance
      */
-    public CsvData(List<Map<String, String>> records) {
+    public CsvData(List<LinkedHashMap<String, String>> records) {
       this.records = records;
       this.keys = new ArrayList<>(records.get(0).keySet());
     }
@@ -276,7 +277,7 @@ public class CombineCsv {
     /**
      * @return the CsvData instance's records
      */
-    public List<Map<String, String>> getRecords() {
+    public List<LinkedHashMap<String, String>> getRecords() {
       return records;
     }
 
@@ -303,7 +304,6 @@ public class CombineCsv {
       } catch (IOException e) {
         throw new RuntimeException(e);
       }
-
       return formattedRecords.toString();
     }
 
@@ -406,6 +406,7 @@ public class CombineCsv {
     final List<String> distinctKeys = getDistinct(keys);
 
     // - rearrange CSV records according to distinct keys
+    // -> ensure order of map entries here
     final List<CsvData> rearrangedCsvData = csvData.stream()
         .map(e -> rearrange(e, distinctKeys)).collect(Collectors.toList());
 
