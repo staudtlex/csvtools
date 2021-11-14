@@ -1,0 +1,301 @@
+obs;race;year;relig;partyid;partyid
+19801;White;2014;Protestant;Ind,near dem;Ind,near dem
+19802;White;2014;Protestant;Strong democrat;Strong democrat
+19803;Black;2014;Protestant;Strong democrat;Strong democrat
+19804;Other;2014;None;Not str democrat;Not str democrat
+19805;White;2014;None;Ind,near dem;Ind,near dem
+19806;White;2014;None;Independent;Independent
+19807;White;2014;None;Strong democrat;Strong democrat
+19808;White;2014;None;Strong democrat;Strong democrat
+19809;White;2014;Protestant;Not str democrat;Not str democrat
+19810;White;2014;None;Strong democrat;Strong democrat
+19811;White;2014;Protestant;Not str democrat;Not str democrat
+19812;White;2014;Catholic;Independent;Independent
+19813;White;2014;Protestant;Ind,near rep;Ind,near rep
+19814;Other;2014;Catholic;Strong democrat;Strong democrat
+19815;Other;2014;Catholic;Independent;Independent
+19816;White;2014;Protestant;Independent;Independent
+19817;White;2014;Protestant;Ind,near rep;Ind,near rep
+19818;White;2014;Protestant;Not str republican;Not str republican
+19819;White;2014;Catholic;Strong republican;Strong republican
+19820;White;2014;Protestant;Not str republican;Not str republican
+19821;Other;2014;None;Independent;Independent
+19822;White;2014;Christian;Ind,near rep;Ind,near rep
+19823;White;2014;None;Other party;Other party
+19824;Black;2014;Christian;Independent;Independent
+19825;White;2014;Protestant;Independent;Independent
+19826;White;2014;None;Independent;Independent
+19827;White;2014;Christian;Ind,near dem;Ind,near dem
+19828;White;2014;Protestant;Not str democrat;Not str democrat
+19829;White;2014;Catholic;Other party;Other party
+19830;White;2014;None;Strong democrat;Strong democrat
+19831;White;2014;Catholic;Not str democrat;Not str democrat
+19832;Black;2014;None;Not str democrat;Not str democrat
+19833;White;2014;Christian;Independent;Independent
+19834;White;2014;Protestant;Strong republican;Strong republican
+19835;White;2014;Catholic;Not str democrat;Not str democrat
+19836;White;2014;Christian;Not str republican;Not str republican
+19837;White;2014;Protestant;Not str republican;Not str republican
+19838;White;2014;Protestant;Not str republican;Not str republican
+19839;Black;2014;Protestant;Not str democrat;Not str democrat
+19840;White;2014;None;Ind,near rep;Ind,near rep
+19841;White;2014;Protestant;Other party;Other party
+19842;White;2014;Protestant;Not str republican;Not str republican
+19843;White;2014;None;Not str republican;Not str republican
+19844;Black;2014;Protestant;Not str democrat;Not str democrat
+19845;White;2014;None;Not str republican;Not str republican
+19846;Black;2014;Protestant;Strong democrat;Strong democrat
+19847;White;2014;None;Independent;Independent
+19848;White;2014;Protestant;Ind,near rep;Ind,near rep
+19849;White;2014;Catholic;Independent;Independent
+19850;Black;2014;Protestant;Independent;Independent
+19851;White;2014;Protestant;Not str democrat;Not str democrat
+19852;White;2014;None;Strong republican;Strong republican
+19853;Other;2014;None;Independent;Independent
+19854;Other;2014;None;Independent;Independent
+19855;Other;2014;Native american;Independent;Independent
+19856;Other;2014;Protestant;Not str democrat;Not str democrat
+19857;Other;2014;None;Not str democrat;Not str democrat
+19858;Other;2014;Catholic;Strong democrat;Strong democrat
+19859;Other;2014;Catholic;Independent;Independent
+19860;Other;2014;Catholic;Not str democrat;Not str democrat
+19861;Black;2014;Moslem/islam;Independent;Independent
+19862;Black;2014;None;Ind,near dem;Ind,near dem
+19863;Black;2014;Protestant;Strong democrat;Strong democrat
+19864;Black;2014;None;Strong democrat;Strong democrat
+19865;White;2014;Protestant;Not str republican;Not str republican
+19866;White;2014;Protestant;Strong republican;Strong republican
+19867;White;2014;None;Strong republican;Strong republican
+19868;White;2014;Protestant;Strong republican;Strong republican
+19869;White;2014;Catholic;Strong republican;Strong republican
+19870;White;2014;Protestant;Ind,near rep;Ind,near rep
+19871;Other;2014;Buddhism;Strong republican;Strong republican
+19872;White;2014;Catholic;Strong democrat;Strong democrat
+19873;White;2014;Protestant;Independent;Independent
+19874;White;2014;Protestant;Not str republican;Not str republican
+19875;White;2014;Protestant;Not str democrat;Not str democrat
+19876;White;2014;Protestant;Strong democrat;Strong democrat
+19877;White;2014;Catholic;Not str democrat;Not str democrat
+19878;White;2014;Protestant;Not str republican;Not str republican
+19879;White;2014;None;Ind,near rep;Ind,near rep
+19880;White;2014;None;Independent;Independent
+19881;White;2014;Christian;Not str democrat;Not str democrat
+19882;White;2014;Catholic;Not str republican;Not str republican
+19883;White;2014;Catholic;Independent;Independent
+19884;White;2014;Catholic;Independent;Independent
+19885;White;2014;None;Not str democrat;Not str democrat
+19886;White;2014;Catholic;Not str democrat;Not str democrat
+19887;Other;2014;None;Not str democrat;Not str democrat
+19888;White;2014;Catholic;Independent;Independent
+19889;Other;2014;Catholic;Independent;Independent
+19890;White;2014;Protestant;Independent;Independent
+19891;White;2014;Protestant;Not str republican;Not str republican
+19892;White;2014;None;Independent;Independent
+19893;White;2014;Inter-nondenominational;Ind,near dem;Ind,near dem
+19894;White;2014;Protestant;Ind,near rep;Ind,near rep
+19895;White;2014;None;Ind,near rep;Ind,near rep
+19896;White;2014;Protestant;Not str democrat;Not str democrat
+19897;White;2014;Protestant;Strong republican;Strong republican
+19898;White;2014;Jewish;Not str democrat;Not str democrat
+19899;White;2014;Protestant;Not str republican;Not str republican
+19900;Other;2014;Catholic;Not str republican;Not str republican
+19901;White;2014;Catholic;Independent;Independent
+19902;White;2014;Catholic;Ind,near dem;Ind,near dem
+19903;White;2014;Catholic;Strong democrat;Strong democrat
+19904;White;2014;Protestant;Not str democrat;Not str democrat
+19905;White;2014;Protestant;Not str republican;Not str republican
+19906;White;2014;Protestant;Strong republican;Strong republican
+19907;White;2014;None;Strong democrat;Strong democrat
+19908;White;2014;None;Independent;Independent
+19909;Other;2014;Catholic;Independent;Independent
+19910;White;2014;None;Ind,near dem;Ind,near dem
+19911;White;2014;Protestant;Ind,near dem;Ind,near dem
+19912;White;2014;Other;Ind,near dem;Ind,near dem
+19913;White;2014;Protestant;Not str republican;Not str republican
+19914;White;2014;Catholic;Not str republican;Not str republican
+19915;White;2014;None;Ind,near rep;Ind,near rep
+19916;White;2014;Protestant;Not str republican;Not str republican
+19917;White;2014;Protestant;Independent;Independent
+19918;White;2014;Protestant;Ind,near dem;Ind,near dem
+19919;White;2014;None;Ind,near dem;Ind,near dem
+19920;White;2014;Protestant;Ind,near dem;Ind,near dem
+19921;White;2014;None;Ind,near rep;Ind,near rep
+19922;White;2014;None;Independent;Independent
+19923;White;2014;Other eastern;Independent;Independent
+19924;White;2014;Catholic;Ind,near rep;Ind,near rep
+19925;White;2014;None;Ind,near dem;Ind,near dem
+19926;White;2014;Buddhism;Ind,near dem;Ind,near dem
+19927;White;2014;Protestant;Ind,near dem;Ind,near dem
+19928;White;2014;Protestant;Other party;Other party
+19929;White;2014;Jewish;Other party;Other party
+19930;White;2014;Protestant;Strong republican;Strong republican
+19931;White;2014;Protestant;Strong democrat;Strong democrat
+19932;White;2014;Protestant;Other party;Other party
+19933;White;2014;Protestant;Ind,near dem;Ind,near dem
+19934;White;2014;Protestant;Strong republican;Strong republican
+19935;White;2014;Protestant;Not str republican;Not str republican
+19936;White;2014;Protestant;Not str republican;Not str republican
+19937;White;2014;None;Ind,near rep;Ind,near rep
+19938;White;2014;None;Ind,near dem;Ind,near dem
+19939;White;2014;Protestant;Independent;Independent
+19940;White;2014;Catholic;Independent;Independent
+19941;White;2014;Orthodox-christian;Strong democrat;Strong democrat
+19942;White;2014;Catholic;Ind,near rep;Ind,near rep
+19943;Black;2014;Catholic;Not str democrat;Not str democrat
+19944;White;2014;None;Not str republican;Not str republican
+19945;White;2014;Catholic;Ind,near rep;Ind,near rep
+19946;White;2014;None;Other party;Other party
+19947;Black;2014;Protestant;Not str democrat;Not str democrat
+19948;White;2014;Orthodox-christian;Ind,near rep;Ind,near rep
+19949;Black;2014;Protestant;Not str republican;Not str republican
+19950;Black;2014;Protestant;Strong democrat;Strong democrat
+19951;Black;2014;No answer;Independent;Independent
+19952;White;2014;Protestant;Independent;Independent
+19953;White;2014;None;Independent;Independent
+19954;White;2014;Protestant;Independent;Independent
+19955;White;2014;Catholic;Strong democrat;Strong democrat
+19956;White;2014;None;Not str democrat;Not str democrat
+19957;White;2014;Catholic;Ind,near rep;Ind,near rep
+19958;White;2014;None;Ind,near rep;Ind,near rep
+19959;Other;2014;Protestant;Ind,near rep;Ind,near rep
+19960;White;2014;None;Ind,near dem;Ind,near dem
+19961;White;2014;Catholic;Ind,near rep;Ind,near rep
+19962;Black;2014;None;Strong democrat;Strong democrat
+19963;Black;2014;Protestant;Strong democrat;Strong democrat
+19964;Black;2014;Protestant;Strong democrat;Strong democrat
+19965;Black;2014;None;Strong democrat;Strong democrat
+19966;Black;2014;None;Strong democrat;Strong democrat
+19967;White;2014;Protestant;Independent;Independent
+19968;White;2014;Protestant;Strong democrat;Strong democrat
+19969;White;2014;Catholic;Independent;Independent
+19970;White;2014;Protestant;Strong democrat;Strong democrat
+19971;White;2014;None;Strong democrat;Strong democrat
+19972;White;2014;None;Independent;Independent
+19973;White;2014;Protestant;Ind,near dem;Ind,near dem
+19974;White;2014;Protestant;Strong democrat;Strong democrat
+19975;White;2014;Protestant;Independent;Independent
+19976;Other;2014;Catholic;Not str democrat;Not str democrat
+19977;White;2014;Protestant;Independent;Independent
+19978;Black;2014;Protestant;Strong democrat;Strong democrat
+19979;White;2014;Christian;Not str republican;Not str republican
+19980;Other;2014;Protestant;Ind,near dem;Ind,near dem
+19981;White;2014;Catholic;Not str democrat;Not str democrat
+19982;White;2014;Catholic;Ind,near rep;Ind,near rep
+19983;White;2014;Catholic;Strong democrat;Strong democrat
+19984;White;2014;Christian;Other party;Other party
+19985;White;2014;Protestant;Other party;Other party
+19986;White;2014;Protestant;Strong democrat;Strong democrat
+19987;White;2014;Catholic;Not str democrat;Not str democrat
+19988;White;2014;Protestant;Strong republican;Strong republican
+19989;White;2014;Protestant;Other party;Other party
+19990;White;2014;Catholic;Strong republican;Strong republican
+19991;Other;2014;Catholic;Not str republican;Not str republican
+19992;Black;2014;Protestant;Independent;Independent
+19993;White;2014;Protestant;Strong republican;Strong republican
+19994;White;2014;Catholic;Ind,near rep;Ind,near rep
+19995;White;2014;Protestant;Not str republican;Not str republican
+19996;White;2014;Jewish;Ind,near dem;Ind,near dem
+19997;White;2014;Catholic;Ind,near rep;Ind,near rep
+19998;White;2014;None;Ind,near rep;Ind,near rep
+19999;Other;2014;No answer;Strong democrat;Strong democrat
+20000;White;2014;Protestant;Ind,near rep;Ind,near rep
+20001;White;2014;Catholic;Ind,near rep;Ind,near rep
+20002;White;2014;Catholic;Ind,near dem;Ind,near dem
+20003;White;2014;Protestant;Not str republican;Not str republican
+20004;White;2014;Christian;Other party;Other party
+20005;White;2014;None;Ind,near dem;Ind,near dem
+20006;White;2014;None;Independent;Independent
+20007;Black;2014;Protestant;Independent;Independent
+20008;Black;2014;Protestant;Strong democrat;Strong democrat
+20009;Black;2014;Protestant;Strong democrat;Strong democrat
+20010;Black;2014;Protestant;Strong democrat;Strong democrat
+20011;Other;2014;Catholic;Independent;Independent
+20012;Black;2014;Protestant;Strong democrat;Strong democrat
+20013;Black;2014;Catholic;Strong democrat;Strong democrat
+20014;Black;2014;Protestant;No answer;No answer
+20015;Black;2014;Protestant;Not str democrat;Not str democrat
+20016;White;2014;Protestant;Ind,near dem;Ind,near dem
+20017;White;2014;Protestant;Strong republican;Strong republican
+20018;Black;2014;Protestant;Strong republican;Strong republican
+20019;White;2014;Protestant;Other party;Other party
+20020;Other;2014;Catholic;Independent;Independent
+20021;White;2014;None;Strong democrat;Strong democrat
+20022;Black;2014;Catholic;Strong democrat;Strong democrat
+20023;White;2014;Protestant;Not str republican;Not str republican
+20024;White;2014;Protestant;Strong democrat;Strong democrat
+20025;White;2014;Catholic;Independent;Independent
+20026;White;2014;Catholic;Independent;Independent
+20027;White;2014;None;Independent;Independent
+20028;White;2014;Protestant;Strong republican;Strong republican
+20029;White;2014;Protestant;Strong republican;Strong republican
+20030;White;2014;Protestant;Independent;Independent
+20031;White;2014;None;Independent;Independent
+20032;Black;2014;Protestant;Strong democrat;Strong democrat
+20033;Other;2014;Other;Independent;Independent
+20034;White;2014;Catholic;Independent;Independent
+20035;White;2014;Catholic;Not str republican;Not str republican
+20036;White;2014;Protestant;Strong republican;Strong republican
+20037;Black;2014;Protestant;Ind,near dem;Ind,near dem
+20038;White;2014;Protestant;Not str democrat;Not str democrat
+20039;Black;2014;Protestant;Strong democrat;Strong democrat
+20040;White;2014;None;Independent;Independent
+20041;White;2014;Christian;Ind,near rep;Ind,near rep
+20042;White;2014;None;Not str republican;Not str republican
+20043;White;2014;Protestant;Ind,near dem;Ind,near dem
+20044;Other;2014;Catholic;Independent;Independent
+20045;White;2014;Catholic;Strong republican;Strong republican
+20046;White;2014;Catholic;Strong democrat;Strong democrat
+20047;White;2014;Protestant;Not str republican;Not str republican
+20048;White;2014;None;Ind,near rep;Ind,near rep
+20049;White;2014;Catholic;Strong republican;Strong republican
+20050;White;2014;Catholic;Ind,near dem;Ind,near dem
+20051;White;2014;Protestant;Not str republican;Not str republican
+20052;White;2014;None;Strong republican;Strong republican
+20053;White;2014;None;Ind,near rep;Ind,near rep
+20054;Other;2014;None;Ind,near dem;Ind,near dem
+20055;Other;2014;Catholic;Not str republican;Not str republican
+20056;Other;2014;Catholic;Independent;Independent
+20057;White;2014;Christian;Independent;Independent
+20058;White;2014;Protestant;Not str democrat;Not str democrat
+20059;White;2014;None;Ind,near dem;Ind,near dem
+20060;White;2014;Protestant;Strong democrat;Strong democrat
+20061;White;2014;None;Strong republican;Strong republican
+20062;White;2014;Protestant;Not str republican;Not str republican
+20063;Other;2014;None;Ind,near dem;Ind,near dem
+20064;Other;2014;Protestant;Strong republican;Strong republican
+20065;Other;2014;None;Ind,near dem;Ind,near dem
+20066;Other;2014;Protestant;Not str democrat;Not str democrat
+20067;Other;2014;Protestant;Independent;Independent
+20068;White;2014;Christian;Not str republican;Not str republican
+20069;White;2014;None;Not str democrat;Not str democrat
+20070;Other;2014;Protestant;Ind,near rep;Ind,near rep
+20071;White;2014;None;Independent;Independent
+20072;White;2014;Protestant;Not str republican;Not str republican
+20073;White;2014;Protestant;Independent;Independent
+20074;White;2014;Protestant;Ind,near rep;Ind,near rep
+20075;White;2014;Protestant;Not str republican;Not str republican
+20076;White;2014;Protestant;Strong republican;Strong republican
+20077;Black;2014;Protestant;Strong democrat;Strong democrat
+20078;White;2014;Catholic;Ind,near dem;Ind,near dem
+20079;White;2014;None;Not str republican;Not str republican
+20080;White;2014;Protestant;Ind,near dem;Ind,near dem
+20081;White;2014;None;Not str democrat;Not str democrat
+20082;White;2014;Christian;Strong democrat;Strong democrat
+20083;Black;2014;Protestant;Strong democrat;Strong democrat
+20084;Black;2014;Protestant;Independent;Independent
+20085;White;2014;Protestant;Strong democrat;Strong democrat
+20086;White;2014;None;Ind,near dem;Ind,near dem
+20087;Black;2014;Protestant;Not str democrat;Not str democrat
+20088;Black;2014;Protestant;Strong democrat;Strong democrat
+20089;White;2014;Catholic;Not str democrat;Not str democrat
+20090;White;2014;Christian;Not str republican;Not str republican
+20091;White;2014;Christian;Not str democrat;Not str democrat
+20092;White;2014;Catholic;Strong republican;Strong republican
+20093;Other;2014;None;Independent;Independent
+20094;White;2014;Protestant;Strong republican;Strong republican
+20095;White;2014;Catholic;Not str democrat;Not str democrat
+20096;White;2014;None;No answer;No answer
+20097;White;2014;None;Ind,near rep;Ind,near rep
+20098;White;2014;Catholic;Strong democrat;Strong democrat
+20099;White;2014;Catholic;Not str democrat;Not str democrat
+20100;Black;2014;Protestant;Not str republican;Not str republican

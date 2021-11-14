@@ -1,0 +1,301 @@
+obs;age;race;race;race;marital
+601;38;White;White;White;Married
+602;54;White;White;White;Married
+603;32;White;White;White;Married
+604;38;Black;Black;Black;Never married
+605;39;Other;Other;Other;Never married
+606;19;Black;Black;Black;Never married
+607;27;Other;Other;Other;Never married
+608;23;White;White;White;Never married
+609;22;Other;Other;Other;Never married
+610;40;White;White;White;Married
+611;33;White;White;White;Married
+612;24;White;White;White;Never married
+613;41;White;White;White;Married
+614;51;White;White;White;Married
+615;37;White;White;White;Married
+616;51;White;White;White;Married
+617;54;White;White;White;Never married
+618;23;White;White;White;Separated
+619;63;White;White;White;Married
+620;52;White;White;White;Never married
+621;27;Other;Other;Other;Never married
+622;35;White;White;White;Married
+623;47;White;White;White;Married
+624;23;White;White;White;Never married
+625;47;White;White;White;Married
+626;37;Black;Black;Black;Never married
+627;28;Other;Other;Other;Divorced
+628;35;Other;Other;Other;Married
+629;48;Other;Other;Other;Divorced
+630;72;White;White;White;Widowed
+631;57;White;White;White;Married
+632;40;White;White;White;Never married
+633;36;Black;Black;Black;Married
+634;65;White;White;White;Never married
+635;56;White;White;White;Separated
+636;55;White;White;White;Divorced
+637;23;White;White;White;Never married
+638;84;White;White;White;Widowed
+639;62;Black;Black;Black;Separated
+640;40;White;White;White;Married
+641;42;White;White;White;Never married
+642;47;White;White;White;Married
+643;53;White;White;White;Never married
+644;26;White;White;White;Never married
+645;25;White;White;White;Never married
+646;64;White;White;White;Divorced
+647;40;White;White;White;Divorced
+648;24;Black;Black;Black;Never married
+649;27;Black;Black;Black;Never married
+650;39;White;White;White;Married
+651;46;Black;Black;Black;Divorced
+652;18;White;White;White;Never married
+653;46;Black;Black;Black;Married
+654;80;White;White;White;Married
+655;77;White;White;White;Widowed
+656;61;Other;Other;Other;Never married
+657;46;White;White;White;Separated
+658;53;White;White;White;Divorced
+659;32;White;White;White;Divorced
+660;51;White;White;White;Divorced
+661;32;White;White;White;Never married
+662;38;White;White;White;Married
+663;50;White;White;White;Divorced
+664;46;White;White;White;Married
+665;42;White;White;White;Separated
+666;31;White;White;White;Never married
+667;47;White;White;White;Married
+668;45;White;White;White;Married
+669;26;White;White;White;Married
+670;45;White;White;White;Married
+671;32;White;White;White;Married
+672;31;White;White;White;Married
+673;40;White;White;White;Married
+674;18;White;White;White;Never married
+675;44;Black;Black;Black;Widowed
+676;35;Black;Black;Black;Never married
+677;31;Black;Black;Black;Never married
+678;50;Other;Other;Other;Divorced
+679;37;Black;Black;Black;Never married
+680;37;White;White;White;Married
+681;19;White;White;White;Never married
+682;28;White;White;White;Never married
+683;79;White;White;White;Married
+684;31;White;White;White;Married
+685;33;White;White;White;Married
+686;56;White;White;White;Married
+687;30;White;White;White;Married
+688;22;White;White;White;Never married
+689;57;White;White;White;Divorced
+690;44;White;White;White;Separated
+691;38;White;White;White;Divorced
+692;60;White;White;White;Married
+693;21;White;White;White;Married
+694;35;White;White;White;Married
+695;49;White;White;White;Married
+696;37;White;White;White;Married
+697;61;White;White;White;Married
+698;67;White;White;White;Married
+699;63;White;White;White;Married
+700;23;White;White;White;Never married
+701;62;White;White;White;Divorced
+702;41;White;White;White;Married
+703;47;White;White;White;Divorced
+704;40;White;White;White;Never married
+705;22;White;White;White;Never married
+706;32;White;White;White;Never married
+707;26;White;White;White;Never married
+708;80;White;White;White;Widowed
+709;57;White;White;White;Married
+710;33;White;White;White;Married
+711;20;Other;Other;Other;Never married
+712;19;White;White;White;Never married
+713;66;White;White;White;Married
+714;56;White;White;White;Divorced
+715;44;White;White;White;Married
+716;57;White;White;White;Married
+717;68;White;White;White;Married
+718;81;White;White;White;Widowed
+719;27;White;White;White;Never married
+720;26;Other;Other;Other;Never married
+721;No answer;White;White;White;Divorced
+722;31;White;White;White;Married
+723;37;White;White;White;Married
+724;52;Other;Other;Other;Married
+725;45;White;White;White;Divorced
+726;69;White;White;White;Divorced
+727;63;White;White;White;Married
+728;79;White;White;White;Widowed
+729;82;White;White;White;Never married
+730;74;White;White;White;Widowed
+731;36;Other;Other;Other;Married
+732;66;White;White;White;Widowed
+733;54;White;White;White;Divorced
+734;73;White;White;White;Married
+735;62;White;White;White;Married
+736;81;White;White;White;Widowed
+737;88;White;White;White;Widowed
+738;74;White;White;White;Divorced
+739;52;White;White;White;Separated
+740;83;White;White;White;Widowed
+741;49;White;White;White;Married
+742;42;White;White;White;Married
+743;54;White;White;White;Married
+744;20;White;White;White;Never married
+745;65;White;White;White;Married
+746;53;White;White;White;Married
+747;36;Black;Black;Black;Married
+748;48;White;White;White;Married
+749;36;White;White;White;Married
+750;43;White;White;White;Married
+751;24;White;White;White;Married
+752;25;White;White;White;Married
+753;32;White;White;White;Married
+754;51;White;White;White;Married
+755;56;White;White;White;Married
+756;43;White;White;White;Married
+757;20;White;White;White;Never married
+758;74;White;White;White;Never married
+759;69;White;White;White;Married
+760;19;White;White;White;Divorced
+761;58;White;White;White;Married
+762;52;White;White;White;Married
+763;56;White;White;White;Never married
+764;22;White;White;White;Never married
+765;71;White;White;White;Widowed
+766;45;White;White;White;Married
+767;46;White;White;White;Widowed
+768;36;White;White;White;Married
+769;32;White;White;White;Married
+770;26;White;White;White;Never married
+771;24;White;White;White;Never married
+772;24;White;White;White;Never married
+773;44;White;White;White;Divorced
+774;44;White;White;White;Divorced
+775;35;White;White;White;Never married
+776;47;White;White;White;Divorced
+777;21;White;White;White;Never married
+778;27;White;White;White;Never married
+779;23;White;White;White;Never married
+780;84;White;White;White;Married
+781;54;White;White;White;Divorced
+782;45;White;White;White;Married
+783;73;White;White;White;Widowed
+784;79;White;White;White;Married
+785;38;White;White;White;Married
+786;20;White;White;White;Never married
+787;32;White;White;White;Married
+788;34;White;White;White;Divorced
+789;44;White;White;White;Divorced
+790;30;White;White;White;Never married
+791;39;White;White;White;Never married
+792;50;White;White;White;Divorced
+793;48;White;White;White;Divorced
+794;34;White;White;White;Married
+795;61;White;White;White;Married
+796;47;White;White;White;Never married
+797;44;White;White;White;Married
+798;44;Black;Black;Black;Separated
+799;32;White;White;White;Married
+800;45;White;White;White;Married
+801;61;White;White;White;Married
+802;38;White;White;White;Never married
+803;68;White;White;White;Never married
+804;67;White;White;White;Married
+805;63;White;White;White;Married
+806;36;White;White;White;Married
+807;46;White;White;White;Never married
+808;81;White;White;White;Widowed
+809;75;White;White;White;Widowed
+810;85;White;White;White;Widowed
+811;71;White;White;White;Widowed
+812;36;White;White;White;Married
+813;38;White;White;White;Married
+814;68;White;White;White;Widowed
+815;46;White;White;White;Married
+816;76;White;White;White;Married
+817;26;White;White;White;Never married
+818;76;White;White;White;Widowed
+819;47;Black;Black;Black;Widowed
+820;28;White;White;White;Never married
+821;45;White;White;White;Divorced
+822;38;White;White;White;Divorced
+823;67;White;White;White;Married
+824;53;White;White;White;Divorced
+825;37;Black;Black;Black;Separated
+826;28;White;White;White;Married
+827;30;Black;Black;Black;Married
+828;72;White;White;White;Widowed
+829;22;White;White;White;Never married
+830;75;White;White;White;Married
+831;18;White;White;White;Never married
+832;75;White;White;White;Married
+833;77;White;White;White;Married
+834;40;White;White;White;Never married
+835;73;White;White;White;Married
+836;42;White;White;White;Married
+837;62;White;White;White;Married
+838;72;White;White;White;Widowed
+839;44;White;White;White;Married
+840;80;White;White;White;Widowed
+841;32;Other;Other;Other;Married
+842;23;White;White;White;Never married
+843;37;White;White;White;Separated
+844;78;White;White;White;Widowed
+845;31;White;White;White;Married
+846;87;White;White;White;Widowed
+847;83;White;White;White;Never married
+848;76;White;White;White;Widowed
+849;83;White;White;White;Widowed
+850;83;White;White;White;Widowed
+851;49;White;White;White;Married
+852;66;White;White;White;Married
+853;72;White;White;White;Widowed
+854;46;Black;Black;Black;Separated
+855;73;White;White;White;Married
+856;41;White;White;White;Married
+857;39;White;White;White;Separated
+858;59;White;White;White;Married
+859;83;White;White;White;Widowed
+860;51;White;White;White;Married
+861;46;White;White;White;Divorced
+862;25;White;White;White;Never married
+863;88;White;White;White;Widowed
+864;26;Black;Black;Black;Never married
+865;31;Black;Black;Black;Never married
+866;65;White;White;White;Divorced
+867;37;White;White;White;Married
+868;52;White;White;White;Never married
+869;60;White;White;White;Married
+870;61;White;White;White;Divorced
+871;59;White;White;White;Married
+872;28;White;White;White;Married
+873;31;White;White;White;Never married
+874;31;White;White;White;Divorced
+875;21;White;White;White;Never married
+876;84;White;White;White;Divorced
+877;86;White;White;White;Widowed
+878;72;White;White;White;Divorced
+879;79;White;White;White;Married
+880;76;White;White;White;Divorced
+881;89 or older;White;White;White;Divorced
+882;76;White;White;White;Widowed
+883;85;White;White;White;Widowed
+884;31;White;White;White;Never married
+885;67;White;White;White;Married
+886;70;White;White;White;Divorced
+887;31;White;White;White;Married
+888;31;White;White;White;Married
+889;45;White;White;White;Divorced
+890;53;White;White;White;Married
+891;77;White;White;White;Widowed
+892;45;White;White;White;Married
+893;39;White;White;White;Married
+894;55;White;White;White;Married
+895;52;White;White;White;Married
+896;60;White;White;White;Married
+897;30;Black;Black;Black;Married
+898;60;White;White;White;Married
+899;48;White;White;White;Married
+900;50;White;White;White;Married

@@ -1,0 +1,301 @@
+obs;year;age;denom;relig;partyid;rincome;race;marital;tvhours
+3001;2002;22;Southern baptist;Protestant;Not str democrat;$1000 to 2999;Black;Never married;8
+3002;2002;70;Not applicable;None;Strong democrat;$25000 or more;White;Divorced;Not applicable
+3003;2002;24;No denomination;Christian;No answer;$10000 - 14999;Black;Never married;3
+3004;2002;No answer;Not applicable;Catholic;Strong democrat;$4000 to 4999;White;Never married;3
+3005;2002;68;Not applicable;Catholic;Strong democrat;Not applicable;Black;Divorced;Not applicable
+3006;2002;19;Baptist-dk which;Protestant;Independent;No answer;Black;Divorced;Not applicable
+3007;2002;24;Not applicable;Catholic;Independent;$10000 - 14999;Other;Never married;Not applicable
+3008;2002;48;Baptist-dk which;Protestant;Strong republican;$10000 - 14999;Black;Never married;7
+3009;2002;55;No denomination;Protestant;Not str democrat;Not applicable;Black;Divorced;4
+3010;2002;51;Presbyterian-dk wh;Protestant;Not str democrat;$25000 or more;Other;Married;Not applicable
+3011;2002;71;Presbyterian, merged;Protestant;Ind,near dem;Not applicable;White;Married;Not applicable
+3012;2002;45;Not applicable;Other;Independent;$25000 or more;White;Married;Not applicable
+3013;2002;82;No answer;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+3014;2002;46;Presbyterian-dk wh;Protestant;Strong democrat;$25000 or more;White;Married;Not applicable
+3015;2002;35;No denomination;Christian;Ind,near dem;$25000 or more;Black;Divorced;Not applicable
+3016;2002;18;Baptist-dk which;Protestant;Independent;Not applicable;Black;Never married;Not applicable
+3017;2002;57;Not applicable;Jewish;Ind,near dem;Not applicable;White;Married;6
+3018;2002;23;Not applicable;Catholic;Ind,near rep;$3000 to 3999;White;Married;Not applicable
+3019;2002;32;Not applicable;Catholic;Not str democrat;$25000 or more;Other;Married;6
+3020;2002;28;Not applicable;None;Not str democrat;$25000 or more;Other;Never married;Not applicable
+3021;2002;48;United pres ch in us;Protestant;Not str democrat;$25000 or more;White;Divorced;Not applicable
+3022;2002;39;Not applicable;Orthodox-christian;Ind,near dem;$25000 or more;White;Married;Not applicable
+3023;2002;27;Not applicable;Catholic;Strong democrat;Not applicable;White;Never married;Not applicable
+3024;2002;No answer;No denomination;Protestant;Not str democrat;$3000 to 3999;White;Never married;5
+3025;2002;57;Not applicable;None;Not str democrat;Not applicable;White;Divorced;6
+3026;2002;35;Not applicable;None;Independent;Not applicable;White;Divorced;Not applicable
+3027;2002;29;Not applicable;Buddhism;Strong democrat;Not applicable;White;Married;Not applicable
+3028;2002;33;No denomination;Protestant;Independent;$1000 to 2999;Black;Divorced;Not applicable
+3029;2002;45;Not applicable;Catholic;Independent;$25000 or more;White;Never married;5
+3030;2002;74;Presbyterian-dk wh;Protestant;Not str republican;Not applicable;White;Divorced;2
+3031;2002;43;Not applicable;Catholic;Independent;Not applicable;White;Married;Not applicable
+3032;2002;46;United methodist;Protestant;Strong democrat;$10000 - 14999;White;Married;Not applicable
+3033;2002;57;Not applicable;Catholic;Not str republican;$15000 - 19999;White;Widowed;Not applicable
+3034;2002;40;Not applicable;None;Strong democrat;Not applicable;White;Married;2
+3035;2002;43;Not applicable;None;Independent;$25000 or more;White;Married;Not applicable
+3036;2002;41;Not applicable;Catholic;Ind,near dem;Not applicable;White;Married;Not applicable
+3037;2002;37;United methodist;Protestant;Strong republican;$25000 or more;White;Married;2
+3038;2002;22;Not applicable;None;Strong republican;$10000 - 14999;White;Never married;Not applicable
+3039;2002;50;Not applicable;None;Not str republican;$25000 or more;White;Married;Not applicable
+3040;2002;40;Not applicable;Catholic;Independent;$25000 or more;Other;Married;Not applicable
+3041;2002;32;Other;Protestant;Strong democrat;$25000 or more;Black;Married;Not applicable
+3042;2002;33;No denomination;Christian;Independent;$25000 or more;Other;Divorced;Not applicable
+3043;2002;34;Southern baptist;Protestant;Not str democrat;$20000 - 24999;Black;Divorced;Not applicable
+3044;2002;57;Not applicable;Catholic;Strong republican;$25000 or more;Other;Married;4
+3045;2002;53;Presbyterian-dk wh;Protestant;Strong democrat;$25000 or more;White;Married;1
+3046;2002;82;Not applicable;Catholic;Strong democrat;Not applicable;White;Widowed;Not applicable
+3047;2002;33;Southern baptist;Protestant;Strong democrat;$20000 - 24999;Black;Separated;Not applicable
+3048;2002;67;Southern baptist;Protestant;Strong republican;No answer;White;Married;Not applicable
+3049;2002;29;Episcopal;Protestant;Ind,near dem;Not applicable;White;Never married;Not applicable
+3050;2002;72;Not applicable;None;Strong democrat;Not applicable;White;Widowed;Not applicable
+3051;2002;76;United pres ch in us;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+3052;2002;55;Not applicable;None;Not str democrat;$25000 or more;White;Married;3
+3053;2002;89 or older;Luth ch in america;Protestant;Strong democrat;Not applicable;White;Married;Not applicable
+3054;2002;21;No denomination;Protestant;Ind,near dem;$15000 - 19999;White;Never married;Not applicable
+3055;2002;33;Not applicable;Catholic;Not str democrat;$25000 or more;White;Married;Not applicable
+3056;2002;24;Not applicable;None;Independent;$10000 - 14999;White;Married;6
+3057;2002;40;Baptist-dk which;Protestant;Not str democrat;$25000 or more;Black;Married;Not applicable
+3058;2002;25;Baptist-dk which;Protestant;Ind,near rep;$25000 or more;White;Never married;1
+3059;2002;32;Not applicable;None;Not str democrat;$25000 or more;White;Never married;Not applicable
+3060;2002;23;Not applicable;Catholic;Independent;$20000 - 24999;White;Never married;6
+3061;2002;26;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Never married;Not applicable
+3062;2002;67;Not applicable;Catholic;Not str republican;Not applicable;White;Widowed;Not applicable
+3063;2002;24;Other;Protestant;Not str democrat;$25000 or more;Other;Married;3
+3064;2002;53;Not applicable;Catholic;Strong democrat;Refused;White;Married;Not applicable
+3065;2002;50;Am baptist asso;Protestant;Strong democrat;Not applicable;Black;Separated;7
+3066;2002;54;Not applicable;Inter-nondenominational;Independent;$1000 to 2999;Black;Divorced;1
+3067;2002;28;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Never married;Not applicable
+3068;2002;62;Not applicable;Catholic;Other party;$10000 - 14999;White;Married;Not applicable
+3069;2002;39;Not applicable;Catholic;Not str democrat;$10000 - 14999;Other;Married;3
+3070;2002;46;Not applicable;Catholic;Ind,near dem;Not applicable;White;Never married;Not applicable
+3071;2002;45;Not applicable;Catholic;Strong democrat;$20000 - 24999;White;Married;Not applicable
+3072;2002;28;Not applicable;Inter-nondenominational;Not str republican;$25000 or more;White;Never married;Not applicable
+3073;2002;42;Not applicable;Catholic;Strong democrat;$25000 or more;White;Never married;1
+3074;2002;25;Not applicable;None;Independent;$10000 - 14999;White;Never married;Not applicable
+3075;2002;30;Am bapt ch in usa;Protestant;Not str democrat;$10000 - 14999;Black;Never married;Not applicable
+3076;2002;53;Afr meth episcopal;Protestant;Strong democrat;$15000 - 19999;Black;Divorced;4
+3077;2002;25;Am baptist asso;Protestant;Ind,near dem;$7000 to 7999;Black;Never married;5
+3078;2002;32;Not applicable;None;Not str democrat;$5000 to 5999;Black;Never married;Not applicable
+3079;2002;41;Baptist-dk which;Protestant;Strong democrat;Not applicable;Black;Married;Not applicable
+3080;2002;26;Other;Protestant;Independent;Lt $1000;Black;Never married;Not applicable
+3081;2002;68;Southern baptist;Protestant;Not str democrat;Not applicable;White;Widowed;Not applicable
+3082;2002;43;Baptist-dk which;Protestant;Not str democrat;$25000 or more;Black;Married;Not applicable
+3083;2002;35;No denomination;Christian;Not str democrat;Not applicable;Black;Never married;6
+3084;2002;26;Not applicable;Catholic;Strong republican;Not applicable;White;Never married;2
+3085;2002;24;Not applicable;None;Strong republican;Not applicable;Black;Never married;Not applicable
+3086;2002;48;Baptist-dk which;Protestant;Strong democrat;Not applicable;Black;Never married;Not applicable
+3087;2002;72;Not applicable;Catholic;Strong democrat;Not applicable;Black;Never married;Not applicable
+3088;2002;31;Not applicable;None;Not str democrat;Not applicable;Black;Never married;Not applicable
+3089;2002;25;Baptist-dk which;Protestant;Not str democrat;$3000 to 3999;Black;Never married;10
+3090;2002;23;Not applicable;Catholic;Strong democrat;$15000 - 19999;White;Never married;1
+3091;2002;58;Not applicable;Catholic;Strong democrat;$25000 or more;White;Married;Not applicable
+3092;2002;63;Not applicable;Catholic;Independent;$25000 or more;White;Married;Not applicable
+3093;2002;56;Luth ch in america;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+3094;2002;72;Not applicable;Catholic;Strong republican;No answer;White;Married;Not applicable
+3095;2002;26;Not applicable;Catholic;Independent;$25000 or more;White;Never married;Not applicable
+3096;2002;61;Not applicable;Catholic;Strong republican;$25000 or more;White;Married;1
+3097;2002;62;Not applicable;None;Not str republican;$25000 or more;White;Separated;Not applicable
+3098;2002;43;Don't know;Protestant;Not str republican;$25000 or more;White;Married;1
+3099;2002;33;Not applicable;Catholic;Strong democrat;$25000 or more;White;Married;Not applicable
+3100;2002;47;No denomination;Christian;Strong democrat;$25000 or more;White;Never married;Not applicable
+3101;2002;49;Not applicable;None;Ind,near dem;$25000 or more;Other;Married;Not applicable
+3102;2002;58;Other;Protestant;Ind,near rep;$15000 - 19999;White;Married;Not applicable
+3103;2002;42;Not applicable;None;Not str democrat;Not applicable;White;Married;Not applicable
+3104;2002;40;United pres ch in us;Protestant;Strong democrat;$25000 or more;White;Married;1
+3105;2002;43;Not applicable;Catholic;Not str democrat;$25000 or more;White;Divorced;Not applicable
+3106;2002;48;United pres ch in us;Protestant;Strong republican;$25000 or more;White;Never married;Not applicable
+3107;2002;48;Not applicable;Catholic;Not str democrat;$20000 - 24999;White;Married;3
+3108;2002;42;No denomination;Christian;Not str republican;$25000 or more;White;Divorced;Not applicable
+3109;2002;29;United methodist;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+3110;2002;26;Not applicable;None;Independent;$25000 or more;White;Never married;Not applicable
+3111;2002;76;Lutheran-mo synod;Protestant;Not str republican;Not applicable;White;Married;3
+3112;2002;32;Not applicable;Catholic;Not str democrat;Not applicable;White;Married;2
+3113;2002;63;No denomination;Protestant;Ind,near rep;$25000 or more;White;Widowed;Not applicable
+3114;2002;46;No denomination;Protestant;Strong republican;Lt $1000;White;Divorced;Not applicable
+3115;2002;41;No denomination;Protestant;Independent;$20000 - 24999;White;Divorced;Not applicable
+3116;2002;29;Not applicable;Catholic;Strong democrat;$25000 or more;White;Never married;5
+3117;2002;58;Not applicable;Catholic;Independent;$25000 or more;White;Married;Not applicable
+3118;2002;42;Not applicable;Catholic;Not str republican;$25000 or more;White;Divorced;Not applicable
+3119;2002;49;Lutheran-dk which;Protestant;Independent;$25000 or more;White;Married;Not applicable
+3120;2002;70;Not applicable;Catholic;Ind,near rep;Not applicable;White;Married;3
+3121;2002;66;Not applicable;Catholic;Ind,near rep;$1000 to 2999;White;Married;Not applicable
+3122;2002;43;Not applicable;Catholic;Strong republican;Not applicable;White;Married;Not applicable
+3123;2002;37;Not applicable;Catholic;Not str democrat;$25000 or more;White;Married;Not applicable
+3124;2002;58;Not applicable;Catholic;Ind,near rep;Not applicable;White;Married;Not applicable
+3125;2002;23;Other;Protestant;Not str republican;$6000 to 6999;White;Never married;3
+3126;2002;48;Not applicable;Catholic;Ind,near rep;$25000 or more;White;Married;1
+3127;2002;44;Not applicable;Catholic;Strong republican;$3000 to 3999;White;Married;Not applicable
+3128;2002;45;Other;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+3129;2002;44;Not applicable;Catholic;Not str democrat;$25000 or more;White;Never married;4
+3130;2002;27;Not applicable;Catholic;Not str republican;$25000 or more;White;Married;2
+3131;2002;72;Not applicable;Catholic;Strong democrat;Not applicable;White;Married;Not applicable
+3132;2002;76;United pres ch in us;Protestant;Not str democrat;Not applicable;White;Married;2
+3133;2002;68;Not applicable;Jewish;Strong democrat;$25000 or more;White;Married;Not applicable
+3134;2002;47;Not applicable;Jewish;Independent;$25000 or more;White;Never married;Not applicable
+3135;2002;75;Not applicable;Jewish;Strong democrat;Not applicable;White;Married;8
+3136;2002;28;Not applicable;Jewish;Not str republican;$25000 or more;White;Divorced;Not applicable
+3137;2002;51;Not applicable;Jewish;Strong democrat;$25000 or more;White;Married;1
+3138;2002;30;Lutheran-dk which;Protestant;Independent;$25000 or more;White;Never married;3
+3139;2002;38;Baptist-dk which;Protestant;Not str democrat;$25000 or more;Black;Never married;Not applicable
+3140;2002;33;Other;Protestant;Not str republican;$25000 or more;Other;Married;Not applicable
+3141;2002;34;No denomination;Christian;Strong democrat;$25000 or more;Black;Married;Not applicable
+3142;2002;27;Not applicable;Catholic;Strong democrat;$25000 or more;White;Married;1
+3143;2002;53;Other baptists;Protestant;Not str democrat;$25000 or more;Black;Widowed;Not applicable
+3144;2002;40;Not applicable;Other;Independent;$25000 or more;White;Separated;1
+3145;2002;74;Not applicable;Orthodox-christian;Strong democrat;$10000 - 14999;White;Divorced;Not applicable
+3146;2002;19;No denomination;Christian;Independent;Lt $1000;Black;Never married;5
+3147;2002;33;Not applicable;None;Strong democrat;$25000 or more;Other;Never married;Not applicable
+3148;2002;29;Not applicable;Orthodox-christian;Ind,near rep;Not applicable;White;Married;Not applicable
+3149;2002;26;Not applicable;None;Independent;$20000 - 24999;White;Never married;1
+3150;2002;23;Not applicable;Catholic;Not str democrat;Not applicable;White;Never married;1
+3151;2002;56;Not applicable;Catholic;Independent;Not applicable;White;Never married;2
+3152;2002;40;Not applicable;None;Strong democrat;$25000 or more;White;Never married;Not applicable
+3153;2002;55;Episcopal;Protestant;Strong republican;$25000 or more;White;Never married;Not applicable
+3154;2002;35;Not applicable;Buddhism;Not str democrat;$25000 or more;White;Never married;3
+3155;2002;33;Not applicable;None;Ind,near dem;$25000 or more;White;Married;Not applicable
+3156;2002;37;Not applicable;None;Not str democrat;$25000 or more;White;Separated;1
+3157;2002;65;Not applicable;Jewish;Independent;$25000 or more;White;Married;1
+3158;2002;45;Presbyterian-dk wh;Protestant;Other party;Not applicable;White;Married;Not applicable
+3159;2002;28;Not applicable;None;Ind,near dem;$25000 or more;White;Married;Not applicable
+3160;2002;24;United methodist;Protestant;Not str republican;$1000 to 2999;White;Never married;Not applicable
+3161;2002;32;Not applicable;None;Strong democrat;$25000 or more;White;Never married;2
+3162;2002;47;Not applicable;Catholic;Ind,near dem;$8000 to 9999;Other;Married;Not applicable
+3163;2002;61;Not applicable;Catholic;Independent;$25000 or more;White;Never married;Not applicable
+3164;2002;52;Other;Protestant;Strong democrat;Not applicable;Black;Married;1
+3165;2002;24;Not applicable;Catholic;Not str democrat;$20000 - 24999;White;Never married;1
+3166;2002;30;Not applicable;Catholic;Ind,near rep;$1000 to 2999;White;Married;Not applicable
+3167;2002;33;Other;Protestant;Strong republican;$20000 - 24999;White;Married;Not applicable
+3168;2002;49;Not applicable;None;Other party;Not applicable;White;Never married;Not applicable
+3169;2002;49;Other;Protestant;Ind,near rep;$1000 to 2999;Black;Never married;Not applicable
+3170;2002;35;United pres ch in us;Protestant;Ind,near dem;$25000 or more;Other;Divorced;Not applicable
+3171;2002;37;No denomination;Christian;Independent;$25000 or more;White;Separated;4
+3172;2002;22;Not applicable;Catholic;Not str democrat;Not applicable;White;Married;Not applicable
+3173;2002;49;Other;Protestant;Independent;$10000 - 14999;White;Divorced;Not applicable
+3174;2002;27;Not applicable;None;Strong democrat;$20000 - 24999;White;Never married;Not applicable
+3175;2002;26;Not applicable;Catholic;Not str democrat;$10000 - 14999;White;Married;1
+3176;2002;51;Not applicable;Catholic;Ind,near rep;Not applicable;White;Never married;6
+3177;2002;59;United methodist;Protestant;Not str democrat;$20000 - 24999;White;Married;Not applicable
+3178;2002;60;Baptist-dk which;Protestant;Ind,near dem;$25000 or more;White;Divorced;Not applicable
+3179;2002;38;Not applicable;Catholic;Strong republican;Not applicable;White;Married;Not applicable
+3180;2002;40;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Married;2
+3181;2002;42;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Married;Not applicable
+3182;2002;47;Not applicable;Catholic;Strong republican;$25000 or more;White;Divorced;4
+3183;2002;44;Not applicable;Catholic;Not str republican;$25000 or more;White;Married;Not applicable
+3184;2002;47;Lutheran-dk which;Protestant;Strong republican;$15000 - 19999;White;Married;Not applicable
+3185;2002;70;Not applicable;None;Strong republican;$20000 - 24999;White;Never married;Not applicable
+3186;2002;75;Not applicable;Inter-nondenominational;Strong democrat;Not applicable;White;Married;2
+3187;2002;87;Not applicable;None;Not str republican;Not applicable;White;Widowed;Not applicable
+3188;2002;71;Not applicable;None;Not str republican;Not applicable;White;Married;Not applicable
+3189;2002;48;Not applicable;Inter-nondenominational;Strong republican;Not applicable;White;Married;Not applicable
+3190;2002;46;Not applicable;Catholic;Strong republican;Not applicable;White;Married;4
+3191;2002;22;Not applicable;Catholic;Not str republican;$1000 to 2999;White;Never married;Not applicable
+3192;2002;62;Not applicable;Catholic;Not str republican;$25000 or more;White;Never married;Not applicable
+3193;2002;23;Not applicable;Catholic;Not str republican;$1000 to 2999;Other;Never married;Not applicable
+3194;2002;57;Not applicable;Catholic;Ind,near dem;Not applicable;White;Married;3
+3195;2002;36;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Married;Not applicable
+3196;2002;21;Not applicable;None;Independent;Not applicable;White;Married;Not applicable
+3197;2002;66;Not applicable;Catholic;Strong republican;$25000 or more;White;Separated;3
+3198;2002;23;Not applicable;None;Ind,near dem;Don't know;White;Separated;2
+3199;2002;30;Other;Protestant;Not str republican;$8000 to 9999;Other;Married;Not applicable
+3200;2002;89 or older;No denomination;Protestant;Not str republican;Not applicable;White;Divorced;Not applicable
+3201;2002;32;Not applicable;Moslem/islam;Ind,near rep;$25000 or more;Other;Married;1
+3202;2002;46;Not applicable;None;Ind,near dem;Not applicable;White;Separated;Not applicable
+3203;2002;46;Not applicable;None;Not str democrat;$25000 or more;White;Divorced;4
+3204;2002;32;Other;Protestant;Independent;Refused;White;Married;0
+3205;2002;35;Not applicable;None;Not str democrat;$25000 or more;White;Divorced;Not applicable
+3206;2002;65;Baptist-dk which;Protestant;Independent;Not applicable;Black;Married;Not applicable
+3207;2002;37;Not applicable;Buddhism;Independent;Not applicable;Other;Married;Not applicable
+3208;2002;31;Not applicable;Catholic;Independent;$15000 - 19999;White;Never married;Not applicable
+3209;2002;67;Methodist-dk which;Protestant;Strong republican;Not applicable;White;Widowed;Not applicable
+3210;2002;35;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Divorced;Not applicable
+3211;2002;70;Other;Protestant;Strong republican;Not applicable;Other;Married;Not applicable
+3212;2002;84;Presbyterian-dk wh;Protestant;Strong republican;Not applicable;White;Married;4
+3213;2002;39;No denomination;Protestant;Strong democrat;Not applicable;White;Separated;Not applicable
+3214;2002;43;No denomination;Christian;Ind,near rep;$20000 - 24999;White;Married;5
+3215;2002;36;Other;Protestant;Not str democrat;$15000 - 19999;White;Never married;Not applicable
+3216;2002;55;Southern baptist;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+3217;2002;33;Other;Protestant;Strong democrat;Refused;Black;Married;Not applicable
+3218;2002;73;Not applicable;None;Strong republican;Not applicable;White;Married;4
+3219;2002;38;Not applicable;Catholic;Not str democrat;$25000 or more;White;Separated;Not applicable
+3220;2002;40;No denomination;Protestant;Not str republican;$25000 or more;White;Never married;Not applicable
+3221;2002;29;Not applicable;None;Not str democrat;$25000 or more;Black;Married;Not applicable
+3222;2002;49;Other;Protestant;Independent;$20000 - 24999;White;Separated;2
+3223;2002;26;Not applicable;None;Independent;$25000 or more;White;Married;Not applicable
+3224;2002;30;Not applicable;Catholic;Not str democrat;$25000 or more;Other;Never married;Not applicable
+3225;2002;54;Not applicable;Catholic;Strong republican;$25000 or more;White;Married;2
+3226;2002;27;Not applicable;Catholic;Independent;$4000 to 4999;Other;Never married;Not applicable
+3227;2002;40;Not applicable;Catholic;Independent;$15000 - 19999;Other;Never married;Not applicable
+3228;2002;30;Not applicable;Catholic;Other party;$20000 - 24999;White;Divorced;Not applicable
+3229;2002;45;Baptist-dk which;Protestant;Ind,near rep;$25000 or more;Black;Divorced;2
+3230;2002;22;Not applicable;Catholic;Not str democrat;$10000 - 14999;Other;Never married;4
+3231;2002;32;Not applicable;Buddhism;Independent;$25000 or more;Other;Never married;Not applicable
+3232;2002;24;Not applicable;Catholic;Strong democrat;$1000 to 2999;White;Married;Not applicable
+3233;2002;35;No denomination;Christian;Strong democrat;$10000 - 14999;White;Married;2
+3234;2002;32;Not applicable;Catholic;Independent;$25000 or more;White;Never married;Not applicable
+3235;2002;31;Not applicable;Catholic;Not str republican;$25000 or more;White;Never married;Not applicable
+3236;2002;65;Not applicable;None;Other party;$8000 to 9999;White;Divorced;Not applicable
+3237;2002;60;Other;Protestant;Independent;$20000 - 24999;Other;Divorced;Not applicable
+3238;2002;33;Baptist-dk which;Protestant;Strong democrat;Not applicable;Black;Never married;2
+3239;2002;24;Not applicable;None;Strong democrat;$25000 or more;White;Never married;1
+3240;2002;34;Not applicable;Moslem/islam;No answer;Not applicable;Black;Never married;Not applicable
+3241;2002;30;Not applicable;Buddhism;Ind,near dem;$25000 or more;Black;Never married;3
+3242;2002;36;Not applicable;None;Not str democrat;$25000 or more;Black;Separated;Not applicable
+3243;2002;38;Southern baptist;Protestant;Strong democrat;$25000 or more;Black;Separated;Not applicable
+3244;2002;28;Baptist-dk which;Protestant;Ind,near dem;$1000 to 2999;Black;Never married;7
+3245;2002;42;Not applicable;None;Strong democrat;$25000 or more;White;Never married;Not applicable
+3246;2002;24;Not applicable;Don't know;No answer;Not applicable;Black;Never married;Not applicable
+3247;2002;38;Not applicable;Buddhism;Ind,near dem;$25000 or more;Other;Married;Not applicable
+3248;2002;40;Not applicable;None;Ind,near dem;$25000 or more;White;Never married;2
+3249;2002;31;Not applicable;None;Strong democrat;$15000 - 19999;White;Married;1
+3250;2002;26;Not applicable;None;Not str republican;Refused;White;Never married;Not applicable
+3251;2002;33;Not applicable;None;Not str democrat;Refused;Other;Never married;Not applicable
+3252;2002;67;Not applicable;Catholic;Strong democrat;Not applicable;White;Widowed;2
+3253;2002;45;Not applicable;None;Strong democrat;$25000 or more;Black;Divorced;1
+3254;2002;60;Other;Protestant;Strong democrat;$20000 - 24999;White;Divorced;Not applicable
+3255;2002;24;Not applicable;Catholic;Independent;$10000 - 14999;White;Married;Not applicable
+3256;2002;34;Not applicable;Catholic;Strong republican;$15000 - 19999;Black;Never married;Not applicable
+3257;2002;51;Not applicable;None;No answer;Refused;Black;Separated;Not applicable
+3258;2002;33;Episcopal;Protestant;Ind,near dem;$10000 - 14999;White;Never married;1
+3259;2002;43;Other;Protestant;Ind,near dem;$15000 - 19999;Black;Married;Not applicable
+3260;2002;26;Not applicable;Catholic;Strong democrat;$15000 - 19999;Black;Married;Not applicable
+3261;2002;65;Episcopal;Protestant;Not str democrat;$25000 or more;Black;Never married;6
+3262;2002;41;Other;Protestant;Strong democrat;$25000 or more;Black;Married;Not applicable
+3263;2002;56;Not applicable;None;Independent;No answer;Other;Never married;Not applicable
+3264;2002;55;Other;Protestant;No answer;$10000 - 14999;Black;Divorced;Not applicable
+3265;2002;47;Other;Protestant;Independent;Refused;Black;Never married;2
+3266;2002;47;Episcopal;Protestant;Not str democrat;$25000 or more;White;Divorced;1
+3267;2002;89 or older;Not applicable;None;Not str democrat;Not applicable;White;Never married;Not applicable
+3268;2002;54;No denomination;Protestant;Not str democrat;Not applicable;White;Married;Not applicable
+3269;2002;43;Not applicable;Jewish;Strong democrat;$25000 or more;White;Married;Not applicable
+3270;2002;37;No denomination;Protestant;Not str republican;$25000 or more;White;Widowed;1
+3271;2002;83;Not applicable;None;Independent;Not applicable;White;Married;0
+3272;2002;62;Not applicable;None;Ind,near dem;$25000 or more;White;Divorced;Not applicable
+3273;2002;48;Not applicable;Jewish;Ind,near dem;$25000 or more;White;Never married;4
+3274;2002;63;Not applicable;Jewish;Ind,near dem;$25000 or more;White;Married;Not applicable
+3275;2002;38;No denomination;Protestant;Strong democrat;$5000 to 5999;White;Never married;Not applicable
+3276;2002;83;Baptist-dk which;Protestant;Independent;Not applicable;Black;Widowed;Not applicable
+3277;2002;87;Southern baptist;Protestant;Strong democrat;Not applicable;Black;Widowed;4
+3278;2002;26;Not applicable;Catholic;Strong democrat;$15000 - 19999;Black;Never married;Not applicable
+3279;2002;44;Not applicable;Moslem/islam;Strong democrat;Not applicable;Black;Never married;1
+3280;2002;78;Am bapt ch in usa;Protestant;Strong democrat;Not applicable;Black;Separated;1
+3281;2002;67;No denomination;Christian;No answer;Not applicable;Black;Divorced;Not applicable
+3282;2002;63;Am bapt ch in usa;Protestant;Strong democrat;Not applicable;Black;Widowed;Not applicable
+3283;2002;21;Not applicable;Catholic;Independent;$3000 to 3999;Other;Married;5
+3284;2002;42;Not applicable;Catholic;Not str democrat;$8000 to 9999;Other;Married;Not applicable
+3285;2002;53;No denomination;Christian;Not str democrat;Refused;White;Married;Not applicable
+3286;2002;55;Not applicable;None;Not str democrat;Refused;White;Married;Don't know
+3287;2002;73;Not applicable;Catholic;Independent;Not applicable;White;Married;Not applicable
+3288;2002;33;Not applicable;Moslem/islam;Independent;Don't know;Other;Divorced;3
+3289;2002;24;Not applicable;None;Strong democrat;Not applicable;White;Never married;1
+3290;2002;52;Not applicable;Jewish;Independent;Not applicable;White;Married;Not applicable
+3291;2002;70;Not applicable;Catholic;Not str democrat;Not applicable;White;Widowed;Not applicable
+3292;2002;85;Not applicable;Jewish;Not str democrat;Not applicable;White;Widowed;Not applicable
+3293;2002;72;Not applicable;None;Independent;Refused;White;Married;1
+3294;2002;No answer;No denomination;Protestant;Independent;$20000 - 24999;White;Never married;Not applicable
+3295;2002;75;Not applicable;Jewish;Not str democrat;Not applicable;White;Married;Not applicable
+3296;2002;51;Not applicable;Jewish;Not str democrat;$10000 - 14999;White;Married;Not applicable
+3297;2002;37;Not applicable;Jewish;Ind,near dem;Refused;White;Separated;Not applicable
+3298;2002;67;Am baptist asso;Protestant;Not str democrat;Not applicable;Black;Widowed;Not applicable
+3299;2002;64;Not applicable;Catholic;Not str democrat;$15000 - 19999;Black;Married;8
+3300;2002;33;Other;Protestant;Strong democrat;$25000 or more;Black;Separated;4

@@ -1,0 +1,301 @@
+obs;race;rincome;denom;tvhours;race
+1;White;$8000 to 9999;Southern baptist;12;White
+2;White;$8000 to 9999;Baptist-dk which;Not applicable;White
+3;White;Not applicable;No denomination;2;White
+4;White;Not applicable;Not applicable;4;White
+5;White;Not applicable;Not applicable;1;White
+6;White;$20000 - 24999;Southern baptist;Not applicable;White
+7;White;$25000 or more;No denomination;3;White
+8;White;$7000 to 7999;Lutheran-mo synod;Not applicable;White
+9;White;$25000 or more;Other;0;White
+10;White;$25000 or more;Southern baptist;3;White
+11;White;$25000 or more;Other;2;White
+12;White;$25000 or more;Not applicable;Not applicable;White
+13;White;$25000 or more;Southern baptist;1;White
+14;White;$25000 or more;United methodist;Not applicable;White
+15;White;$25000 or more;Not applicable;1;White
+16;Black;$25000 or more;Baptist-dk which;7;Black
+17;White;Not applicable;Not applicable;Not applicable;White
+18;White;$25000 or more;Not applicable;3;White
+19;White;$10000 - 14999;Not applicable;3;White
+20;Black;Not applicable;United methodist;Not applicable;Black
+21;White;$25000 or more;Not applicable;1;White
+22;White;Refused;United methodist;2;White
+23;White;Not applicable;Not applicable;2;White
+24;White;$25000 or more;No denomination;1;White
+25;White;Not applicable;Other;3;White
+26;White;Not applicable;Episcopal;Not applicable;White
+27;White;Not applicable;Other lutheran;4;White
+28;White;Not applicable;Afr meth ep zion;No answer;White
+29;White;Not applicable;Southern baptist;7;White
+30;White;Not applicable;Am bapt ch in usa;Not applicable;White
+31;White;Not applicable;Other methodist;3;White
+32;White;Refused;Not applicable;Not applicable;White
+33;Black;Not applicable;Other;1;Black
+34;White;$25000 or more;Not applicable;Not applicable;White
+35;White;$10000 - 14999;Other;Not applicable;White
+36;Other;$20000 - 24999;No denomination;Not applicable;Other
+37;White;$25000 or more;Not applicable;1;White
+38;White;$20000 - 24999;Not applicable;4;White
+39;White;$25000 or more;Not applicable;2;White
+40;White;Refused;Southern baptist;1;White
+41;White;$20000 - 24999;Not applicable;2;White
+42;White;$25000 or more;Not applicable;Not applicable;White
+43;Black;$15000 - 19999;Not applicable;Not applicable;Black
+44;White;Not applicable;Not applicable;1;White
+45;White;$25000 or more;Not applicable;1;White
+46;White;$10000 - 14999;Not applicable;Not applicable;White
+47;White;$25000 or more;Southern baptist;1;White
+48;White;$3000 to 3999;Presbyterian c in us;4;White
+49;White;$25000 or more;Episcopal;5;White
+50;White;$25000 or more;Southern baptist;3;White
+51;White;$15000 - 19999;Methodist-dk which;2;White
+52;White;$5000 to 5999;Other;Not applicable;White
+53;White;$25000 or more;Other;Not applicable;White
+54;White;Not applicable;No denomination;3;White
+55;Other;$10000 - 14999;Not applicable;2;Other
+56;Black;Don't know;Not applicable;Not applicable;Black
+57;White;$20000 - 24999;Baptist-dk which;2;White
+58;White;$25000 or more;Southern baptist;2;White
+59;White;$1000 to 2999;Other;0;White
+60;White;Don't know;Presbyterian c in us;Not applicable;White
+61;White;$10000 - 14999;United methodist;2;White
+62;Other;$25000 or more;No denomination;Not applicable;Other
+63;Black;$25000 or more;Am bapt ch in usa;4;Black
+64;White;Not applicable;Southern baptist;4;White
+65;White;$10000 - 14999;Not applicable;Not applicable;White
+66;Black;Not applicable;Not applicable;3;Black
+67;White;$25000 or more;Not applicable;Not applicable;White
+68;White;Not applicable;No denomination;2;White
+69;Black;$15000 - 19999;Nat bapt conv usa;Not applicable;Black
+70;White;Not applicable;Am lutheran;2;White
+71;Black;Not applicable;United methodist;12;Black
+72;Black;Not applicable;Not applicable;4;Black
+73;Black;Not applicable;Baptist-dk which;8;Black
+74;Black;Not applicable;Nat bapt conv of am;Not applicable;Black
+75;Black;Not applicable;Nat bapt conv of am;4;Black
+76;Black;$10000 - 14999;Nat bapt conv usa;5;Black
+77;Black;Not applicable;Southern baptist;Not applicable;Black
+78;Black;Not applicable;Nat bapt conv of am;5;Black
+79;Black;$25000 or more;Not applicable;2;Black
+80;Black;$25000 or more;Baptist-dk which;4;Black
+81;Black;$25000 or more;Southern baptist;1;Black
+82;White;$3000 to 3999;Lutheran-mo synod;Not applicable;White
+83;Black;Not applicable;Not applicable;2;Black
+84;Black;Refused;Other;3;Black
+85;Black;$3000 to 3999;Baptist-dk which;Not applicable;Black
+86;White;Not applicable;Am baptist asso;7;White
+87;Black;$20000 - 24999;Southern baptist;3;Black
+88;Black;$25000 or more;Baptist-dk which;1;Black
+89;White;$10000 - 14999;Not applicable;2;White
+90;White;Not applicable;Not applicable;8;White
+91;White;Refused;Not applicable;Not applicable;White
+92;White;$25000 or more;Not applicable;1;White
+93;White;$25000 or more;Not applicable;2;White
+94;White;$15000 - 19999;Not applicable;3;White
+95;White;$20000 - 24999;Not applicable;Not applicable;White
+96;White;$25000 or more;Not applicable;0;White
+97;White;Refused;Not applicable;4;White
+98;White;Lt $1000;Not applicable;Not applicable;White
+99;White;Not applicable;Not applicable;Not applicable;White
+100;White;Refused;Not applicable;0;White
+101;White;Refused;Evangelical luth;2;White
+102;White;$25000 or more;Not applicable;Not applicable;White
+103;White;Not applicable;Not applicable;2;White
+104;Other;$25000 or more;Not applicable;Not applicable;Other
+105;White;Not applicable;United methodist;Not applicable;White
+106;White;Not applicable;Not applicable;No answer;White
+107;White;Refused;Not applicable;3;White
+108;White;$25000 or more;Not applicable;1;White
+109;White;$25000 or more;Not applicable;4;White
+110;Other;$10000 - 14999;Presbyterian c in us;3;Other
+111;White;$20000 - 24999;Not applicable;Not applicable;White
+112;Black;Refused;Not applicable;2;Black
+113;Other;Refused;Not applicable;1;Other
+114;Other;$25000 or more;Not applicable;1;Other
+115;Black;$25000 or more;Not applicable;2;Black
+116;Black;$25000 or more;Episcopal;Not applicable;Black
+117;White;$25000 or more;Not applicable;3;White
+118;White;Not applicable;Not applicable;3;White
+119;White;$10000 - 14999;Not applicable;5;White
+120;White;Not applicable;Episcopal;Not applicable;White
+121;White;Not applicable;Not applicable;1;White
+122;White;Not applicable;Not applicable;Not applicable;White
+123;White;Not applicable;Not applicable;Don't know;White
+124;White;No answer;No denomination;Not applicable;White
+125;White;Not applicable;Not applicable;4;White
+126;White;$20000 - 24999;Not applicable;3;White
+127;White;Refused;Other;2;White
+128;White;Refused;Not applicable;8;White
+129;Black;Not applicable;Methodist-dk which;12;Black
+130;Black;Not applicable;Afr meth episcopal;Not applicable;Black
+131;White;$3000 to 3999;Lutheran-dk which;Not applicable;White
+132;White;$10000 - 14999;No denomination;Not applicable;White
+133;White;$8000 to 9999;Not applicable;1;White
+134;Black;$10000 - 14999;Not applicable;2;Black
+135;Black;$8000 to 9999;Baptist-dk which;Not applicable;Black
+136;White;$20000 - 24999;No denomination;1;White
+137;Black;Not applicable;Baptist-dk which;4;Black
+138;White;Not applicable;Not applicable;3;White
+139;Black;Not applicable;Not applicable;0;Black
+140;Black;Not applicable;Not applicable;Not applicable;Black
+141;White;Not applicable;Am bapt ch in usa;12;White
+142;Black;Not applicable;Baptist-dk which;5;Black
+143;Black;Don't know;Baptist-dk which;10;Black
+144;White;Not applicable;Not applicable;Not applicable;White
+145;White;Not applicable;United methodist;0;White
+146;Black;$15000 - 19999;Not applicable;Not applicable;Black
+147;Black;$1000 to 2999;Other methodist;Not applicable;Black
+148;Black;$8000 to 9999;Not applicable;2;Black
+149;Black;$25000 or more;Baptist-dk which;Not applicable;Black
+150;Black;Not applicable;Other methodist;3;Black
+151;Other;$25000 or more;Not applicable;1;Other
+152;Other;Not applicable;Not applicable;5;Other
+153;White;Refused;Not applicable;1;White
+154;White;$20000 - 24999;Am baptist asso;Not applicable;White
+155;Black;$25000 or more;Baptist-dk which;3;Black
+156;White;$20000 - 24999;Not applicable;4;White
+157;White;Not applicable;Not applicable;Not applicable;White
+158;White;$25000 or more;Not applicable;Not applicable;White
+159;White;$25000 or more;Am bapt ch in usa;2;White
+160;White;$25000 or more;Not applicable;1;White
+161;Black;Not applicable;Baptist-dk which;6;Black
+162;White;$15000 - 19999;Other;Not applicable;White
+163;White;$10000 - 14999;No denomination;Not applicable;White
+164;White;$25000 or more;Not applicable;Not applicable;White
+165;White;No answer;Not applicable;2;White
+166;White;$25000 or more;No denomination;4;White
+167;White;$1000 to 2999;Not applicable;Not applicable;White
+168;White;Not applicable;Not applicable;Not applicable;White
+169;White;$25000 or more;Other lutheran;2;White
+170;White;Refused;Not applicable;1;White
+171;White;$25000 or more;Not applicable;2;White
+172;White;$20000 - 24999;Luth ch in america;2;White
+173;White;$25000 or more;Evangelical luth;5;White
+174;White;Not applicable;Luth ch in america;15;White
+175;White;$25000 or more;Luth ch in america;Not applicable;White
+176;White;Not applicable;Not applicable;1;White
+177;White;$25000 or more;Not applicable;Not applicable;White
+178;White;Not applicable;Presbyterian, merged;2;White
+179;White;Refused;Not applicable;2;White
+180;White;Refused;Not applicable;Not applicable;White
+181;Other;Refused;Not applicable;0;Other
+182;White;Not applicable;Evangelical luth;2;White
+183;Black;$25000 or more;Not applicable;1;Black
+184;White;No answer;No answer;2;White
+185;White;$25000 or more;Not applicable;2;White
+186;White;$25000 or more;Not applicable;2;White
+187;White;$25000 or more;Episcopal;Not applicable;White
+188;Black;Not applicable;Baptist-dk which;No answer;Black
+189;White;Lt $1000;Not applicable;No answer;White
+190;White;$25000 or more;Episcopal;1;White
+191;White;$25000 or more;Not applicable;Not applicable;White
+192;White;$8000 to 9999;Not applicable;1;White
+193;White;$25000 or more;Not applicable;Not applicable;White
+194;White;$25000 or more;Evangelical luth;1;White
+195;Black;$25000 or more;Not applicable;3;Black
+196;White;Refused;Not applicable;1;White
+197;Black;Not applicable;Am baptist asso;Not applicable;Black
+198;Other;Not applicable;Other;4;Other
+199;Black;Not applicable;Am baptist asso;8;Black
+200;Black;Not applicable;Not applicable;6;Black
+201;Black;$10000 - 14999;Am baptist asso;4;Black
+202;Black;$3000 to 3999;Not applicable;2;Black
+203;Black;Not applicable;Am baptist asso;10;Black
+204;White;$10000 - 14999;Not applicable;Not applicable;White
+205;White;$3000 to 3999;Am baptist asso;2;White
+206;White;$25000 or more;Not applicable;1;White
+207;White;$25000 or more;Not applicable;Not applicable;White
+208;White;$8000 to 9999;Not applicable;2;White
+209;White;$25000 or more;Other;3;White
+210;White;$10000 - 14999;Episcopal;1;White
+211;White;$25000 or more;No denomination;Not applicable;White
+212;White;Not applicable;Other;5;White
+213;White;$25000 or more;Not applicable;5;White
+214;White;Not applicable;No denomination;11;White
+215;White;$1000 to 2999;Not applicable;Not applicable;White
+216;White;$8000 to 9999;Not applicable;Not applicable;White
+217;White;$25000 or more;Not applicable;5;White
+218;White;Lt $1000;Not applicable;2;White
+219;Other;$25000 or more;Not applicable;2;Other
+220;White;$25000 or more;Wi evan luth synod;1;White
+221;White;$25000 or more;Not applicable;Not applicable;White
+222;White;$20000 - 24999;Not applicable;3;White
+223;White;$25000 or more;Not applicable;Not applicable;White
+224;White;$15000 - 19999;Not applicable;2;White
+225;White;$25000 or more;Not applicable;Not applicable;White
+226;White;Refused;Not applicable;2;White
+227;White;$25000 or more;No denomination;0;White
+228;White;$8000 to 9999;Not applicable;Not applicable;White
+229;White;$25000 or more;Other;Not applicable;White
+230;Other;$25000 or more;Not applicable;Not applicable;Other
+231;White;Not applicable;Not applicable;6;White
+232;White;$25000 or more;Not applicable;4;White
+233;White;Not applicable;Luth ch in america;4;White
+234;White;$25000 or more;United methodist;5;White
+235;White;$3000 to 3999;Not applicable;Not applicable;White
+236;White;Not applicable;No denomination;8;White
+237;Other;$25000 or more;No denomination;1;Other
+238;White;$25000 or more;Not applicable;1;White
+239;White;$25000 or more;Not applicable;2;White
+240;White;Not applicable;Other;2;White
+241;White;Not applicable;No denomination;Not applicable;White
+242;White;Not applicable;Episcopal;1;White
+243;White;Not applicable;Not applicable;1;White
+244;Other;Not applicable;Other;4;Other
+245;White;$25000 or more;Not applicable;Not applicable;White
+246;Other;$3000 to 3999;Not applicable;Not applicable;Other
+247;White;$25000 or more;Southern baptist;4;White
+248;Other;$6000 to 6999;Not applicable;11;Other
+249;Other;$15000 - 19999;Not applicable;1;Other
+250;White;$6000 to 6999;Not applicable;0;White
+251;White;Not applicable;Not applicable;4;White
+252;White;$25000 or more;Not applicable;Not applicable;White
+253;White;Not applicable;Other baptists;3;White
+254;White;Not applicable;Am lutheran;3;White
+255;White;$25000 or more;Not applicable;4;White
+256;White;$4000 to 4999;Not applicable;Not applicable;White
+257;White;Not applicable;Not applicable;2;White
+258;White;Not applicable;Methodist-dk which;1;White
+259;White;$10000 - 14999;Am baptist asso;1;White
+260;White;$25000 or more;Not applicable;Not applicable;White
+261;White;$25000 or more;Methodist-dk which;1;White
+262;White;$25000 or more;Baptist-dk which;Not applicable;White
+263;White;Not applicable;Methodist-dk which;3;White
+264;White;$25000 or more;Not applicable;Not applicable;White
+265;White;Not applicable;Not applicable;8;White
+266;White;Refused;Not applicable;Not applicable;White
+267;White;$25000 or more;Not applicable;3;White
+268;White;No answer;Not applicable;Not applicable;White
+269;White;Not applicable;Not applicable;1;White
+270;Black;Not applicable;No denomination;6;Black
+271;Black;$25000 or more;Am baptist asso;4;Black
+272;White;$25000 or more;United methodist;2;White
+273;Other;$10000 - 14999;Not applicable;2;Other
+274;White;$25000 or more;Not applicable;2;White
+275;Black;$15000 - 19999;Not applicable;5;Black
+276;Black;Don't know;Baptist-dk which;4;Black
+277;Black;Not applicable;Am bapt ch in usa;Not applicable;Black
+278;Black;Not applicable;Other;3;Black
+279;Black;Not applicable;Baptist-dk which;6;Black
+280;Black;Not applicable;Afr meth episcopal;Not applicable;Black
+281;Black;Not applicable;Afr meth episcopal;6;Black
+282;Black;$5000 to 5999;Am bapt ch in usa;1;Black
+283;Black;Refused;No denomination;1;Black
+284;Black;$10000 - 14999;Not applicable;4;Black
+285;Black;Not applicable;Not applicable;Not applicable;Black
+286;Black;$15000 - 19999;Southern baptist;Not applicable;Black
+287;Black;Refused;Baptist-dk which;6;Black
+288;Black;Refused;Southern baptist;Not applicable;Black
+289;Black;$7000 to 7999;Baptist-dk which;Not applicable;Black
+290;Black;$8000 to 9999;Southern baptist;6;Black
+291;Black;Lt $1000;Am lutheran;10;Black
+292;Black;$25000 or more;Baptist-dk which;1;Black
+293;Black;Refused;Not applicable;3;Black
+294;Black;$15000 - 19999;Am bapt ch in usa;8;Black
+295;White;Not applicable;Am lutheran;Not applicable;White
+296;White;$25000 or more;No denomination;Not applicable;White
+297;Black;Not applicable;Not applicable;2;Black
+298;Black;$15000 - 19999;Am baptist asso;Not applicable;Black
+299;Black;$10000 - 14999;Not applicable;0;Black
+300;Black;$15000 - 19999;Southern baptist;5;Black

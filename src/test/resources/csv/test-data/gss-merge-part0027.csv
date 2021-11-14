@@ -1,0 +1,301 @@
+obs;race;relig;race;partyid;tvhours
+7801;White;Protestant;White;Not str republican;2
+7802;White;Protestant;White;Not str democrat;Not applicable
+7803;White;None;White;Independent;3
+7804;White;Protestant;White;Independent;2
+7805;White;Protestant;White;Strong democrat;Not applicable
+7806;White;None;White;Independent;Not applicable
+7807;White;Protestant;White;Not str republican;2
+7808;White;Protestant;White;Independent;Not applicable
+7809;White;Protestant;White;Independent;Not applicable
+7810;White;Protestant;White;Strong republican;Not applicable
+7811;White;Protestant;White;Independent;2
+7812;White;Protestant;White;Strong democrat;Not applicable
+7813;White;None;White;Strong democrat;Not applicable
+7814;White;None;White;Independent;1
+7815;White;Protestant;White;Ind,near rep;Not applicable
+7816;White;Protestant;White;Independent;2
+7817;White;Protestant;White;Strong democrat;2
+7818;White;Protestant;White;Other party;Not applicable
+7819;White;Protestant;White;Independent;Not applicable
+7820;White;Protestant;White;Strong republican;Not applicable
+7821;White;Inter-nondenominational;White;Not str democrat;Not applicable
+7822;White;Protestant;White;Ind,near rep;Not applicable
+7823;White;Protestant;White;Ind,near rep;Not applicable
+7824;White;Protestant;White;Independent;Not applicable
+7825;White;Catholic;White;Independent;2
+7826;White;Protestant;White;Not str republican;1
+7827;White;Protestant;White;Strong republican;Not applicable
+7828;White;Catholic;White;Independent;0
+7829;White;Protestant;White;Independent;Not applicable
+7830;White;Protestant;White;Strong republican;0
+7831;White;Protestant;White;Ind,near dem;1
+7832;White;Protestant;White;Independent;Not applicable
+7833;White;Catholic;White;Not str republican;Not applicable
+7834;White;Protestant;White;Not str republican;Not applicable
+7835;White;Catholic;White;Independent;2
+7836;White;Protestant;White;Not str republican;2
+7837;White;Catholic;White;Not str republican;4
+7838;White;Protestant;White;Strong republican;Not applicable
+7839;White;Catholic;White;Not str republican;Not applicable
+7840;White;Catholic;White;Strong democrat;2
+7841;White;Orthodox-christian;White;Not str republican;Not applicable
+7842;White;Catholic;White;Strong republican;Not applicable
+7843;White;Protestant;White;Strong democrat;Not applicable
+7844;White;Protestant;White;Not str republican;4
+7845;White;None;White;Strong democrat;Not applicable
+7846;White;Catholic;White;Not str democrat;Not applicable
+7847;White;Protestant;White;Not str democrat;Not applicable
+7848;White;Protestant;White;Strong republican;3
+7849;White;Other eastern;White;Independent;Not applicable
+7850;White;Protestant;White;Independent;Not applicable
+7851;White;Protestant;White;Ind,near rep;Not applicable
+7852;White;Protestant;White;Strong democrat;1
+7853;White;Protestant;White;Strong republican;Not applicable
+7854;White;Protestant;White;Strong republican;Not applicable
+7855;White;Protestant;White;Strong republican;Not applicable
+7856;White;Protestant;White;Not str democrat;1
+7857;White;Protestant;White;Ind,near rep;Not applicable
+7858;White;Protestant;White;Strong republican;Not applicable
+7859;White;Protestant;White;Independent;Not applicable
+7860;White;Protestant;White;Independent;Not applicable
+7861;White;Protestant;White;Independent;Not applicable
+7862;White;Protestant;White;Not str republican;20
+7863;White;Protestant;White;Not str republican;10
+7864;White;Protestant;White;Not str republican;1
+7865;White;Protestant;White;Strong republican;Not applicable
+7866;White;Protestant;White;Ind,near dem;Not applicable
+7867;White;Protestant;White;Strong republican;Not applicable
+7868;White;Protestant;White;Strong republican;Not applicable
+7869;White;Protestant;White;Independent;8
+7870;White;Protestant;White;Strong republican;4
+7871;White;Christian;White;Not str republican;Not applicable
+7872;Black;Protestant;Black;Strong democrat;Not applicable
+7873;White;None;White;Ind,near dem;Not applicable
+7874;White;Protestant;White;Not str republican;Not applicable
+7875;Black;Catholic;Black;Ind,near rep;1
+7876;White;Protestant;White;Not str democrat;6
+7877;White;Protestant;White;Not str republican;Not applicable
+7878;White;Protestant;White;Ind,near dem;Not applicable
+7879;White;Protestant;White;Not str democrat;Not applicable
+7880;White;Protestant;White;Independent;Not applicable
+7881;White;Protestant;White;Strong republican;Not applicable
+7882;White;Protestant;White;Strong republican;Not applicable
+7883;White;Protestant;White;Strong republican;2
+7884;White;Protestant;White;Not str democrat;Not applicable
+7885;White;Protestant;White;Strong republican;Not applicable
+7886;White;Protestant;White;Strong republican;9
+7887;White;Protestant;White;Not str democrat;Not applicable
+7888;White;Protestant;White;Ind,near rep;Not applicable
+7889;White;Protestant;White;Not str democrat;2
+7890;White;Protestant;White;Not str republican;4
+7891;White;Protestant;White;Strong republican;4
+7892;White;Protestant;White;Strong democrat;Not applicable
+7893;White;None;White;Not str republican;Not applicable
+7894;White;Protestant;White;Independent;Not applicable
+7895;White;Protestant;White;Not str democrat;Not applicable
+7896;White;Protestant;White;Independent;3
+7897;Other;Protestant;Other;Ind,near rep;2
+7898;White;Protestant;White;Not str republican;Not applicable
+7899;White;Protestant;White;Ind,near rep;2
+7900;White;Protestant;White;Not str republican;Not applicable
+7901;White;Protestant;White;Not str republican;Not applicable
+7902;Black;Protestant;Black;Not str democrat;Not applicable
+7903;Black;Protestant;Black;Strong democrat;1
+7904;White;Protestant;White;Not str democrat;Not applicable
+7905;White;Protestant;White;Not str democrat;Not applicable
+7906;White;Protestant;White;Ind,near dem;4
+7907;White;None;White;Ind,near dem;Not applicable
+7908;White;Protestant;White;Independent;Not applicable
+7909;White;Protestant;White;Ind,near rep;Not applicable
+7910;White;Protestant;White;Independent;Not applicable
+7911;White;Protestant;White;Independent;1
+7912;White;Protestant;White;Ind,near rep;1
+7913;White;Protestant;White;Independent;Not applicable
+7914;White;Other;White;Strong democrat;Not applicable
+7915;White;Protestant;White;Strong democrat;2
+7916;White;Protestant;White;Strong republican;Not applicable
+7917;White;Catholic;White;Not str republican;Not applicable
+7918;White;Protestant;White;Independent;0
+7919;White;Protestant;White;Not str republican;Not applicable
+7920;White;Protestant;White;Independent;Not applicable
+7921;White;Protestant;White;Strong republican;Not applicable
+7922;White;Protestant;White;Independent;1
+7923;White;Protestant;White;Independent;Not applicable
+7924;White;Protestant;White;Not str republican;Not applicable
+7925;White;Protestant;White;Strong republican;Not applicable
+7926;White;Protestant;White;Strong democrat;Not applicable
+7927;White;Protestant;White;Independent;Not applicable
+7928;White;Protestant;White;Not str democrat;Not applicable
+7929;White;Protestant;White;Independent;Not applicable
+7930;White;Protestant;White;Strong democrat;Not applicable
+7931;White;Protestant;White;Strong democrat;Not applicable
+7932;White;Protestant;White;Ind,near rep;2
+7933;White;Protestant;White;Strong democrat;8
+7934;White;Protestant;White;Independent;Not applicable
+7935;White;Protestant;White;Independent;1
+7936;Other;Protestant;Other;Ind,near rep;Not applicable
+7937;White;Protestant;White;Not str republican;Not applicable
+7938;White;Christian;White;Independent;Not applicable
+7939;White;Protestant;White;Strong republican;8
+7940;White;Protestant;White;Independent;2
+7941;White;Protestant;White;Not str republican;Not applicable
+7942;White;Protestant;White;Strong republican;Not applicable
+7943;Other;Catholic;Other;Independent;Not applicable
+7944;White;Protestant;White;Ind,near rep;Not applicable
+7945;White;Protestant;White;Independent;Not applicable
+7946;White;Protestant;White;Independent;Not applicable
+7947;White;Catholic;White;Not str republican;Not applicable
+7948;White;Inter-nondenominational;White;Ind,near rep;Not applicable
+7949;White;Protestant;White;Not str republican;1
+7950;White;Protestant;White;Ind,near dem;1
+7951;White;Protestant;White;Strong republican;Not applicable
+7952;White;None;White;Ind,near rep;Not applicable
+7953;White;Catholic;White;Strong republican;Not applicable
+7954;White;Catholic;White;Not str republican;1
+7955;White;Protestant;White;Strong republican;3
+7956;White;Protestant;White;Independent;Not applicable
+7957;White;Protestant;White;Strong republican;Not applicable
+7958;White;Protestant;White;Strong republican;Not applicable
+7959;White;None;White;Not str republican;Not applicable
+7960;Black;Protestant;Black;Strong democrat;Not applicable
+7961;White;Catholic;White;Ind,near rep;Not applicable
+7962;White;Protestant;White;Ind,near rep;2
+7963;White;Protestant;White;Not str republican;3
+7964;White;Protestant;White;Independent;Not applicable
+7965;Black;Protestant;Black;Strong democrat;Not applicable
+7966;White;Protestant;White;Independent;Not applicable
+7967;White;Protestant;White;Ind,near rep;Not applicable
+7968;White;Protestant;White;Not str democrat;Not applicable
+7969;White;Protestant;White;Independent;2
+7970;White;Protestant;White;Not str democrat;5
+7971;White;Protestant;White;Ind,near rep;4
+7972;White;Protestant;White;Not str republican;2
+7973;White;Protestant;White;Strong democrat;0
+7974;White;Protestant;White;Ind,near rep;Not applicable
+7975;White;Protestant;White;Independent;Not applicable
+7976;White;Protestant;White;Not str democrat;2
+7977;White;Protestant;White;Ind,near rep;Not applicable
+7978;White;Protestant;White;Not str democrat;2
+7979;White;Protestant;White;Ind,near rep;Not applicable
+7980;White;Protestant;White;Ind,near rep;Not applicable
+7981;Black;Protestant;Black;Strong democrat;Not applicable
+7982;Black;Protestant;Black;Not str democrat;Not applicable
+7983;Black;Protestant;Black;Not str democrat;20
+7984;Black;None;Black;Not str democrat;Not applicable
+7985;Black;Protestant;Black;Not str democrat;Not applicable
+7986;Black;Protestant;Black;Strong democrat;Not applicable
+7987;Black;Protestant;Black;Not str democrat;2
+7988;Black;Protestant;Black;Ind,near rep;Not applicable
+7989;White;Protestant;White;Not str republican;Not applicable
+7990;White;Protestant;White;Not str republican;2
+7991;White;Protestant;White;Ind,near rep;Not applicable
+7992;White;Protestant;White;Not str democrat;Not applicable
+7993;White;Protestant;White;Not str republican;2
+7994;White;Protestant;White;Strong republican;Not applicable
+7995;White;Protestant;White;Not str democrat;Not applicable
+7996;White;Protestant;White;Not str democrat;1
+7997;White;Protestant;White;Independent;Not applicable
+7998;White;Protestant;White;Independent;1
+7999;Black;Protestant;Black;Independent;Not applicable
+8000;Black;Protestant;Black;Ind,near dem;Not applicable
+8001;Black;Protestant;Black;Not str democrat;4
+8002;Black;Protestant;Black;Not str democrat;Not applicable
+8003;Black;None;Black;Not str democrat;3
+8004;White;Protestant;White;Not str democrat;Not applicable
+8005;White;Protestant;White;Independent;Not applicable
+8006;White;Protestant;White;Independent;Not applicable
+8007;White;Protestant;White;Independent;2
+8008;White;Protestant;White;Strong republican;2
+8009;White;Protestant;White;Independent;Not applicable
+8010;White;Protestant;White;Not str democrat;Not applicable
+8011;White;Protestant;White;Strong republican;4
+8012;White;Protestant;White;Not str democrat;Not applicable
+8013;Black;Protestant;Black;Not str democrat;Not applicable
+8014;White;Protestant;White;Not str democrat;Not applicable
+8015;Black;Protestant;Black;Not str democrat;Not applicable
+8016;Black;Protestant;Black;Strong democrat;1
+8017;Black;Protestant;Black;Strong democrat;Not applicable
+8018;Black;Protestant;Black;Strong democrat;Not applicable
+8019;Black;Protestant;Black;Strong democrat;Not applicable
+8020;Black;Protestant;Black;Strong democrat;8
+8021;Black;Protestant;Black;Strong democrat;Not applicable
+8022;White;Protestant;White;Strong republican;Not applicable
+8023;Black;Protestant;Black;Not str democrat;Not applicable
+8024;Black;Protestant;Black;Independent;Not applicable
+8025;Black;Protestant;Black;Strong democrat;Not applicable
+8026;White;Protestant;White;Not str republican;Not applicable
+8027;Black;Protestant;Black;Strong democrat;Not applicable
+8028;Black;Protestant;Black;Strong democrat;Not applicable
+8029;White;Protestant;White;Strong republican;Not applicable
+8030;White;Protestant;White;Strong democrat;1
+8031;Black;None;Black;Not str democrat;Not applicable
+8032;White;Protestant;White;Not str democrat;10
+8033;White;Protestant;White;Not str republican;Not applicable
+8034;Black;Protestant;Black;Strong democrat;Not applicable
+8035;White;Jewish;White;Strong democrat;0
+8036;White;Protestant;White;Strong republican;Not applicable
+8037;White;Protestant;White;Not str democrat;Not applicable
+8038;White;None;White;Not str republican;3
+8039;Black;Protestant;Black;Not str democrat;Not applicable
+8040;Black;Protestant;Black;Not str democrat;Not applicable
+8041;Black;Protestant;Black;Strong democrat;Don't know
+8042;Black;None;Black;Independent;Not applicable
+8043;Black;Protestant;Black;Strong democrat;Not applicable
+8044;White;Catholic;White;Not str republican;Not applicable
+8045;White;Catholic;White;Not str republican;Not applicable
+8046;White;Catholic;White;Not str republican;4
+8047;White;None;White;Not str republican;Not applicable
+8048;White;Catholic;White;Ind,near dem;Not applicable
+8049;White;Protestant;White;Strong republican;Not applicable
+8050;White;Catholic;White;Strong republican;2
+8051;White;Catholic;White;Ind,near rep;5
+8052;White;Protestant;White;Independent;Not applicable
+8053;White;Protestant;White;Strong republican;Not applicable
+8054;White;Catholic;White;Independent;Not applicable
+8055;White;Protestant;White;Ind,near rep;1
+8056;White;Protestant;White;Strong republican;3
+8057;Other;Catholic;Other;Independent;Not applicable
+8058;White;Protestant;White;Strong democrat;Not applicable
+8059;Black;Protestant;Black;Not str democrat;Not applicable
+8060;Black;Protestant;Black;Strong democrat;Not applicable
+8061;Black;None;Black;Independent;Not applicable
+8062;White;Protestant;White;Independent;1
+8063;Black;Protestant;Black;Strong democrat;Not applicable
+8064;White;Protestant;White;Strong republican;0
+8065;Black;Protestant;Black;Not str democrat;Not applicable
+8066;White;Protestant;White;Not str republican;3
+8067;White;Protestant;White;Not str democrat;1
+8068;White;Catholic;White;Strong democrat;Not applicable
+8069;White;Protestant;White;Strong republican;Not applicable
+8070;White;Protestant;White;Strong republican;2
+8071;White;Protestant;White;Strong republican;2
+8072;White;Protestant;White;Strong republican;Not applicable
+8073;White;Protestant;White;Strong republican;Not applicable
+8074;White;Protestant;White;Not str democrat;3
+8075;White;Protestant;White;Strong democrat;Not applicable
+8076;Black;Protestant;Black;Strong democrat;5
+8077;Black;Inter-nondenominational;Black;Strong democrat;1
+8078;Black;Protestant;Black;Strong democrat;Not applicable
+8079;White;None;White;Independent;Not applicable
+8080;Black;Inter-nondenominational;Black;Not str democrat;Not applicable
+8081;Black;Protestant;Black;Strong democrat;Not applicable
+8082;Black;Protestant;Black;Not str democrat;Not applicable
+8083;Black;Protestant;Black;Strong democrat;8
+8084;Black;Protestant;Black;Strong democrat;Not applicable
+8085;White;None;White;Not str democrat;Not applicable
+8086;White;Catholic;White;Independent;4
+8087;White;Catholic;White;Not str republican;Not applicable
+8088;White;Protestant;White;Strong democrat;Not applicable
+8089;Other;Protestant;Other;Not str democrat;4
+8090;White;Catholic;White;Ind,near dem;Not applicable
+8091;White;Catholic;White;Ind,near rep;Not applicable
+8092;White;Protestant;White;Strong democrat;Not applicable
+8093;White;Protestant;White;Ind,near rep;Not applicable
+8094;White;Protestant;White;Not str democrat;Not applicable
+8095;White;Protestant;White;Not str democrat;5
+8096;White;Protestant;White;Strong democrat;0
+8097;White;Protestant;White;Not str democrat;Not applicable
+8098;White;Catholic;White;Not str republican;2
+8099;White;Protestant;White;Not str democrat;Not applicable
+8100;White;Protestant;White;Not str democrat;0

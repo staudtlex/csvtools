@@ -1,0 +1,301 @@
+obs;age;rincome;race;year;rincome
+1801;43;$25000 or more;Other;2000;$25000 or more
+1802;49;$25000 or more;White;2000;$25000 or more
+1803;35;$25000 or more;White;2000;$25000 or more
+1804;60;Not applicable;White;2000;Not applicable
+1805;73;Not applicable;White;2000;Not applicable
+1806;85;Not applicable;White;2000;Not applicable
+1807;34;Not applicable;White;2000;Not applicable
+1808;47;$25000 or more;White;2000;$25000 or more
+1809;47;Refused;White;2000;Refused
+1810;43;$25000 or more;Other;2000;$25000 or more
+1811;25;$15000 - 19999;White;2000;$15000 - 19999
+1812;32;Not applicable;Black;2000;Not applicable
+1813;49;Refused;White;2000;Refused
+1814;43;$25000 or more;Black;2000;$25000 or more
+1815;77;Not applicable;White;2000;Not applicable
+1816;47;$25000 or more;White;2000;$25000 or more
+1817;52;$25000 or more;White;2000;$25000 or more
+1818;30;$25000 or more;Black;2000;$25000 or more
+1819;45;$25000 or more;White;2000;$25000 or more
+1820;81;Not applicable;White;2000;Not applicable
+1821;32;$3000 to 3999;White;2000;$3000 to 3999
+1822;65;$10000 - 14999;White;2000;$10000 - 14999
+1823;82;Not applicable;White;2000;Not applicable
+1824;71;Not applicable;White;2000;Not applicable
+1825;36;Not applicable;White;2000;Not applicable
+1826;23;Don't know;White;2000;Don't know
+1827;36;$25000 or more;White;2000;$25000 or more
+1828;43;$15000 - 19999;White;2000;$15000 - 19999
+1829;33;$10000 - 14999;White;2000;$10000 - 14999
+1830;41;Not applicable;White;2000;Not applicable
+1831;28;$20000 - 24999;Black;2000;$20000 - 24999
+1832;33;Not applicable;White;2000;Not applicable
+1833;69;Not applicable;White;2000;Not applicable
+1834;44;Refused;White;2000;Refused
+1835;53;Not applicable;White;2000;Not applicable
+1836;48;Refused;White;2000;Refused
+1837;61;Not applicable;Black;2000;Not applicable
+1838;66;Not applicable;Black;2000;Not applicable
+1839;50;$15000 - 19999;Other;2000;$15000 - 19999
+1840;54;$15000 - 19999;Black;2000;$15000 - 19999
+1841;34;Refused;Black;2000;Refused
+1842;85;Not applicable;Black;2000;Not applicable
+1843;45;$15000 - 19999;Black;2000;$15000 - 19999
+1844;32;Not applicable;Black;2000;Not applicable
+1845;54;Not applicable;Black;2000;Not applicable
+1846;46;Not applicable;Black;2000;Not applicable
+1847;37;Not applicable;Black;2000;Not applicable
+1848;41;Refused;Black;2000;Refused
+1849;56;$10000 - 14999;Black;2000;$10000 - 14999
+1850;68;Not applicable;Black;2000;Not applicable
+1851;40;$25000 or more;White;2000;$25000 or more
+1852;41;$25000 or more;White;2000;$25000 or more
+1853;30;$25000 or more;Other;2000;$25000 or more
+1854;37;Not applicable;White;2000;Not applicable
+1855;33;$25000 or more;White;2000;$25000 or more
+1856;33;$8000 to 9999;Black;2000;$8000 to 9999
+1857;54;$25000 or more;Black;2000;$25000 or more
+1858;35;$25000 or more;White;2000;$25000 or more
+1859;27;$25000 or more;White;2000;$25000 or more
+1860;66;Not applicable;White;2000;Not applicable
+1861;72;Not applicable;White;2000;Not applicable
+1862;44;$25000 or more;White;2000;$25000 or more
+1863;51;$25000 or more;White;2000;$25000 or more
+1864;78;Not applicable;White;2000;Not applicable
+1865;38;$25000 or more;White;2000;$25000 or more
+1866;66;Not applicable;White;2000;Not applicable
+1867;22;$15000 - 19999;White;2000;$15000 - 19999
+1868;43;$10000 - 14999;White;2000;$10000 - 14999
+1869;28;$10000 - 14999;Black;2000;$10000 - 14999
+1870;32;Refused;White;2000;Refused
+1871;34;$7000 to 7999;White;2000;$7000 to 7999
+1872;29;$20000 - 24999;White;2000;$20000 - 24999
+1873;24;$10000 - 14999;White;2000;$10000 - 14999
+1874;35;$25000 or more;White;2000;$25000 or more
+1875;43;$25000 or more;White;2000;$25000 or more
+1876;43;$25000 or more;White;2000;$25000 or more
+1877;34;$25000 or more;White;2000;$25000 or more
+1878;32;$20000 - 24999;White;2000;$20000 - 24999
+1879;41;$25000 or more;White;2000;$25000 or more
+1880;51;Not applicable;Black;2000;Not applicable
+1881;36;$15000 - 19999;White;2000;$15000 - 19999
+1882;32;$25000 or more;White;2000;$25000 or more
+1883;53;$15000 - 19999;White;2000;$15000 - 19999
+1884;67;Not applicable;White;2000;Not applicable
+1885;67;$7000 to 7999;White;2000;$7000 to 7999
+1886;43;$25000 or more;White;2000;$25000 or more
+1887;19;Not applicable;White;2000;Not applicable
+1888;29;$25000 or more;White;2000;$25000 or more
+1889;48;$25000 or more;White;2000;$25000 or more
+1890;36;$25000 or more;White;2000;$25000 or more
+1891;46;$20000 - 24999;White;2000;$20000 - 24999
+1892;24;$20000 - 24999;Other;2000;$20000 - 24999
+1893;22;$25000 or more;Other;2000;$25000 or more
+1894;21;$15000 - 19999;White;2000;$15000 - 19999
+1895;26;$25000 or more;White;2000;$25000 or more
+1896;26;Not applicable;White;2000;Not applicable
+1897;23;$25000 or more;White;2000;$25000 or more
+1898;20;Not applicable;White;2000;Not applicable
+1899;29;$25000 or more;White;2000;$25000 or more
+1900;27;$25000 or more;White;2000;$25000 or more
+1901;33;Not applicable;Other;2000;Not applicable
+1902;32;$25000 or more;Black;2000;$25000 or more
+1903;43;$25000 or more;White;2000;$25000 or more
+1904;39;$25000 or more;White;2000;$25000 or more
+1905;39;$25000 or more;White;2000;$25000 or more
+1906;20;Not applicable;White;2000;Not applicable
+1907;22;$4000 to 4999;White;2000;$4000 to 4999
+1908;20;$4000 to 4999;Other;2000;$4000 to 4999
+1909;40;$25000 or more;White;2000;$25000 or more
+1910;30;$25000 or more;White;2000;$25000 or more
+1911;20;Not applicable;White;2000;Not applicable
+1912;20;$1000 to 2999;White;2000;$1000 to 2999
+1913;19;$1000 to 2999;White;2000;$1000 to 2999
+1914;19;Not applicable;White;2000;Not applicable
+1915;43;$7000 to 7999;White;2000;$7000 to 7999
+1916;42;$20000 - 24999;White;2000;$20000 - 24999
+1917;24;$5000 to 5999;White;2000;$5000 to 5999
+1918;58;$25000 or more;White;2000;$25000 or more
+1919;50;$25000 or more;White;2000;$25000 or more
+1920;49;$25000 or more;White;2000;$25000 or more
+1921;45;$25000 or more;White;2000;$25000 or more
+1922;69;$15000 - 19999;White;2000;$15000 - 19999
+1923;48;$25000 or more;White;2000;$25000 or more
+1924;30;$25000 or more;White;2000;$25000 or more
+1925;28;$7000 to 7999;White;2000;$7000 to 7999
+1926;32;$15000 - 19999;White;2000;$15000 - 19999
+1927;24;$25000 or more;White;2000;$25000 or more
+1928;43;$25000 or more;White;2000;$25000 or more
+1929;46;$15000 - 19999;Black;2000;$15000 - 19999
+1930;80;Not applicable;Other;2000;Not applicable
+1931;23;$1000 to 2999;Black;2000;$1000 to 2999
+1932;26;Not applicable;Black;2000;Not applicable
+1933;40;Not applicable;Black;2000;Not applicable
+1934;25;$20000 - 24999;Black;2000;$20000 - 24999
+1935;30;$10000 - 14999;Black;2000;$10000 - 14999
+1936;69;$20000 - 24999;Other;2000;$20000 - 24999
+1937;49;Refused;Black;2000;Refused
+1938;48;$10000 - 14999;Black;2000;$10000 - 14999
+1939;67;Not applicable;Black;2000;Not applicable
+1940;43;Not applicable;Black;2000;Not applicable
+1941;45;$10000 - 14999;Black;2000;$10000 - 14999
+1942;41;$25000 or more;White;2000;$25000 or more
+1943;77;Not applicable;White;2000;Not applicable
+1944;70;Not applicable;White;2000;Not applicable
+1945;66;$25000 or more;White;2000;$25000 or more
+1946;28;$25000 or more;White;2000;$25000 or more
+1947;36;$25000 or more;Other;2000;$25000 or more
+1948;51;$15000 - 19999;White;2000;$15000 - 19999
+1949;70;Not applicable;White;2000;Not applicable
+1950;71;$15000 - 19999;White;2000;$15000 - 19999
+1951;34;$10000 - 14999;White;2000;$10000 - 14999
+1952;57;$10000 - 14999;White;2000;$10000 - 14999
+1953;53;Refused;White;2000;Refused
+1954;46;$25000 or more;White;2000;$25000 or more
+1955;53;$25000 or more;White;2000;$25000 or more
+1956;57;$25000 or more;White;2000;$25000 or more
+1957;45;$25000 or more;White;2000;$25000 or more
+1958;34;$25000 or more;White;2000;$25000 or more
+1959;30;$10000 - 14999;White;2000;$10000 - 14999
+1960;26;$25000 or more;White;2000;$25000 or more
+1961;23;$20000 - 24999;Other;2000;$20000 - 24999
+1962;50;Refused;White;2000;Refused
+1963;32;$25000 or more;White;2000;$25000 or more
+1964;55;Not applicable;White;2000;Not applicable
+1965;45;Refused;White;2000;Refused
+1966;44;$25000 or more;White;2000;$25000 or more
+1967;42;$25000 or more;Black;2000;$25000 or more
+1968;29;$25000 or more;White;2000;$25000 or more
+1969;53;$15000 - 19999;Other;2000;$15000 - 19999
+1970;38;Refused;White;2000;Refused
+1971;37;$15000 - 19999;Other;2000;$15000 - 19999
+1972;44;$1000 to 2999;White;2000;$1000 to 2999
+1973;58;$15000 - 19999;White;2000;$15000 - 19999
+1974;49;$25000 or more;White;2000;$25000 or more
+1975;38;$10000 - 14999;White;2000;$10000 - 14999
+1976;66;Not applicable;White;2000;Not applicable
+1977;86;Not applicable;White;2000;Not applicable
+1978;53;Not applicable;White;2000;Not applicable
+1979;62;Refused;White;2000;Refused
+1980;31;$3000 to 3999;Black;2000;$3000 to 3999
+1981;27;$15000 - 19999;Black;2000;$15000 - 19999
+1982;50;$10000 - 14999;Black;2000;$10000 - 14999
+1983;30;Refused;Black;2000;Refused
+1984;74;Not applicable;Black;2000;Not applicable
+1985;66;$10000 - 14999;Black;2000;$10000 - 14999
+1986;47;$5000 to 5999;Black;2000;$5000 to 5999
+1987;58;$15000 - 19999;Black;2000;$15000 - 19999
+1988;No answer;$25000 or more;Black;2000;$25000 or more
+1989;27;$15000 - 19999;White;2000;$15000 - 19999
+1990;80;Not applicable;White;2000;Not applicable
+1991;51;$20000 - 24999;Black;2000;$20000 - 24999
+1992;42;$15000 - 19999;Black;2000;$15000 - 19999
+1993;39;$10000 - 14999;Black;2000;$10000 - 14999
+1994;44;$10000 - 14999;Black;2000;$10000 - 14999
+1995;43;$10000 - 14999;Black;2000;$10000 - 14999
+1996;30;$25000 or more;Black;2000;$25000 or more
+1997;37;$25000 or more;Black;2000;$25000 or more
+1998;38;Not applicable;White;2000;Not applicable
+1999;30;$25000 or more;Black;2000;$25000 or more
+2000;43;$25000 or more;White;2000;$25000 or more
+2001;19;$10000 - 14999;White;2000;$10000 - 14999
+2002;49;$25000 or more;White;2000;$25000 or more
+2003;47;$25000 or more;White;2000;$25000 or more
+2004;35;$25000 or more;White;2000;$25000 or more
+2005;64;$15000 - 19999;White;2000;$15000 - 19999
+2006;30;$25000 or more;White;2000;$25000 or more
+2007;63;$8000 to 9999;White;2000;$8000 to 9999
+2008;40;$25000 or more;White;2000;$25000 or more
+2009;63;$25000 or more;White;2000;$25000 or more
+2010;44;$25000 or more;White;2000;$25000 or more
+2011;78;Not applicable;White;2000;Not applicable
+2012;62;Not applicable;Black;2000;Not applicable
+2013;62;$4000 to 4999;White;2000;$4000 to 4999
+2014;64;Not applicable;White;2000;Not applicable
+2015;37;$25000 or more;White;2000;$25000 or more
+2016;30;Not applicable;White;2000;Not applicable
+2017;66;No answer;White;2000;No answer
+2018;78;Not applicable;White;2000;Not applicable
+2019;63;Not applicable;Black;2000;Not applicable
+2020;83;Not applicable;White;2000;Not applicable
+2021;89 or older;Not applicable;Black;2000;Not applicable
+2022;63;Not applicable;Black;2000;Not applicable
+2023;86;Not applicable;White;2000;Not applicable
+2024;73;Not applicable;White;2000;Not applicable
+2025;44;$25000 or more;White;2000;$25000 or more
+2026;86;Not applicable;White;2000;Not applicable
+2027;56;Not applicable;White;2000;Not applicable
+2028;60;$25000 or more;White;2000;$25000 or more
+2029;30;Refused;White;2000;Refused
+2030;71;Don't know;White;2000;Don't know
+2031;61;$25000 or more;White;2000;$25000 or more
+2032;53;$25000 or more;White;2000;$25000 or more
+2033;30;$10000 - 14999;White;2000;$10000 - 14999
+2034;32;$25000 or more;White;2000;$25000 or more
+2035;83;Not applicable;White;2000;Not applicable
+2036;76;Not applicable;White;2000;Not applicable
+2037;39;Refused;White;2000;Refused
+2038;34;$25000 or more;White;2000;$25000 or more
+2039;38;$25000 or more;White;2000;$25000 or more
+2040;75;Not applicable;White;2000;Not applicable
+2041;29;$10000 - 14999;White;2000;$10000 - 14999
+2042;29;$25000 or more;White;2000;$25000 or more
+2043;48;$25000 or more;White;2000;$25000 or more
+2044;83;Not applicable;White;2000;Not applicable
+2045;32;Not applicable;White;2000;Not applicable
+2046;59;Refused;White;2000;Refused
+2047;45;$25000 or more;White;2000;$25000 or more
+2048;27;$25000 or more;White;2000;$25000 or more
+2049;49;$20000 - 24999;White;2000;$20000 - 24999
+2050;46;$10000 - 14999;Black;2000;$10000 - 14999
+2051;33;$25000 or more;White;2000;$25000 or more
+2052;43;Don't know;White;2000;Don't know
+2053;79;Not applicable;White;2000;Not applicable
+2054;25;$15000 - 19999;Other;2000;$15000 - 19999
+2055;89 or older;Not applicable;White;2000;Not applicable
+2056;40;$25000 or more;Black;2000;$25000 or more
+2057;40;$25000 or more;Black;2000;$25000 or more
+2058;44;$25000 or more;Black;2000;$25000 or more
+2059;37;$25000 or more;White;2000;$25000 or more
+2060;48;$10000 - 14999;Black;2000;$10000 - 14999
+2061;61;Refused;Black;2000;Refused
+2062;53;$25000 or more;Black;2000;$25000 or more
+2063;55;$25000 or more;Black;2000;$25000 or more
+2064;39;Not applicable;Black;2000;Not applicable
+2065;60;Not applicable;White;2000;Not applicable
+2066;32;$25000 or more;Other;2000;$25000 or more
+2067;38;$25000 or more;Other;2000;$25000 or more
+2068;35;$25000 or more;White;2000;$25000 or more
+2069;41;Not applicable;Black;2000;Not applicable
+2070;39;$25000 or more;White;2000;$25000 or more
+2071;63;Not applicable;White;2000;Not applicable
+2072;24;$20000 - 24999;Black;2000;$20000 - 24999
+2073;51;$25000 or more;Black;2000;$25000 or more
+2074;36;$25000 or more;White;2000;$25000 or more
+2075;26;Not applicable;Other;2000;Not applicable
+2076;29;$15000 - 19999;White;2000;$15000 - 19999
+2077;24;$25000 or more;White;2000;$25000 or more
+2078;47;$25000 or more;White;2000;$25000 or more
+2079;67;Not applicable;White;2000;Not applicable
+2080;49;Not applicable;White;2000;Not applicable
+2081;41;$25000 or more;White;2000;$25000 or more
+2082;48;$25000 or more;Black;2000;$25000 or more
+2083;29;$25000 or more;White;2000;$25000 or more
+2084;50;$25000 or more;White;2000;$25000 or more
+2085;26;$25000 or more;Other;2000;$25000 or more
+2086;42;$25000 or more;Black;2000;$25000 or more
+2087;85;Not applicable;White;2000;Not applicable
+2088;50;Refused;Black;2000;Refused
+2089;37;Refused;White;2000;Refused
+2090;40;No answer;Black;2000;No answer
+2091;36;$10000 - 14999;Black;2000;$10000 - 14999
+2092;45;$25000 or more;Black;2000;$25000 or more
+2093;53;$3000 to 3999;Black;2000;$3000 to 3999
+2094;89 or older;Not applicable;Black;2000;Not applicable
+2095;74;Not applicable;Black;2000;Not applicable
+2096;43;$8000 to 9999;Black;2000;$8000 to 9999
+2097;84;Not applicable;White;2000;Not applicable
+2098;31;$15000 - 19999;Black;2000;$15000 - 19999
+2099;33;$25000 or more;White;2000;$25000 or more
+2100;47;Not applicable;Black;2000;Not applicable

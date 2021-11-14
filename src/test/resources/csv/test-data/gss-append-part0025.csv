@@ -1,0 +1,301 @@
+obs;year;age;denom;relig;partyid;rincome;race;marital;tvhours
+7201;2004;40;Not applicable;Catholic;Independent;$25000 or more;White;Divorced;1
+7202;2004;59;United methodist;Protestant;Ind,near dem;$25000 or more;White;Never married;Not applicable
+7203;2004;25;Evangelical luth;Protestant;Ind,near dem;$25000 or more;White;Never married;Not applicable
+7204;2004;28;Nat bapt conv of am;Protestant;Not str democrat;Not applicable;Black;Never married;1
+7205;2004;44;United methodist;Protestant;Strong democrat;$25000 or more;White;Never married;Not applicable
+7206;2004;67;Southern baptist;Protestant;Not str republican;Not applicable;White;Widowed;3
+7207;2004;44;Southern baptist;Protestant;Strong democrat;$25000 or more;White;Never married;3
+7208;2004;59;Southern baptist;Protestant;Not str republican;Not applicable;White;Divorced;Not applicable
+7209;2004;62;Other;Protestant;Strong democrat;$7000 to 7999;White;Married;Not applicable
+7210;2004;49;Other;Protestant;Independent;Not applicable;Black;Never married;Not applicable
+7211;2004;27;Presbyterian c in us;Protestant;Ind,near dem;Not applicable;White;Married;Not applicable
+7212;2004;58;Not applicable;Catholic;Strong republican;$25000 or more;White;Married;Not applicable
+7213;2004;83;Southern baptist;Protestant;Strong democrat;Not applicable;White;Never married;Not applicable
+7214;2004;27;Am baptist asso;Protestant;Not str republican;$10000 - 14999;White;Separated;Not applicable
+7215;2004;35;Presbyterian c in us;Protestant;Strong democrat;$20000 - 24999;Black;Separated;Not applicable
+7216;2004;53;Not applicable;Catholic;Strong republican;$25000 or more;Other;Separated;Not applicable
+7217;2004;78;Episcopal;Protestant;Strong democrat;Not applicable;White;Married;Not applicable
+7218;2004;68;Episcopal;Protestant;Strong democrat;Not applicable;White;Never married;3
+7219;2004;58;Episcopal;Protestant;Strong democrat;$10000 - 14999;White;Divorced;Not applicable
+7220;2004;36;Not applicable;None;Strong democrat;$25000 or more;White;Married;Not applicable
+7221;2004;45;Lutheran-dk which;Protestant;Not str democrat;Don't know;White;Married;Not applicable
+7222;2004;43;Am baptist asso;Protestant;Ind,near dem;Not applicable;Black;Married;Not applicable
+7223;2004;42;Not applicable;Other;Other party;Not applicable;White;Never married;Not applicable
+7224;2004;85;United methodist;Protestant;Strong democrat;Not applicable;White;Widowed;3
+7225;2004;81;Episcopal;Protestant;Strong democrat;Not applicable;White;Divorced;1
+7226;2004;51;Not applicable;None;Strong democrat;$25000 or more;White;Married;Not applicable
+7227;2004;40;Not applicable;Catholic;Strong democrat;Not applicable;Other;Separated;Not applicable
+7228;2004;27;Baptist-dk which;Protestant;Strong democrat;$25000 or more;Black;Separated;Not applicable
+7229;2004;39;Other baptists;Protestant;Strong democrat;$25000 or more;Black;Never married;2
+7230;2004;26;No denomination;Protestant;Not str republican;Not applicable;White;Married;1
+7231;2004;28;Southern baptist;Protestant;Not str republican;Not applicable;White;Married;2
+7232;2004;21;Am baptist asso;Protestant;Not str republican;$8000 to 9999;White;Married;Not applicable
+7233;2004;44;Nat bapt conv usa;Protestant;Strong democrat;$25000 or more;Black;Married;Not applicable
+7234;2004;38;Other;Protestant;Not str democrat;Not applicable;Black;Never married;Not applicable
+7235;2004;30;Episcopal;Protestant;Strong democrat;$25000 or more;White;Never married;0
+7236;2004;28;Episcopal;Protestant;Strong democrat;$25000 or more;White;Never married;Not applicable
+7237;2004;76;Not applicable;Catholic;Independent;Not applicable;White;Married;Not applicable
+7238;2004;75;United methodist;Protestant;Strong republican;Not applicable;White;Divorced;Not applicable
+7239;2004;30;Not applicable;Catholic;Independent;$25000 or more;Other;Married;Not applicable
+7240;2004;53;Baptist-dk which;Protestant;Not str democrat;$25000 or more;Black;Married;4
+7241;2004;31;Not applicable;Jewish;Strong democrat;$20000 - 24999;White;Never married;1
+7242;2004;40;United methodist;Protestant;Strong democrat;Not applicable;Black;Married;Not applicable
+7243;2004;48;Episcopal;Protestant;Strong republican;$20000 - 24999;White;Never married;Not applicable
+7244;2004;21;Not applicable;Catholic;Independent;Not applicable;White;Never married;Not applicable
+7245;2004;28;Not applicable;None;Strong democrat;$25000 or more;White;Never married;Not applicable
+7246;2004;28;Baptist-dk which;Protestant;Not str republican;$25000 or more;White;Never married;Not applicable
+7247;2004;56;Episcopal;Protestant;Ind,near dem;$25000 or more;White;Divorced;Not applicable
+7248;2004;51;Episcopal;Protestant;Ind,near rep;$25000 or more;White;Married;Not applicable
+7249;2004;63;Not applicable;Jewish;Strong democrat;$25000 or more;White;Married;Not applicable
+7250;2004;51;Not applicable;None;Not str democrat;$25000 or more;White;Never married;Not applicable
+7251;2004;45;Not applicable;Catholic;Strong democrat;$10000 - 14999;White;Divorced;2
+7252;2004;71;United methodist;Protestant;Other party;$25000 or more;White;Married;Not applicable
+7253;2004;28;Am baptist asso;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+7254;2004;27;Other;Protestant;Ind,near rep;$25000 or more;White;Married;Not applicable
+7255;2004;27;Baptist-dk which;Protestant;Ind,near dem;$25000 or more;White;Never married;Not applicable
+7256;2004;38;Baptist-dk which;Protestant;Not str democrat;$25000 or more;Black;Married;4
+7257;2004;39;No denomination;Christian;Ind,near rep;$25000 or more;Other;Married;Not applicable
+7258;2004;49;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Married;2
+7259;2004;68;United methodist;Protestant;Not str democrat;$25000 or more;Black;Married;1
+7260;2004;61;Southern baptist;Protestant;Not str democrat;$8000 to 9999;White;Married;Not applicable
+7261;2004;49;Not applicable;Catholic;Not str democrat;$25000 or more;White;Divorced;Not applicable
+7262;2004;43;Not applicable;Catholic;Ind,near rep;$25000 or more;White;Married;Not applicable
+7263;2004;31;Other;Protestant;Strong republican;$10000 - 14999;White;Married;2
+7264;2004;50;No denomination;Protestant;Independent;$25000 or more;White;Divorced;Not applicable
+7265;2004;35;Not applicable;Catholic;Not str democrat;Not applicable;White;Separated;Not applicable
+7266;2004;23;Not applicable;Catholic;Strong democrat;Not applicable;Other;Never married;Not applicable
+7267;2004;76;Southern baptist;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+7268;2004;49;Not applicable;Catholic;Strong republican;Not applicable;White;Divorced;Not applicable
+7269;2004;31;Other;Protestant;Strong republican;$25000 or more;White;Separated;Not applicable
+7270;2004;51;Other;Protestant;Strong democrat;$25000 or more;White;Married;Not applicable
+7271;2004;23;Baptist-dk which;Protestant;Not str democrat;No answer;Black;Never married;Not applicable
+7272;2004;19;Other;Protestant;Ind,near dem;Not applicable;Other;Never married;3
+7273;2004;25;Lutheran-dk which;Protestant;Not str democrat;$25000 or more;White;Never married;3
+7274;2004;30;Other;Protestant;Not str democrat;$25000 or more;White;Never married;Not applicable
+7275;2004;29;Other;Protestant;Strong republican;$25000 or more;White;Married;1
+7276;2004;27;Don't know;Christian;Strong democrat;Not applicable;White;Married;Not applicable
+7277;2004;30;Other;Protestant;Ind,near rep;Not applicable;White;Married;Not applicable
+7278;2004;19;Not applicable;Catholic;Not str republican;$7000 to 7999;Other;Never married;2
+7279;2004;36;Not applicable;Catholic;Independent;$25000 or more;Other;Married;2
+7280;2004;55;No denomination;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+7281;2004;53;United methodist;Protestant;Ind,near dem;$25000 or more;White;Married;Not applicable
+7282;2004;40;Lutheran-dk which;Protestant;Ind,near rep;$15000 - 19999;White;Married;Not applicable
+7283;2004;44;Other;Protestant;Not str democrat;Not applicable;Black;Divorced;1
+7284;2004;26;Other;Protestant;Ind,near rep;$1000 to 2999;Black;Never married;3
+7285;2004;49;Not applicable;Other;Other party;$25000 or more;White;Married;Not applicable
+7286;2004;21;Not applicable;Other;Independent;Not applicable;White;Never married;1
+7287;2004;38;Other;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+7288;2004;33;Other;Protestant;Independent;$25000 or more;White;Married;Not applicable
+7289;2004;60;Southern baptist;Protestant;Strong democrat;Not applicable;White;Separated;Not applicable
+7290;2004;33;Southern baptist;Protestant;Not str democrat;Not applicable;White;Married;Not applicable
+7291;2004;49;Other;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7292;2004;50;No denomination;Protestant;Independent;$20000 - 24999;Black;Married;1
+7293;2004;48;Not applicable;None;Not str democrat;$1000 to 2999;Black;Married;Not applicable
+7294;2004;62;Southern baptist;Protestant;Strong democrat;Refused;White;Married;2
+7295;2004;41;Southern baptist;Protestant;Ind,near dem;$25000 or more;White;Married;Not applicable
+7296;2004;22;Don't know;Christian;Independent;Not applicable;Other;Never married;0
+7297;2004;34;Not applicable;Catholic;Ind,near rep;$25000 or more;White;Divorced;Not applicable
+7298;2004;36;Not applicable;None;Strong democrat;$8000 to 9999;White;Never married;Not applicable
+7299;2004;36;Not applicable;Catholic;Independent;$3000 to 3999;White;Separated;Not applicable
+7300;2004;37;No denomination;Protestant;Strong republican;$25000 or more;White;Never married;Not applicable
+7301;2004;47;Not applicable;Catholic;Not str republican;$25000 or more;White;Married;Not applicable
+7302;2004;46;No denomination;Protestant;Strong republican;$20000 - 24999;White;Married;Not applicable
+7303;2004;62;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Married;3
+7304;2004;27;Not applicable;Catholic;Strong democrat;Not applicable;White;Married;Not applicable
+7305;2004;38;Not applicable;Catholic;Independent;$25000 or more;White;Divorced;4
+7306;2004;31;No denomination;Christian;Independent;$15000 - 19999;Other;Separated;4
+7307;2004;27;Not applicable;Catholic;Independent;Not applicable;White;Married;Not applicable
+7308;2004;62;Not applicable;Catholic;Strong democrat;Not applicable;White;Widowed;Not applicable
+7309;2004;59;Other;Protestant;Not str republican;Not applicable;White;Married;3
+7310;2004;61;Other;Protestant;Strong republican;Not applicable;White;Married;1
+7311;2004;66;Not applicable;Catholic;Not str democrat;$25000 or more;White;Married;2
+7312;2004;41;Southern baptist;Protestant;Strong republican;Not applicable;White;Married;3
+7313;2004;52;Not applicable;Catholic;Ind,near dem;$6000 to 6999;White;Never married;Not applicable
+7314;2004;20;Not applicable;Catholic;Independent;$1000 to 2999;White;Never married;Not applicable
+7315;2004;61;Not applicable;Catholic;Ind,near dem;Not applicable;White;Married;Not applicable
+7316;2004;30;Other;Protestant;Independent;Not applicable;Other;Separated;4
+7317;2004;22;Not applicable;None;Ind,near dem;Not applicable;Other;Married;5
+7318;2004;43;Not applicable;Catholic;Not str republican;$5000 to 5999;White;Separated;Not applicable
+7319;2004;23;Not applicable;Catholic;Independent;Lt $1000;White;Married;Not applicable
+7320;2004;47;Not applicable;Catholic;Strong democrat;$25000 or more;White;Married;5
+7321;2004;35;Not applicable;Catholic;Ind,near rep;$20000 - 24999;White;Divorced;Not applicable
+7322;2004;24;Not applicable;Catholic;Ind,near dem;Not applicable;White;Never married;4
+7323;2004;31;Not applicable;None;Independent;$25000 or more;White;Never married;0
+7324;2004;29;Not applicable;None;Not str republican;$25000 or more;White;Married;Not applicable
+7325;2004;46;Episcopal;Protestant;Independent;$20000 - 24999;White;Widowed;3
+7326;2004;37;Southern baptist;Protestant;Not str republican;Not applicable;White;Married;0
+7327;2004;57;United methodist;Protestant;Independent;$25000 or more;White;Married;Not applicable
+7328;2004;39;Am lutheran;Protestant;Not str republican;$25000 or more;White;Married;2
+7329;2004;43;United methodist;Protestant;Ind,near dem;$25000 or more;Black;Divorced;Not applicable
+7330;2004;23;No denomination;Protestant;Ind,near dem;$25000 or more;Black;Never married;Not applicable
+7331;2004;53;Lutheran-mo synod;Protestant;Strong republican;$25000 or more;White;Married;1
+7332;2004;43;No denomination;Christian;Not str republican;$25000 or more;White;Married;Not applicable
+7333;2004;68;Southern baptist;Protestant;Strong republican;$10000 - 14999;White;Divorced;Not applicable
+7334;2004;40;Not applicable;None;Strong republican;$25000 or more;White;Married;4
+7335;2004;43;Baptist-dk which;Protestant;Ind,near dem;$20000 - 24999;Other;Married;Not applicable
+7336;2004;32;Presbyterian c in us;Protestant;Not str republican;$25000 or more;White;Never married;0
+7337;2004;76;Am baptist asso;Protestant;Not str democrat;$4000 to 4999;Black;Married;Not applicable
+7338;2004;74;United methodist;Protestant;Independent;Not applicable;White;Married;Not applicable
+7339;2004;59;Southern baptist;Protestant;Independent;$20000 - 24999;White;Married;Not applicable
+7340;2004;56;Other baptists;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+7341;2004;59;Baptist-dk which;Protestant;Not str democrat;Not applicable;White;Married;3
+7342;2004;51;United methodist;Protestant;Ind,near dem;Not applicable;White;Married;Not applicable
+7343;2004;67;No denomination;Protestant;Ind,near rep;$25000 or more;White;Married;2
+7344;2004;41;Not applicable;Catholic;Ind,near rep;Not applicable;White;Married;1
+7345;2004;31;Not applicable;None;Not str republican;Refused;White;Married;2
+7346;2004;82;Southern baptist;Protestant;Strong republican;Not applicable;White;Married;3
+7347;2004;46;Baptist-dk which;Protestant;Independent;Not applicable;White;Divorced;Not applicable
+7348;2004;59;Baptist-dk which;Protestant;Independent;Not applicable;White;Divorced;Not applicable
+7349;2004;36;Southern baptist;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+7350;2004;40;Not applicable;Catholic;Strong republican;$25000 or more;White;Married;Not applicable
+7351;2004;21;Not applicable;None;Not str republican;Not applicable;White;Never married;Not applicable
+7352;2004;24;No denomination;Christian;Ind,near rep;Not applicable;White;Married;Not applicable
+7353;2004;27;Not applicable;Catholic;Independent;Not applicable;White;Never married;Not applicable
+7354;2004;34;Southern baptist;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+7355;2004;43;Baptist-dk which;Protestant;Not str republican;$25000 or more;Black;Never married;Not applicable
+7356;2004;45;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Married;1
+7357;2004;30;Other;Protestant;Not str democrat;$25000 or more;White;Never married;Not applicable
+7358;2004;18;Am baptist asso;Protestant;Strong republican;Not applicable;White;Never married;0
+7359;2004;50;Other;Protestant;Independent;Not applicable;Black;Separated;Not applicable
+7360;2004;35;Not applicable;None;Independent;$10000 - 14999;White;Divorced;1
+7361;2004;19;Am lutheran;Protestant;Not str republican;$3000 to 3999;White;Never married;Not applicable
+7362;2004;56;Other;Protestant;Strong republican;$25000 or more;Black;Divorced;2
+7363;2004;57;United methodist;Protestant;Not str democrat;Not applicable;White;Married;Not applicable
+7364;2004;35;Not applicable;None;Not str democrat;$5000 to 5999;White;Married;Not applicable
+7365;2004;35;Baptist-dk which;Protestant;Independent;$10000 - 14999;White;Widowed;Not applicable
+7366;2004;21;Baptist-dk which;Protestant;Not str democrat;Not applicable;White;Married;Not applicable
+7367;2004;37;Not applicable;None;Independent;$25000 or more;White;Married;Not applicable
+7368;2004;47;Not applicable;None;Not str democrat;Not applicable;White;Widowed;Not applicable
+7369;2004;31;Not applicable;None;Independent;$3000 to 3999;Black;Married;5
+7370;2004;79;Not applicable;Catholic;Strong republican;Not applicable;White;Widowed;Not applicable
+7371;2004;55;Southern baptist;Protestant;Strong republican;$25000 or more;White;Married;3
+7372;2004;63;Not applicable;Catholic;Not str democrat;$25000 or more;White;Married;Not applicable
+7373;2004;39;Other;Protestant;Independent;$25000 or more;Black;Never married;2
+7374;2004;23;Baptist-dk which;Protestant;Not str republican;Not applicable;White;Never married;Not applicable
+7375;2004;32;Other;Protestant;Not str democrat;$20000 - 24999;White;Married;Not applicable
+7376;2004;20;Other;Protestant;Strong republican;Not applicable;White;Never married;1
+7377;2004;30;Southern baptist;Protestant;Strong republican;$15000 - 19999;White;Married;Not applicable
+7378;2004;23;Baptist-dk which;Protestant;Not str republican;$25000 or more;White;Never married;Not applicable
+7379;2004;18;Not applicable;Catholic;Strong democrat;Not applicable;Black;Never married;3
+7380;2004;30;No denomination;Protestant;Ind,near dem;$10000 - 14999;Black;Married;Not applicable
+7381;2004;42;Not applicable;None;Independent;Not applicable;Black;Never married;Not applicable
+7382;2004;47;Other;Protestant;Strong democrat;$15000 - 19999;Black;Divorced;Not applicable
+7383;2004;56;Other;Protestant;Independent;$6000 to 6999;Black;Married;Not applicable
+7384;2004;36;Southern baptist;Protestant;Strong democrat;$20000 - 24999;Black;Married;3
+7385;2004;82;Southern baptist;Protestant;Ind,near dem;Not applicable;Black;Widowed;4
+7386;2004;52;Methodist-dk which;Protestant;Not str democrat;$15000 - 19999;Black;Married;Not applicable
+7387;2004;43;Southern baptist;Protestant;Strong democrat;$25000 or more;Black;Married;Not applicable
+7388;2004;57;No denomination;Protestant;Ind,near dem;Not applicable;White;Married;2
+7389;2004;53;No denomination;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+7390;2004;66;Not applicable;None;Strong democrat;Not applicable;White;Widowed;Not applicable
+7391;2004;31;Not applicable;None;Not str democrat;Not applicable;White;Married;3
+7392;2004;56;No denomination;Protestant;Not str democrat;$20000 - 24999;White;Married;Not applicable
+7393;2004;48;Not applicable;None;Strong democrat;$10000 - 14999;White;Married;Not applicable
+7394;2004;55;No answer;No answer;Ind,near dem;Not applicable;White;Married;Not applicable
+7395;2004;72;Not applicable;Catholic;Not str republican;Not applicable;White;Widowed;Not applicable
+7396;2004;21;Not applicable;None;Not str republican;Not applicable;White;Never married;Not applicable
+7397;2004;30;Lutheran-dk which;Protestant;Independent;Not applicable;White;Never married;Not applicable
+7398;2004;30;No denomination;Protestant;Not str republican;$25000 or more;White;Divorced;0
+7399;2004;57;No denomination;Protestant;Not str republican;$10000 - 14999;White;Married;Not applicable
+7400;2004;28;Not applicable;None;Not str democrat;$20000 - 24999;White;Married;3
+7401;2004;67;United methodist;Protestant;Strong democrat;Not applicable;White;Married;Not applicable
+7402;2004;24;Lutheran-dk which;Protestant;Not str democrat;$25000 or more;White;Married;Not applicable
+7403;2004;48;Other;Protestant;Not str republican;Refused;White;Married;Not applicable
+7404;2004;49;Not applicable;Catholic;Not str republican;$25000 or more;White;Married;1
+7405;2004;64;Not applicable;Catholic;Strong democrat;$8000 to 9999;White;Married;Not applicable
+7406;2004;42;Other;Protestant;Ind,near rep;Not applicable;White;Married;Not applicable
+7407;2004;37;United pres ch in us;Protestant;Not str republican;$15000 - 19999;White;Married;4
+7408;2004;36;No denomination;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+7409;2004;61;No denomination;Protestant;Strong republican;$25000 or more;White;Divorced;Not applicable
+7410;2004;27;No denomination;Christian;Ind,near rep;$20000 - 24999;White;Never married;Not applicable
+7411;2004;35;Not applicable;Inter-nondenominational;Ind,near rep;$25000 or more;White;Married;Not applicable
+7412;2004;72;Not applicable;None;Strong republican;Not applicable;White;Divorced;5
+7413;2004;40;No denomination;Protestant;Not str republican;$25000 or more;White;Married;0
+7414;2004;29;No denomination;Christian;Not str republican;$25000 or more;White;Never married;Not applicable
+7415;2004;20;Not applicable;Inter-nondenominational;Strong republican;$10000 - 14999;White;Never married;Not applicable
+7416;2004;30;Other;Protestant;Strong republican;$25000 or more;White;Never married;Not applicable
+7417;2004;No answer;No answer;No answer;No answer;Not applicable;White;Widowed;4
+7418;2004;41;Not applicable;Inter-nondenominational;Not str republican;$25000 or more;White;Divorced;Not applicable
+7419;2004;63;Other;Protestant;Not str republican;Not applicable;White;Widowed;Not applicable
+7420;2004;38;Not applicable;Inter-nondenominational;Strong republican;Not applicable;White;Married;Not applicable
+7421;2004;70;Episcopal;Protestant;Ind,near rep;Not applicable;White;Married;Not applicable
+7422;2004;75;Am lutheran;Protestant;Not str republican;$25000 or more;White;Widowed;Not applicable
+7423;2004;41;Not applicable;Catholic;Not str republican;$25000 or more;White;Never married;Not applicable
+7424;2004;76;Other;Protestant;Ind,near dem;Not applicable;White;Married;Not applicable
+7425;2004;47;No denomination;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7426;2004;44;Lutheran-dk which;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7427;2004;61;No denomination;Other;Not str republican;$25000 or more;White;Divorced;1
+7428;2004;58;No denomination;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7429;2004;32;Not applicable;None;Not str democrat;$25000 or more;White;Never married;Not applicable
+7430;2004;48;Not applicable;None;Strong democrat;$25000 or more;White;Divorced;Not applicable
+7431;2004;26;Not applicable;Catholic;Independent;$4000 to 4999;White;Married;Not applicable
+7432;2004;23;Other;Protestant;Ind,near dem;$1000 to 2999;Other;Separated;Not applicable
+7433;2004;36;Not applicable;Catholic;Strong republican;$25000 or more;White;Divorced;Not applicable
+7434;2004;47;Baptist-dk which;Protestant;Ind,near rep;$20000 - 24999;White;Divorced;Not applicable
+7435;2004;27;Not applicable;Catholic;Not str democrat;$10000 - 14999;White;Separated;Not applicable
+7436;2004;58;Presbyterian-dk wh;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7437;2004;49;No denomination;Protestant;Independent;$25000 or more;White;Married;Not applicable
+7438;2004;23;No denomination;Christian;Ind,near dem;$10000 - 14999;White;Never married;Not applicable
+7439;2004;75;Other;Protestant;Ind,near rep;Not applicable;White;Married;Not applicable
+7440;2004;67;Other;Protestant;Strong republican;Lt $1000;White;Married;3
+7441;2004;71;United methodist;Protestant;No answer;Not applicable;White;Married;Not applicable
+7442;2004;31;No denomination;Christian;Ind,near dem;$25000 or more;Other;Married;Not applicable
+7443;2004;42;Not applicable;None;Strong democrat;Not applicable;White;Married;2
+7444;2004;79;Not applicable;None;Strong republican;Not applicable;White;Widowed;0
+7445;2004;54;Methodist-dk which;Protestant;Other party;$25000 or more;White;Married;Not applicable
+7446;2004;48;Lutheran-dk which;Protestant;Strong democrat;Not applicable;White;Never married;Not applicable
+7447;2004;40;Other baptists;Protestant;Not str republican;$25000 or more;White;Divorced;Not applicable
+7448;2004;39;Presbyterian-dk wh;Protestant;Not str republican;$15000 - 19999;White;Married;1
+7449;2004;No answer;Not applicable;None;Independent;No answer;White;Never married;0
+7450;2004;77;Not applicable;Other;Strong democrat;Lt $1000;White;Widowed;3
+7451;2004;28;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7452;2004;20;No denomination;Protestant;Not str republican;$3000 to 3999;White;Never married;Not applicable
+7453;2004;51;Am lutheran;Protestant;Not str democrat;$25000 or more;White;Married;Not applicable
+7454;2004;39;No denomination;Christian;Not str republican;$1000 to 2999;White;Married;0
+7455;2004;52;Episcopal;Protestant;Not str democrat;$25000 or more;White;Divorced;0
+7456;2004;45;Not applicable;Catholic;Not str republican;$20000 - 24999;White;Married;Not applicable
+7457;2004;30;Not applicable;Orthodox-christian;Ind,near dem;$25000 or more;White;Married;Not applicable
+7458;2004;51;Other;Protestant;Not str democrat;$25000 or more;White;Divorced;4
+7459;2004;71;Lutheran-dk which;Protestant;Ind,near rep;Not applicable;White;Widowed;Not applicable
+7460;2004;44;Not applicable;None;Independent;$25000 or more;Other;Married;Not applicable
+7461;2004;23;Lutheran-dk which;Protestant;Ind,near dem;$8000 to 9999;White;Never married;0
+7462;2004;41;Not applicable;None;Independent;$25000 or more;White;Divorced;4
+7463;2004;47;Not applicable;None;Strong democrat;$25000 or more;White;Divorced;Not applicable
+7464;2004;86;Episcopal;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+7465;2004;25;Not applicable;None;Independent;$10000 - 14999;Other;Never married;Not applicable
+7466;2004;82;Not applicable;Catholic;Not str democrat;Not applicable;White;Widowed;Not applicable
+7467;2004;72;Other;Protestant;Strong democrat;Not applicable;White;Widowed;Not applicable
+7468;2004;49;No denomination;Christian;Strong republican;$20000 - 24999;White;Married;Not applicable
+7469;2004;78;Not applicable;Catholic;Not str republican;Not applicable;White;Widowed;3
+7470;2004;85;Not applicable;Catholic;Ind,near rep;Not applicable;White;Widowed;3
+7471;2004;82;Luth ch in america;Protestant;Ind,near rep;Not applicable;White;Married;Not applicable
+7472;2004;46;Other;Protestant;Strong republican;$25000 or more;White;Never married;Not applicable
+7473;2004;20;Episcopal;Protestant;Not str democrat;Not applicable;White;Never married;Not applicable
+7474;2004;24;Other;Protestant;Ind,near dem;Not applicable;White;Married;Not applicable
+7475;2004;56;Other;Protestant;Not str republican;$20000 - 24999;White;Divorced;Not applicable
+7476;2004;58;United methodist;Protestant;Independent;$25000 or more;White;Married;Not applicable
+7477;2004;48;No denomination;Protestant;Independent;$25000 or more;White;Never married;2
+7478;2004;21;Other;Protestant;Not str republican;$10000 - 14999;White;Never married;0
+7479;2004;64;Other;Protestant;Not str republican;$6000 to 6999;White;Married;Not applicable
+7480;2004;52;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Widowed;4
+7481;2004;71;Am bapt ch in usa;Protestant;Not str democrat;Not applicable;White;Married;5
+7482;2004;50;No denomination;Protestant;Strong democrat;$25000 or more;White;Divorced;4
+7483;2004;30;Other;Protestant;Strong republican;$20000 - 24999;White;Never married;2
+7484;2004;48;No denomination;Protestant;Strong democrat;$25000 or more;White;Divorced;Not applicable
+7485;2004;61;Not applicable;Catholic;Strong democrat;$25000 or more;White;Divorced;Not applicable
+7486;2004;26;No denomination;Protestant;Ind,near rep;$25000 or more;White;Never married;0
+7487;2004;49;Not applicable;None;Strong democrat;$25000 or more;White;Divorced;Not applicable
+7488;2004;89 or older;Luth ch in america;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+7489;2004;34;Not applicable;None;Ind,near rep;$7000 to 7999;White;Never married;1
+7490;2004;24;Not applicable;None;Other party;$10000 - 14999;White;Never married;Not applicable
+7491;2004;44;Other;Protestant;Not str republican;$25000 or more;White;Divorced;1
+7492;2004;29;Not applicable;None;Independent;Not applicable;White;Married;Not applicable
+7493;2004;39;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+7494;2004;28;Not applicable;Catholic;Not str democrat;$20000 - 24999;White;Divorced;Not applicable
+7495;2004;47;No denomination;Protestant;Ind,near dem;$25000 or more;White;Married;1
+7496;2004;43;Not applicable;None;Ind,near dem;$25000 or more;White;Divorced;1
+7497;2004;34;No denomination;Protestant;Ind,near dem;$25000 or more;White;Divorced;1
+7498;2004;38;United methodist;Protestant;Strong democrat;$20000 - 24999;White;Married;Not applicable
+7499;2004;31;Not applicable;None;Strong democrat;$1000 to 2999;White;Married;1
+7500;2004;52;Not applicable;None;Not str democrat;$25000 or more;White;Divorced;Not applicable

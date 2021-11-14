@@ -1,0 +1,301 @@
+obs;year;age;age;rincome;marital
+10501;2006;69;69;Refused;Divorced
+10502;2006;59;59;$25000 or more;Married
+10503;2006;27;27;$15000 - 19999;Never married
+10504;2006;39;39;$25000 or more;Separated
+10505;2006;28;28;$25000 or more;Never married
+10506;2006;26;26;Not applicable;Married
+10507;2006;73;73;Not applicable;Married
+10508;2006;82;82;Not applicable;Widowed
+10509;2006;32;32;Not applicable;Married
+10510;2006;43;43;$25000 or more;Divorced
+10511;2006;54;54;Not applicable;Married
+10512;2006;20;20;Not applicable;Never married
+10513;2006;83;83;Not applicable;Married
+10514;2006;60;60;$10000 - 14999;Married
+10515;2006;47;47;$25000 or more;Married
+10516;2006;47;47;$25000 or more;Married
+10517;2006;49;49;No answer;Divorced
+10518;2006;47;47;$25000 or more;Married
+10519;2006;45;45;$25000 or more;Married
+10520;2006;59;59;Refused;Married
+10521;2006;71;71;Not applicable;Married
+10522;2006;78;78;$3000 to 3999;Married
+10523;2006;75;75;$4000 to 4999;Married
+10524;2006;33;33;$25000 or more;Married
+10525;2006;38;38;$25000 or more;Married
+10526;2006;37;37;$25000 or more;Married
+10527;2006;34;34;$20000 - 24999;Never married
+10528;2006;49;49;$25000 or more;Divorced
+10529;2006;56;56;$8000 to 9999;Never married
+10530;2006;32;32;$25000 or more;Married
+10531;2006;72;72;Not applicable;Married
+10532;2006;30;30;$15000 - 19999;Separated
+10533;2006;30;30;$25000 or more;Married
+10534;2006;23;23;Not applicable;Never married
+10535;2006;36;36;$25000 or more;Married
+10536;2006;27;27;Not applicable;Married
+10537;2006;56;56;$15000 - 19999;Divorced
+10538;2006;39;39;$15000 - 19999;Married
+10539;2006;46;46;$25000 or more;Married
+10540;2006;55;55;$20000 - 24999;Married
+10541;2006;30;30;$25000 or more;Married
+10542;2006;66;66;Not applicable;Married
+10543;2006;19;19;Not applicable;Never married
+10544;2006;40;40;$25000 or more;Never married
+10545;2006;40;40;$20000 - 24999;Divorced
+10546;2006;38;38;$6000 to 6999;Divorced
+10547;2006;65;65;Refused;Married
+10548;2006;43;43;$25000 or more;Married
+10549;2006;33;33;Not applicable;Married
+10550;2006;72;72;Not applicable;Widowed
+10551;2006;22;22;$10000 - 14999;Never married
+10552;2006;57;57;Not applicable;Married
+10553;2006;32;32;$25000 or more;Married
+10554;2006;55;55;$7000 to 7999;Married
+10555;2006;52;52;$25000 or more;Married
+10556;2006;71;71;$25000 or more;Widowed
+10557;2006;67;67;Not applicable;Married
+10558;2006;57;57;$25000 or more;Never married
+10559;2006;76;76;Not applicable;Married
+10560;2006;30;30;$25000 or more;Married
+10561;2006;76;76;No answer;Married
+10562;2006;33;33;$20000 - 24999;Married
+10563;2006;47;47;$20000 - 24999;Married
+10564;2006;65;65;Refused;Divorced
+10565;2006;54;54;Not applicable;Never married
+10566;2006;23;23;Not applicable;Never married
+10567;2006;51;51;$25000 or more;Never married
+10568;2006;23;23;$20000 - 24999;Never married
+10569;2006;27;27;$25000 or more;Never married
+10570;2006;22;22;Not applicable;Never married
+10571;2006;52;52;Not applicable;Divorced
+10572;2006;61;61;$25000 or more;Separated
+10573;2006;54;54;$25000 or more;Divorced
+10574;2006;29;29;Refused;Married
+10575;2006;28;28;$25000 or more;Married
+10576;2006;30;30;$20000 - 24999;Never married
+10577;2006;38;38;Not applicable;Never married
+10578;2006;36;36;$25000 or more;Never married
+10579;2006;57;57;$10000 - 14999;Divorced
+10580;2006;50;50;$5000 to 5999;Married
+10581;2006;26;26;$25000 or more;Never married
+10582;2006;24;24;Not applicable;Never married
+10583;2006;63;63;$1000 to 2999;Married
+10584;2006;54;54;$25000 or more;Divorced
+10585;2006;55;55;$15000 - 19999;Divorced
+10586;2006;52;52;Refused;Married
+10587;2006;36;36;$25000 or more;Never married
+10588;2006;19;19;Don't know;Never married
+10589;2006;48;48;$25000 or more;Divorced
+10590;2006;44;44;$25000 or more;Divorced
+10591;2006;26;26;Not applicable;Never married
+10592;2006;55;55;$25000 or more;Married
+10593;2006;50;50;$25000 or more;Divorced
+10594;2006;23;23;$4000 to 4999;Never married
+10595;2006;53;53;$15000 - 19999;Married
+10596;2006;53;53;Not applicable;Married
+10597;2006;18;18;Not applicable;Never married
+10598;2006;50;50;$1000 to 2999;Divorced
+10599;2006;27;27;$25000 or more;Married
+10600;2006;21;21;Not applicable;Never married
+10601;2006;43;43;$25000 or more;Married
+10602;2006;54;54;$25000 or more;Divorced
+10603;2006;85;85;Not applicable;Married
+10604;2006;44;44;$25000 or more;Married
+10605;2006;44;44;$20000 - 24999;Married
+10606;2006;54;54;$10000 - 14999;Married
+10607;2006;60;60;Refused;Married
+10608;2006;40;40;Refused;Married
+10609;2006;59;59;$25000 or more;Married
+10610;2006;36;36;$25000 or more;Married
+10611;2006;41;41;$25000 or more;Married
+10612;2006;33;33;$25000 or more;Separated
+10613;2006;35;35;$25000 or more;Married
+10614;2006;49;49;Refused;Married
+10615;2006;20;20;$10000 - 14999;Never married
+10616;2006;56;56;$25000 or more;Married
+10617;2006;47;47;$20000 - 24999;Divorced
+10618;2006;30;30;$20000 - 24999;Never married
+10619;2006;20;20;$4000 to 4999;Never married
+10620;2006;44;44;$25000 or more;Divorced
+10621;2006;60;60;Not applicable;Married
+10622;2006;56;56;$8000 to 9999;Married
+10623;2006;44;44;$25000 or more;Married
+10624;2006;45;45;Not applicable;Married
+10625;2006;39;39;Not applicable;Married
+10626;2006;28;28;$25000 or more;Married
+10627;2006;46;46;$25000 or more;Married
+10628;2006;25;25;Not applicable;Never married
+10629;2006;45;45;$25000 or more;Never married
+10630;2006;59;59;$25000 or more;Never married
+10631;2006;39;39;Not applicable;Separated
+10632;2006;31;31;$10000 - 14999;Married
+10633;2006;25;25;$15000 - 19999;Never married
+10634;2006;51;51;$25000 or more;Never married
+10635;2006;23;23;Not applicable;Never married
+10636;2006;36;36;Not applicable;Married
+10637;2006;50;50;$20000 - 24999;Divorced
+10638;2006;50;50;$25000 or more;Divorced
+10639;2006;70;70;Not applicable;Widowed
+10640;2006;29;29;$25000 or more;Married
+10641;2006;39;39;$25000 or more;Married
+10642;2006;27;27;$20000 - 24999;Never married
+10643;2006;51;51;$25000 or more;Married
+10644;2006;61;61;$15000 - 19999;Married
+10645;2006;23;23;$15000 - 19999;Married
+10646;2006;82;82;Not applicable;Widowed
+10647;2006;47;47;$25000 or more;Never married
+10648;2006;30;30;$25000 or more;Separated
+10649;2006;25;25;$8000 to 9999;Married
+10650;2006;32;32;$25000 or more;Never married
+10651;2006;35;35;$25000 or more;Married
+10652;2006;75;75;Not applicable;Married
+10653;2006;84;84;Not applicable;Widowed
+10654;2006;53;53;$15000 - 19999;Married
+10655;2006;54;54;Refused;Never married
+10656;2006;30;30;$25000 or more;Never married
+10657;2006;81;81;Not applicable;Widowed
+10658;2006;39;39;$25000 or more;Divorced
+10659;2006;56;56;Not applicable;Married
+10660;2006;34;34;$4000 to 4999;Married
+10661;2006;77;77;Not applicable;Married
+10662;2006;80;80;Not applicable;Widowed
+10663;2006;34;34;$25000 or more;Divorced
+10664;2006;82;82;Not applicable;Widowed
+10665;2006;26;26;Not applicable;Married
+10666;2006;48;48;$25000 or more;Married
+10667;2006;39;39;$25000 or more;Never married
+10668;2006;43;43;$25000 or more;Never married
+10669;2006;22;22;Not applicable;Never married
+10670;2006;39;39;$25000 or more;Divorced
+10671;2006;25;25;$10000 - 14999;Married
+10672;2006;33;33;$25000 or more;Never married
+10673;2006;45;45;$25000 or more;Married
+10674;2006;86;86;Not applicable;Married
+10675;2006;46;46;Refused;Married
+10676;2006;28;28;$10000 - 14999;Married
+10677;2006;21;21;$1000 to 2999;Never married
+10678;2006;72;72;Not applicable;Divorced
+10679;2006;26;26;$3000 to 3999;Never married
+10680;2006;26;26;$3000 to 3999;Never married
+10681;2006;31;31;$25000 or more;Married
+10682;2006;24;24;$7000 to 7999;Never married
+10683;2006;64;64;Not applicable;Never married
+10684;2006;72;72;Not applicable;Separated
+10685;2006;34;34;$10000 - 14999;Married
+10686;2006;32;32;$10000 - 14999;Married
+10687;2006;59;59;Refused;Divorced
+10688;2006;72;72;Not applicable;Divorced
+10689;2006;24;24;Refused;Never married
+10690;2006;48;48;Not applicable;Married
+10691;2006;44;44;Not applicable;Married
+10692;2006;35;35;$25000 or more;Divorced
+10693;2006;53;53;$25000 or more;Married
+10694;2006;25;25;$25000 or more;Divorced
+10695;2006;26;26;$10000 - 14999;Married
+10696;2006;59;59;Not applicable;Divorced
+10697;2006;32;32;$25000 or more;Married
+10698;2006;57;57;$4000 to 4999;Never married
+10699;2006;51;51;No answer;Divorced
+10700;2006;44;44;Not applicable;Married
+10701;2006;47;47;$20000 - 24999;Divorced
+10702;2006;36;36;Not applicable;Separated
+10703;2006;48;48;$25000 or more;Separated
+10704;2006;37;37;$8000 to 9999;Never married
+10705;2006;48;48;$15000 - 19999;Married
+10706;2006;45;45;$3000 to 3999;Married
+10707;2006;38;38;Not applicable;Divorced
+10708;2006;52;52;Not applicable;Married
+10709;2006;42;42;$10000 - 14999;Married
+10710;2006;39;39;Not applicable;Never married
+10711;2006;57;57;$10000 - 14999;Widowed
+10712;2006;78;78;Not applicable;Never married
+10713;2006;43;43;$25000 or more;Married
+10714;2006;36;36;$15000 - 19999;Married
+10715;2006;50;50;Refused;Married
+10716;2006;30;30;$25000 or more;Never married
+10717;2006;49;49;$25000 or more;Married
+10718;2006;27;27;Not applicable;Never married
+10719;2006;56;56;$25000 or more;Divorced
+10720;2006;40;40;$25000 or more;Divorced
+10721;2006;80;80;Not applicable;Widowed
+10722;2006;60;60;Refused;Married
+10723;2006;56;56;$25000 or more;Divorced
+10724;2006;75;75;Not applicable;Widowed
+10725;2006;50;50;$25000 or more;Married
+10726;2006;71;71;Not applicable;Widowed
+10727;2006;38;38;$25000 or more;Divorced
+10728;2006;56;56;Not applicable;Divorced
+10729;2006;29;29;$25000 or more;Married
+10730;2006;44;44;$20000 - 24999;Married
+10731;2006;81;81;Not applicable;Divorced
+10732;2006;77;77;Not applicable;Married
+10733;2006;80;80;Not applicable;Married
+10734;2006;43;43;$25000 or more;Married
+10735;2006;25;25;$5000 to 5999;Married
+10736;2006;37;37;$25000 or more;Never married
+10737;2006;33;33;Not applicable;Married
+10738;2006;55;55;Not applicable;Never married
+10739;2006;39;39;$25000 or more;Married
+10740;2006;48;48;Not applicable;Married
+10741;2006;40;40;Refused;Married
+10742;2006;21;21;$3000 to 3999;Never married
+10743;2006;69;69;$25000 or more;Married
+10744;2006;34;34;$7000 to 7999;Never married
+10745;2006;51;51;$25000 or more;Married
+10746;2006;89 or older;89 or older;Not applicable;Widowed
+10747;2006;25;25;$6000 to 6999;Never married
+10748;2006;21;21;$5000 to 5999;Never married
+10749;2006;22;22;$4000 to 4999;Never married
+10750;2006;31;31;$10000 - 14999;Never married
+10751;2006;36;36;$15000 - 19999;Divorced
+10752;2006;23;23;Not applicable;Never married
+10753;2006;34;34;$25000 or more;Married
+10754;2006;30;30;$25000 or more;Married
+10755;2006;22;22;$10000 - 14999;Never married
+10756;2006;32;32;$20000 - 24999;Married
+10757;2006;34;34;$25000 or more;Married
+10758;2006;43;43;$25000 or more;Married
+10759;2006;53;53;Refused;Divorced
+10760;2006;26;26;$3000 to 3999;Never married
+10761;2006;42;42;$15000 - 19999;Married
+10762;2006;35;35;$25000 or more;Divorced
+10763;2006;37;37;$4000 to 4999;Married
+10764;2006;31;31;$20000 - 24999;Never married
+10765;2006;72;72;Not applicable;Widowed
+10766;2006;89 or older;89 or older;Not applicable;Widowed
+10767;2006;23;23;Not applicable;Never married
+10768;2006;63;63;Not applicable;Divorced
+10769;2006;32;32;$15000 - 19999;Separated
+10770;2006;51;51;$25000 or more;Never married
+10771;2006;26;26;$20000 - 24999;Never married
+10772;2006;22;22;$20000 - 24999;Never married
+10773;2006;25;25;Not applicable;Never married
+10774;2006;35;35;$25000 or more;Married
+10775;2006;69;69;Not applicable;Widowed
+10776;2006;22;22;$3000 to 3999;Never married
+10777;2006;33;33;Not applicable;Married
+10778;2006;32;32;$6000 to 6999;Never married
+10779;2006;84;84;Not applicable;Widowed
+10780;2006;39;39;$10000 - 14999;Never married
+10781;2006;50;50;Not applicable;Separated
+10782;2006;74;74;Not applicable;Widowed
+10783;2006;55;55;Not applicable;Separated
+10784;2006;63;63;Not applicable;Divorced
+10785;2006;34;34;Not applicable;Separated
+10786;2006;33;33;$25000 or more;Married
+10787;2006;42;42;$10000 - 14999;Widowed
+10788;2006;72;72;Not applicable;Widowed
+10789;2006;59;59;Not applicable;Widowed
+10790;2006;46;46;Not applicable;Married
+10791;2006;64;64;Not applicable;Separated
+10792;2006;83;83;Not applicable;Married
+10793;2006;46;46;$10000 - 14999;Divorced
+10794;2006;54;54;$25000 or more;Married
+10795;2006;22;22;Not applicable;Never married
+10796;2006;81;81;Not applicable;Married
+10797;2006;65;65;Not applicable;Divorced
+10798;2006;29;29;$15000 - 19999;Never married
+10799;2006;25;25;$10000 - 14999;Married
+10800;2006;31;31;$10000 - 14999;Never married

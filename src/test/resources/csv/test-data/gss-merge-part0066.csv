@@ -1,0 +1,301 @@
+obs;partyid;rincome;race;partyid;rincome
+19501;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19502;Strong republican;Lt $1000;White;Strong republican;Lt $1000
+19503;Independent;Not applicable;White;Independent;Not applicable
+19504;No answer;Refused;Other;No answer;Refused
+19505;Independent;$25000 or more;White;Independent;$25000 or more
+19506;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19507;Ind,near rep;$15000 - 19999;White;Ind,near rep;$15000 - 19999
+19508;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19509;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19510;Strong republican;Not applicable;White;Strong republican;Not applicable
+19511;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19512;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19513;Strong republican;Not applicable;White;Strong republican;Not applicable
+19514;Other party;$15000 - 19999;Black;Other party;$15000 - 19999
+19515;Independent;$6000 to 6999;Black;Independent;$6000 to 6999
+19516;Independent;Not applicable;Black;Independent;Not applicable
+19517;Strong democrat;$25000 or more;Other;Strong democrat;$25000 or more
+19518;Independent;$25000 or more;Black;Independent;$25000 or more
+19519;Strong republican;$15000 - 19999;Other;Strong republican;$15000 - 19999
+19520;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19521;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19522;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19523;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19524;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19525;Ind,near dem;Not applicable;Other;Ind,near dem;Not applicable
+19526;Ind,near dem;Not applicable;White;Ind,near dem;Not applicable
+19527;Ind,near dem;Not applicable;White;Ind,near dem;Not applicable
+19528;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19529;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19530;Strong republican;$15000 - 19999;White;Strong republican;$15000 - 19999
+19531;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19532;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19533;Ind,near dem;Not applicable;White;Ind,near dem;Not applicable
+19534;Ind,near dem;$3000 to 3999;Black;Ind,near dem;$3000 to 3999
+19535;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19536;Not str democrat;$15000 - 19999;Black;Not str democrat;$15000 - 19999
+19537;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19538;Strong republican;Not applicable;White;Strong republican;Not applicable
+19539;Independent;$25000 or more;White;Independent;$25000 or more
+19540;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19541;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19542;Independent;Not applicable;White;Independent;Not applicable
+19543;Independent;Not applicable;White;Independent;Not applicable
+19544;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19545;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19546;Ind,near dem;Not applicable;Black;Ind,near dem;Not applicable
+19547;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19548;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19549;Not str democrat;$20000 - 24999;White;Not str democrat;$20000 - 24999
+19550;Ind,near dem;$25000 or more;Black;Ind,near dem;$25000 or more
+19551;Not str republican;Refused;White;Not str republican;Refused
+19552;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19553;Strong republican;Not applicable;White;Strong republican;Not applicable
+19554;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19555;Strong republican;Not applicable;White;Strong republican;Not applicable
+19556;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19557;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19558;Other party;$25000 or more;White;Other party;$25000 or more
+19559;Independent;Not applicable;White;Independent;Not applicable
+19560;Not str democrat;$25000 or more;Other;Not str democrat;$25000 or more
+19561;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19562;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19563;Strong republican;Not applicable;White;Strong republican;Not applicable
+19564;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19565;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19566;Strong republican;Not applicable;White;Strong republican;Not applicable
+19567;Not str republican;Refused;White;Not str republican;Refused
+19568;Independent;Not applicable;Other;Independent;Not applicable
+19569;Independent;Not applicable;Other;Independent;Not applicable
+19570;Independent;$20000 - 24999;White;Independent;$20000 - 24999
+19571;Not str democrat;$20000 - 24999;White;Not str democrat;$20000 - 24999
+19572;Independent;Refused;Other;Independent;Refused
+19573;Independent;Not applicable;White;Independent;Not applicable
+19574;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19575;Not str republican;Refused;White;Not str republican;Refused
+19576;Strong democrat;$15000 - 19999;White;Strong democrat;$15000 - 19999
+19577;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19578;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19579;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19580;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19581;Strong republican;$6000 to 6999;White;Strong republican;$6000 to 6999
+19582;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19583;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19584;Ind,near dem;$10000 - 14999;Black;Ind,near dem;$10000 - 14999
+19585;Strong democrat;$4000 to 4999;Black;Strong democrat;$4000 to 4999
+19586;Strong republican;Lt $1000;Black;Strong republican;Lt $1000
+19587;Strong democrat;Lt $1000;White;Strong democrat;Lt $1000
+19588;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19589;Independent;Not applicable;White;Independent;Not applicable
+19590;Strong republican;Not applicable;White;Strong republican;Not applicable
+19591;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19592;Strong republican;Not applicable;White;Strong republican;Not applicable
+19593;Ind,near dem;$25000 or more;Black;Ind,near dem;$25000 or more
+19594;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19595;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19596;Not str democrat;$10000 - 14999;Black;Not str democrat;$10000 - 14999
+19597;Not str republican;$25000 or more;Other;Not str republican;$25000 or more
+19598;Strong democrat;$3000 to 3999;White;Strong democrat;$3000 to 3999
+19599;Independent;$25000 or more;Other;Independent;$25000 or more
+19600;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19601;Ind,near dem;$15000 - 19999;Black;Ind,near dem;$15000 - 19999
+19602;Not str democrat;$6000 to 6999;Black;Not str democrat;$6000 to 6999
+19603;Independent;$10000 - 14999;Black;Independent;$10000 - 14999
+19604;Ind,near dem;$15000 - 19999;Black;Ind,near dem;$15000 - 19999
+19605;Not str democrat;$25000 or more;Black;Not str democrat;$25000 or more
+19606;Independent;Not applicable;Black;Independent;Not applicable
+19607;Not str democrat;$25000 or more;Black;Not str democrat;$25000 or more
+19608;Independent;$20000 - 24999;White;Independent;$20000 - 24999
+19609;Independent;Not applicable;White;Independent;Not applicable
+19610;Ind,near dem;Not applicable;Black;Ind,near dem;Not applicable
+19611;Not str democrat;$6000 to 6999;Black;Not str democrat;$6000 to 6999
+19612;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19613;Independent;Not applicable;Black;Independent;Not applicable
+19614;Independent;$25000 or more;White;Independent;$25000 or more
+19615;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19616;Not str republican;$5000 to 5999;White;Not str republican;$5000 to 5999
+19617;No answer;Refused;White;No answer;Refused
+19618;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19619;Independent;$25000 or more;White;Independent;$25000 or more
+19620;Independent;$15000 - 19999;Black;Independent;$15000 - 19999
+19621;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19622;Independent;Not applicable;White;Independent;Not applicable
+19623;Strong republican;Refused;White;Strong republican;Refused
+19624;Not str democrat;Not applicable;Other;Not str democrat;Not applicable
+19625;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19626;Not str democrat;$25000 or more;Other;Not str democrat;$25000 or more
+19627;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19628;Independent;Not applicable;Other;Independent;Not applicable
+19629;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19630;Independent;$25000 or more;White;Independent;$25000 or more
+19631;Independent;$25000 or more;White;Independent;$25000 or more
+19632;Not str republican;$15000 - 19999;White;Not str republican;$15000 - 19999
+19633;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19634;Not str republican;Not applicable;White;Not str republican;Not applicable
+19635;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19636;Not str republican;Lt $1000;White;Not str republican;Lt $1000
+19637;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19638;Other party;Not applicable;White;Other party;Not applicable
+19639;Strong republican;Not applicable;White;Strong republican;Not applicable
+19640;Independent;$20000 - 24999;White;Independent;$20000 - 24999
+19641;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19642;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19643;Independent;$25000 or more;White;Independent;$25000 or more
+19644;Independent;Not applicable;White;Independent;Not applicable
+19645;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19646;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19647;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19648;Not str democrat;$10000 - 14999;Black;Not str democrat;$10000 - 14999
+19649;Not str democrat;$20000 - 24999;Black;Not str democrat;$20000 - 24999
+19650;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19651;Ind,near dem;$3000 to 3999;White;Ind,near dem;$3000 to 3999
+19652;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19653;Strong republican;Not applicable;White;Strong republican;Not applicable
+19654;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19655;Not str republican;$1000 to 2999;White;Not str republican;$1000 to 2999
+19656;Ind,near dem;Don't know;White;Ind,near dem;Don't know
+19657;Other party;Not applicable;White;Other party;Not applicable
+19658;Not str republican;Not applicable;White;Not str republican;Not applicable
+19659;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19660;Ind,near dem;$8000 to 9999;Other;Ind,near dem;$8000 to 9999
+19661;Ind,near dem;Not applicable;Other;Ind,near dem;Not applicable
+19662;Independent;Not applicable;White;Independent;Not applicable
+19663;Strong democrat;$8000 to 9999;Black;Strong democrat;$8000 to 9999
+19664;Strong democrat;$10000 - 14999;Black;Strong democrat;$10000 - 14999
+19665;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19666;Other party;Not applicable;Black;Other party;Not applicable
+19667;Strong democrat;$3000 to 3999;Black;Strong democrat;$3000 to 3999
+19668;Independent;$25000 or more;Other;Independent;$25000 or more
+19669;Not str democrat;$20000 - 24999;White;Not str democrat;$20000 - 24999
+19670;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19671;Not str republican;Not applicable;White;Not str republican;Not applicable
+19672;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19673;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19674;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19675;Independent;$25000 or more;White;Independent;$25000 or more
+19676;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19677;Not str democrat;$3000 to 3999;Black;Not str democrat;$3000 to 3999
+19678;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19679;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19680;Not str republican;Not applicable;White;Not str republican;Not applicable
+19681;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19682;Independent;Refused;White;Independent;Refused
+19683;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19684;Ind,near dem;$1000 to 2999;White;Ind,near dem;$1000 to 2999
+19685;Not str republican;Not applicable;White;Not str republican;Not applicable
+19686;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19687;Strong democrat;$4000 to 4999;Black;Strong democrat;$4000 to 4999
+19688;Strong republican;Not applicable;Black;Strong republican;Not applicable
+19689;Not str democrat;$25000 or more;Black;Not str democrat;$25000 or more
+19690;Independent;Not applicable;White;Independent;Not applicable
+19691;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19692;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19693;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19694;Ind,near dem;$10000 - 14999;White;Ind,near dem;$10000 - 14999
+19695;Independent;$15000 - 19999;White;Independent;$15000 - 19999
+19696;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19697;Strong republican;$20000 - 24999;White;Strong republican;$20000 - 24999
+19698;Not str democrat;Not applicable;Black;Not str democrat;Not applicable
+19699;Not str democrat;Not applicable;Black;Not str democrat;Not applicable
+19700;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19701;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19702;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19703;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19704;Ind,near dem;$3000 to 3999;Black;Ind,near dem;$3000 to 3999
+19705;Strong republican;Not applicable;White;Strong republican;Not applicable
+19706;Independent;$20000 - 24999;White;Independent;$20000 - 24999
+19707;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19708;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19709;Independent;Not applicable;Other;Independent;Not applicable
+19710;Independent;$10000 - 14999;White;Independent;$10000 - 14999
+19711;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19712;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19713;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19714;Not str democrat;$10000 - 14999;Black;Not str democrat;$10000 - 14999
+19715;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19716;Strong democrat;$4000 to 4999;White;Strong democrat;$4000 to 4999
+19717;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19718;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19719;Independent;Not applicable;White;Independent;Not applicable
+19720;Ind,near dem;Not applicable;White;Ind,near dem;Not applicable
+19721;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19722;Not str democrat;$4000 to 4999;Black;Not str democrat;$4000 to 4999
+19723;Not str democrat;$15000 - 19999;Other;Not str democrat;$15000 - 19999
+19724;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19725;Not str democrat;Not applicable;Black;Not str democrat;Not applicable
+19726;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19727;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19728;Independent;$20000 - 24999;Other;Independent;$20000 - 24999
+19729;Independent;Not applicable;White;Independent;Not applicable
+19730;Ind,near rep;Refused;Other;Ind,near rep;Refused
+19731;Independent;Refused;White;Independent;Refused
+19732;Independent;$25000 or more;White;Independent;$25000 or more
+19733;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19734;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19735;Ind,near dem;Lt $1000;Black;Ind,near dem;Lt $1000
+19736;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19737;Not str republican;$25000 or more;Black;Not str republican;$25000 or more
+19738;No answer;$4000 to 4999;Black;No answer;$4000 to 4999
+19739;Strong democrat;$5000 to 5999;Black;Strong democrat;$5000 to 5999
+19740;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19741;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19742;Not str democrat;Not applicable;Black;Not str democrat;Not applicable
+19743;Not str republican;$5000 to 5999;Black;Not str republican;$5000 to 5999
+19744;Strong democrat;$25000 or more;Black;Strong democrat;$25000 or more
+19745;Independent;Not applicable;White;Independent;Not applicable
+19746;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19747;Ind,near dem;$8000 to 9999;White;Ind,near dem;$8000 to 9999
+19748;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19749;Strong republican;Not applicable;White;Strong republican;Not applicable
+19750;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19751;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19752;Strong republican;$25000 or more;White;Strong republican;$25000 or more
+19753;Not str republican;$25000 or more;White;Not str republican;$25000 or more
+19754;Not str republican;Not applicable;White;Not str republican;Not applicable
+19755;Ind,near dem;$25000 or more;Other;Ind,near dem;$25000 or more
+19756;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19757;Strong democrat;Not applicable;Black;Strong democrat;Not applicable
+19758;Strong republican;Not applicable;White;Strong republican;Not applicable
+19759;Independent;$1000 to 2999;White;Independent;$1000 to 2999
+19760;Ind,near dem;$15000 - 19999;Black;Ind,near dem;$15000 - 19999
+19761;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19762;Strong democrat;$20000 - 24999;Black;Strong democrat;$20000 - 24999
+19763;Not str democrat;$10000 - 14999;White;Not str democrat;$10000 - 14999
+19764;Ind,near dem;Not applicable;Black;Ind,near dem;Not applicable
+19765;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19766;Independent;$6000 to 6999;White;Independent;$6000 to 6999
+19767;Not str republican;Not applicable;White;Not str republican;Not applicable
+19768;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19769;Not str republican;Not applicable;White;Not str republican;Not applicable
+19770;Strong republican;Not applicable;White;Strong republican;Not applicable
+19771;Ind,near rep;$10000 - 14999;White;Ind,near rep;$10000 - 14999
+19772;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19773;Independent;Not applicable;White;Independent;Not applicable
+19774;Independent;$25000 or more;White;Independent;$25000 or more
+19775;Independent;Not applicable;White;Independent;Not applicable
+19776;Strong democrat;$25000 or more;White;Strong democrat;$25000 or more
+19777;Independent;Not applicable;White;Independent;Not applicable
+19778;Strong democrat;$20000 - 24999;Black;Strong democrat;$20000 - 24999
+19779;Independent;Not applicable;Other;Independent;Not applicable
+19780;Ind,near dem;Refused;White;Ind,near dem;Refused
+19781;Other party;$25000 or more;Black;Other party;$25000 or more
+19782;Ind,near dem;Not applicable;White;Ind,near dem;Not applicable
+19783;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19784;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19785;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19786;Ind,near dem;$25000 or more;White;Ind,near dem;$25000 or more
+19787;Ind,near rep;Not applicable;White;Ind,near rep;Not applicable
+19788;Other party;$25000 or more;White;Other party;$25000 or more
+19789;Ind,near rep;$25000 or more;White;Ind,near rep;$25000 or more
+19790;Not str democrat;$25000 or more;Other;Not str democrat;$25000 or more
+19791;Not str democrat;$20000 - 24999;Other;Not str democrat;$20000 - 24999
+19792;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19793;Strong democrat;Not applicable;White;Strong democrat;Not applicable
+19794;Not str democrat;$25000 or more;White;Not str democrat;$25000 or more
+19795;Ind,near rep;$1000 to 2999;White;Ind,near rep;$1000 to 2999
+19796;Ind,near dem;$5000 to 5999;White;Ind,near dem;$5000 to 5999
+19797;Independent;Not applicable;White;Independent;Not applicable
+19798;Ind,near dem;Not applicable;White;Ind,near dem;Not applicable
+19799;Not str democrat;Not applicable;White;Not str democrat;Not applicable
+19800;Ind,near dem;$1000 to 2999;White;Ind,near dem;$1000 to 2999

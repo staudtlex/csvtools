@@ -1,0 +1,301 @@
+obs;rincome;tvhours;partyid;relig;rincome
+7501;$8000 to 9999;8;Ind,near dem;Other;$8000 to 9999
+7502;Not applicable;Not applicable;Ind,near dem;Protestant;Not applicable
+7503;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7504;$10000 - 14999;6;Not str republican;Protestant;$10000 - 14999
+7505;Not applicable;0;Strong democrat;Catholic;Not applicable
+7506;$1000 to 2999;Not applicable;Not str democrat;Protestant;$1000 to 2999
+7507;$5000 to 5999;Not applicable;Not str democrat;Other;$5000 to 5999
+7508;Lt $1000;Not applicable;Strong republican;Protestant;Lt $1000
+7509;$25000 or more;2;Ind,near dem;Protestant;$25000 or more
+7510;$20000 - 24999;Not applicable;Strong democrat;None;$20000 - 24999
+7511;Lt $1000;Not applicable;Ind,near dem;Christian;Lt $1000
+7512;Not applicable;Not applicable;Strong republican;Inter-nondenominational;Not applicable
+7513;Not applicable;1;Not str republican;Catholic;Not applicable
+7514;$10000 - 14999;Not applicable;Not str democrat;None;$10000 - 14999
+7515;$1000 to 2999;0;Ind,near dem;None;$1000 to 2999
+7516;$1000 to 2999;Not applicable;Not str democrat;Protestant;$1000 to 2999
+7517;$20000 - 24999;Not applicable;Ind,near rep;Protestant;$20000 - 24999
+7518;$10000 - 14999;Not applicable;Not str republican;Protestant;$10000 - 14999
+7519;Not applicable;Not applicable;Ind,near rep;Protestant;Not applicable
+7520;Refused;3;Independent;Catholic;Refused
+7521;$25000 or more;Not applicable;Independent;Protestant;$25000 or more
+7522;Refused;Not applicable;Not str republican;Protestant;Refused
+7523;Not applicable;10;Independent;Protestant;Not applicable
+7524;Not applicable;3;Not str democrat;Protestant;Not applicable
+7525;$15000 - 19999;Not applicable;Not str republican;Protestant;$15000 - 19999
+7526;$25000 or more;3;Strong democrat;Protestant;$25000 or more
+7527;$20000 - 24999;Not applicable;Independent;Catholic;$20000 - 24999
+7528;Not applicable;2;Independent;Catholic;Not applicable
+7529;Not applicable;15;Independent;None;Not applicable
+7530;Not applicable;8;Not str democrat;Protestant;Not applicable
+7531;$25000 or more;Not applicable;Strong democrat;Protestant;$25000 or more
+7532;$25000 or more;1;Ind,near dem;Catholic;$25000 or more
+7533;$25000 or more;Not applicable;Strong republican;Catholic;$25000 or more
+7534;$25000 or more;Not applicable;Ind,near dem;None;$25000 or more
+7535;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7536;Not applicable;2;Independent;Protestant;Not applicable
+7537;Not applicable;Not applicable;Strong democrat;Catholic;Not applicable
+7538;$25000 or more;Not applicable;Strong republican;Protestant;$25000 or more
+7539;Not applicable;Not applicable;Ind,near dem;Protestant;Not applicable
+7540;Not applicable;Not applicable;Ind,near rep;Protestant;Not applicable
+7541;$10000 - 14999;2;Strong republican;Protestant;$10000 - 14999
+7542;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7543;Not applicable;Not applicable;Not str republican;Protestant;Not applicable
+7544;$25000 or more;2;Independent;Protestant;$25000 or more
+7545;$25000 or more;2;Not str democrat;None;$25000 or more
+7546;$10000 - 14999;Not applicable;Strong republican;Catholic;$10000 - 14999
+7547;Not applicable;Not applicable;Ind,near dem;Protestant;Not applicable
+7548;$25000 or more;Not applicable;Independent;Catholic;$25000 or more
+7549;$25000 or more;Not applicable;Not str democrat;Catholic;$25000 or more
+7550;Not applicable;2;Strong democrat;Catholic;Not applicable
+7551;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7552;$10000 - 14999;Not applicable;Ind,near dem;Protestant;$10000 - 14999
+7553;$25000 or more;0;Other party;Buddhism;$25000 or more
+7554;$6000 to 6999;Not applicable;Not str democrat;Protestant;$6000 to 6999
+7555;$20000 - 24999;Not applicable;Not str democrat;Catholic;$20000 - 24999
+7556;$20000 - 24999;2;Not str democrat;Catholic;$20000 - 24999
+7557;Not applicable;Not applicable;Strong democrat;Buddhism;Not applicable
+7558;$3000 to 3999;Not applicable;Independent;Catholic;$3000 to 3999
+7559;$20000 - 24999;Not applicable;Ind,near dem;Catholic;$20000 - 24999
+7560;$4000 to 4999;Not applicable;Not str democrat;None;$4000 to 4999
+7561;$25000 or more;Not applicable;Not str democrat;Buddhism;$25000 or more
+7562;$4000 to 4999;2;Strong republican;Protestant;$4000 to 4999
+7563;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7564;Not applicable;Not applicable;Other party;Catholic;Not applicable
+7565;Refused;2;Not str democrat;No answer;Refused
+7566;Not applicable;Not applicable;Not str republican;Buddhism;Not applicable
+7567;No answer;Not applicable;Strong republican;Protestant;No answer
+7568;$25000 or more;Not applicable;Strong republican;Orthodox-christian;$25000 or more
+7569;$25000 or more;1;Not str democrat;None;$25000 or more
+7570;Not applicable;Not applicable;Not str republican;Catholic;Not applicable
+7571;$25000 or more;Not applicable;Independent;Other eastern;$25000 or more
+7572;Don't know;Not applicable;Independent;Protestant;Don't know
+7573;Not applicable;Not applicable;Not str republican;Protestant;Not applicable
+7574;Not applicable;2;Not str democrat;Hinduism;Not applicable
+7575;$25000 or more;Not applicable;Other party;Catholic;$25000 or more
+7576;Not applicable;5;Strong republican;Catholic;Not applicable
+7577;Not applicable;2;Ind,near rep;Catholic;Not applicable
+7578;Not applicable;1;Independent;Christian;Not applicable
+7579;$25000 or more;Not applicable;Independent;Catholic;$25000 or more
+7580;Not applicable;Not applicable;Not str republican;Catholic;Not applicable
+7581;Not applicable;Not applicable;Ind,near rep;Catholic;Not applicable
+7582;Not applicable;2;Not str democrat;None;Not applicable
+7583;$5000 to 5999;Not applicable;Independent;None;$5000 to 5999
+7584;Lt $1000;Not applicable;Ind,near rep;None;Lt $1000
+7585;Not applicable;Not applicable;Strong democrat;Other eastern;Not applicable
+7586;$20000 - 24999;Not applicable;Ind,near rep;None;$20000 - 24999
+7587;$25000 or more;2;Not str republican;Catholic;$25000 or more
+7588;$25000 or more;2;Not str republican;Protestant;$25000 or more
+7589;Not applicable;Not applicable;Strong democrat;None;Not applicable
+7590;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7591;$25000 or more;1;Ind,near dem;Inter-nondenominational;$25000 or more
+7592;Not applicable;4;Ind,near rep;Catholic;Not applicable
+7593;Not applicable;Not applicable;Ind,near dem;Catholic;Not applicable
+7594;$10000 - 14999;Not applicable;Ind,near rep;Catholic;$10000 - 14999
+7595;$25000 or more;3;Independent;Protestant;$25000 or more
+7596;$4000 to 4999;Not applicable;Independent;Protestant;$4000 to 4999
+7597;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7598;Not applicable;Not applicable;Strong republican;Catholic;Not applicable
+7599;$10000 - 14999;0;Independent;None;$10000 - 14999
+7600;Not applicable;4;Not str republican;Catholic;Not applicable
+7601;$20000 - 24999;3;Not str republican;None;$20000 - 24999
+7602;$7000 to 7999;Not applicable;Strong democrat;Protestant;$7000 to 7999
+7603;$25000 or more;Not applicable;Strong democrat;Other eastern;$25000 or more
+7604;$4000 to 4999;2;Strong democrat;None;$4000 to 4999
+7605;$25000 or more;1;Not str republican;Catholic;$25000 or more
+7606;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7607;$25000 or more;Not applicable;Not str republican;Protestant;$25000 or more
+7608;Not applicable;2;Strong republican;Protestant;Not applicable
+7609;$20000 - 24999;2;Not str republican;Protestant;$20000 - 24999
+7610;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7611;$25000 or more;Not applicable;Not str republican;Catholic;$25000 or more
+7612;$25000 or more;2;Strong democrat;Protestant;$25000 or more
+7613;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7614;Lt $1000;Not applicable;Strong democrat;Protestant;Lt $1000
+7615;$25000 or more;Not applicable;Strong democrat;Catholic;$25000 or more
+7616;$25000 or more;3;Strong republican;Protestant;$25000 or more
+7617;$25000 or more;Not applicable;Not str republican;Protestant;$25000 or more
+7618;$1000 to 2999;Not applicable;Strong democrat;Protestant;$1000 to 2999
+7619;Not applicable;Not applicable;Ind,near rep;Protestant;Not applicable
+7620;$25000 or more;1;Not str republican;Protestant;$25000 or more
+7621;$25000 or more;Not applicable;Strong republican;Protestant;$25000 or more
+7622;$10000 - 14999;1;Not str republican;Catholic;$10000 - 14999
+7623;$25000 or more;1;Strong republican;Catholic;$25000 or more
+7624;$25000 or more;Not applicable;Not str republican;Catholic;$25000 or more
+7625;$10000 - 14999;3;Strong democrat;None;$10000 - 14999
+7626;$3000 to 3999;Not applicable;Ind,near dem;Protestant;$3000 to 3999
+7627;$15000 - 19999;Not applicable;Ind,near dem;Protestant;$15000 - 19999
+7628;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7629;$25000 or more;Not applicable;Not str republican;Protestant;$25000 or more
+7630;Not applicable;2;Not str republican;Protestant;Not applicable
+7631;$25000 or more;Not applicable;Ind,near dem;Protestant;$25000 or more
+7632;$3000 to 3999;Not applicable;Not str democrat;Protestant;$3000 to 3999
+7633;$15000 - 19999;Not applicable;Not str democrat;Protestant;$15000 - 19999
+7634;Not applicable;Not applicable;Independent;None;Not applicable
+7635;$20000 - 24999;0;Strong democrat;None;$20000 - 24999
+7636;$15000 - 19999;4;Independent;None;$15000 - 19999
+7637;Not applicable;1;Ind,near dem;None;Not applicable
+7638;$20000 - 24999;Not applicable;Not str democrat;Catholic;$20000 - 24999
+7639;$15000 - 19999;Not applicable;Independent;None;$15000 - 19999
+7640;Not applicable;Not applicable;Ind,near dem;Protestant;Not applicable
+7641;$3000 to 3999;2;Strong republican;Christian;$3000 to 3999
+7642;$10000 - 14999;3;Strong democrat;None;$10000 - 14999
+7643;$25000 or more;Not applicable;Strong democrat;None;$25000 or more
+7644;$15000 - 19999;1;Not str republican;Protestant;$15000 - 19999
+7645;$25000 or more;Not applicable;Ind,near rep;None;$25000 or more
+7646;$25000 or more;Not applicable;Ind,near dem;Protestant;$25000 or more
+7647;Not applicable;Not applicable;Ind,near rep;Protestant;Not applicable
+7648;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7649;$25000 or more;1;Not str republican;Protestant;$25000 or more
+7650;$6000 to 6999;Not applicable;Strong republican;Protestant;$6000 to 6999
+7651;$25000 or more;Not applicable;Not str republican;Christian;$25000 or more
+7652;$4000 to 4999;4;Strong republican;None;$4000 to 4999
+7653;Not applicable;Not applicable;Not str republican;Protestant;Not applicable
+7654;$20000 - 24999;Not applicable;Strong democrat;None;$20000 - 24999
+7655;$10000 - 14999;6;Independent;None;$10000 - 14999
+7656;Lt $1000;Not applicable;Ind,near rep;Protestant;Lt $1000
+7657;Not applicable;Not applicable;Independent;None;Not applicable
+7658;$20000 - 24999;Not applicable;Independent;Protestant;$20000 - 24999
+7659;$25000 or more;5;Not str republican;None;$25000 or more
+7660;Not applicable;4;Not str democrat;None;Not applicable
+7661;Not applicable;Not applicable;Ind,near dem;Catholic;Not applicable
+7662;$15000 - 19999;Not applicable;Not str republican;Protestant;$15000 - 19999
+7663;$7000 to 7999;5;Not str republican;Christian;$7000 to 7999
+7664;Not applicable;5;Independent;None;Not applicable
+7665;Not applicable;Not applicable;Independent;None;Not applicable
+7666;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7667;$25000 or more;4;Strong democrat;Protestant;$25000 or more
+7668;Not applicable;1;Strong republican;Protestant;Not applicable
+7669;$8000 to 9999;Not applicable;Strong republican;Catholic;$8000 to 9999
+7670;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7671;$5000 to 5999;Not applicable;Independent;None;$5000 to 5999
+7672;$25000 or more;Not applicable;Ind,near rep;Christian;$25000 or more
+7673;$25000 or more;2;Not str republican;Protestant;$25000 or more
+7674;$20000 - 24999;2;Strong republican;Protestant;$20000 - 24999
+7675;Not applicable;1;Ind,near rep;None;Not applicable
+7676;$25000 or more;0;Strong democrat;None;$25000 or more
+7677;Not applicable;Not applicable;Independent;Catholic;Not applicable
+7678;Refused;Not applicable;No answer;Orthodox-christian;Refused
+7679;$10000 - 14999;Not applicable;Not str republican;Catholic;$10000 - 14999
+7680;$25000 or more;Not applicable;Strong republican;Catholic;$25000 or more
+7681;$25000 or more;2;Strong republican;Protestant;$25000 or more
+7682;$20000 - 24999;14;Ind,near rep;Protestant;$20000 - 24999
+7683;Not applicable;Not applicable;Not str republican;Protestant;Not applicable
+7684;$25000 or more;Not applicable;Not str republican;None;$25000 or more
+7685;Not applicable;0;Independent;Inter-nondenominational;Not applicable
+7686;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7687;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7688;Refused;Not applicable;Not str republican;Christian;Refused
+7689;$10000 - 14999;1;Not str democrat;None;$10000 - 14999
+7690;$20000 - 24999;4;Not str democrat;Catholic;$20000 - 24999
+7691;$25000 or more;10;Ind,near rep;Catholic;$25000 or more
+7692;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7693;Not applicable;Not applicable;Ind,near dem;Protestant;Not applicable
+7694;Not applicable;5;Strong democrat;Catholic;Not applicable
+7695;$15000 - 19999;2;Ind,near rep;Catholic;$15000 - 19999
+7696;$25000 or more;Not applicable;Ind,near rep;Protestant;$25000 or more
+7697;$10000 - 14999;Not applicable;Ind,near rep;Protestant;$10000 - 14999
+7698;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7699;$25000 or more;1;Strong republican;Protestant;$25000 or more
+7700;Not applicable;Not applicable;Strong democrat;Catholic;Not applicable
+7701;$15000 - 19999;Not applicable;Not str republican;Protestant;$15000 - 19999
+7702;Refused;Not applicable;Independent;Protestant;Refused
+7703;$20000 - 24999;3;Ind,near dem;Protestant;$20000 - 24999
+7704;Lt $1000;Not applicable;Not str democrat;Catholic;Lt $1000
+7705;Not applicable;4;Strong republican;Protestant;Not applicable
+7706;$15000 - 19999;Not applicable;Strong republican;Protestant;$15000 - 19999
+7707;$15000 - 19999;Not applicable;Independent;Protestant;$15000 - 19999
+7708;$25000 or more;Not applicable;Ind,near dem;Catholic;$25000 or more
+7709;$25000 or more;Not applicable;Independent;None;$25000 or more
+7710;Lt $1000;5;Ind,near dem;None;Lt $1000
+7711;$10000 - 14999;Not applicable;Independent;Catholic;$10000 - 14999
+7712;$25000 or more;Not applicable;Ind,near rep;Protestant;$25000 or more
+7713;$25000 or more;Not applicable;Ind,near rep;Protestant;$25000 or more
+7714;$10000 - 14999;7;Not str democrat;Protestant;$10000 - 14999
+7715;$25000 or more;Not applicable;Ind,near dem;Protestant;$25000 or more
+7716;$1000 to 2999;3;Not str republican;Protestant;$1000 to 2999
+7717;Not applicable;5;Not str democrat;Christian;Not applicable
+7718;Not applicable;Not applicable;Ind,near dem;Catholic;Not applicable
+7719;$20000 - 24999;1;Ind,near dem;Protestant;$20000 - 24999
+7720;Refused;Not applicable;Strong republican;Protestant;Refused
+7721;Refused;Not applicable;Strong republican;Protestant;Refused
+7722;$25000 or more;2;Strong republican;None;$25000 or more
+7723;Not applicable;Not applicable;Not str democrat;Catholic;Not applicable
+7724;Not applicable;Not applicable;Ind,near dem;None;Not applicable
+7725;$15000 - 19999;3;Strong democrat;Protestant;$15000 - 19999
+7726;$20000 - 24999;2;Not str republican;Protestant;$20000 - 24999
+7727;Refused;Not applicable;Ind,near dem;Protestant;Refused
+7728;Not applicable;1;Independent;Protestant;Not applicable
+7729;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7730;$20000 - 24999;2;Independent;Protestant;$20000 - 24999
+7731;$20000 - 24999;Not applicable;Not str democrat;Protestant;$20000 - 24999
+7732;Not applicable;Not applicable;Not str republican;Protestant;Not applicable
+7733;$10000 - 14999;Not applicable;Independent;Inter-nondenominational;$10000 - 14999
+7734;$1000 to 2999;Not applicable;Not str democrat;Protestant;$1000 to 2999
+7735;Not applicable;Not applicable;Not str democrat;Protestant;Not applicable
+7736;Not applicable;Not applicable;Not str republican;Christian;Not applicable
+7737;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7738;Not applicable;8;Independent;None;Not applicable
+7739;Not applicable;Not applicable;Ind,near rep;None;Not applicable
+7740;Not applicable;Not applicable;Not str democrat;Protestant;Not applicable
+7741;$15000 - 19999;Not applicable;Not str democrat;None;$15000 - 19999
+7742;$20000 - 24999;1;Independent;Protestant;$20000 - 24999
+7743;$15000 - 19999;Not applicable;Not str republican;Protestant;$15000 - 19999
+7744;Refused;4;Ind,near dem;Protestant;Refused
+7745;$25000 or more;Not applicable;Strong republican;Protestant;$25000 or more
+7746;Not applicable;4;Strong democrat;Protestant;Not applicable
+7747;Not applicable;3;Not str democrat;Protestant;Not applicable
+7748;Not applicable;2;Strong democrat;Protestant;Not applicable
+7749;Not applicable;Not applicable;Independent;Catholic;Not applicable
+7750;Not applicable;Not applicable;Not str republican;Catholic;Not applicable
+7751;Not applicable;1;Ind,near rep;Protestant;Not applicable
+7752;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7753;Lt $1000;Not applicable;Ind,near rep;Protestant;Lt $1000
+7754;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7755;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7756;$25000 or more;Not applicable;Ind,near dem;Protestant;$25000 or more
+7757;$20000 - 24999;4;Ind,near rep;Protestant;$20000 - 24999
+7758;Not applicable;Not applicable;Ind,near dem;Protestant;Not applicable
+7759;Not applicable;6;Strong democrat;Protestant;Not applicable
+7760;$10000 - 14999;Not applicable;Ind,near dem;Protestant;$10000 - 14999
+7761;Refused;Not applicable;Independent;Christian;Refused
+7762;Not applicable;Not applicable;Not str democrat;None;Not applicable
+7763;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7764;$3000 to 3999;Not applicable;Not str democrat;None;$3000 to 3999
+7765;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7766;Not applicable;4;No answer;Protestant;Not applicable
+7767;Not applicable;2;Not str republican;Protestant;Not applicable
+7768;Refused;Not applicable;Not str republican;Protestant;Refused
+7769;$1000 to 2999;Not applicable;Ind,near rep;Protestant;$1000 to 2999
+7770;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7771;$10000 - 14999;Not applicable;Ind,near rep;Catholic;$10000 - 14999
+7772;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7773;$20000 - 24999;2;Independent;Protestant;$20000 - 24999
+7774;$4000 to 4999;Not applicable;Ind,near rep;Protestant;$4000 to 4999
+7775;$25000 or more;Not applicable;Independent;None;$25000 or more
+7776;$15000 - 19999;Not applicable;Ind,near rep;None;$15000 - 19999
+7777;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7778;Not applicable;2;Strong democrat;Protestant;Not applicable
+7779;$25000 or more;Not applicable;Not str democrat;Protestant;$25000 or more
+7780;$7000 to 7999;2;Ind,near rep;Protestant;$7000 to 7999
+7781;Refused;2;Independent;Protestant;Refused
+7782;$15000 - 19999;Not applicable;Ind,near rep;Protestant;$15000 - 19999
+7783;Not applicable;1;Independent;None;Not applicable
+7784;$25000 or more;Not applicable;Ind,near rep;Protestant;$25000 or more
+7785;$7000 to 7999;Not applicable;Independent;None;$7000 to 7999
+7786;Refused;Not applicable;Not str republican;Protestant;Refused
+7787;Not applicable;5;Not str democrat;Protestant;Not applicable
+7788;Not applicable;5;Not str democrat;Protestant;Not applicable
+7789;Not applicable;6;Strong republican;None;Not applicable
+7790;Not applicable;Not applicable;Not str republican;None;Not applicable
+7791;Not applicable;Not applicable;Ind,near rep;Protestant;Not applicable
+7792;Not applicable;Not applicable;Strong republican;Protestant;Not applicable
+7793;Not applicable;Not applicable;Not str republican;Protestant;Not applicable
+7794;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7795;$25000 or more;Not applicable;Ind,near dem;Protestant;$25000 or more
+7796;Not applicable;Not applicable;Strong democrat;Protestant;Not applicable
+7797;Not applicable;7;Not str democrat;Protestant;Not applicable
+7798;$15000 - 19999;Not applicable;Strong democrat;Protestant;$15000 - 19999
+7799;Not applicable;Not applicable;Independent;Protestant;Not applicable
+7800;Not applicable;4;Strong republican;Protestant;Not applicable

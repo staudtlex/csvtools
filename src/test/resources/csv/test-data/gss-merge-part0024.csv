@@ -1,0 +1,301 @@
+obs;age;year;tvhours;tvhours;relig
+6901;34;2004;1;1;Protestant
+6902;79;2004;10;10;Protestant
+6903;35;2004;Not applicable;Not applicable;Catholic
+6904;39;2004;1;1;Catholic
+6905;25;2004;Not applicable;Not applicable;Protestant
+6906;27;2004;Not applicable;Not applicable;Catholic
+6907;20;2004;Not applicable;Not applicable;None
+6908;48;2004;Not applicable;Not applicable;Catholic
+6909;47;2004;Not applicable;Not applicable;Catholic
+6910;72;2004;Not applicable;Not applicable;Protestant
+6911;21;2004;5;5;None
+6912;63;2004;Not applicable;Not applicable;Protestant
+6913;67;2004;6;6;Catholic
+6914;33;2004;Not applicable;Not applicable;Protestant
+6915;62;2004;Not applicable;Not applicable;Protestant
+6916;48;2004;Not applicable;Not applicable;Protestant
+6917;41;2004;1;1;Protestant
+6918;51;2004;Not applicable;Not applicable;Catholic
+6919;35;2004;Not applicable;Not applicable;Protestant
+6920;51;2004;Not applicable;Not applicable;Other
+6921;41;2004;Not applicable;Not applicable;None
+6922;36;2004;Not applicable;Not applicable;Protestant
+6923;55;2004;Not applicable;Not applicable;Protestant
+6924;18;2004;Not applicable;Not applicable;Protestant
+6925;48;2004;2;2;Catholic
+6926;19;2004;Not applicable;Not applicable;Protestant
+6927;27;2004;Not applicable;Not applicable;Hinduism
+6928;19;2004;Not applicable;Not applicable;Protestant
+6929;67;2004;Not applicable;Not applicable;None
+6930;24;2004;Not applicable;Not applicable;Catholic
+6931;28;2004;1;1;Protestant
+6932;71;2004;Not applicable;Not applicable;Protestant
+6933;42;2004;Not applicable;Not applicable;Protestant
+6934;67;2004;3;3;Catholic
+6935;48;2004;Not applicable;Not applicable;Protestant
+6936;42;2004;Not applicable;Not applicable;Christian
+6937;44;2004;3;3;Protestant
+6938;43;2004;2;2;Catholic
+6939;80;2004;Not applicable;Not applicable;Protestant
+6940;78;2004;3;3;Catholic
+6941;31;2004;Not applicable;Not applicable;Catholic
+6942;55;2004;2;2;Protestant
+6943;42;2004;0;0;None
+6944;67;2004;Not applicable;Not applicable;Catholic
+6945;67;2004;Not applicable;Not applicable;Protestant
+6946;58;2004;Not applicable;Not applicable;Protestant
+6947;38;2004;Not applicable;Not applicable;Catholic
+6948;34;2004;Not applicable;Not applicable;Protestant
+6949;47;2004;Not applicable;Not applicable;Catholic
+6950;65;2004;2;2;Protestant
+6951;52;2004;1;1;Catholic
+6952;24;2004;Not applicable;Not applicable;Protestant
+6953;53;2004;2;2;Protestant
+6954;27;2004;Not applicable;Not applicable;Protestant
+6955;30;2004;Not applicable;Not applicable;Protestant
+6956;35;2004;Not applicable;Not applicable;None
+6957;55;2004;3;3;Catholic
+6958;45;2004;Not applicable;Not applicable;Catholic
+6959;54;2004;Not applicable;Not applicable;Protestant
+6960;41;2004;1;1;Catholic
+6961;24;2004;Not applicable;Not applicable;Catholic
+6962;33;2004;Not applicable;Not applicable;Protestant
+6963;27;2004;5;5;Other
+6964;70;2004;Not applicable;Not applicable;Protestant
+6965;27;2004;Not applicable;Not applicable;None
+6966;21;2004;Not applicable;Not applicable;Catholic
+6967;49;2004;Not applicable;Not applicable;Protestant
+6968;33;2004;Not applicable;Not applicable;None
+6969;29;2004;Not applicable;Not applicable;Protestant
+6970;37;2004;Not applicable;Not applicable;Protestant
+6971;57;2004;Not applicable;Not applicable;Catholic
+6972;44;2004;Not applicable;Not applicable;Protestant
+6973;20;2004;1;1;Catholic
+6974;41;2004;Not applicable;Not applicable;Protestant
+6975;31;2004;Not applicable;Not applicable;None
+6976;72;2004;5;5;Protestant
+6977;24;2004;3;3;None
+6978;40;2004;0;0;Moslem/islam
+6979;20;2004;1;1;Protestant
+6980;24;2004;Not applicable;Not applicable;None
+6981;54;2004;Not applicable;Not applicable;Protestant
+6982;64;2004;4;4;None
+6983;58;2004;Not applicable;Not applicable;Protestant
+6984;46;2004;0;0;Protestant
+6985;40;2004;Not applicable;Not applicable;Catholic
+6986;42;2004;2;2;Catholic
+6987;45;2004;Not applicable;Not applicable;Protestant
+6988;28;2004;Not applicable;Not applicable;Protestant
+6989;75;2004;Not applicable;Not applicable;Protestant
+6990;64;2004;Not applicable;Not applicable;Jewish
+6991;31;2004;Not applicable;Not applicable;Other
+6992;35;2004;7;7;Inter-nondenominational
+6993;65;2004;4;4;Catholic
+6994;66;2004;Not applicable;Not applicable;Catholic
+6995;30;2004;Not applicable;Not applicable;Protestant
+6996;89 or older;2004;5;5;Protestant
+6997;24;2004;0;0;Protestant
+6998;29;2004;Not applicable;Not applicable;Buddhism
+6999;19;2004;Not applicable;Not applicable;None
+7000;60;2004;Not applicable;Not applicable;Protestant
+7001;28;2004;1;1;None
+7002;52;2004;3;3;None
+7003;34;2004;Not applicable;Not applicable;Protestant
+7004;22;2004;2;2;Protestant
+7005;72;2004;Not applicable;Not applicable;Catholic
+7006;23;2004;4;4;None
+7007;55;2004;Not applicable;Not applicable;None
+7008;42;2004;Not applicable;Not applicable;None
+7009;78;2004;Not applicable;Not applicable;Protestant
+7010;49;2004;Not applicable;Not applicable;None
+7011;27;2004;Not applicable;Not applicable;Protestant
+7012;63;2004;Not applicable;Not applicable;Protestant
+7013;50;2004;Not applicable;Not applicable;Protestant
+7014;35;2004;Not applicable;Not applicable;Orthodox-christian
+7015;28;2004;0;0;None
+7016;70;2004;Not applicable;Not applicable;Protestant
+7017;67;2004;3;3;Catholic
+7018;25;2004;3;3;None
+7019;43;2004;Not applicable;Not applicable;None
+7020;30;2004;Not applicable;Not applicable;Protestant
+7021;65;2004;Not applicable;Not applicable;None
+7022;50;2004;Not applicable;Not applicable;Protestant
+7023;52;2004;Not applicable;Not applicable;Protestant
+7024;65;2004;Not applicable;Not applicable;Protestant
+7025;81;2004;Not applicable;Not applicable;Protestant
+7026;18;2004;Not applicable;Not applicable;Protestant
+7027;28;2004;Not applicable;Not applicable;None
+7028;41;2004;Not applicable;Not applicable;None
+7029;38;2004;2;2;Protestant
+7030;28;2004;Not applicable;Not applicable;Protestant
+7031;77;2004;Not applicable;Not applicable;Protestant
+7032;82;2004;Not applicable;Not applicable;Protestant
+7033;23;2004;Not applicable;Not applicable;Protestant
+7034;24;2004;Not applicable;Not applicable;Protestant
+7035;72;2004;Not applicable;Not applicable;Protestant
+7036;19;2004;4;4;Protestant
+7037;29;2004;1;1;Protestant
+7038;22;2004;2;2;Protestant
+7039;61;2004;Not applicable;Not applicable;Protestant
+7040;21;2004;Not applicable;Not applicable;Protestant
+7041;20;2004;1;1;Protestant
+7042;18;2004;3;3;Protestant
+7043;21;2004;1;1;None
+7044;26;2004;Not applicable;Not applicable;Catholic
+7045;49;2004;Not applicable;Not applicable;Hinduism
+7046;38;2004;Not applicable;Not applicable;Protestant
+7047;19;2004;Not applicable;Not applicable;Protestant
+7048;32;2004;Not applicable;Not applicable;Protestant
+7049;61;2004;Not applicable;Not applicable;Protestant
+7050;54;2004;Not applicable;Not applicable;Protestant
+7051;66;2004;1;1;Protestant
+7052;25;2004;Not applicable;Not applicable;Protestant
+7053;26;2004;1;1;Protestant
+7054;24;2004;1;1;Jewish
+7055;30;2004;2;2;Inter-nondenominational
+7056;57;2004;1;1;Protestant
+7057;23;2004;Not applicable;Not applicable;Protestant
+7058;74;2004;Not applicable;Not applicable;Protestant
+7059;39;2004;Not applicable;Not applicable;None
+7060;57;2004;2;2;Protestant
+7061;24;2004;Not applicable;Not applicable;Protestant
+7062;46;2004;Not applicable;Not applicable;Protestant
+7063;57;2004;Not applicable;Not applicable;Protestant
+7064;24;2004;Not applicable;Not applicable;Protestant
+7065;34;2004;Not applicable;Not applicable;Protestant
+7066;40;2004;2;2;Protestant
+7067;57;2004;Not applicable;Not applicable;Protestant
+7068;50;2004;Not applicable;Not applicable;Protestant
+7069;38;2004;4;4;Protestant
+7070;26;2004;3;3;None
+7071;68;2004;Not applicable;Not applicable;None
+7072;57;2004;1;1;None
+7073;52;2004;4;4;Catholic
+7074;60;2004;Not applicable;Not applicable;Protestant
+7075;43;2004;Not applicable;Not applicable;Catholic
+7076;40;2004;Not applicable;Not applicable;None
+7077;70;2004;Not applicable;Not applicable;Protestant
+7078;79;2004;Not applicable;Not applicable;None
+7079;57;2004;Not applicable;Not applicable;None
+7080;37;2004;1;1;Christian
+7081;56;2004;2;2;Protestant
+7082;48;2004;Not applicable;Not applicable;Protestant
+7083;73;2004;Not applicable;Not applicable;Protestant
+7084;50;2004;1;1;Catholic
+7085;56;2004;Not applicable;Not applicable;Catholic
+7086;79;2004;4;4;Catholic
+7087;21;2004;Not applicable;Not applicable;Protestant
+7088;60;2004;Not applicable;Not applicable;Catholic
+7089;21;2004;Not applicable;Not applicable;None
+7090;44;2004;2;2;None
+7091;68;2004;Not applicable;Not applicable;Catholic
+7092;39;2004;Not applicable;Not applicable;Catholic
+7093;44;2004;Not applicable;Not applicable;Protestant
+7094;70;2004;16;16;Catholic
+7095;34;2004;2;2;Protestant
+7096;67;2004;3;3;Protestant
+7097;52;2004;Not applicable;Not applicable;Catholic
+7098;89 or older;2004;Not applicable;Not applicable;Catholic
+7099;55;2004;Not applicable;Not applicable;None
+7100;64;2004;Not applicable;Not applicable;Inter-nondenominational
+7101;75;2004;1;1;None
+7102;59;2004;2;2;Protestant
+7103;62;2004;3;3;Protestant
+7104;47;2004;Not applicable;Not applicable;None
+7105;32;2004;Not applicable;Not applicable;Inter-nondenominational
+7106;36;2004;Not applicable;Not applicable;Protestant
+7107;80;2004;Not applicable;Not applicable;Catholic
+7108;87;2004;Not applicable;Not applicable;Protestant
+7109;45;2004;Not applicable;Not applicable;Catholic
+7110;71;2004;Not applicable;Not applicable;Protestant
+7111;57;2004;Not applicable;Not applicable;None
+7112;67;2004;2;2;Protestant
+7113;21;2004;Not applicable;Not applicable;Catholic
+7114;35;2004;Not applicable;Not applicable;Protestant
+7115;58;2004;2;2;Catholic
+7116;35;2004;2;2;None
+7117;22;2004;4;4;Catholic
+7118;59;2004;8;8;Christian
+7119;38;2004;Not applicable;Not applicable;Catholic
+7120;83;2004;Not applicable;Not applicable;Catholic
+7121;25;2004;Not applicable;Not applicable;Protestant
+7122;30;2004;Not applicable;Not applicable;Catholic
+7123;73;2004;Not applicable;Not applicable;Protestant
+7124;44;2004;Not applicable;Not applicable;Protestant
+7125;59;2004;Not applicable;Not applicable;None
+7126;53;2004;2;2;Protestant
+7127;68;2004;Not applicable;Not applicable;Protestant
+7128;31;2004;5;5;Protestant
+7129;32;2004;Not applicable;Not applicable;Protestant
+7130;52;2004;Not applicable;Not applicable;Protestant
+7131;63;2004;3;3;Protestant
+7132;47;2004;12;12;Protestant
+7133;47;2004;Not applicable;Not applicable;Protestant
+7134;79;2004;10;10;Protestant
+7135;86;2004;Not applicable;Not applicable;Protestant
+7136;45;2004;Not applicable;Not applicable;Protestant
+7137;82;2004;1;1;Protestant
+7138;29;2004;1;1;Protestant
+7139;23;2004;Not applicable;Not applicable;Protestant
+7140;43;2004;Not applicable;Not applicable;Protestant
+7141;30;2004;Not applicable;Not applicable;None
+7142;38;2004;Not applicable;Not applicable;None
+7143;50;2004;Not applicable;Not applicable;Protestant
+7144;75;2004;Not applicable;Not applicable;None
+7145;44;2004;1;1;Protestant
+7146;55;2004;8;8;Protestant
+7147;36;2004;Not applicable;Not applicable;Protestant
+7148;43;2004;Not applicable;Not applicable;Protestant
+7149;26;2004;Not applicable;Not applicable;None
+7150;39;2004;1;1;Christian
+7151;34;2004;Not applicable;Not applicable;Catholic
+7152;72;2004;16;16;Catholic
+7153;50;2004;2;2;Protestant
+7154;79;2004;Not applicable;Not applicable;Protestant
+7155;28;2004;Not applicable;Not applicable;Moslem/islam
+7156;50;2004;Not applicable;Not applicable;Protestant
+7157;20;2004;Not applicable;Not applicable;None
+7158;40;2004;7;7;Protestant
+7159;51;2004;2;2;Catholic
+7160;26;2004;Not applicable;Not applicable;Protestant
+7161;29;2004;Not applicable;Not applicable;Protestant
+7162;29;2004;2;2;Catholic
+7163;51;2004;Not applicable;Not applicable;Protestant
+7164;58;2004;Not applicable;Not applicable;Protestant
+7165;64;2004;Not applicable;Not applicable;Other
+7166;58;2004;6;6;Other
+7167;26;2004;Not applicable;Not applicable;Protestant
+7168;50;2004;Not applicable;Not applicable;Catholic
+7169;81;2004;Not applicable;Not applicable;Protestant
+7170;83;2004;Not applicable;Not applicable;Jewish
+7171;65;2004;12;12;Protestant
+7172;25;2004;Not applicable;Not applicable;Catholic
+7173;45;2004;Not applicable;Not applicable;None
+7174;48;2004;Not applicable;Not applicable;None
+7175;28;2004;10;10;None
+7176;31;2004;1;1;Protestant
+7177;27;2004;1;1;Protestant
+7178;23;2004;Not applicable;Not applicable;Protestant
+7179;71;2004;Not applicable;Not applicable;Protestant
+7180;51;2004;Not applicable;Not applicable;Protestant
+7181;57;2004;Not applicable;Not applicable;Protestant
+7182;50;2004;Not applicable;Not applicable;Protestant
+7183;31;2004;Not applicable;Not applicable;Protestant
+7184;47;2004;Not applicable;Not applicable;None
+7185;52;2004;Not applicable;Not applicable;Catholic
+7186;30;2004;14;14;Catholic
+7187;37;2004;6;6;Protestant
+7188;47;2004;Not applicable;Not applicable;None
+7189;18;2004;3;3;Protestant
+7190;36;2004;1;1;None
+7191;69;2004;2;2;Protestant
+7192;39;2004;2;2;None
+7193;67;2004;Not applicable;Not applicable;Protestant
+7194;77;2004;Not applicable;Not applicable;Protestant
+7195;60;2004;4;4;Protestant
+7196;66;2004;4;4;No answer
+7197;31;2004;0;0;Catholic
+7198;33;2004;Not applicable;Not applicable;Catholic
+7199;38;2004;Not applicable;Not applicable;Protestant
+7200;32;2004;Not applicable;Not applicable;Protestant

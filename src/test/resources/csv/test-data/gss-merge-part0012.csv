@@ -1,0 +1,301 @@
+obs;tvhours;marital;rincome;age;partyid
+3301;Not applicable;Never married;$5000 to 5999;49;Not str republican
+3302;Not applicable;Never married;$20000 - 24999;47;Strong democrat
+3303;Not applicable;Separated;$10000 - 14999;45;Not str democrat
+3304;3;Married;Refused;25;Not str democrat
+3305;3;Never married;Refused;49;Not str democrat
+3306;Not applicable;Widowed;Not applicable;76;Not str democrat
+3307;Not applicable;Never married;Not applicable;28;Strong democrat
+3308;2;Widowed;Not applicable;62;Strong republican
+3309;Not applicable;Married;Not applicable;43;Independent
+3310;3;Never married;$25000 or more;31;Ind,near dem
+3311;2;Widowed;Refused;59;Ind,near dem
+3312;Not applicable;Married;$1000 to 2999;67;Independent
+3313;Not applicable;Married;Refused;41;Independent
+3314;Not applicable;Married;$15000 - 19999;37;Not str republican
+3315;Not applicable;Married;$25000 or more;37;Not str republican
+3316;1;Married;$25000 or more;35;Strong republican
+3317;2;Married;$25000 or more;54;Not str republican
+3318;1;Married;$25000 or more;39;Ind,near rep
+3319;3;Married;$10000 - 14999;47;Not str democrat
+3320;Not applicable;Married;Not applicable;35;Not str democrat
+3321;1;Married;$8000 to 9999;42;Strong democrat
+3322;Not applicable;Never married;Don't know;48;Independent
+3323;2;Married;$25000 or more;31;Not str democrat
+3324;Not applicable;Never married;Not applicable;37;Not str democrat
+3325;Not applicable;Married;Not applicable;40;Independent
+3326;Not applicable;Married;$25000 or more;41;Not str democrat
+3327;12;Married;$25000 or more;55;Not str democrat
+3328;5;Divorced;Not applicable;51;Not str democrat
+3329;Not applicable;Married;$25000 or more;36;Strong democrat
+3330;Not applicable;Widowed;$8000 to 9999;63;Not str democrat
+3331;6;Married;Lt $1000;42;Ind,near rep
+3332;Not applicable;Never married;Not applicable;39;Ind,near dem
+3333;Not applicable;Divorced;$10000 - 14999;33;Strong democrat
+3334;4;Never married;Lt $1000;21;Not str democrat
+3335;Not applicable;Married;$10000 - 14999;34;Ind,near rep
+3336;Not applicable;Divorced;Not applicable;58;Not str democrat
+3337;3;Never married;$25000 or more;62;Independent
+3338;0;Married;$25000 or more;39;Independent
+3339;Not applicable;Married;$10000 - 14999;61;Ind,near dem
+3340;Not applicable;Never married;$25000 or more;28;Not str democrat
+3341;Not applicable;Married;$25000 or more;34;Strong democrat
+3342;Not applicable;Married;$10000 - 14999;53;Independent
+3343;1;Never married;$25000 or more;50;Strong democrat
+3344;1;Married;$25000 or more;43;Independent
+3345;Not applicable;Married;$15000 - 19999;35;Not str democrat
+3346;Not applicable;Married;$25000 or more;32;Not str democrat
+3347;Not applicable;Married;$25000 or more;55;Independent
+3348;Not applicable;Married;$25000 or more;49;Strong republican
+3349;Not applicable;Married;$25000 or more;41;Independent
+3350;Not applicable;Married;Not applicable;40;Independent
+3351;Not applicable;Never married;$20000 - 24999;42;Strong republican
+3352;1;Married;$25000 or more;37;Ind,near rep
+3353;2;Married;$25000 or more;36;Strong republican
+3354;Not applicable;Married;$25000 or more;59;Strong republican
+3355;Not applicable;Married;$25000 or more;50;Not str republican
+3356;Not applicable;Divorced;Not applicable;66;Strong democrat
+3357;Not applicable;Never married;$25000 or more;32;Not str democrat
+3358;Not applicable;Divorced;Lt $1000;37;Independent
+3359;Not applicable;Married;$25000 or more;32;Not str democrat
+3360;Not applicable;Married;$25000 or more;60;Not str republican
+3361;Not applicable;Married;$25000 or more;32;Ind,near dem
+3362;6;Married;$25000 or more;45;Independent
+3363;Not applicable;Married;$25000 or more;37;Independent
+3364;Not applicable;Widowed;Not applicable;78;Ind,near dem
+3365;Not applicable;Married;Don't know;63;Not str republican
+3366;4;Married;$25000 or more;41;Independent
+3367;Not applicable;Married;$25000 or more;32;Not str republican
+3368;Not applicable;Divorced;$25000 or more;55;Independent
+3369;Not applicable;Widowed;Not applicable;70;Ind,near dem
+3370;2;Married;$25000 or more;60;Independent
+3371;Not applicable;Never married;Refused;46;No answer
+3372;Not applicable;Widowed;$20000 - 24999;63;Not str democrat
+3373;Not applicable;Married;$25000 or more;53;Independent
+3374;3;Divorced;Not applicable;43;Not str democrat
+3375;Not applicable;Married;$25000 or more;33;Not str republican
+3376;Not applicable;Married;No answer;30;Strong republican
+3377;Not applicable;Never married;Not applicable;35;Ind,near rep
+3378;Not applicable;Divorced;Not applicable;40;Independent
+3379;Not applicable;Married;$15000 - 19999;34;Ind,near dem
+3380;Not applicable;Married;Not applicable;28;Not str democrat
+3381;2;Married;$8000 to 9999;76;Ind,near dem
+3382;Not applicable;Divorced;$25000 or more;47;Not str democrat
+3383;Not applicable;Never married;$20000 - 24999;24;Independent
+3384;Not applicable;Divorced;Not applicable;65;Independent
+3385;12;Never married;Not applicable;50;Independent
+3386;Not applicable;Never married;$25000 or more;44;Independent
+3387;Not applicable;Widowed;Not applicable;79;Strong democrat
+3388;Not applicable;Never married;Refused;28;Independent
+3389;2;Divorced;$15000 - 19999;64;Independent
+3390;Not applicable;Never married;Not applicable;23;Independent
+3391;Not applicable;Divorced;$10000 - 14999;37;Not str democrat
+3392;Not applicable;Separated;Refused;48;Strong democrat
+3393;Not applicable;Separated;$25000 or more;39;Not str republican
+3394;6;Married;Not applicable;77;Ind,near dem
+3395;Not applicable;Never married;$8000 to 9999;35;Independent
+3396;Not applicable;Married;$25000 or more;48;Strong republican
+3397;Not applicable;Never married;$10000 - 14999;50;Not str democrat
+3398;Not applicable;Separated;$25000 or more;48;Not str republican
+3399;Not applicable;Divorced;Not applicable;75;Not str republican
+3400;4;Never married;Not applicable;25;Independent
+3401;Not applicable;Divorced;$25000 or more;45;Strong republican
+3402;Not applicable;Widowed;Not applicable;62;Not str democrat
+3403;Not applicable;Widowed;Not applicable;57;Independent
+3404;5;Never married;$15000 - 19999;30;Independent
+3405;Not applicable;Married;$25000 or more;32;Independent
+3406;Not applicable;Married;No answer;67;Strong democrat
+3407;7;Married;Not applicable;54;Not str democrat
+3408;Not applicable;Divorced;Not applicable;62;Not str democrat
+3409;2;Never married;$15000 - 19999;33;Not str republican
+3410;Not applicable;Divorced;Not applicable;67;Ind,near dem
+3411;Not applicable;Married;$25000 or more;48;Strong republican
+3412;2;Never married;Not applicable;24;Not str republican
+3413;Not applicable;Never married;$1000 to 2999;29;Independent
+3414;Not applicable;Never married;Not applicable;73;Ind,near rep
+3415;Not applicable;Separated;Not applicable;30;Not str republican
+3416;4;Married;$25000 or more;43;Not str democrat
+3417;4;Married;$8000 to 9999;53;Strong republican
+3418;1;Married;$5000 to 5999;59;Not str republican
+3419;2;Married;$25000 or more;33;Not str republican
+3420;Not applicable;Married;Not applicable;48;Strong republican
+3421;Not applicable;Married;Not applicable;67;Strong republican
+3422;Not applicable;Married;$25000 or more;56;Not str republican
+3423;Not applicable;Married;Not applicable;66;Strong republican
+3424;Not applicable;Married;$25000 or more;54;Not str democrat
+3425;12;Separated;Not applicable;61;Other party
+3426;Not applicable;Never married;$10000 - 14999;35;Not str democrat
+3427;Not applicable;Widowed;Not applicable;85;Not str democrat
+3428;Not applicable;Divorced;$7000 to 7999;73;Not str democrat
+3429;3;Married;Not applicable;73;Strong republican
+3430;2;Divorced;$25000 or more;46;Not str democrat
+3431;Not applicable;Married;$20000 - 24999;48;Ind,near dem
+3432;Not applicable;Married;Not applicable;31;Not str democrat
+3433;Not applicable;Married;$25000 or more;44;Strong democrat
+3434;0;Married;$25000 or more;37;Not str republican
+3435;2;Married;$20000 - 24999;40;Not str democrat
+3436;Not applicable;Divorced;Not applicable;23;Strong republican
+3437;3;Married;$4000 to 4999;72;Not str democrat
+3438;5;Married;$10000 - 14999;61;Strong republican
+3439;Not applicable;Married;$1000 to 2999;56;Ind,near dem
+3440;Not applicable;Married;Refused;30;Independent
+3441;Not applicable;Widowed;Refused;69;Not str republican
+3442;2;Married;$15000 - 19999;48;Not str republican
+3443;Not applicable;Never married;$25000 or more;22;Not str republican
+3444;2;Married;$10000 - 14999;27;Independent
+3445;1;Never married;Not applicable;20;No answer
+3446;Not applicable;Never married;$25000 or more;23;Independent
+3447;Not applicable;Separated;$3000 to 3999;25;Other party
+3448;2;Never married;$15000 - 19999;23;Not str republican
+3449;Not applicable;Divorced;Not applicable;37;Not str republican
+3450;Not applicable;Separated;Not applicable;75;Strong democrat
+3451;Not applicable;Divorced;Not applicable;54;Strong democrat
+3452;3;Married;$20000 - 24999;34;Ind,near dem
+3453;4;Married;$20000 - 24999;61;Strong democrat
+3454;Not applicable;Never married;Not applicable;80;Ind,near rep
+3455;Not applicable;Married;Not applicable;61;Strong democrat
+3456;Not applicable;Widowed;Not applicable;64;Strong republican
+3457;Not applicable;Married;Not applicable;29;Strong republican
+3458;5;Widowed;Not applicable;88;Strong republican
+3459;Not applicable;Never married;$15000 - 19999;46;Ind,near dem
+3460;Not applicable;Never married;$8000 to 9999;25;Not str democrat
+3461;Not applicable;Never married;Lt $1000;22;Ind,near dem
+3462;Not applicable;Separated;$8000 to 9999;35;Not str democrat
+3463;Not applicable;Married;$25000 or more;40;Not str democrat
+3464;3;Divorced;Not applicable;50;Ind,near rep
+3465;Not applicable;Never married;Not applicable;50;Ind,near rep
+3466;Not applicable;Divorced;$25000 or more;33;Not str democrat
+3467;Not applicable;Married;Not applicable;66;Not str democrat
+3468;Not applicable;Married;$25000 or more;48;Ind,near dem
+3469;Not applicable;Married;Not applicable;73;Not str democrat
+3470;Not applicable;Married;$15000 - 19999;48;Not str republican
+3471;Not applicable;Married;$25000 or more;46;Ind,near rep
+3472;Not applicable;Married;Not applicable;66;Not str democrat
+3473;3;Married;Not applicable;76;Not str republican
+3474;Not applicable;Married;$25000 or more;24;Not str republican
+3475;Not applicable;Never married;$7000 to 7999;19;Not str republican
+3476;Not applicable;Married;Not applicable;66;Strong democrat
+3477;5;Widowed;Not applicable;75;Not str democrat
+3478;6;Divorced;Not applicable;80;Strong democrat
+3479;Not applicable;Widowed;Not applicable;71;Strong republican
+3480;Not applicable;Widowed;Not applicable;76;Strong democrat
+3481;5;Widowed;Not applicable;72;Ind,near rep
+3482;Not applicable;Married;$25000 or more;45;Independent
+3483;Not applicable;Widowed;Not applicable;76;Not str democrat
+3484;Not applicable;Widowed;Not applicable;76;Independent
+3485;2;Married;Not applicable;67;Strong democrat
+3486;Not applicable;Married;$25000 or more;49;Strong democrat
+3487;3;Never married;$10000 - 14999;41;Strong democrat
+3488;1;Never married;$20000 - 24999;35;Independent
+3489;3;Never married;Refused;59;Ind,near rep
+3490;2;Divorced;Not applicable;67;Ind,near dem
+3491;Not applicable;Never married;Not applicable;24;Ind,near rep
+3492;Not applicable;Married;$25000 or more;52;Ind,near rep
+3493;Not applicable;Divorced;$20000 - 24999;40;Strong democrat
+3494;4;Widowed;Not applicable;88;Strong democrat
+3495;4;Married;Not applicable;78;Ind,near rep
+3496;Not applicable;Never married;Not applicable;24;Independent
+3497;Not applicable;Married;Not applicable;41;Independent
+3498;Not applicable;Divorced;Not applicable;46;Strong democrat
+3499;Not applicable;Widowed;Not applicable;68;Strong republican
+3500;Not applicable;Married;$10000 - 14999;56;Strong republican
+3501;Not applicable;Married;Not applicable;57;Not str republican
+3502;0;Married;$25000 or more;48;Not str democrat
+3503;1;Married;$25000 or more;45;Not str democrat
+3504;2;Divorced;$25000 or more;39;Not str democrat
+3505;Not applicable;Married;$25000 or more;51;Strong republican
+3506;Not applicable;Never married;$1000 to 2999;24;Independent
+3507;Not applicable;Married;$15000 - 19999;23;Not str republican
+3508;3;Never married;Not applicable;21;Independent
+3509;Not applicable;Divorced;Not applicable;65;Independent
+3510;Not applicable;Never married;Not applicable;22;Ind,near dem
+3511;8;Never married;Not applicable;57;Not str democrat
+3512;Not applicable;Never married;Not applicable;39;Independent
+3513;3;Never married;$20000 - 24999;25;Not str republican
+3514;Not applicable;Divorced;$25000 or more;46;Independent
+3515;Not applicable;Married;$10000 - 14999;49;Not str democrat
+3516;Not applicable;Widowed;Not applicable;71;Strong democrat
+3517;1;Married;$10000 - 14999;33;Strong republican
+3518;Not applicable;Married;$10000 - 14999;44;Strong republican
+3519;Not applicable;Divorced;Not applicable;78;Ind,near rep
+3520;Not applicable;Never married;$10000 - 14999;36;Strong democrat
+3521;4;Married;$10000 - 14999;25;Not str democrat
+3522;Not applicable;Never married;$10000 - 14999;30;Not str republican
+3523;Not applicable;Married;$15000 - 19999;34;Independent
+3524;Not applicable;Married;$25000 or more;41;Independent
+3525;0;Married;$25000 or more;43;Not str democrat
+3526;2;Married;$20000 - 24999;35;Independent
+3527;Not applicable;Never married;$10000 - 14999;21;Independent
+3528;Not applicable;Divorced;$25000 or more;60;Ind,near dem
+3529;6;Married;$10000 - 14999;33;Strong democrat
+3530;1;Never married;$25000 or more;42;Not str republican
+3531;Not applicable;Married;$25000 or more;35;Not str republican
+3532;Not applicable;Married;$25000 or more;44;Strong democrat
+3533;Not applicable;Never married;$3000 to 3999;22;Not str democrat
+3534;Not applicable;Never married;$25000 or more;34;Ind,near dem
+3535;5;Never married;$20000 - 24999;23;Independent
+3536;Not applicable;Never married;$25000 or more;35;Strong democrat
+3537;Not applicable;Widowed;Not applicable;83;Not str democrat
+3538;Not applicable;Never married;$25000 or more;31;Ind,near dem
+3539;Not applicable;Married;$10000 - 14999;34;Independent
+3540;Not applicable;Married;$5000 to 5999;70;Independent
+3541;3;Married;$25000 or more;55;Not str republican
+3542;Not applicable;Married;$25000 or more;44;Strong democrat
+3543;Not applicable;Married;Not applicable;41;Not str republican
+3544;5;Widowed;Not applicable;84;Independent
+3545;Not applicable;Never married;Don't know;25;No answer
+3546;Not applicable;Separated;Not applicable;52;Not str republican
+3547;Not applicable;Widowed;Not applicable;75;Not str democrat
+3548;3;Widowed;Not applicable;67;Strong democrat
+3549;Not applicable;Widowed;$8000 to 9999;86;Ind,near rep
+3550;Not applicable;Never married;Not applicable;40;Not str republican
+3551;2;Never married;$1000 to 2999;20;Not str democrat
+3552;Not applicable;Married;No answer;22;Ind,near dem
+3553;Not applicable;Married;$25000 or more;47;Independent
+3554;Not applicable;Married;$25000 or more;29;Not str democrat
+3555;1;Married;$25000 or more;57;Strong republican
+3556;Not applicable;Married;$10000 - 14999;23;Independent
+3557;Not applicable;Divorced;$10000 - 14999;65;Ind,near rep
+3558;Not applicable;Married;Refused;62;Strong democrat
+3559;4;Divorced;$25000 or more;39;Independent
+3560;3;Divorced;Don't know;76;Strong democrat
+3561;Not applicable;Married;$25000 or more;62;Not str republican
+3562;Not applicable;Married;$5000 to 5999;60;Independent
+3563;Not applicable;Married;$5000 to 5999;32;Independent
+3564;5;Never married;$3000 to 3999;27;Independent
+3565;2;Divorced;No answer;No answer;Not str democrat
+3566;Not applicable;Divorced;$25000 or more;36;Not str democrat
+3567;Not applicable;Married;$10000 - 14999;30;Strong democrat
+3568;Not applicable;Widowed;Not applicable;75;Independent
+3569;0;Divorced;$7000 to 7999;53;Strong democrat
+3570;Not applicable;Married;$25000 or more;51;Strong democrat
+3571;Not applicable;Married;Lt $1000;67;Not str democrat
+3572;Not applicable;Married;$20000 - 24999;70;Not str democrat
+3573;Not applicable;Never married;$25000 or more;46;Not str republican
+3574;3;Married;Not applicable;68;Not str democrat
+3575;Not applicable;Married;$25000 or more;53;Strong republican
+3576;5;Divorced;Not applicable;83;Not str republican
+3577;Not applicable;Divorced;$25000 or more;65;Strong republican
+3578;Not applicable;Divorced;Not applicable;75;Not str republican
+3579;Not applicable;Divorced;Not applicable;84;Strong republican
+3580;Not applicable;Married;Not applicable;64;Strong republican
+3581;1;Married;$25000 or more;38;Strong republican
+3582;3;Widowed;Not applicable;71;Not str democrat
+3583;Not applicable;Widowed;Not applicable;84;Independent
+3584;Not applicable;Never married;$25000 or more;33;Not str republican
+3585;Not applicable;Widowed;Not applicable;75;Strong republican
+3586;Not applicable;Married;$15000 - 19999;35;Not str democrat
+3587;Not applicable;Married;Not applicable;77;Strong republican
+3588;0;Married;Not applicable;27;Strong republican
+3589;Not applicable;Married;Not applicable;80;Not str democrat
+3590;Not applicable;Married;Refused;54;Independent
+3591;Not applicable;Married;$25000 or more;43;Strong republican
+3592;Not applicable;Widowed;$25000 or more;65;Strong democrat
+3593;2;Married;$10000 - 14999;50;Ind,near dem
+3594;Not applicable;Divorced;$25000 or more;57;Not str democrat
+3595;Not applicable;Married;$20000 - 24999;50;Independent
+3596;Not applicable;Married;$10000 - 14999;73;Not str republican
+3597;Not applicable;Never married;Not applicable;71;Independent
+3598;4;Widowed;Not applicable;76;Strong democrat
+3599;Not applicable;Married;$25000 or more;46;Not str democrat
+3600;Not applicable;Never married;$25000 or more;32;Not str republican

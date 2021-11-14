@@ -1,0 +1,301 @@
+obs;marital;tvhours;marital;race;relig
+12001;Divorced;Not applicable;Divorced;White;Protestant
+12002;Married;8;Married;White;Protestant
+12003;Married;Not applicable;Married;White;Protestant
+12004;Never married;Not applicable;Never married;White;Protestant
+12005;Never married;2;Never married;White;Protestant
+12006;Married;2;Married;White;Protestant
+12007;Married;4;Married;White;Protestant
+12008;Married;4;Married;White;None
+12009;Married;Not applicable;Married;White;Protestant
+12010;Married;6;Married;White;Protestant
+12011;Married;1;Married;White;Protestant
+12012;Married;Not applicable;Married;White;Protestant
+12013;Married;Not applicable;Married;White;None
+12014;Divorced;2;Divorced;White;Protestant
+12015;Married;3;Married;White;None
+12016;Married;Not applicable;Married;White;None
+12017;Married;3;Married;White;None
+12018;Married;2;Married;White;Protestant
+12019;Married;Not applicable;Married;White;Catholic
+12020;Married;Not applicable;Married;White;Protestant
+12021;Married;3;Married;White;Protestant
+12022;Married;Not applicable;Married;White;Protestant
+12023;Never married;2;Never married;White;Catholic
+12024;Married;4;Married;White;Protestant
+12025;Never married;1;Never married;White;Catholic
+12026;Married;Not applicable;Married;White;Protestant
+12027;Divorced;Not applicable;Divorced;White;Protestant
+12028;Married;Not applicable;Married;White;Protestant
+12029;Married;Not applicable;Married;White;Protestant
+12030;Married;Not applicable;Married;White;Catholic
+12031;Never married;1;Never married;White;None
+12032;Never married;Not applicable;Never married;White;Catholic
+12033;Never married;1;Never married;White;Protestant
+12034;Married;Not applicable;Married;White;Protestant
+12035;Never married;Not applicable;Never married;White;Protestant
+12036;Divorced;Not applicable;Divorced;White;Catholic
+12037;Married;1;Married;White;Protestant
+12038;Married;Not applicable;Married;White;Protestant
+12039;Divorced;Not applicable;Divorced;White;None
+12040;Widowed;4;Widowed;White;Protestant
+12041;Divorced;Not applicable;Divorced;White;Protestant
+12042;Widowed;Not applicable;Widowed;White;Protestant
+12043;Married;Not applicable;Married;White;Protestant
+12044;Never married;Not applicable;Never married;White;Catholic
+12045;Married;3;Married;White;Protestant
+12046;Married;Not applicable;Married;White;Protestant
+12047;Never married;Not applicable;Never married;White;Catholic
+12048;Married;1;Married;White;None
+12049;Married;Not applicable;Married;White;None
+12050;Married;Not applicable;Married;White;Catholic
+12051;Divorced;Not applicable;Divorced;White;Protestant
+12052;Married;Not applicable;Married;White;Catholic
+12053;Never married;4;Never married;White;Protestant
+12054;Never married;Not applicable;Never married;Black;Protestant
+12055;Never married;3;Never married;Black;Protestant
+12056;Married;8;Married;Black;Protestant
+12057;Married;Not applicable;Married;White;None
+12058;Divorced;Not applicable;Divorced;White;Protestant
+12059;Married;Not applicable;Married;White;Protestant
+12060;Married;3;Married;White;Protestant
+12061;Separated;Not applicable;Separated;Black;Protestant
+12062;Married;1;Married;White;Protestant
+12063;Divorced;5;Divorced;White;None
+12064;Never married;2;Never married;White;None
+12065;Separated;5;Separated;Black;Protestant
+12066;Never married;Not applicable;Never married;Black;Protestant
+12067;Married;1;Married;Black;Protestant
+12068;Widowed;Not applicable;Widowed;White;Protestant
+12069;Married;3;Married;White;Protestant
+12070;Married;1;Married;White;Protestant
+12071;Married;Not applicable;Married;White;Protestant
+12072;Divorced;2;Divorced;White;Protestant
+12073;Widowed;Not applicable;Widowed;White;Protestant
+12074;Married;Not applicable;Married;White;Protestant
+12075;Married;Not applicable;Married;Other;Protestant
+12076;Married;2;Married;White;Protestant
+12077;Married;Not applicable;Married;Black;Protestant
+12078;Never married;14;Never married;Black;Protestant
+12079;Married;Not applicable;Married;White;Protestant
+12080;Never married;Not applicable;Never married;White;Protestant
+12081;Married;3;Married;White;Protestant
+12082;Never married;4;Never married;White;Protestant
+12083;Never married;5;Never married;Black;Protestant
+12084;Married;Not applicable;Married;White;Protestant
+12085;Never married;8;Never married;White;None
+12086;Never married;Not applicable;Never married;White;Protestant
+12087;Married;Not applicable;Married;White;Protestant
+12088;Married;2;Married;White;Protestant
+12089;Married;1;Married;White;Protestant
+12090;Widowed;Not applicable;Widowed;White;Protestant
+12091;Widowed;Not applicable;Widowed;White;Protestant
+12092;Married;1;Married;White;Protestant
+12093;Divorced;12;Divorced;Black;Protestant
+12094;Divorced;Not applicable;Divorced;White;None
+12095;Never married;Not applicable;Never married;Black;Protestant
+12096;Never married;Not applicable;Never married;Black;Protestant
+12097;Divorced;24;Divorced;Black;Protestant
+12098;Married;Not applicable;Married;White;Protestant
+12099;Divorced;Not applicable;Divorced;Black;Protestant
+12100;Separated;18;Separated;Black;Protestant
+12101;Never married;Not applicable;Never married;Black;Protestant
+12102;Never married;3;Never married;Black;Protestant
+12103;Married;3;Married;Other;Protestant
+12104;Never married;Not applicable;Never married;Black;Protestant
+12105;Divorced;Not applicable;Divorced;White;Catholic
+12106;Divorced;Not applicable;Divorced;Black;Protestant
+12107;Separated;Not applicable;Separated;Other;Catholic
+12108;Married;Not applicable;Married;Black;Protestant
+12109;Never married;Not applicable;Never married;White;None
+12110;Separated;Not applicable;Separated;White;Protestant
+12111;Divorced;Not applicable;Divorced;White;Protestant
+12112;Never married;2;Never married;White;Protestant
+12113;Married;1;Married;White;Protestant
+12114;Married;2;Married;White;Protestant
+12115;Divorced;Not applicable;Divorced;White;Protestant
+12116;Widowed;Not applicable;Widowed;White;Protestant
+12117;Separated;Not applicable;Separated;White;Protestant
+12118;Married;Not applicable;Married;White;Protestant
+12119;Married;Not applicable;Married;White;Protestant
+12120;Married;Not applicable;Married;White;Protestant
+12121;Married;3;Married;White;Protestant
+12122;Never married;3;Never married;White;Protestant
+12123;Married;Not applicable;Married;White;Protestant
+12124;Married;Not applicable;Married;White;Protestant
+12125;Never married;3;Never married;White;Protestant
+12126;Divorced;Not applicable;Divorced;White;Protestant
+12127;Married;Not applicable;Married;White;Protestant
+12128;Married;Not applicable;Married;White;Protestant
+12129;Divorced;3;Divorced;White;Other
+12130;Divorced;Not applicable;Divorced;White;Protestant
+12131;Divorced;Not applicable;Divorced;White;Protestant
+12132;Widowed;4;Widowed;White;Protestant
+12133;Married;Not applicable;Married;White;Protestant
+12134;Married;3;Married;White;Protestant
+12135;Divorced;Not applicable;Divorced;White;Protestant
+12136;Married;4;Married;White;Protestant
+12137;Married;8;Married;White;Catholic
+12138;Divorced;6;Divorced;White;Protestant
+12139;Married;2;Married;White;Protestant
+12140;Married;Not applicable;Married;White;Protestant
+12141;Married;Not applicable;Married;White;Protestant
+12142;Divorced;3;Divorced;White;Protestant
+12143;Divorced;Not applicable;Divorced;White;Protestant
+12144;Never married;Not applicable;Never married;White;Catholic
+12145;Married;Not applicable;Married;White;Catholic
+12146;Married;2;Married;White;Protestant
+12147;Married;Not applicable;Married;White;Protestant
+12148;Widowed;Not applicable;Widowed;White;Protestant
+12149;Never married;5;Never married;White;Catholic
+12150;Married;Not applicable;Married;White;Protestant
+12151;Divorced;1;Divorced;White;Protestant
+12152;Widowed;1;Widowed;White;Protestant
+12153;Married;1;Married;White;Protestant
+12154;Divorced;Not applicable;Divorced;White;Protestant
+12155;Never married;Not applicable;Never married;White;Protestant
+12156;Widowed;Not applicable;Widowed;Black;Protestant
+12157;Married;4;Married;White;Protestant
+12158;Married;1;Married;White;Protestant
+12159;Married;Not applicable;Married;White;Protestant
+12160;Divorced;3;Divorced;White;Protestant
+12161;Never married;Not applicable;Never married;White;Protestant
+12162;Separated;4;Separated;Other;Buddhism
+12163;Married;Not applicable;Married;White;Protestant
+12164;Married;3;Married;White;Protestant
+12165;Divorced;Not applicable;Divorced;White;Protestant
+12166;Never married;6;Never married;White;Protestant
+12167;Divorced;5;Divorced;White;Protestant
+12168;Widowed;Not applicable;Widowed;White;Protestant
+12169;Divorced;1;Divorced;White;Protestant
+12170;Widowed;4;Widowed;White;None
+12171;Never married;Not applicable;Never married;White;Catholic
+12172;Never married;Not applicable;Never married;White;Christian
+12173;Divorced;Not applicable;Divorced;White;No answer
+12174;Married;2;Married;White;Protestant
+12175;Divorced;Not applicable;Divorced;White;Protestant
+12176;Divorced;3;Divorced;White;Protestant
+12177;Married;Not applicable;Married;White;None
+12178;Divorced;4;Divorced;White;Protestant
+12179;Widowed;Not applicable;Widowed;White;Protestant
+12180;Divorced;2;Divorced;White;Protestant
+12181;Married;5;Married;White;Catholic
+12182;Married;Not applicable;Married;White;Protestant
+12183;Married;1;Married;White;Protestant
+12184;Married;Not applicable;Married;White;Protestant
+12185;Married;Not applicable;Married;White;Protestant
+12186;Married;Not applicable;Married;White;Protestant
+12187;Married;2;Married;White;Protestant
+12188;Married;1;Married;White;Protestant
+12189;Married;Not applicable;Married;White;Protestant
+12190;Divorced;0;Divorced;White;None
+12191;Divorced;Not applicable;Divorced;White;Protestant
+12192;Divorced;0;Divorced;White;Protestant
+12193;Widowed;3;Widowed;White;Protestant
+12194;Married;Not applicable;Married;White;Protestant
+12195;Married;2;Married;White;Protestant
+12196;Never married;Not applicable;Never married;White;Protestant
+12197;Widowed;Not applicable;Widowed;White;Protestant
+12198;Widowed;Not applicable;Widowed;White;Protestant
+12199;Married;Not applicable;Married;White;Protestant
+12200;Widowed;Not applicable;Widowed;White;Protestant
+12201;Married;Not applicable;Married;White;Protestant
+12202;Divorced;Not applicable;Divorced;White;Protestant
+12203;Divorced;4;Divorced;White;None
+12204;Married;Not applicable;Married;White;Protestant
+12205;Married;Not applicable;Married;White;Protestant
+12206;Married;Not applicable;Married;White;Protestant
+12207;Separated;Not applicable;Separated;White;Protestant
+12208;Never married;Not applicable;Never married;White;Protestant
+12209;Married;3;Married;White;Protestant
+12210;Separated;Not applicable;Separated;White;Protestant
+12211;Married;Not applicable;Married;White;Protestant
+12212;Married;No answer;Married;White;Protestant
+12213;Divorced;Not applicable;Divorced;White;Protestant
+12214;Married;1;Married;White;Protestant
+12215;Married;Not applicable;Married;White;Protestant
+12216;Divorced;1;Divorced;White;Protestant
+12217;Never married;Not applicable;Never married;White;Protestant
+12218;Divorced;Not applicable;Divorced;White;Protestant
+12219;Married;2;Married;White;Protestant
+12220;Never married;4;Never married;White;Catholic
+12221;Divorced;2;Divorced;White;None
+12222;Never married;Not applicable;Never married;Black;Protestant
+12223;Married;Not applicable;Married;Black;Protestant
+12224;Married;1;Married;White;None
+12225;Married;Not applicable;Married;White;None
+12226;Married;Not applicable;Married;White;Protestant
+12227;Married;Not applicable;Married;White;Protestant
+12228;Widowed;2;Widowed;White;Protestant
+12229;Divorced;2;Divorced;White;Protestant
+12230;Widowed;1;Widowed;White;Protestant
+12231;Married;Not applicable;Married;White;Catholic
+12232;Married;Not applicable;Married;White;Protestant
+12233;Married;6;Married;White;Protestant
+12234;Married;Not applicable;Married;White;Protestant
+12235;Married;Not applicable;Married;White;Catholic
+12236;Married;Not applicable;Married;White;Protestant
+12237;Divorced;Not applicable;Divorced;White;Protestant
+12238;Married;Not applicable;Married;White;Catholic
+12239;Married;2;Married;Black;Protestant
+12240;Married;Not applicable;Married;White;Protestant
+12241;Widowed;Not applicable;Widowed;White;Catholic
+12242;Married;2;Married;White;Protestant
+12243;Never married;Not applicable;Never married;White;Protestant
+12244;Married;Not applicable;Married;White;Catholic
+12245;Married;3;Married;White;Catholic
+12246;Married;2;Married;White;Protestant
+12247;Never married;Not applicable;Never married;Black;Protestant
+12248;Married;3;Married;White;None
+12249;Married;Not applicable;Married;White;Catholic
+12250;Married;1;Married;White;Protestant
+12251;Divorced;Not applicable;Divorced;Black;Protestant
+12252;Married;1;Married;White;Protestant
+12253;Married;Not applicable;Married;White;Protestant
+12254;Divorced;Not applicable;Divorced;Black;Protestant
+12255;Married;Not applicable;Married;Black;Protestant
+12256;Widowed;3;Widowed;Black;Protestant
+12257;Divorced;4;Divorced;Black;Protestant
+12258;Widowed;1;Widowed;White;None
+12259;Married;Not applicable;Married;Black;Protestant
+12260;Married;4;Married;White;Protestant
+12261;Widowed;Not applicable;Widowed;White;Protestant
+12262;Divorced;14;Divorced;White;Protestant
+12263;Divorced;3;Divorced;Black;Protestant
+12264;Never married;2;Never married;Black;Protestant
+12265;Widowed;Not applicable;Widowed;White;Protestant
+12266;Married;Not applicable;Married;Other;Catholic
+12267;Married;Not applicable;Married;Black;None
+12268;Divorced;6;Divorced;White;Protestant
+12269;Never married;Not applicable;Never married;White;Protestant
+12270;Never married;1;Never married;White;Protestant
+12271;Married;Not applicable;Married;White;Protestant
+12272;Never married;Not applicable;Never married;Black;Protestant
+12273;Married;Not applicable;Married;White;None
+12274;Never married;Not applicable;Never married;White;Protestant
+12275;Married;3;Married;Black;Protestant
+12276;Married;Not applicable;Married;Black;Protestant
+12277;Married;1;Married;White;Protestant
+12278;Widowed;Not applicable;Widowed;White;Catholic
+12279;Married;Not applicable;Married;White;Protestant
+12280;Married;Not applicable;Married;Black;Protestant
+12281;Never married;2;Never married;Black;Protestant
+12282;Divorced;Not applicable;Divorced;White;Protestant
+12283;Married;Not applicable;Married;Black;None
+12284;Never married;Not applicable;Never married;Black;Protestant
+12285;Married;4;Married;Black;Protestant
+12286;Widowed;Not applicable;Widowed;Black;Protestant
+12287;Married;Not applicable;Married;Black;Christian
+12288;Never married;3;Never married;Black;Protestant
+12289;Never married;Not applicable;Never married;Black;Protestant
+12290;Married;2;Married;Black;Protestant
+12291;Married;7;Married;Black;Protestant
+12292;Separated;Not applicable;Separated;Black;Protestant
+12293;Divorced;Not applicable;Divorced;Black;Protestant
+12294;Never married;8;Never married;Black;Protestant
+12295;Never married;Not applicable;Never married;Black;None
+12296;Widowed;Not applicable;Widowed;Black;Protestant
+12297;Divorced;Not applicable;Divorced;Black;Protestant
+12298;Divorced;4;Divorced;White;Protestant
+12299;Married;Not applicable;Married;Black;Protestant
+12300;Never married;Not applicable;Never married;Black;Protestant

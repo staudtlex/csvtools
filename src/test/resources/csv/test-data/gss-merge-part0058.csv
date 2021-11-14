@@ -1,0 +1,301 @@
+obs;relig;rincome;marital;year;denom
+17101;Catholic;$15000 - 19999;Married;2012;Not applicable
+17102;Catholic;Not applicable;Married;2012;Not applicable
+17103;Catholic;$25000 or more;Married;2012;Not applicable
+17104;Protestant;Not applicable;Divorced;2012;Other
+17105;Catholic;$25000 or more;Married;2012;Not applicable
+17106;None;$25000 or more;Never married;2012;Not applicable
+17107;Protestant;$25000 or more;Never married;2012;Other baptists
+17108;Protestant;$10000 - 14999;Never married;2012;Am bapt ch in usa
+17109;Protestant;Not applicable;Married;2012;Baptist-dk which
+17110;None;$25000 or more;Married;2012;Not applicable
+17111;None;$25000 or more;Divorced;2012;Not applicable
+17112;Protestant;$3000 to 3999;Divorced;2012;Other
+17113;Christian;$25000 or more;Never married;2012;No denomination
+17114;Protestant;Not applicable;Divorced;2012;No denomination
+17115;Christian;$15000 - 19999;Widowed;2012;No denomination
+17116;Catholic;Not applicable;Separated;2012;Not applicable
+17117;Catholic;Not applicable;Never married;2012;Not applicable
+17118;Catholic;Not applicable;Married;2012;Not applicable
+17119;None;$5000 to 5999;Never married;2012;Not applicable
+17120;Catholic;Not applicable;Never married;2012;Not applicable
+17121;Catholic;$25000 or more;Separated;2012;Not applicable
+17122;None;$3000 to 3999;Never married;2012;Not applicable
+17123;Catholic;Not applicable;Never married;2012;Not applicable
+17124;Catholic;$20000 - 24999;Never married;2012;Not applicable
+17125;Catholic;$10000 - 14999;Married;2012;Not applicable
+17126;Catholic;$1000 to 2999;Never married;2012;Not applicable
+17127;Protestant;Not applicable;Widowed;2012;Lutheran-dk which
+17128;None;Not applicable;Never married;2012;Not applicable
+17129;Catholic;Not applicable;Never married;2012;Not applicable
+17130;Other;$25000 or more;Divorced;2012;Not applicable
+17131;None;$25000 or more;Never married;2012;Not applicable
+17132;Moslem/islam;Not applicable;Married;2012;Not applicable
+17133;Protestant;$25000 or more;Separated;2012;No denomination
+17134;Catholic;$25000 or more;Never married;2012;Not applicable
+17135;Protestant;$25000 or more;Divorced;2012;Other
+17136;Jewish;$25000 or more;Married;2012;Not applicable
+17137;Jewish;Not applicable;Never married;2012;Not applicable
+17138;None;Not applicable;Never married;2012;Not applicable
+17139;Catholic;$25000 or more;Never married;2012;Not applicable
+17140;Catholic;Not applicable;Never married;2012;Not applicable
+17141;Protestant;$25000 or more;Married;2012;No denomination
+17142;Protestant;Not applicable;Widowed;2012;Am bapt ch in usa
+17143;None;Refused;Never married;2012;Not applicable
+17144;None;Not applicable;Never married;2012;Not applicable
+17145;Protestant;Not applicable;Never married;2012;Lutheran-dk which
+17146;Catholic;Not applicable;Never married;2012;Not applicable
+17147;Catholic;$25000 or more;Never married;2012;Not applicable
+17148;None;Not applicable;Never married;2012;Not applicable
+17149;Protestant;Not applicable;Divorced;2012;Other
+17150;Christian;$25000 or more;Married;2012;No denomination
+17151;Catholic;$20000 - 24999;Married;2012;Not applicable
+17152;Catholic;$6000 to 6999;Married;2012;Not applicable
+17153;Catholic;$25000 or more;Divorced;2012;Not applicable
+17154;Protestant;$25000 or more;Married;2012;No denomination
+17155;Other eastern;$20000 - 24999;Divorced;2012;Not applicable
+17156;Protestant;$4000 to 4999;Married;2012;Other
+17157;Protestant;$10000 - 14999;Never married;2012;Other
+17158;None;$25000 or more;Married;2012;Not applicable
+17159;Catholic;$6000 to 6999;Divorced;2012;Not applicable
+17160;Catholic;$25000 or more;Married;2012;Not applicable
+17161;Protestant;$20000 - 24999;Married;2012;No denomination
+17162;Protestant;Not applicable;Married;2012;Presbyterian-dk wh
+17163;None;$25000 or more;Divorced;2012;Not applicable
+17164;None;$25000 or more;Married;2012;Not applicable
+17165;None;$25000 or more;Never married;2012;Not applicable
+17166;Catholic;Not applicable;Married;2012;Not applicable
+17167;Protestant;$8000 to 9999;Married;2012;No denomination
+17168;Protestant;Not applicable;Widowed;2012;Other
+17169;Protestant;Not applicable;Divorced;2012;Am lutheran
+17170;Christian;$3000 to 3999;Never married;2012;No denomination
+17171;Catholic;Not applicable;Never married;2012;Not applicable
+17172;Catholic;Refused;Married;2012;Not applicable
+17173;None;$7000 to 7999;Never married;2012;Not applicable
+17174;None;$25000 or more;Divorced;2012;Not applicable
+17175;Catholic;Not applicable;Married;2012;Not applicable
+17176;Catholic;$25000 or more;Married;2012;Not applicable
+17177;Protestant;$5000 to 5999;Married;2012;No denomination
+17178;Catholic;$8000 to 9999;Never married;2012;Not applicable
+17179;Protestant;Not applicable;Never married;2012;Other
+17180;None;$25000 or more;Never married;2012;Not applicable
+17181;Protestant;$10000 - 14999;Widowed;2012;Other
+17182;Catholic;$25000 or more;Married;2012;Not applicable
+17183;Protestant;Lt $1000;Never married;2012;Luth ch in america
+17184;Protestant;$25000 or more;Never married;2012;No denomination
+17185;Catholic;Not applicable;Married;2012;Not applicable
+17186;Catholic;$25000 or more;Married;2012;Not applicable
+17187;None;$25000 or more;Married;2012;Not applicable
+17188;Protestant;Not applicable;Married;2012;No denomination
+17189;Catholic;Not applicable;Married;2012;Not applicable
+17190;Catholic;$20000 - 24999;Married;2012;Not applicable
+17191;Catholic;Not applicable;Married;2012;Not applicable
+17192;Catholic;$20000 - 24999;Married;2012;Not applicable
+17193;Protestant;Not applicable;Married;2012;Episcopal
+17194;None;Not applicable;Never married;2012;Not applicable
+17195;Protestant;Not applicable;Never married;2012;Other
+17196;Protestant;$8000 to 9999;Married;2012;Presbyterian-dk wh
+17197;Protestant;$20000 - 24999;Married;2012;Methodist-dk which
+17198;None;$25000 or more;Married;2012;Not applicable
+17199;Protestant;Not applicable;Widowed;2012;Presbyterian c in us
+17200;Catholic;$25000 or more;Married;2012;Not applicable
+17201;Catholic;Not applicable;Married;2012;Not applicable
+17202;Catholic;$25000 or more;Married;2012;Not applicable
+17203;Protestant;Not applicable;Married;2012;Nat bapt conv of am
+17204;Protestant;Not applicable;Divorced;2012;Baptist-dk which
+17205;Protestant;$25000 or more;Never married;2012;United methodist
+17206;None;$25000 or more;Married;2012;Not applicable
+17207;Catholic;Not applicable;Married;2012;Not applicable
+17208;Christian;$25000 or more;Never married;2012;No denomination
+17209;Catholic;Don't know;Never married;2012;Not applicable
+17210;Catholic;Not applicable;Married;2012;Not applicable
+17211;Catholic;Not applicable;Married;2012;Not applicable
+17212;Catholic;$25000 or more;Married;2012;Not applicable
+17213;Catholic;$25000 or more;Married;2012;Not applicable
+17214;Catholic;Refused;Married;2012;Not applicable
+17215;Protestant;$25000 or more;Married;2012;Episcopal
+17216;Catholic;Not applicable;Widowed;2012;Not applicable
+17217;Other;Not applicable;Never married;2012;Not applicable
+17218;Christian;$25000 or more;Never married;2012;No denomination
+17219;Protestant;Not applicable;Married;2012;Other
+17220;Protestant;$25000 or more;Never married;2012;No denomination
+17221;Protestant;$25000 or more;Married;2012;No denomination
+17222;Christian;$10000 - 14999;Never married;2012;No denomination
+17223;Protestant;Not applicable;Married;2012;No denomination
+17224;Protestant;$25000 or more;Never married;2012;Episcopal
+17225;Catholic;$15000 - 19999;Married;2012;Not applicable
+17226;Catholic;$25000 or more;Never married;2012;Not applicable
+17227;Protestant;Not applicable;Widowed;2012;Baptist-dk which
+17228;None;Not applicable;Never married;2012;Not applicable
+17229;Catholic;$15000 - 19999;Married;2012;Not applicable
+17230;Catholic;Not applicable;Married;2012;Not applicable
+17231;Protestant;Not applicable;Married;2012;Evangelical luth
+17232;Protestant;Not applicable;Widowed;2012;Other
+17233;Protestant;$25000 or more;Married;2012;Other
+17234;Catholic;Not applicable;Widowed;2012;Not applicable
+17235;Protestant;$25000 or more;Married;2012;Evangelical luth
+17236;Protestant;Not applicable;Widowed;2012;Other
+17237;Protestant;$25000 or more;Married;2012;Evangelical luth
+17238;Protestant;Not applicable;Married;2012;No denomination
+17239;Protestant;Not applicable;Divorced;2012;United methodist
+17240;Protestant;Not applicable;Married;2012;Lutheran-mo synod
+17241;Catholic;$25000 or more;Married;2012;Not applicable
+17242;Christian;Not applicable;Divorced;2012;No denomination
+17243;Protestant;$25000 or more;Divorced;2012;Luth ch in america
+17244;Other;$25000 or more;Divorced;2012;Not applicable
+17245;None;Not applicable;Married;2012;Not applicable
+17246;Protestant;Not applicable;Married;2012;Other
+17247;Protestant;$10000 - 14999;Married;2012;Am lutheran
+17248;Catholic;$25000 or more;Never married;2012;Not applicable
+17249;Protestant;$25000 or more;Never married;2012;Other
+17250;None;$25000 or more;Married;2012;Not applicable
+17251;None;$25000 or more;Married;2012;Not applicable
+17252;Protestant;$25000 or more;Married;2012;United methodist
+17253;Protestant;$25000 or more;Separated;2012;Evangelical luth
+17254;Protestant;$25000 or more;Divorced;2012;Evangelical luth
+17255;Catholic;Not applicable;Married;2012;Not applicable
+17256;None;$25000 or more;Never married;2012;Not applicable
+17257;Catholic;$25000 or more;Married;2012;Not applicable
+17258;Jewish;$20000 - 24999;Widowed;2012;Not applicable
+17259;None;Refused;Never married;2012;Not applicable
+17260;Protestant;Refused;Married;2012;Other
+17261;Catholic;$8000 to 9999;Married;2012;Not applicable
+17262;Protestant;Not applicable;Separated;2012;Baptist-dk which
+17263;Protestant;$25000 or more;Married;2012;Other
+17264;Catholic;Not applicable;Divorced;2012;Not applicable
+17265;Protestant;Not applicable;Divorced;2012;Southern baptist
+17266;None;$25000 or more;Married;2012;Not applicable
+17267;Protestant;Not applicable;Never married;2012;Other
+17268;Protestant;Not applicable;Married;2012;Baptist-dk which
+17269;None;Lt $1000;Divorced;2012;Not applicable
+17270;Catholic;$15000 - 19999;Never married;2012;Not applicable
+17271;Catholic;$6000 to 6999;Married;2012;Not applicable
+17272;Protestant;$10000 - 14999;Never married;2012;Southern baptist
+17273;Protestant;Not applicable;Widowed;2012;United methodist
+17274;Catholic;Not applicable;Married;2012;Not applicable
+17275;Catholic;$25000 or more;Married;2012;Not applicable
+17276;None;$4000 to 4999;Never married;2012;Not applicable
+17277;Protestant;Not applicable;Never married;2012;Baptist-dk which
+17278;None;$25000 or more;Married;2012;Not applicable
+17279;Moslem/islam;$20000 - 24999;Divorced;2012;Not applicable
+17280;Protestant;Not applicable;Never married;2012;Baptist-dk which
+17281;Protestant;$25000 or more;Divorced;2012;Am baptist asso
+17282;Protestant;$25000 or more;Married;2012;United methodist
+17283;Protestant;$20000 - 24999;Married;2012;Other
+17284;Protestant;$25000 or more;Married;2012;Presbyterian-dk wh
+17285;None;Refused;Married;2012;Not applicable
+17286;Protestant;$25000 or more;Married;2012;Presbyterian, merged
+17287;Protestant;$25000 or more;Married;2012;Presbyterian, merged
+17288;None;$25000 or more;Separated;2012;Not applicable
+17289;Protestant;$20000 - 24999;Married;2012;Other
+17290;Protestant;$25000 or more;Married;2012;Other
+17291;Protestant;$10000 - 14999;Married;2012;United methodist
+17292;None;$3000 to 3999;Never married;2012;Not applicable
+17293;Protestant;$20000 - 24999;Never married;2012;United methodist
+17294;Protestant;$25000 or more;Married;2012;United methodist
+17295;Don't know;$25000 or more;Married;2012;Not applicable
+17296;Protestant;$25000 or more;Married;2012;United methodist
+17297;None;Not applicable;Never married;2012;Not applicable
+17298;Protestant;$25000 or more;Never married;2012;Southern baptist
+17299;Protestant;$25000 or more;Never married;2012;Episcopal
+17300;None;$25000 or more;Never married;2012;Not applicable
+17301;Catholic;$3000 to 3999;Never married;2012;Not applicable
+17302;None;$25000 or more;Never married;2012;Not applicable
+17303;Catholic;$25000 or more;Never married;2012;Not applicable
+17304;Catholic;Not applicable;Married;2012;Not applicable
+17305;Catholic;Not applicable;Divorced;2012;Not applicable
+17306;Catholic;$25000 or more;Married;2012;Not applicable
+17307;Catholic;Not applicable;Widowed;2012;Not applicable
+17308;None;$5000 to 5999;Widowed;2012;Not applicable
+17309;Protestant;$20000 - 24999;Married;2012;Methodist-dk which
+17310;Catholic;Not applicable;Divorced;2012;Not applicable
+17311;Catholic;Not applicable;Married;2012;Not applicable
+17312;Jewish;$15000 - 19999;Married;2012;Not applicable
+17313;Protestant;Lt $1000;Married;2012;Other
+17314;Catholic;Refused;Married;2012;Not applicable
+17315;Catholic;$25000 or more;Never married;2012;Not applicable
+17316;Protestant;$10000 - 14999;Never married;2012;United methodist
+17317;Catholic;$25000 or more;Married;2012;Not applicable
+17318;None;$25000 or more;Married;2012;Not applicable
+17319;Catholic;$25000 or more;Married;2012;Not applicable
+17320;None;Not applicable;Divorced;2012;Not applicable
+17321;None;$25000 or more;Never married;2012;Not applicable
+17322;Catholic;$25000 or more;Divorced;2012;Not applicable
+17323;Buddhism;Not applicable;Divorced;2012;Not applicable
+17324;Catholic;Not applicable;Widowed;2012;Not applicable
+17325;None;$25000 or more;Never married;2012;Not applicable
+17326;Other;$25000 or more;Married;2012;Not applicable
+17327;Protestant;$10000 - 14999;Separated;2012;Other
+17328;Protestant;$15000 - 19999;Married;2012;Other
+17329;Catholic;$25000 or more;Married;2012;Not applicable
+17330;None;$25000 or more;Married;2012;Not applicable
+17331;None;Lt $1000;Never married;2012;Not applicable
+17332;Protestant;Not applicable;Widowed;2012;Baptist-dk which
+17333;Catholic;Not applicable;Never married;2012;Not applicable
+17334;Catholic;Not applicable;Never married;2012;Not applicable
+17335;Protestant;Not applicable;Never married;2012;Other
+17336;Catholic;Not applicable;Married;2012;Not applicable
+17337;Catholic;Not applicable;Widowed;2012;Not applicable
+17338;None;$25000 or more;Divorced;2012;Not applicable
+17339;Catholic;$25000 or more;Married;2012;Not applicable
+17340;Protestant;$25000 or more;Married;2012;Am baptist asso
+17341;Catholic;Not applicable;Divorced;2012;Not applicable
+17342;Catholic;Not applicable;Divorced;2012;Not applicable
+17343;Protestant;Not applicable;Married;2012;Methodist-dk which
+17344;Protestant;Not applicable;Married;2012;Baptist-dk which
+17345;Catholic;$20000 - 24999;Never married;2012;Not applicable
+17346;Catholic;$10000 - 14999;Never married;2012;Not applicable
+17347;Protestant;Not applicable;Widowed;2012;United methodist
+17348;Catholic;$25000 or more;Married;2012;Not applicable
+17349;None;$1000 to 2999;Married;2012;Not applicable
+17350;None;$25000 or more;Married;2012;Not applicable
+17351;None;$25000 or more;Never married;2012;Not applicable
+17352;None;$25000 or more;Never married;2012;Not applicable
+17353;Buddhism;$25000 or more;Married;2012;Not applicable
+17354;None;Not applicable;Married;2012;Not applicable
+17355;Protestant;Not applicable;Widowed;2012;Episcopal
+17356;Jewish;$25000 or more;Widowed;2012;Not applicable
+17357;None;Refused;Married;2012;Not applicable
+17358;None;Lt $1000;Divorced;2012;Not applicable
+17359;Catholic;$10000 - 14999;Never married;2012;Not applicable
+17360;Protestant;Not applicable;Divorced;2012;Other
+17361;Protestant;$1000 to 2999;Never married;2012;Baptist-dk which
+17362;None;Not applicable;Divorced;2012;Not applicable
+17363;None;$20000 - 24999;Never married;2012;Not applicable
+17364;None;$25000 or more;Never married;2012;Not applicable
+17365;None;$25000 or more;Married;2012;Not applicable
+17366;Protestant;$20000 - 24999;Never married;2012;Baptist-dk which
+17367;None;$25000 or more;Divorced;2012;Not applicable
+17368;Other;$25000 or more;Divorced;2012;Not applicable
+17369;Christian;$25000 or more;Married;2012;No denomination
+17370;Catholic;Not applicable;Widowed;2012;Not applicable
+17371;Orthodox-christian;$25000 or more;Never married;2012;Not applicable
+17372;Protestant;$25000 or more;Married;2012;No denomination
+17373;Protestant;$25000 or more;Never married;2012;Baptist-dk which
+17374;Catholic;Not applicable;Widowed;2012;Not applicable
+17375;None;Not applicable;Never married;2012;Not applicable
+17376;Catholic;$25000 or more;Married;2012;Not applicable
+17377;Hinduism;Not applicable;Married;2012;Not applicable
+17378;Protestant;Not applicable;Married;2012;Lutheran-dk which
+17379;Catholic;$25000 or more;Married;2012;Not applicable
+17380;Protestant;$25000 or more;Married;2012;Am bapt ch in usa
+17381;Protestant;Not applicable;Married;2012;No denomination
+17382;Catholic;$1000 to 2999;Never married;2012;Not applicable
+17383;None;$25000 or more;Married;2012;Not applicable
+17384;Catholic;$15000 - 19999;Married;2012;Not applicable
+17385;None;$25000 or more;Married;2012;Not applicable
+17386;Catholic;Not applicable;Widowed;2012;Not applicable
+17387;Catholic;$4000 to 4999;Never married;2012;Not applicable
+17388;Protestant;Not applicable;Married;2012;Other baptists
+17389;Protestant;$10000 - 14999;Married;2012;Other
+17390;None;$5000 to 5999;Never married;2012;Not applicable
+17391;Protestant;$25000 or more;Married;2012;Southern baptist
+17392;Protestant;$25000 or more;Married;2012;No denomination
+17393;Christian;$25000 or more;Never married;2012;No denomination
+17394;Inter-nondenominational;$15000 - 19999;Never married;2012;Not applicable
+17395;None;$25000 or more;Never married;2012;Not applicable
+17396;Catholic;$15000 - 19999;Divorced;2012;Not applicable
+17397;None;Refused;Never married;2012;Not applicable
+17398;Protestant;Not applicable;Married;2012;Episcopal
+17399;Protestant;$10000 - 14999;Married;2012;No denomination
+17400;Protestant;Not applicable;Divorced;2012;Episcopal

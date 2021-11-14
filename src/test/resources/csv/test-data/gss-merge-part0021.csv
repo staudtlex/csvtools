@@ -1,0 +1,301 @@
+obs;race;partyid;race;tvhours;year
+6001;White;Ind,near rep;White;Not applicable;2004
+6002;Black;Strong republican;Black;Not applicable;2004
+6003;White;Independent;White;2;2004
+6004;Black;No answer;Black;Not applicable;2004
+6005;Black;Ind,near dem;Black;1;2004
+6006;Black;Strong democrat;Black;Not applicable;2004
+6007;Black;Independent;Black;Not applicable;2004
+6008;Black;Strong democrat;Black;5;2004
+6009;White;Not str democrat;White;Not applicable;2004
+6010;White;Independent;White;Not applicable;2004
+6011;White;Strong democrat;White;Not applicable;2004
+6012;White;Strong democrat;White;2;2004
+6013;White;Strong democrat;White;Not applicable;2004
+6014;White;Independent;White;8;2004
+6015;White;Strong democrat;White;Not applicable;2004
+6016;White;Not str republican;White;Not applicable;2004
+6017;White;Independent;White;Not applicable;2004
+6018;White;Ind,near dem;White;Not applicable;2004
+6019;White;Not str republican;White;3;2004
+6020;White;Not str democrat;White;2;2004
+6021;White;Independent;White;2;2004
+6022;White;Not str republican;White;2;2004
+6023;White;Strong republican;White;Not applicable;2004
+6024;White;Not str democrat;White;Not applicable;2004
+6025;White;Not str democrat;White;Not applicable;2004
+6026;White;Not str democrat;White;Not applicable;2004
+6027;White;Strong democrat;White;Not applicable;2004
+6028;White;Not str democrat;White;Not applicable;2004
+6029;White;Not str republican;White;Not applicable;2004
+6030;White;Ind,near dem;White;Not applicable;2004
+6031;White;Independent;White;Not applicable;2004
+6032;White;Not str republican;White;Not applicable;2004
+6033;White;Not str democrat;White;5;2004
+6034;White;Ind,near dem;White;Not applicable;2004
+6035;Black;Not str democrat;Black;Not applicable;2004
+6036;White;Ind,near dem;White;Not applicable;2004
+6037;Black;Not str democrat;Black;Not applicable;2004
+6038;White;Not str democrat;White;2;2004
+6039;Black;Strong democrat;Black;Not applicable;2004
+6040;White;Not str democrat;White;Not applicable;2004
+6041;White;Not str republican;White;6;2004
+6042;White;Ind,near rep;White;Not applicable;2004
+6043;White;Not str republican;White;1;2004
+6044;White;Ind,near dem;White;Not applicable;2004
+6045;White;Strong republican;White;1;2004
+6046;White;Not str republican;White;Not applicable;2004
+6047;White;Independent;White;Not applicable;2004
+6048;Black;Ind,near dem;Black;Not applicable;2004
+6049;Black;Not str republican;Black;Not applicable;2004
+6050;Black;Strong democrat;Black;Not applicable;2004
+6051;Black;Strong democrat;Black;2;2004
+6052;White;Strong democrat;White;Not applicable;2004
+6053;White;Strong republican;White;Not applicable;2004
+6054;White;Strong democrat;White;Not applicable;2004
+6055;White;Not str democrat;White;Not applicable;2004
+6056;Other;Strong republican;Other;Not applicable;2004
+6057;White;Independent;White;Not applicable;2004
+6058;White;Strong democrat;White;Not applicable;2004
+6059;Black;Strong democrat;Black;Not applicable;2004
+6060;White;Strong democrat;White;Not applicable;2004
+6061;White;Ind,near dem;White;4;2004
+6062;White;Not str democrat;White;Not applicable;2004
+6063;White;Ind,near dem;White;1;2004
+6064;White;Strong democrat;White;8;2004
+6065;White;Ind,near rep;White;12;2004
+6066;White;Independent;White;Not applicable;2004
+6067;White;Not str republican;White;Not applicable;2004
+6068;White;Not str democrat;White;Not applicable;2004
+6069;White;Not str republican;White;Not applicable;2004
+6070;Black;Not str democrat;Black;Not applicable;2004
+6071;Black;Strong democrat;Black;Not applicable;2004
+6072;Black;Strong democrat;Black;Not applicable;2004
+6073;Black;Strong democrat;Black;Not applicable;2004
+6074;Black;Not str republican;Black;Not applicable;2004
+6075;Black;No answer;Black;10;2004
+6076;Black;Strong democrat;Black;4;2004
+6077;Black;Strong democrat;Black;4;2004
+6078;Black;Strong democrat;Black;Not applicable;2004
+6079;Black;Strong democrat;Black;11;2004
+6080;Black;Ind,near dem;Black;Don't know;2004
+6081;Black;Not str democrat;Black;Not applicable;2004
+6082;Black;Not str democrat;Black;Not applicable;2004
+6083;Black;Ind,near dem;Black;Not applicable;2004
+6084;Black;Independent;Black;Not applicable;2004
+6085;White;Strong democrat;White;3;2004
+6086;White;Not str democrat;White;Not applicable;2004
+6087;White;Not str republican;White;2;2004
+6088;White;Not str republican;White;3;2004
+6089;White;Ind,near rep;White;3;2004
+6090;White;Not str democrat;White;Not applicable;2004
+6091;Other;Not str democrat;Other;Not applicable;2004
+6092;Other;Independent;Other;Not applicable;2004
+6093;White;Not str republican;White;Not applicable;2004
+6094;Black;Independent;Black;Not applicable;2004
+6095;Black;Independent;Black;Don't know;2004
+6096;Black;Ind,near dem;Black;Not applicable;2004
+6097;Black;Strong democrat;Black;Not applicable;2004
+6098;Black;Not str democrat;Black;Not applicable;2004
+6099;Black;Not str democrat;Black;1;2004
+6100;Black;Strong democrat;Black;Not applicable;2004
+6101;Black;Strong democrat;Black;Not applicable;2004
+6102;Black;Strong democrat;Black;5;2004
+6103;Black;Strong democrat;Black;Not applicable;2004
+6104;Black;Other party;Black;Not applicable;2004
+6105;Black;Not str democrat;Black;Not applicable;2004
+6106;Black;Strong democrat;Black;4;2004
+6107;White;Not str republican;White;Not applicable;2004
+6108;White;Ind,near rep;White;2;2004
+6109;White;Not str republican;White;Not applicable;2004
+6110;White;Independent;White;Not applicable;2004
+6111;White;Strong republican;White;Not applicable;2004
+6112;White;Independent;White;Not applicable;2004
+6113;White;Not str republican;White;3;2004
+6114;White;Strong republican;White;3;2004
+6115;Other;Independent;Other;Not applicable;2004
+6116;White;Strong democrat;White;Not applicable;2004
+6117;Other;Independent;Other;Not applicable;2004
+6118;Other;Independent;Other;Not applicable;2004
+6119;White;Not str republican;White;Not applicable;2004
+6120;White;Independent;White;Not applicable;2004
+6121;White;Ind,near rep;White;Not applicable;2004
+6122;White;Not str republican;White;Not applicable;2004
+6123;White;Not str democrat;White;3;2004
+6124;White;Ind,near rep;White;Not applicable;2004
+6125;White;Not str republican;White;Not applicable;2004
+6126;White;Independent;White;Not applicable;2004
+6127;White;Not str republican;White;Not applicable;2004
+6128;White;Not str republican;White;Not applicable;2004
+6129;White;Not str republican;White;1;2004
+6130;Black;Strong democrat;Black;8;2004
+6131;White;Not str republican;White;1;2004
+6132;White;Not str republican;White;2;2004
+6133;White;Ind,near dem;White;6;2004
+6134;White;Strong republican;White;Not applicable;2004
+6135;Black;Ind,near dem;Black;2;2004
+6136;White;Not str republican;White;Not applicable;2004
+6137;White;Strong democrat;White;Not applicable;2004
+6138;White;Strong republican;White;Not applicable;2004
+6139;Black;Not str democrat;Black;2;2004
+6140;White;Not str democrat;White;Not applicable;2004
+6141;Black;Independent;Black;Not applicable;2004
+6142;Black;Not str democrat;Black;Not applicable;2004
+6143;Black;Not str democrat;Black;Not applicable;2004
+6144;White;Not str democrat;White;3;2004
+6145;White;Not str republican;White;Not applicable;2004
+6146;White;Independent;White;Not applicable;2004
+6147;White;Ind,near rep;White;2;2004
+6148;Black;Strong democrat;Black;Not applicable;2004
+6149;Black;Independent;Black;Not applicable;2004
+6150;White;Strong democrat;White;Not applicable;2004
+6151;White;Strong republican;White;Not applicable;2004
+6152;White;Other party;White;3;2004
+6153;White;Not str democrat;White;3;2004
+6154;White;Ind,near rep;White;Not applicable;2004
+6155;White;Ind,near dem;White;Not applicable;2004
+6156;White;Independent;White;5;2004
+6157;White;Not str republican;White;Not applicable;2004
+6158;White;Ind,near rep;White;Not applicable;2004
+6159;White;Independent;White;Not applicable;2004
+6160;White;Independent;White;0;2004
+6161;White;Not str democrat;White;Not applicable;2004
+6162;White;Independent;White;Not applicable;2004
+6163;White;Independent;White;8;2004
+6164;White;Other party;White;Not applicable;2004
+6165;White;Not str republican;White;1;2004
+6166;White;Independent;White;3;2004
+6167;Black;Strong democrat;Black;6;2004
+6168;White;Not str democrat;White;2;2004
+6169;Black;Ind,near rep;Black;Not applicable;2004
+6170;White;Independent;White;Not applicable;2004
+6171;White;Not str democrat;White;Not applicable;2004
+6172;White;Ind,near rep;White;Not applicable;2004
+6173;Black;Not str democrat;Black;8;2004
+6174;White;Independent;White;Not applicable;2004
+6175;Other;Independent;Other;Not applicable;2004
+6176;White;Ind,near dem;White;0;2004
+6177;White;Not str democrat;White;Not applicable;2004
+6178;White;Not str democrat;White;2;2004
+6179;Other;Not str democrat;Other;1;2004
+6180;White;Ind,near rep;White;Not applicable;2004
+6181;Black;Strong democrat;Black;Not applicable;2004
+6182;Black;Strong democrat;Black;Not applicable;2004
+6183;Black;Independent;Black;2;2004
+6184;Black;Strong democrat;Black;Not applicable;2004
+6185;Black;Strong democrat;Black;Not applicable;2004
+6186;Black;Ind,near rep;Black;Not applicable;2004
+6187;White;Strong democrat;White;3;2004
+6188;White;Strong democrat;White;Not applicable;2004
+6189;White;Strong republican;White;Not applicable;2004
+6190;White;Strong democrat;White;Not applicable;2004
+6191;White;Not str democrat;White;1;2004
+6192;Other;Independent;Other;Not applicable;2004
+6193;White;Independent;White;Not applicable;2004
+6194;White;Not str republican;White;1;2004
+6195;White;Ind,near dem;White;0;2004
+6196;Other;Strong democrat;Other;1;2004
+6197;White;Not str republican;White;Not applicable;2004
+6198;Black;Independent;Black;Not applicable;2004
+6199;Black;Strong democrat;Black;Not applicable;2004
+6200;White;Ind,near rep;White;Not applicable;2004
+6201;Other;Not str democrat;Other;2;2004
+6202;Black;Ind,near dem;Black;3;2004
+6203;White;Ind,near dem;White;6;2004
+6204;White;No answer;White;2;2004
+6205;Black;Not str democrat;Black;Not applicable;2004
+6206;Other;Independent;Other;Not applicable;2004
+6207;Black;Strong democrat;Black;1;2004
+6208;Black;Strong democrat;Black;3;2004
+6209;White;Strong republican;White;Not applicable;2004
+6210;White;Strong republican;White;2;2004
+6211;White;Strong republican;White;Not applicable;2004
+6212;White;Strong republican;White;Not applicable;2004
+6213;White;Strong republican;White;Not applicable;2004
+6214;White;Strong republican;White;4;2004
+6215;White;Ind,near dem;White;0;2004
+6216;White;Independent;White;3;2004
+6217;White;Strong republican;White;Not applicable;2004
+6218;Black;Strong democrat;Black;Not applicable;2004
+6219;White;Not str republican;White;Not applicable;2004
+6220;White;Strong republican;White;Not applicable;2004
+6221;Black;Ind,near rep;Black;Not applicable;2004
+6222;White;Strong republican;White;1;2004
+6223;White;Strong republican;White;3;2004
+6224;White;Ind,near rep;White;Not applicable;2004
+6225;Other;Not str democrat;Other;Not applicable;2004
+6226;Other;Not str republican;Other;3;2004
+6227;White;Independent;White;Not applicable;2004
+6228;Other;Independent;Other;Not applicable;2004
+6229;White;Independent;White;Not applicable;2004
+6230;Other;Independent;Other;Not applicable;2004
+6231;Black;Strong democrat;Black;3;2004
+6232;White;Not str democrat;White;3;2004
+6233;White;Not str democrat;White;Not applicable;2004
+6234;White;Ind,near dem;White;2;2004
+6235;Black;Not str democrat;Black;Not applicable;2004
+6236;White;Strong democrat;White;Not applicable;2004
+6237;White;Strong republican;White;Not applicable;2004
+6238;White;Strong republican;White;Not applicable;2004
+6239;White;Not str republican;White;2;2004
+6240;Black;Independent;Black;Not applicable;2004
+6241;Black;Strong democrat;Black;Not applicable;2004
+6242;Black;Not str democrat;Black;Not applicable;2004
+6243;Black;Not str democrat;Black;13;2004
+6244;Black;Not str democrat;Black;Not applicable;2004
+6245;Black;Not str democrat;Black;12;2004
+6246;Black;Ind,near dem;Black;Not applicable;2004
+6247;Black;Independent;Black;Not applicable;2004
+6248;White;Not str republican;White;Not applicable;2004
+6249;White;Ind,near rep;White;3;2004
+6250;White;Not str republican;White;Not applicable;2004
+6251;White;Strong republican;White;Not applicable;2004
+6252;Other;Independent;Other;1;2004
+6253;Black;Ind,near dem;Black;2;2004
+6254;Other;Independent;Other;Not applicable;2004
+6255;Black;Strong democrat;Black;2;2004
+6256;White;Strong republican;White;Not applicable;2004
+6257;White;Ind,near rep;White;1;2004
+6258;White;Independent;White;Not applicable;2004
+6259;White;Not str republican;White;5;2004
+6260;White;Ind,near dem;White;Not applicable;2004
+6261;White;Strong republican;White;Not applicable;2004
+6262;Black;Ind,near dem;Black;Not applicable;2004
+6263;White;Strong democrat;White;2;2004
+6264;White;Ind,near rep;White;Not applicable;2004
+6265;White;Not str democrat;White;Not applicable;2004
+6266;White;Not str democrat;White;Not applicable;2004
+6267;White;Strong democrat;White;1;2004
+6268;White;Ind,near rep;White;Not applicable;2004
+6269;Other;Independent;Other;Not applicable;2004
+6270;White;Strong democrat;White;Not applicable;2004
+6271;White;Not str republican;White;2;2004
+6272;Other;Independent;Other;Not applicable;2004
+6273;White;Strong democrat;White;Not applicable;2004
+6274;White;Not str republican;White;Not applicable;2004
+6275;White;Independent;White;3;2004
+6276;Black;Ind,near dem;Black;Not applicable;2004
+6277;Black;Ind,near dem;Black;Not applicable;2004
+6278;White;Not str democrat;White;Not applicable;2004
+6279;Black;Not str democrat;Black;10;2004
+6280;Other;Ind,near dem;Other;Not applicable;2004
+6281;Black;Not str democrat;Black;Not applicable;2004
+6282;Black;Not str democrat;Black;Not applicable;2004
+6283;Black;Strong democrat;Black;Not applicable;2004
+6284;Black;Independent;Black;Not applicable;2004
+6285;Black;Strong democrat;Black;4;2004
+6286;Black;Strong democrat;Black;1;2004
+6287;Black;Strong democrat;Black;Not applicable;2004
+6288;Black;Strong democrat;Black;Not applicable;2004
+6289;Black;Strong democrat;Black;1;2004
+6290;Black;Not str republican;Black;Not applicable;2004
+6291;Black;Independent;Black;Not applicable;2004
+6292;White;Strong republican;White;Not applicable;2004
+6293;Black;Not str democrat;Black;2;2004
+6294;White;Strong republican;White;0;2004
+6295;White;Strong republican;White;Not applicable;2004
+6296;White;Independent;White;Not applicable;2004
+6297;White;Independent;White;Not applicable;2004
+6298;Black;Independent;Black;1;2004
+6299;White;Not str republican;White;Not applicable;2004
+6300;Black;Independent;Black;Not applicable;2004

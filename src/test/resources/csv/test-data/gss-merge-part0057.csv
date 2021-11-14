@@ -1,0 +1,301 @@
+obs;age;rincome;race;race;partyid
+16801;45;$20000 - 24999;Black;Black;Strong democrat
+16802;25;Not applicable;Black;Black;Not str democrat
+16803;38;$3000 to 3999;White;White;Not str democrat
+16804;53;$10000 - 14999;Black;Black;Strong republican
+16805;54;Not applicable;Black;Black;Not str democrat
+16806;68;Not applicable;Black;Black;Not str democrat
+16807;19;Not applicable;Black;Black;Not str republican
+16808;53;$10000 - 14999;Black;Black;Not str republican
+16809;53;Not applicable;White;White;Not str republican
+16810;41;$15000 - 19999;Black;Black;Strong democrat
+16811;59;$25000 or more;White;White;Ind,near rep
+16812;35;Not applicable;Black;Black;Independent
+16813;65;$5000 to 5999;White;White;Strong democrat
+16814;27;$4000 to 4999;Black;Black;Strong democrat
+16815;44;Not applicable;White;White;Ind,near rep
+16816;51;Not applicable;Black;Black;Strong democrat
+16817;62;Not applicable;Black;Black;Independent
+16818;26;$25000 or more;Black;Black;Independent
+16819;26;$20000 - 24999;White;White;Independent
+16820;23;Not applicable;Black;Black;Independent
+16821;27;$20000 - 24999;Black;Black;Strong democrat
+16822;27;$10000 - 14999;Black;Black;Not str democrat
+16823;27;Not applicable;White;White;Ind,near rep
+16824;29;$25000 or more;White;White;Strong republican
+16825;29;$7000 to 7999;White;White;Independent
+16826;18;Don't know;White;White;Not str democrat
+16827;59;Not applicable;Black;Black;Independent
+16828;27;Refused;Black;Black;Not str republican
+16829;53;Refused;White;White;Independent
+16830;30;$15000 - 19999;White;White;Independent
+16831;19;Not applicable;White;White;Strong republican
+16832;33;Not applicable;Black;Black;Strong democrat
+16833;34;$25000 or more;White;White;Not str democrat
+16834;29;$3000 to 3999;Black;Black;Strong democrat
+16835;39;Not applicable;Black;Black;Independent
+16836;22;$1000 to 2999;Black;Black;Strong democrat
+16837;72;Refused;Black;Black;Not str democrat
+16838;29;Not applicable;White;White;Independent
+16839;61;$10000 - 14999;Black;Black;Strong democrat
+16840;38;Not applicable;Other;Other;Independent
+16841;52;$25000 or more;White;White;Ind,near rep
+16842;59;$25000 or more;White;White;Not str democrat
+16843;40;Refused;White;White;Not str republican
+16844;45;$5000 to 5999;White;White;Not str republican
+16845;48;Refused;Black;Black;Strong democrat
+16846;62;$15000 - 19999;White;White;Ind,near rep
+16847;67;$25000 or more;White;White;Not str republican
+16848;35;$5000 to 5999;White;White;Not str republican
+16849;52;Refused;Black;Black;Ind,near dem
+16850;41;$20000 - 24999;Black;Black;Not str democrat
+16851;38;$20000 - 24999;White;White;Not str democrat
+16852;53;$25000 or more;Black;Black;Strong democrat
+16853;51;Lt $1000;White;White;Not str democrat
+16854;27;$10000 - 14999;Black;Black;Not str democrat
+16855;51;$25000 or more;Black;Black;Ind,near rep
+16856;44;Refused;Black;Black;Independent
+16857;56;Not applicable;Black;Black;Strong democrat
+16858;32;Not applicable;White;White;Independent
+16859;60;$10000 - 14999;Black;Black;Strong democrat
+16860;35;$25000 or more;Other;Other;Not str democrat
+16861;49;$25000 or more;White;White;Independent
+16862;45;Not applicable;Other;Other;No answer
+16863;75;$25000 or more;White;White;Strong democrat
+16864;37;$10000 - 14999;White;White;Not str democrat
+16865;64;Not applicable;White;White;Not str democrat
+16866;50;$10000 - 14999;White;White;Ind,near rep
+16867;47;$25000 or more;White;White;Not str republican
+16868;75;Lt $1000;White;White;Not str democrat
+16869;67;$25000 or more;White;White;Not str democrat
+16870;52;Not applicable;White;White;Not str democrat
+16871;48;Refused;White;White;Ind,near rep
+16872;51;$10000 - 14999;White;White;Independent
+16873;67;$5000 to 5999;White;White;Strong republican
+16874;32;$25000 or more;White;White;Ind,near rep
+16875;36;$20000 - 24999;White;White;Strong republican
+16876;63;Refused;White;White;Strong republican
+16877;64;Not applicable;White;White;Ind,near dem
+16878;65;Not applicable;White;White;Independent
+16879;68;Refused;White;White;Ind,near dem
+16880;53;$25000 or more;White;White;Ind,near rep
+16881;51;$25000 or more;White;White;Strong democrat
+16882;50;Not applicable;White;White;Not str democrat
+16883;68;$25000 or more;White;White;Not str democrat
+16884;52;$8000 to 9999;Black;Black;Ind,near rep
+16885;58;Refused;White;White;Not str republican
+16886;44;Not applicable;White;White;Not str republican
+16887;70;Not applicable;White;White;Not str democrat
+16888;72;Refused;White;White;Strong democrat
+16889;59;$25000 or more;White;White;Ind,near dem
+16890;77;Not applicable;White;White;Strong republican
+16891;31;$10000 - 14999;White;White;Other party
+16892;49;$25000 or more;White;White;Ind,near dem
+16893;28;$25000 or more;White;White;Not str democrat
+16894;18;Not applicable;White;White;Not str democrat
+16895;50;$10000 - 14999;White;White;Ind,near rep
+16896;37;$3000 to 3999;White;White;Independent
+16897;52;Not applicable;White;White;Strong republican
+16898;39;Not applicable;White;White;Strong republican
+16899;67;$25000 or more;White;White;Strong democrat
+16900;58;$10000 - 14999;White;White;Independent
+16901;60;Don't know;Black;Black;Ind,near dem
+16902;65;Not applicable;Black;Black;Not str democrat
+16903;61;Refused;White;White;Not str republican
+16904;57;Not applicable;White;White;Not str democrat
+16905;59;Not applicable;White;White;Strong democrat
+16906;26;Don't know;White;White;No answer
+16907;54;$25000 or more;White;White;Strong republican
+16908;29;$7000 to 7999;White;White;Strong republican
+16909;43;$8000 to 9999;White;White;Not str democrat
+16910;59;$25000 or more;White;White;Other party
+16911;83;$25000 or more;White;White;Independent
+16912;66;Not applicable;White;White;Strong democrat
+16913;36;$1000 to 2999;Black;Black;Independent
+16914;25;$10000 - 14999;White;White;Other party
+16915;20;$1000 to 2999;White;White;Not str democrat
+16916;61;Not applicable;White;White;Ind,near dem
+16917;67;Not applicable;Black;Black;Strong democrat
+16918;60;Not applicable;White;White;Not str democrat
+16919;81;Not applicable;White;White;Not str republican
+16920;45;$10000 - 14999;Other;Other;Independent
+16921;37;$25000 or more;White;White;Independent
+16922;86;Not applicable;White;White;Strong democrat
+16923;89 or older;Not applicable;White;White;Not str democrat
+16924;46;Not applicable;White;White;Strong democrat
+16925;34;Not applicable;White;White;Independent
+16926;87;Not applicable;White;White;Independent
+16927;70;Not applicable;White;White;Not str democrat
+16928;25;Not applicable;White;White;Not str democrat
+16929;52;$25000 or more;White;White;Ind,near dem
+16930;50;$25000 or more;White;White;Ind,near rep
+16931;23;$25000 or more;White;White;Ind,near dem
+16932;46;$20000 - 24999;White;White;Not str democrat
+16933;34;$25000 or more;White;White;Other party
+16934;24;Not applicable;White;White;No answer
+16935;25;$20000 - 24999;White;White;Other party
+16936;21;Not applicable;White;White;Not str republican
+16937;31;Not applicable;Other;Other;Independent
+16938;29;Not applicable;Other;Other;Other party
+16939;56;$25000 or more;White;White;Strong democrat
+16940;63;$5000 to 5999;White;White;Ind,near dem
+16941;53;$8000 to 9999;White;White;Ind,near rep
+16942;50;$25000 or more;Black;Black;Strong democrat
+16943;71;$1000 to 2999;White;White;Not str republican
+16944;19;Not applicable;White;White;Independent
+16945;19;Not applicable;Other;Other;Ind,near dem
+16946;44;$25000 or more;Other;Other;Independent
+16947;76;$8000 to 9999;White;White;Strong republican
+16948;70;$25000 or more;White;White;Ind,near dem
+16949;30;$15000 - 19999;Other;Other;Not str democrat
+16950;39;$15000 - 19999;White;White;Independent
+16951;42;Not applicable;White;White;Not str republican
+16952;25;$5000 to 5999;White;White;Ind,near rep
+16953;62;$20000 - 24999;White;White;Strong republican
+16954;65;$7000 to 7999;White;White;Not str republican
+16955;49;$20000 - 24999;White;White;Ind,near dem
+16956;69;Not applicable;White;White;Independent
+16957;43;$15000 - 19999;White;White;Ind,near dem
+16958;36;$15000 - 19999;White;White;Ind,near dem
+16959;34;$10000 - 14999;White;White;Independent
+16960;43;Lt $1000;White;White;Not str democrat
+16961;48;$20000 - 24999;White;White;Not str republican
+16962;23;Not applicable;White;White;Independent
+16963;67;Not applicable;White;White;Ind,near rep
+16964;21;$15000 - 19999;White;White;Ind,near dem
+16965;70;$8000 to 9999;Other;Other;Strong republican
+16966;63;Not applicable;White;White;Ind,near rep
+16967;62;Not applicable;White;White;Strong republican
+16968;66;Not applicable;White;White;Strong republican
+16969;54;$20000 - 24999;White;White;Not str democrat
+16970;57;Not applicable;White;White;Independent
+16971;30;$25000 or more;White;White;Other party
+16972;22;Not applicable;White;White;Ind,near dem
+16973;21;Not applicable;White;White;Ind,near rep
+16974;42;$25000 or more;Other;Other;Ind,near dem
+16975;49;Not applicable;White;White;Not str republican
+16976;70;Not applicable;Black;Black;Strong democrat
+16977;50;Not applicable;White;White;Strong democrat
+16978;35;Not applicable;White;White;Independent
+16979;24;Not applicable;Other;Other;Independent
+16980;28;Not applicable;Black;Black;Independent
+16981;28;$25000 or more;White;White;Strong democrat
+16982;55;Not applicable;White;White;Strong democrat
+16983;36;$6000 to 6999;Black;Black;Not str democrat
+16984;28;Not applicable;White;White;Independent
+16985;59;Not applicable;Black;Black;Independent
+16986;52;$15000 - 19999;Other;Other;Independent
+16987;35;$25000 or more;Black;Black;Not str republican
+16988;36;$25000 or more;White;White;Not str republican
+16989;47;$25000 or more;Black;Black;Ind,near dem
+16990;55;$25000 or more;Other;Other;No answer
+16991;18;Not applicable;Other;Other;Independent
+16992;76;Not applicable;Other;Other;Not str democrat
+16993;39;Not applicable;Other;Other;Not str democrat
+16994;54;$25000 or more;White;White;Independent
+16995;45;$25000 or more;Other;Other;Independent
+16996;71;Not applicable;White;White;Not str republican
+16997;42;Refused;White;White;Not str democrat
+16998;22;$15000 - 19999;White;White;Not str republican
+16999;50;Not applicable;White;White;Independent
+17000;81;Not applicable;Black;Black;Strong democrat
+17001;44;$8000 to 9999;White;White;Not str republican
+17002;78;Not applicable;White;White;Independent
+17003;63;$25000 or more;White;White;Strong democrat
+17004;73;Not applicable;White;White;Strong democrat
+17005;40;$25000 or more;Other;Other;Independent
+17006;42;$25000 or more;White;White;Ind,near dem
+17007;62;$25000 or more;White;White;Ind,near dem
+17008;52;$25000 or more;White;White;Other party
+17009;49;$25000 or more;Black;Black;Strong democrat
+17010;27;$25000 or more;Other;Other;Not str democrat
+17011;30;$25000 or more;Black;Black;Not str democrat
+17012;29;$25000 or more;Other;Other;Not str democrat
+17013;69;Not applicable;White;White;Not str democrat
+17014;51;$25000 or more;White;White;Ind,near dem
+17015;57;$25000 or more;White;White;Ind,near dem
+17016;44;$25000 or more;White;White;Not str republican
+17017;73;Not applicable;White;White;Not str democrat
+17018;73;Not applicable;White;White;Not str republican
+17019;68;$25000 or more;White;White;Independent
+17020;84;$20000 - 24999;White;White;Ind,near dem
+17021;63;Refused;White;White;Ind,near rep
+17022;57;$25000 or more;White;White;Independent
+17023;42;$25000 or more;Other;Other;Not str democrat
+17024;45;Not applicable;White;White;Independent
+17025;38;Not applicable;Other;Other;Ind,near dem
+17026;46;$25000 or more;White;White;Ind,near dem
+17027;51;Refused;Other;Other;Independent
+17028;41;$15000 - 19999;Black;Black;Strong democrat
+17029;75;Not applicable;Black;Black;Strong democrat
+17030;81;Not applicable;Other;Other;Strong democrat
+17031;41;Not applicable;White;White;Independent
+17032;67;Not applicable;Black;Black;Strong democrat
+17033;71;Not applicable;Black;Black;Strong democrat
+17034;35;Don't know;Other;Other;Independent
+17035;45;$25000 or more;Black;Black;Not str democrat
+17036;35;Refused;Black;Black;Strong democrat
+17037;21;Refused;Black;Black;Independent
+17038;52;$25000 or more;Black;Black;Independent
+17039;49;$25000 or more;Black;Black;Strong democrat
+17040;46;$25000 or more;White;White;Ind,near dem
+17041;51;$20000 - 24999;White;White;Independent
+17042;28;$25000 or more;Other;Other;Not str democrat
+17043;81;Not applicable;White;White;Not str republican
+17044;47;$25000 or more;White;White;Ind,near dem
+17045;48;Refused;White;White;Strong democrat
+17046;46;$25000 or more;White;White;Independent
+17047;68;Not applicable;White;White;Not str democrat
+17048;56;$20000 - 24999;White;White;Strong democrat
+17049;43;Not applicable;White;White;Strong democrat
+17050;32;Not applicable;Other;Other;Not str democrat
+17051;23;$4000 to 4999;Other;Other;Independent
+17052;59;Not applicable;White;White;Not str democrat
+17053;32;$25000 or more;White;White;Not str democrat
+17054;44;$25000 or more;White;White;Strong democrat
+17055;49;$25000 or more;Other;Other;Strong democrat
+17056;64;$25000 or more;White;White;Strong democrat
+17057;30;Refused;White;White;Strong democrat
+17058;51;$20000 - 24999;Other;Other;Not str democrat
+17059;28;$25000 or more;Black;Black;Not str democrat
+17060;84;Refused;White;White;Ind,near rep
+17061;32;$15000 - 19999;Other;Other;Independent
+17062;54;$25000 or more;Other;Other;Strong democrat
+17063;34;$25000 or more;Black;Black;Strong democrat
+17064;33;$7000 to 7999;Other;Other;Independent
+17065;48;Not applicable;White;White;Strong democrat
+17066;52;Not applicable;Black;Black;Strong democrat
+17067;No answer;$4000 to 4999;Other;Other;Not str democrat
+17068;54;Refused;White;White;Strong democrat
+17069;19;Not applicable;Other;Other;Not str democrat
+17070;41;$25000 or more;Other;Other;Ind,near dem
+17071;23;$15000 - 19999;White;White;Not str democrat
+17072;51;$25000 or more;White;White;Not str democrat
+17073;75;Not applicable;White;White;Strong democrat
+17074;No answer;Refused;White;White;Independent
+17075;27;$6000 to 6999;Other;Other;Not str republican
+17076;24;Not applicable;White;White;Strong democrat
+17077;26;$25000 or more;Other;Other;Not str republican
+17078;47;$10000 - 14999;White;White;Strong democrat
+17079;55;$4000 to 4999;White;White;Not str republican
+17080;55;Refused;Black;Black;Not str democrat
+17081;43;$25000 or more;White;White;Not str democrat
+17082;46;$25000 or more;Black;Black;Strong democrat
+17083;71;$25000 or more;Black;Black;Strong democrat
+17084;32;Refused;Other;Other;Not str democrat
+17085;63;$10000 - 14999;White;White;Ind,near rep
+17086;50;$10000 - 14999;White;White;Independent
+17087;60;$25000 or more;White;White;Ind,near rep
+17088;33;Not applicable;White;White;Not str democrat
+17089;40;$25000 or more;White;White;Strong republican
+17090;68;Not applicable;White;White;Ind,near dem
+17091;69;Not applicable;White;White;Independent
+17092;71;$25000 or more;White;White;Not str republican
+17093;23;$5000 to 5999;White;White;Independent
+17094;28;$25000 or more;White;White;Not str democrat
+17095;49;$25000 or more;Black;Black;Ind,near dem
+17096;66;Don't know;White;White;Ind,near rep
+17097;36;$25000 or more;White;White;Strong democrat
+17098;53;$25000 or more;White;White;Strong democrat
+17099;40;$20000 - 24999;White;White;Independent
+17100;34;$25000 or more;White;White;Independent

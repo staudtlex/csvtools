@@ -1,0 +1,301 @@
+obs;marital;race;marital;denom;tvhours
+21001;Divorced;White;Divorced;Not applicable;2
+21002;Never married;White;Never married;Not applicable;3
+21003;Married;White;Married;Not applicable;Not applicable
+21004;Divorced;White;Divorced;No denomination;Not applicable
+21005;Married;White;Married;Other;2
+21006;Married;White;Married;Not applicable;3
+21007;Never married;White;Never married;No denomination;3
+21008;Married;White;Married;No denomination;3
+21009;Widowed;White;Widowed;Lutheran-mo synod;Not applicable
+21010;Divorced;Other;Divorced;No denomination;Not applicable
+21011;Divorced;White;Divorced;Not applicable;2
+21012;Divorced;Other;Divorced;No denomination;4
+21013;Widowed;White;Widowed;Other presbyterian;3
+21014;Separated;White;Separated;Not applicable;3
+21015;Never married;White;Never married;No denomination;2
+21016;Never married;Other;Never married;Not applicable;Not applicable
+21017;Married;White;Married;Not applicable;3
+21018;Never married;Black;Never married;Southern baptist;4
+21019;Married;White;Married;Lutheran-mo synod;Not applicable
+21020;Married;White;Married;Other;1
+21021;Married;White;Married;Not applicable;1
+21022;Separated;White;Separated;Other;0
+21023;Never married;White;Never married;No denomination;1
+21024;Widowed;Black;Widowed;United methodist;Not applicable
+21025;Divorced;White;Divorced;Not applicable;1
+21026;Divorced;White;Divorced;Other;4
+21027;Married;Black;Married;Not applicable;5
+21028;Never married;White;Never married;Not applicable;Not applicable
+21029;Never married;White;Never married;Not applicable;3
+21030;Separated;White;Separated;Not applicable;3
+21031;Never married;Black;Never married;Other;4
+21032;Separated;White;Separated;No denomination;1
+21033;Married;White;Married;No denomination;4
+21034;Married;White;Married;No denomination;Not applicable
+21035;Married;White;Married;No denomination;2
+21036;Married;White;Married;No denomination;Not applicable
+21037;Never married;White;Never married;Not applicable;5
+21038;Widowed;White;Widowed;No denomination;Not applicable
+21039;Married;White;Married;Not applicable;3
+21040;Never married;White;Never married;No denomination;Not applicable
+21041;Married;Other;Married;Not applicable;Not applicable
+21042;Married;White;Married;Other;2
+21043;Married;White;Married;No denomination;Not applicable
+21044;Separated;White;Separated;Not applicable;Not applicable
+21045;Married;White;Married;Not applicable;2
+21046;Married;Other;Married;Not applicable;3
+21047;Married;Other;Married;Not applicable;Not applicable
+21048;Widowed;Other;Widowed;Not applicable;Not applicable
+21049;Married;White;Married;Not applicable;5
+21050;Married;White;Married;Not applicable;Not applicable
+21051;Married;White;Married;No denomination;Not applicable
+21052;Never married;White;Never married;Not applicable;2
+21053;Married;White;Married;United methodist;Not applicable
+21054;Married;White;Married;United methodist;1
+21055;Widowed;White;Widowed;Not applicable;8
+21056;Married;White;Married;Other baptists;1
+21057;Never married;Black;Never married;Baptist-dk which;1
+21058;Married;Other;Married;Not applicable;Not applicable
+21059;Married;White;Married;Not applicable;1
+21060;Never married;Other;Never married;Not applicable;Not applicable
+21061;Divorced;Other;Divorced;Not applicable;Not applicable
+21062;Never married;Other;Never married;Not applicable;4
+21063;Never married;White;Never married;Not applicable;4
+21064;Divorced;White;Divorced;Not applicable;Not applicable
+21065;Separated;Other;Separated;Not applicable;24
+21066;Widowed;Black;Widowed;Other;4
+21067;Never married;White;Never married;Other;18
+21068;Divorced;Other;Divorced;Not applicable;4
+21069;Married;White;Married;Not applicable;3
+21070;Married;White;Married;Not applicable;1
+21071;Divorced;Other;Divorced;Not applicable;4
+21072;Divorced;White;Divorced;Not applicable;5
+21073;Widowed;White;Widowed;No denomination;4
+21074;Married;White;Married;Not applicable;8
+21075;Divorced;White;Divorced;Not applicable;2
+21076;Separated;White;Separated;No denomination;6
+21077;Divorced;White;Divorced;No denomination;Not applicable
+21078;Married;White;Married;Not applicable;Not applicable
+21079;Divorced;White;Divorced;Presbyterian-dk wh;Not applicable
+21080;Divorced;White;Divorced;No denomination;6
+21081;Married;White;Married;No denomination;1
+21082;Married;White;Married;Not applicable;3
+21083;Married;White;Married;No denomination;4
+21084;Married;White;Married;Not applicable;Not applicable
+21085;Married;White;Married;Not applicable;3
+21086;Widowed;White;Widowed;Not applicable;4
+21087;Married;Other;Married;No answer;Not applicable
+21088;Married;White;Married;No denomination;1
+21089;Married;White;Married;Not applicable;3
+21090;Married;White;Married;Not applicable;2
+21091;Never married;White;Never married;Not applicable;5
+21092;Married;White;Married;Not applicable;3
+21093;Widowed;White;Widowed;No denomination;Not applicable
+21094;Married;White;Married;Not applicable;Not applicable
+21095;Never married;White;Never married;Not applicable;2
+21096;Married;White;Married;United methodist;Not applicable
+21097;Married;White;Married;Other;0
+21098;Married;White;Married;No denomination;3
+21099;Married;White;Married;Not applicable;4
+21100;Married;White;Married;Not applicable;2
+21101;Married;White;Married;Other;2
+21102;Never married;White;Never married;United methodist;Not applicable
+21103;Never married;Other;Never married;Not applicable;Not applicable
+21104;Never married;White;Never married;No denomination;Not applicable
+21105;Never married;White;Never married;Not applicable;1
+21106;Married;White;Married;Other;Not applicable
+21107;Never married;White;Never married;Not applicable;Not applicable
+21108;Married;White;Married;Am lutheran;1
+21109;Widowed;White;Widowed;Other;3
+21110;Widowed;White;Widowed;Baptist-dk which;2
+21111;Separated;White;Separated;No denomination;3
+21112;Married;White;Married;No denomination;Not applicable
+21113;Divorced;White;Divorced;Presbyterian-dk wh;2
+21114;Never married;White;Never married;Other baptists;1
+21115;Divorced;White;Divorced;Not applicable;2
+21116;Divorced;White;Divorced;Not applicable;2
+21117;Divorced;White;Divorced;Not applicable;0
+21118;Never married;Other;Never married;Not applicable;1
+21119;Divorced;White;Divorced;Not applicable;2
+21120;Never married;Other;Never married;Not applicable;Not applicable
+21121;Divorced;White;Divorced;Not applicable;2
+21122;Married;White;Married;Not applicable;3
+21123;Married;White;Married;Presbyterian, merged;Not applicable
+21124;Never married;White;Never married;Not applicable;1
+21125;Married;White;Married;Other lutheran;1
+21126;Never married;White;Never married;Not applicable;2
+21127;Never married;White;Never married;Not applicable;Not applicable
+21128;Married;White;Married;Am bapt ch in usa;4
+21129;Married;White;Married;Not applicable;Not applicable
+21130;Never married;Other;Never married;Not applicable;1
+21131;Never married;Other;Never married;Not applicable;0
+21132;Never married;White;Never married;Not applicable;1
+21133;Married;White;Married;Not applicable;2
+21134;Never married;White;Never married;Not applicable;Not applicable
+21135;Separated;White;Separated;Not applicable;3
+21136;Never married;White;Never married;Not applicable;4
+21137;Widowed;White;Widowed;No denomination;8
+21138;Married;White;Married;Wi evan luth synod;Not applicable
+21139;Divorced;White;Divorced;Not applicable;2
+21140;Never married;Other;Never married;Other;Not applicable
+21141;Never married;White;Never married;Not applicable;5
+21142;Widowed;White;Widowed;No answer;4
+21143;Never married;White;Never married;Other;Not applicable
+21144;Married;White;Married;Not applicable;0
+21145;Widowed;White;Widowed;No denomination;Not applicable
+21146;Married;White;Married;No denomination;3
+21147;Married;White;Married;Other;Not applicable
+21148;Widowed;White;Widowed;Other;2
+21149;Never married;Other;Never married;Not applicable;4
+21150;Married;White;Married;Presbyterian-dk wh;6
+21151;Widowed;White;Widowed;Not applicable;8
+21152;Married;Other;Married;Not applicable;4
+21153;Married;White;Married;Not applicable;Not applicable
+21154;Married;White;Married;Not applicable;2
+21155;Married;White;Married;No denomination;5
+21156;Married;White;Married;Not applicable;3
+21157;Divorced;White;Divorced;Other;0
+21158;Married;White;Married;Other;Not applicable
+21159;Married;White;Married;Not applicable;Not applicable
+21160;Married;White;Married;Not applicable;3
+21161;Married;White;Married;Nat bapt conv of am;6
+21162;Widowed;Other;Widowed;Not applicable;3
+21163;Married;Black;Married;Not applicable;Not applicable
+21164;Married;White;Married;Not applicable;Not applicable
+21165;Never married;White;Never married;Other;2
+21166;Married;White;Married;Not applicable;1
+21167;Divorced;White;Divorced;Other;Not applicable
+21168;Married;White;Married;Not applicable;0
+21169;Married;White;Married;Evangelical luth;Not applicable
+21170;Married;White;Married;No denomination;Not applicable
+21171;Married;Other;Married;Other presbyterian;1
+21172;Married;White;Married;Am baptist asso;Not applicable
+21173;Never married;White;Never married;No denomination;2
+21174;Married;White;Married;Not applicable;2
+21175;Married;Black;Married;No denomination;6
+21176;Married;Other;Married;Am baptist asso;1
+21177;Married;White;Married;No denomination;2
+21178;Divorced;White;Divorced;Not applicable;2
+21179;Married;White;Married;Not applicable;Not applicable
+21180;Married;White;Married;Not applicable;1
+21181;Never married;Black;Never married;Baptist-dk which;4
+21182;Never married;White;Never married;United methodist;5
+21183;Never married;White;Never married;Not applicable;5
+21184;Married;White;Married;Not applicable;3
+21185;Married;White;Married;Not applicable;Not applicable
+21186;Married;White;Married;No denomination;1
+21187;Never married;White;Never married;Not applicable;8
+21188;Married;White;Married;Not applicable;4
+21189;Married;White;Married;No denomination;1
+21190;Married;White;Married;Not applicable;1
+21191;Married;White;Married;United methodist;2
+21192;Married;White;Married;Baptist-dk which;4
+21193;Married;White;Married;No denomination;Not applicable
+21194;Widowed;White;Widowed;Southern baptist;Not applicable
+21195;Married;White;Married;Other;Not applicable
+21196;Married;White;Married;Not applicable;Not applicable
+21197;Married;White;Married;Other;3
+21198;Married;White;Married;No denomination;2
+21199;Married;White;Married;Baptist-dk which;6
+21200;Divorced;White;Divorced;Other;3
+21201;Never married;White;Never married;Not applicable;5
+21202;Married;White;Married;Not applicable;2
+21203;Never married;White;Never married;Not applicable;Not applicable
+21204;Married;White;Married;Not applicable;Not applicable
+21205;Married;White;Married;No denomination;5
+21206;Married;White;Married;No denomination;Not applicable
+21207;Married;White;Married;No denomination;Not applicable
+21208;Married;White;Married;No denomination;3
+21209;Married;White;Married;Lutheran-mo synod;Not applicable
+21210;Married;White;Married;Not applicable;2
+21211;Married;White;Married;No denomination;3
+21212;Married;White;Married;Southern baptist;Not applicable
+21213;Divorced;White;Divorced;Episcopal;2
+21214;Married;White;Married;Southern baptist;4
+21215;Divorced;White;Divorced;Other;Not applicable
+21216;Married;White;Married;Not applicable;10
+21217;Married;White;Married;Not applicable;1
+21218;Married;White;Married;Not applicable;1
+21219;Married;White;Married;Baptist-dk which;1
+21220;Widowed;Black;Widowed;Baptist-dk which;3
+21221;Married;White;Married;Am baptist asso;Not applicable
+21222;Widowed;White;Widowed;Southern baptist;2
+21223;Married;White;Married;Southern baptist;3
+21224;Married;White;Married;Southern baptist;4
+21225;Married;White;Married;Southern baptist;3
+21226;Married;Black;Married;Am baptist asso;Not applicable
+21227;Married;White;Married;Southern baptist;4
+21228;Never married;Other;Never married;Am baptist asso;1
+21229;Widowed;White;Widowed;Southern baptist;6
+21230;Separated;White;Separated;Not applicable;Not applicable
+21231;Married;White;Married;Southern baptist;3
+21232;Divorced;White;Divorced;No denomination;4
+21233;Divorced;White;Divorced;Lutheran-mo synod;Not applicable
+21234;Married;White;Married;United methodist;2
+21235;Married;White;Married;Other;Not applicable
+21236;Married;White;Married;No denomination;Not applicable
+21237;Divorced;White;Divorced;Baptist-dk which;4
+21238;Married;White;Married;Presbyterian, merged;Not applicable
+21239;Never married;White;Never married;Other;4
+21240;Married;White;Married;Southern baptist;1
+21241;Divorced;White;Divorced;Other;0
+21242;Married;White;Married;Southern baptist;0
+21243;Widowed;White;Widowed;Lutheran-mo synod;0
+21244;Married;White;Married;Not applicable;2
+21245;Married;White;Married;Other;0
+21246;Married;White;Married;No denomination;0
+21247;Divorced;White;Divorced;Baptist-dk which;2
+21248;Married;White;Married;Not applicable;2
+21249;Married;White;Married;Other;Not applicable
+21250;Married;White;Married;Am bapt ch in usa;Not applicable
+21251;Married;White;Married;Other;1
+21252;Divorced;White;Divorced;Not applicable;0
+21253;Married;White;Married;Southern baptist;Not applicable
+21254;Married;White;Married;Lutheran-mo synod;2
+21255;Married;White;Married;Southern baptist;1
+21256;Divorced;White;Divorced;Not applicable;0
+21257;Married;White;Married;Not applicable;3
+21258;Never married;Black;Never married;No denomination;Not applicable
+21259;Never married;White;Never married;Not applicable;6
+21260;Never married;White;Never married;Southern baptist;1
+21261;Never married;White;Never married;Other;Not applicable
+21262;Never married;Black;Never married;Baptist-dk which;1
+21263;Married;White;Married;Other baptists;4
+21264;Married;White;Married;Not applicable;4
+21265;Married;White;Married;Southern baptist;Not applicable
+21266;Never married;Black;Never married;Southern baptist;2
+21267;Never married;White;Never married;Southern baptist;Not applicable
+21268;Married;White;Married;Southern baptist;Not applicable
+21269;Married;Black;Married;No denomination;2
+21270;Married;White;Married;Not applicable;4
+21271;Married;White;Married;Not applicable;5
+21272;Married;White;Married;Southern baptist;3
+21273;Married;White;Married;Other;5
+21274;Divorced;White;Divorced;Southern baptist;6
+21275;Married;White;Married;Other;Not applicable
+21276;Married;White;Married;Southern baptist;Not applicable
+21277;Divorced;Black;Divorced;No denomination;Not applicable
+21278;Married;White;Married;No denomination;4
+21279;Never married;White;Never married;Not applicable;1
+21280;Married;White;Married;Not applicable;Not applicable
+21281;Never married;White;Never married;Not applicable;Not applicable
+21282;Married;Black;Married;Other;1
+21283;Married;White;Married;Other;0
+21284;Divorced;White;Divorced;Southern baptist;1
+21285;Married;White;Married;Not applicable;2
+21286;Married;Other;Married;Not applicable;Not applicable
+21287;Married;Black;Married;Not applicable;4
+21288;Widowed;Black;Widowed;Baptist-dk which;3
+21289;Widowed;White;Widowed;Not applicable;Not applicable
+21290;Married;White;Married;Not applicable;3
+21291;Widowed;White;Widowed;United methodist;2
+21292;Never married;Other;Never married;Not applicable;Not applicable
+21293;Never married;White;Never married;Not applicable;Not applicable
+21294;Never married;White;Never married;Other;Not applicable
+21295;Widowed;White;Widowed;United methodist;Not applicable
+21296;Married;White;Married;Other;Not applicable
+21297;Divorced;Other;Divorced;Not applicable;Not applicable
+21298;Married;White;Married;Not applicable;3
+21299;Divorced;White;Divorced;United methodist;2
+21300;Divorced;Other;Divorced;Not applicable;Not applicable

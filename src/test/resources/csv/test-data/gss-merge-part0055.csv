@@ -1,0 +1,301 @@
+obs;denom;year;tvhours;partyid;rincome
+16201;Presbyterian, merged;2010;1;Strong republican;Not applicable
+16202;Not applicable;2010;2;Strong republican;Not applicable
+16203;United methodist;2010;1;Not str republican;Not applicable
+16204;Other;2010;Not applicable;Ind,near rep;$25000 or more
+16205;Not applicable;2010;3;Not str democrat;$25000 or more
+16206;No denomination;2010;Not applicable;Strong republican;$25000 or more
+16207;Episcopal;2010;4;Ind,near rep;$25000 or more
+16208;Not applicable;2010;Not applicable;Not str republican;$25000 or more
+16209;No denomination;2010;2;Not str democrat;$25000 or more
+16210;Not applicable;2010;3;Ind,near rep;$1000 to 2999
+16211;Southern baptist;2010;4;Not str republican;Refused
+16212;Southern baptist;2010;2;Other party;Not applicable
+16213;Methodist-dk which;2010;8;Strong democrat;Not applicable
+16214;Episcopal;2010;1;Ind,near rep;$20000 - 24999
+16215;United methodist;2010;Not applicable;Ind,near rep;$25000 or more
+16216;Southern baptist;2010;1;Not str republican;Not applicable
+16217;Southern baptist;2010;2;Strong republican;Not applicable
+16218;Not applicable;2010;1;Independent;Not applicable
+16219;Not applicable;2010;Not applicable;Independent;$20000 - 24999
+16220;Not applicable;2010;4;Not str democrat;$20000 - 24999
+16221;Not applicable;2010;2;Strong republican;$25000 or more
+16222;Not applicable;2010;Not applicable;Ind,near dem;$25000 or more
+16223;Southern baptist;2010;1;Independent;$25000 or more
+16224;Not applicable;2010;5;Not str democrat;Not applicable
+16225;No denomination;2010;Not applicable;Strong republican;$25000 or more
+16226;No denomination;2010;3;Not str democrat;$25000 or more
+16227;No denomination;2010;Not applicable;Ind,near dem;Refused
+16228;Other;2010;Not applicable;Other party;Not applicable
+16229;No denomination;2010;1;Ind,near dem;$25000 or more
+16230;No denomination;2010;1;Strong republican;$25000 or more
+16231;Not applicable;2010;1;Independent;Not applicable
+16232;Other;2010;Not applicable;Strong republican;$25000 or more
+16233;No denomination;2010;1;Other party;$25000 or more
+16234;Baptist-dk which;2010;2;Not str republican;$25000 or more
+16235;Am baptist asso;2010;10;Not str democrat;Not applicable
+16236;Not applicable;2010;6;Independent;$15000 - 19999
+16237;Southern baptist;2010;1;Not str republican;$25000 or more
+16238;No answer;2010;Not applicable;No answer;Refused
+16239;Nat bapt conv of am;2010;4;Not str democrat;Not applicable
+16240;Baptist-dk which;2010;6;Not str democrat;Not applicable
+16241;Southern baptist;2010;8;Strong democrat;Not applicable
+16242;Baptist-dk which;2010;2;Strong democrat;$25000 or more
+16243;Other baptists;2010;Not applicable;Independent;Not applicable
+16244;Not applicable;2010;5;Independent;Not applicable
+16245;Southern baptist;2010;Not applicable;Not str democrat;$25000 or more
+16246;United methodist;2010;1;Ind,near rep;$25000 or more
+16247;Baptist-dk which;2010;2;Strong democrat;Not applicable
+16248;Other;2010;Not applicable;Strong republican;Don't know
+16249;Other;2010;2;Not str republican;$25000 or more
+16250;Not applicable;2010;4;Strong democrat;Not applicable
+16251;Other;2010;0;Other party;$15000 - 19999
+16252;Southern baptist;2010;Not applicable;Independent;$25000 or more
+16253;No denomination;2010;2;Independent;Not applicable
+16254;No denomination;2010;Not applicable;Ind,near rep;$25000 or more
+16255;Southern baptist;2010;1;Strong democrat;Not applicable
+16256;Baptist-dk which;2010;2;Ind,near dem;Lt $1000
+16257;Presbyterian-dk wh;2010;3;Strong democrat;Not applicable
+16258;Not applicable;2010;Not applicable;Ind,near dem;Not applicable
+16259;Not applicable;2010;2;Independent;Not applicable
+16260;Not applicable;2010;3;Strong republican;$25000 or more
+16261;Not applicable;2010;2;Independent;$15000 - 19999
+16262;Not applicable;2010;Not applicable;Strong democrat;$25000 or more
+16263;Not applicable;2010;7;Ind,near rep;Not applicable
+16264;Not applicable;2010;Not applicable;Ind,near rep;Not applicable
+16265;Not applicable;2010;1;Not str republican;$25000 or more
+16266;Not applicable;2010;Not applicable;Ind,near rep;Not applicable
+16267;Not applicable;2010;1;Not str democrat;$8000 to 9999
+16268;Not applicable;2010;Not applicable;Independent;$25000 or more
+16269;Not applicable;2010;4;Ind,near dem;$15000 - 19999
+16270;No denomination;2010;2;Independent;Not applicable
+16271;Not applicable;2010;Not applicable;Independent;$3000 to 3999
+16272;Not applicable;2010;3;Ind,near dem;$25000 or more
+16273;Not applicable;2010;1;Not str democrat;$25000 or more
+16274;Not applicable;2010;Not applicable;Ind,near rep;$1000 to 2999
+16275;Not applicable;2010;6;Strong democrat;$25000 or more
+16276;Other;2010;7;Independent;$4000 to 4999
+16277;Not applicable;2010;Not applicable;Not str democrat;$25000 or more
+16278;Not applicable;2010;3;Ind,near rep;Not applicable
+16279;Not applicable;2010;Not applicable;Ind,near dem;$6000 to 6999
+16280;Other baptists;2010;6;Strong democrat;Not applicable
+16281;Not applicable;2010;1;Ind,near dem;$1000 to 2999
+16282;No denomination;2010;2;Ind,near dem;$4000 to 4999
+16283;Not applicable;2010;2;Independent;$10000 - 14999
+16284;Not applicable;2010;1;Ind,near rep;$5000 to 5999
+16285;Not applicable;2010;2;Ind,near dem;Not applicable
+16286;Other;2010;Not applicable;Not str republican;Not applicable
+16287;Not applicable;2010;2;Not str democrat;$15000 - 19999
+16288;Not applicable;2010;1;Not str democrat;$25000 or more
+16289;Not applicable;2010;2;Not str democrat;$6000 to 6999
+16290;Not applicable;2010;Not applicable;Not str democrat;Not applicable
+16291;No denomination;2010;14;Strong democrat;Not applicable
+16292;Not applicable;2010;0;Not str democrat;Not applicable
+16293;Other;2010;8;Independent;$10000 - 14999
+16294;Other;2010;4;Not str republican;$1000 to 2999
+16295;Baptist-dk which;2010;3;Not str republican;$4000 to 4999
+16296;Not applicable;2010;3;Ind,near rep;$6000 to 6999
+16297;Baptist-dk which;2010;3;Not str democrat;$25000 or more
+16298;Lutheran-mo synod;2010;4;Ind,near rep;$25000 or more
+16299;Not applicable;2010;1;Ind,near dem;$25000 or more
+16300;No denomination;2010;1;Ind,near rep;Refused
+16301;Southern baptist;2010;2;Independent;$25000 or more
+16302;Baptist-dk which;2010;Not applicable;Ind,near rep;$25000 or more
+16303;Baptist-dk which;2010;1;Independent;$20000 - 24999
+16304;Southern baptist;2010;2;Strong republican;Not applicable
+16305;Episcopal;2010;2;Strong republican;Not applicable
+16306;Southern baptist;2010;3;Ind,near rep;Not applicable
+16307;Not applicable;2010;3;Independent;$25000 or more
+16308;Baptist-dk which;2010;2;Independent;$25000 or more
+16309;Baptist-dk which;2010;Not applicable;Independent;Not applicable
+16310;Not applicable;2010;1;Ind,near dem;$25000 or more
+16311;Southern baptist;2010;Not applicable;Not str democrat;Not applicable
+16312;Other;2010;2;Strong democrat;$4000 to 4999
+16313;Not applicable;2010;Not applicable;Not str democrat;Not applicable
+16314;Not applicable;2010;1;Not str republican;$7000 to 7999
+16315;Other;2010;2;Ind,near rep;Not applicable
+16316;Not applicable;2010;Not applicable;Not str republican;$6000 to 6999
+16317;Southern baptist;2010;4;Not str republican;$10000 - 14999
+16318;Southern baptist;2010;3;Strong republican;$25000 or more
+16319;No denomination;2010;Not applicable;Not str republican;$25000 or more
+16320;Southern baptist;2010;2;Not str republican;$25000 or more
+16321;Southern baptist;2010;2;Not str republican;$25000 or more
+16322;Not applicable;2010;2;Strong democrat;$10000 - 14999
+16323;Not applicable;2010;0;Not str republican;$25000 or more
+16324;Baptist-dk which;2010;2;Not str republican;Not applicable
+16325;Baptist-dk which;2010;Not applicable;Not str republican;$20000 - 24999
+16326;No denomination;2010;3;Independent;$20000 - 24999
+16327;Baptist-dk which;2010;3;Not str democrat;$25000 or more
+16328;Not applicable;2010;Not applicable;Strong democrat;Not applicable
+16329;Other;2010;2;Not str republican;Not applicable
+16330;Other;2010;5;Not str republican;Not applicable
+16331;Am baptist asso;2010;Not applicable;Independent;$1000 to 2999
+16332;Other;2010;0;Independent;$3000 to 3999
+16333;Not applicable;2010;Not applicable;Ind,near dem;$3000 to 3999
+16334;Baptist-dk which;2010;1;Not str democrat;$10000 - 14999
+16335;Other;2010;6;Independent;$8000 to 9999
+16336;No denomination;2010;1;Strong republican;$15000 - 19999
+16337;Not applicable;2010;0;Ind,near dem;$25000 or more
+16338;Not applicable;2010;Not applicable;Ind,near dem;$5000 to 5999
+16339;Not applicable;2010;4;Strong democrat;Not applicable
+16340;Methodist-dk which;2010;Not applicable;Ind,near dem;$20000 - 24999
+16341;Not applicable;2010;4;Ind,near rep;$25000 or more
+16342;No denomination;2010;1;Strong democrat;Not applicable
+16343;United methodist;2010;Not applicable;Strong democrat;$25000 or more
+16344;Not applicable;2010;Not applicable;Independent;$15000 - 19999
+16345;No denomination;2010;2;Not str democrat;Not applicable
+16346;No denomination;2010;1;Ind,near rep;Not applicable
+16347;No denomination;2010;Not applicable;Independent;$25000 or more
+16348;No denomination;2010;Not applicable;Not str republican;Not applicable
+16349;Not applicable;2010;5;Strong democrat;Not applicable
+16350;United methodist;2010;Not applicable;Not str republican;Not applicable
+16351;Not applicable;2010;Not applicable;Not str democrat;$7000 to 7999
+16352;No denomination;2010;2;Not str republican;Not applicable
+16353;No denomination;2010;3;Not str republican;Not applicable
+16354;Not applicable;2010;Not applicable;Independent;$25000 or more
+16355;Not applicable;2010;3;Not str republican;$25000 or more
+16356;Southern baptist;2010;2;Strong democrat;$25000 or more
+16357;Other;2010;1;Not str republican;$15000 - 19999
+16358;Not applicable;2010;1;Independent;$6000 to 6999
+16359;Not applicable;2010;Not applicable;Ind,near dem;$10000 - 14999
+16360;Not applicable;2010;5;Independent;$3000 to 3999
+16361;Not applicable;2010;2;Strong republican;$25000 or more
+16362;Other;2010;1;Strong republican;$15000 - 19999
+16363;No denomination;2010;3;Not str republican;Not applicable
+16364;Other;2010;1;Ind,near rep;$1000 to 2999
+16365;Not applicable;2010;4;Ind,near dem;Not applicable
+16366;Not applicable;2010;2;Not str republican;$25000 or more
+16367;Not applicable;2010;1;Independent;Not applicable
+16368;Not applicable;2010;4;Independent;$25000 or more
+16369;Not applicable;2010;Not applicable;Ind,near dem;$4000 to 4999
+16370;Methodist-dk which;2010;2;Not str democrat;Not applicable
+16371;Not applicable;2010;3;Not str democrat;Lt $1000
+16372;Other;2010;Not applicable;Independent;$15000 - 19999
+16373;Not applicable;2010;1;Independent;Not applicable
+16374;Lutheran-mo synod;2010;Not applicable;Strong republican;Refused
+16375;No denomination;2010;12;Independent;Not applicable
+16376;Not applicable;2010;Not applicable;Independent;$1000 to 2999
+16377;Not applicable;2010;Not applicable;Ind,near rep;$10000 - 14999
+16378;Not applicable;2010;2;Ind,near dem;$25000 or more
+16379;Not applicable;2010;Not applicable;Not str democrat;Refused
+16380;Not applicable;2010;3;Not str democrat;Not applicable
+16381;Not applicable;2010;Not applicable;Strong republican;$25000 or more
+16382;No denomination;2010;6;Strong republican;Refused
+16383;Other;2010;Not applicable;Independent;Not applicable
+16384;No denomination;2010;2;Strong republican;$25000 or more
+16385;Episcopal;2010;Not applicable;Not str democrat;$25000 or more
+16386;Other lutheran;2010;1;Not str republican;Refused
+16387;Not applicable;2010;1;Strong republican;$25000 or more
+16388;Not applicable;2010;2;Strong republican;$25000 or more
+16389;Other;2010;1;Not str republican;$10000 - 14999
+16390;Baptist-dk which;2010;8;Not str democrat;$10000 - 14999
+16391;Not applicable;2010;0;Other party;Not applicable
+16392;Not applicable;2010;Not applicable;Not str democrat;$15000 - 19999
+16393;Not applicable;2010;Not applicable;Ind,near dem;$20000 - 24999
+16394;Baptist-dk which;2010;5;Not str democrat;Not applicable
+16395;No denomination;2010;Not applicable;Independent;$25000 or more
+16396;Not applicable;2010;2;Strong democrat;$15000 - 19999
+16397;Not applicable;2010;1;Not str democrat;$25000 or more
+16398;No denomination;2010;Not applicable;Not str democrat;$25000 or more
+16399;Not applicable;2010;5;Strong democrat;$25000 or more
+16400;No denomination;2010;Not applicable;Not str democrat;$25000 or more
+16401;Not applicable;2010;2;Strong democrat;$25000 or more
+16402;Not applicable;2010;1;Ind,near dem;Refused
+16403;Other;2010;Not applicable;Other party;$25000 or more
+16404;Other;2010;1;Strong democrat;Not applicable
+16405;Baptist-dk which;2010;5;Not str democrat;Not applicable
+16406;Baptist-dk which;2010;3;Ind,near rep;$25000 or more
+16407;Not applicable;2010;Not applicable;Independent;Not applicable
+16408;Lutheran-dk which;2010;3;Strong democrat;$25000 or more
+16409;Lutheran-dk which;2010;Not applicable;Strong democrat;Not applicable
+16410;Don't know;2010;1;Not str republican;$25000 or more
+16411;No denomination;2010;Not applicable;Not str democrat;$25000 or more
+16412;No denomination;2010;0;Independent;Not applicable
+16413;Not applicable;2010;5;Independent;$15000 - 19999
+16414;Other;2010;Not applicable;Independent;Not applicable
+16415;Not applicable;2010;Not applicable;Strong democrat;Not applicable
+16416;Not applicable;2010;2;Strong democrat;$25000 or more
+16417;United methodist;2010;1;Not str democrat;$25000 or more
+16418;Baptist-dk which;2010;Not applicable;Ind,near rep;Not applicable
+16419;No denomination;2010;0;Independent;Lt $1000
+16420;Not applicable;2010;Not applicable;Not str democrat;$25000 or more
+16421;No denomination;2010;1;Not str republican;Not applicable
+16422;Methodist-dk which;2010;Not applicable;Not str republican;$25000 or more
+16423;Not applicable;2010;2;Ind,near dem;$10000 - 14999
+16424;Other;2010;Not applicable;Independent;Not applicable
+16425;No denomination;2010;1;Not str democrat;Not applicable
+16426;No denomination;2010;Not applicable;Independent;$25000 or more
+16427;No denomination;2010;4;Other party;Not applicable
+16428;Not applicable;2010;3;Ind,near rep;Not applicable
+16429;Not applicable;2010;Not applicable;Independent;$20000 - 24999
+16430;United pres ch in us;2010;3;Not str democrat;$3000 to 3999
+16431;Not applicable;2010;6;Not str democrat;$6000 to 6999
+16432;Southern baptist;2010;7;Ind,near rep;Not applicable
+16433;Other;2010;Not applicable;Strong republican;$20000 - 24999
+16434;United methodist;2010;6;Independent;Not applicable
+16435;Not applicable;2010;2;Not str democrat;$25000 or more
+16436;No denomination;2010;Not applicable;Not str republican;$25000 or more
+16437;United methodist;2010;1;Strong republican;$25000 or more
+16438;No denomination;2010;5;Ind,near rep;$10000 - 14999
+16439;Evangelical luth;2010;2;Strong democrat;Not applicable
+16440;No denomination;2010;Not applicable;Independent;Lt $1000
+16441;Other;2010;3;Strong republican;Not applicable
+16442;Not applicable;2010;1;Not str democrat;$25000 or more
+16443;Other;2010;1;Strong republican;$3000 to 3999
+16444;No denomination;2010;1;Ind,near dem;$1000 to 2999
+16445;No denomination;2010;13;Not str democrat;Not applicable
+16446;No denomination;2010;Not applicable;Independent;$10000 - 14999
+16447;Not applicable;2010;5;Independent;Not applicable
+16448;Not applicable;2010;1;Not str democrat;$25000 or more
+16449;No denomination;2010;2;Not str republican;$20000 - 24999
+16450;Not applicable;2010;5;Not str democrat;Not applicable
+16451;No denomination;2010;0;Strong democrat;Not applicable
+16452;Not applicable;2010;Not applicable;Independent;Not applicable
+16453;Not applicable;2010;1;Strong democrat;$20000 - 24999
+16454;No denomination;2010;Not applicable;Independent;$10000 - 14999
+16455;Not applicable;2010;2;Not str republican;$15000 - 19999
+16456;Other;2010;2;Strong democrat;Not applicable
+16457;Baptist-dk which;2010;1;Ind,near dem;Not applicable
+16458;No denomination;2010;Not applicable;Not str republican;$25000 or more
+16459;Don't know;2010;Not applicable;Independent;$6000 to 6999
+16460;Other;2010;4;Not str republican;Not applicable
+16461;Not applicable;2010;4;Ind,near dem;$3000 to 3999
+16462;Other;2010;Not applicable;Strong democrat;$20000 - 24999
+16463;No denomination;2010;3;Not str republican;$25000 or more
+16464;Not applicable;2010;1;Not str democrat;$25000 or more
+16465;Other;2010;Not applicable;Not str republican;$25000 or more
+16466;Lutheran-mo synod;2010;3;Ind,near dem;Not applicable
+16467;Other;2010;6;Ind,near rep;Not applicable
+16468;No denomination;2010;4;Independent;$8000 to 9999
+16469;Not applicable;2010;Not applicable;Not str democrat;$25000 or more
+16470;Baptist-dk which;2010;5;Ind,near rep;$25000 or more
+16471;No denomination;2010;Not applicable;Strong democrat;$15000 - 19999
+16472;Not applicable;2010;16;Strong democrat;Not applicable
+16473;No answer;2010;4;No answer;Refused
+16474;Southern baptist;2010;2;Not str republican;$25000 or more
+16475;Baptist-dk which;2010;Not applicable;Ind,near dem;Not applicable
+16476;No denomination;2010;1;Independent;$20000 - 24999
+16477;Other;2010;Not applicable;Ind,near dem;Not applicable
+16478;Other;2010;4;Ind,near dem;Refused
+16479;Not applicable;2010;2;Strong democrat;Not applicable
+16480;No denomination;2010;Not applicable;Not str democrat;$25000 or more
+16481;Not applicable;2010;1;Independent;Don't know
+16482;Not applicable;2010;Not applicable;Strong democrat;Not applicable
+16483;Not applicable;2010;0;Not str democrat;$1000 to 2999
+16484;Other;2010;2;Not str democrat;$15000 - 19999
+16485;Not applicable;2010;2;Strong democrat;$25000 or more
+16486;Not applicable;2010;Not applicable;Not str democrat;Not applicable
+16487;Not applicable;2010;3;Ind,near dem;Not applicable
+16488;Not applicable;2010;3;Strong democrat;Not applicable
+16489;Not applicable;2010;Not applicable;Not str republican;Lt $1000
+16490;Not applicable;2010;3;Not str democrat;$25000 or more
+16491;Not applicable;2010;3;Not str democrat;$4000 to 4999
+16492;Other;2010;1;Not str democrat;Refused
+16493;Not applicable;2010;Not applicable;Ind,near rep;Not applicable
+16494;Not applicable;2010;1;Ind,near dem;$10000 - 14999
+16495;No denomination;2010;2;Independent;$10000 - 14999
+16496;Not applicable;2010;8;Other party;$10000 - 14999
+16497;Not applicable;2010;2;Not str democrat;Not applicable
+16498;Not applicable;2010;3;Not str democrat;$7000 to 7999
+16499;Not applicable;2010;5;Ind,near dem;Not applicable
+16500;Not applicable;2010;Not applicable;Strong democrat;Not applicable

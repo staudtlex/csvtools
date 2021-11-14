@@ -1,0 +1,301 @@
+obs;age;marital;partyid;race;age
+6301;52;Married;Not str democrat;White;52
+6302;29;Never married;Independent;White;29
+6303;66;Married;Not str republican;White;66
+6304;57;Married;Strong democrat;Black;57
+6305;65;Never married;Strong democrat;White;65
+6306;50;Married;Strong democrat;White;50
+6307;85;Married;Strong republican;White;85
+6308;57;Divorced;Strong republican;White;57
+6309;58;Married;Ind,near dem;White;58
+6310;41;Married;Not str democrat;White;41
+6311;43;Divorced;Strong republican;White;43
+6312;42;Divorced;Strong republican;White;42
+6313;34;Married;Strong republican;White;34
+6314;36;Married;Ind,near rep;White;36
+6315;50;Married;Not str democrat;White;50
+6316;19;Never married;Ind,near dem;White;19
+6317;57;Divorced;Not str democrat;Black;57
+6318;29;Divorced;Ind,near dem;Black;29
+6319;22;Never married;Not str democrat;White;22
+6320;20;Never married;Ind,near dem;White;20
+6321;20;Never married;Independent;White;20
+6322;42;Separated;Independent;White;42
+6323;55;Divorced;Not str democrat;White;55
+6324;45;Divorced;Ind,near dem;White;45
+6325;35;Never married;Ind,near rep;White;35
+6326;68;Married;Strong republican;White;68
+6327;58;Married;Strong republican;White;58
+6328;35;Married;Strong republican;White;35
+6329;46;Married;Strong republican;White;46
+6330;34;Married;Ind,near rep;White;34
+6331;89 or older;Married;Ind,near rep;White;89 or older
+6332;70;Married;Not str democrat;White;70
+6333;60;Married;Strong republican;White;60
+6334;35;Never married;Not str democrat;Other;35
+6335;63;Married;Strong republican;White;63
+6336;21;Never married;Not str democrat;Other;21
+6337;61;Married;Independent;White;61
+6338;30;Married;Independent;White;30
+6339;67;Married;Strong republican;White;67
+6340;62;Married;Strong republican;White;62
+6341;33;Married;Strong republican;White;33
+6342;52;Divorced;Strong republican;White;52
+6343;60;Divorced;Strong democrat;White;60
+6344;51;Married;Not str democrat;Black;51
+6345;46;Divorced;Ind,near dem;White;46
+6346;45;Married;Not str democrat;Black;45
+6347;45;Never married;Strong democrat;Black;45
+6348;57;Separated;Not str republican;White;57
+6349;23;Never married;Strong republican;Black;23
+6350;56;Married;Ind,near rep;White;56
+6351;34;Never married;Other party;Black;34
+6352;41;Divorced;Not str democrat;Black;41
+6353;44;Never married;Ind,near dem;White;44
+6354;31;Never married;Independent;Black;31
+6355;44;Married;Ind,near rep;White;44
+6356;42;Married;Not str democrat;White;42
+6357;60;Married;Strong republican;White;60
+6358;43;Married;Strong democrat;White;43
+6359;55;Married;Strong republican;White;55
+6360;33;Married;Strong democrat;White;33
+6361;44;Married;Not str republican;White;44
+6362;32;Married;Strong democrat;White;32
+6363;42;Married;Not str republican;White;42
+6364;27;Never married;Not str democrat;White;27
+6365;46;Married;Not str democrat;White;46
+6366;53;Married;Ind,near dem;White;53
+6367;34;Married;Not str democrat;White;34
+6368;34;Married;Strong republican;White;34
+6369;41;Divorced;Not str democrat;White;41
+6370;52;Married;Ind,near rep;White;52
+6371;29;Married;Not str republican;White;29
+6372;40;Married;Strong democrat;White;40
+6373;29;Never married;Other party;White;29
+6374;45;Married;Not str democrat;White;45
+6375;52;Married;Ind,near rep;White;52
+6376;57;Never married;Not str democrat;White;57
+6377;28;Divorced;Independent;Other;28
+6378;81;Married;Independent;White;81
+6379;48;Married;Strong republican;White;48
+6380;59;Married;Not str democrat;White;59
+6381;78;Widowed;Ind,near dem;White;78
+6382;66;Married;Ind,near rep;White;66
+6383;36;Married;Strong republican;White;36
+6384;65;Married;Ind,near dem;White;65
+6385;60;Divorced;Not str democrat;White;60
+6386;60;Divorced;Strong democrat;White;60
+6387;44;Married;Independent;White;44
+6388;28;Married;Independent;White;28
+6389;44;Separated;Independent;White;44
+6390;41;Married;Not str republican;White;41
+6391;34;Married;Not str democrat;White;34
+6392;61;Married;Ind,near dem;White;61
+6393;28;Married;Ind,near dem;White;28
+6394;43;Divorced;Ind,near dem;White;43
+6395;51;Married;Strong republican;White;51
+6396;69;Married;Not str republican;White;69
+6397;31;Never married;Ind,near rep;White;31
+6398;47;Never married;Not str republican;White;47
+6399;26;Married;Not str democrat;White;26
+6400;24;Never married;Not str republican;White;24
+6401;39;Married;Not str democrat;White;39
+6402;37;Never married;Not str democrat;Black;37
+6403;25;Never married;Independent;White;25
+6404;29;Married;Strong republican;White;29
+6405;39;Never married;Strong democrat;Black;39
+6406;19;Never married;Strong republican;White;19
+6407;25;Never married;Not str republican;White;25
+6408;59;Married;Strong democrat;White;59
+6409;41;Separated;Independent;White;41
+6410;55;Divorced;Strong republican;White;55
+6411;32;Married;Ind,near rep;White;32
+6412;22;Never married;Strong democrat;Black;22
+6413;48;Divorced;Independent;White;48
+6414;55;Divorced;Not str democrat;Black;55
+6415;74;Divorced;Ind,near dem;Black;74
+6416;63;Divorced;Not str democrat;Black;63
+6417;43;Married;Strong republican;White;43
+6418;23;Never married;Ind,near rep;White;23
+6419;25;Never married;Not str democrat;Other;25
+6420;34;Never married;Independent;Black;34
+6421;58;Never married;Strong republican;White;58
+6422;56;Married;Not str democrat;White;56
+6423;62;Married;Ind,near rep;White;62
+6424;75;Married;Not str democrat;White;75
+6425;46;Married;Strong republican;White;46
+6426;45;Married;Strong republican;White;45
+6427;63;Widowed;Strong democrat;White;63
+6428;26;Never married;Ind,near dem;White;26
+6429;62;Divorced;Not str democrat;White;62
+6430;52;Married;Ind,near dem;White;52
+6431;73;Divorced;Not str republican;White;73
+6432;64;Married;Ind,near dem;White;64
+6433;87;Widowed;Not str republican;White;87
+6434;59;Married;Independent;White;59
+6435;78;Married;Not str republican;White;78
+6436;50;Married;Not str republican;White;50
+6437;50;Married;Ind,near dem;White;50
+6438;72;Widowed;Strong republican;White;72
+6439;53;Married;Strong republican;White;53
+6440;63;Married;Strong republican;White;63
+6441;72;Divorced;Not str democrat;White;72
+6442;46;Married;Strong republican;White;46
+6443;34;Never married;Ind,near rep;White;34
+6444;52;Divorced;Independent;White;52
+6445;39;Never married;Strong democrat;Black;39
+6446;27;Married;Strong democrat;White;27
+6447;64;Divorced;Strong democrat;White;64
+6448;75;Widowed;Not str democrat;White;75
+6449;21;Married;Not str democrat;White;21
+6450;35;Married;Ind,near rep;Black;35
+6451;35;Divorced;Not str republican;White;35
+6452;60;Married;Not str republican;White;60
+6453;36;Married;Strong republican;White;36
+6454;30;Married;Not str republican;White;30
+6455;38;Divorced;Strong democrat;White;38
+6456;41;Married;Not str democrat;White;41
+6457;69;Married;Not str democrat;White;69
+6458;52;Separated;Strong democrat;White;52
+6459;31;Married;Strong democrat;White;31
+6460;55;Married;Strong democrat;White;55
+6461;47;Married;Strong democrat;White;47
+6462;30;Never married;Not str democrat;White;30
+6463;86;Married;Not str democrat;White;86
+6464;56;Never married;Strong democrat;White;56
+6465;40;Never married;Strong democrat;Black;40
+6466;79;Widowed;Not str democrat;White;79
+6467;33;Separated;Strong republican;White;33
+6468;61;Divorced;Independent;White;61
+6469;26;Married;Not str democrat;White;26
+6470;42;Separated;Not str democrat;Black;42
+6471;46;Separated;Strong democrat;Black;46
+6472;58;Divorced;Not str democrat;White;58
+6473;68;Married;Strong democrat;Black;68
+6474;66;Never married;Not str democrat;Black;66
+6475;66;Married;Strong democrat;Black;66
+6476;61;Never married;Not str democrat;Black;61
+6477;75;Widowed;Strong democrat;Black;75
+6478;41;Never married;Strong democrat;Black;41
+6479;25;Never married;Strong democrat;Black;25
+6480;29;Married;Independent;Other;29
+6481;44;Married;Not str republican;Other;44
+6482;28;Never married;Independent;Other;28
+6483;57;Never married;Not str democrat;Other;57
+6484;78;Widowed;Strong republican;White;78
+6485;65;Divorced;Ind,near rep;White;65
+6486;57;Married;Not str democrat;Other;57
+6487;69;Married;Strong republican;Other;69
+6488;49;Married;Not str republican;White;49
+6489;44;Married;Not str democrat;Other;44
+6490;36;Married;Not str republican;Other;36
+6491;54;Divorced;Not str democrat;Other;54
+6492;36;Married;Ind,near rep;White;36
+6493;57;Married;Not str democrat;White;57
+6494;22;Never married;Strong democrat;White;22
+6495;21;Never married;Strong democrat;Other;21
+6496;28;Never married;Independent;Black;28
+6497;60;Married;Not str republican;White;60
+6498;45;Married;Not str democrat;White;45
+6499;47;Married;Strong democrat;White;47
+6500;63;Married;Not str democrat;White;63
+6501;64;Divorced;Ind,near rep;White;64
+6502;48;Married;Ind,near dem;White;48
+6503;63;Married;Ind,near dem;White;63
+6504;51;Married;Ind,near rep;White;51
+6505;40;Never married;Strong republican;White;40
+6506;85;Married;Independent;White;85
+6507;64;Never married;Not str republican;White;64
+6508;20;Never married;Independent;White;20
+6509;50;Married;Independent;White;50
+6510;36;Never married;Not str democrat;White;36
+6511;44;Never married;Strong democrat;White;44
+6512;37;Married;Ind,near rep;White;37
+6513;40;Married;Independent;Other;40
+6514;48;Divorced;Independent;White;48
+6515;58;Divorced;Not str democrat;White;58
+6516;35;Married;Not str republican;Other;35
+6517;31;Never married;Not str republican;White;31
+6518;23;Never married;Not str democrat;White;23
+6519;35;Married;Ind,near rep;Other;35
+6520;24;Separated;Not str democrat;White;24
+6521;51;Divorced;Independent;White;51
+6522;55;Married;Ind,near rep;White;55
+6523;29;Never married;Strong democrat;White;29
+6524;56;Divorced;Independent;White;56
+6525;40;Never married;Ind,near rep;White;40
+6526;50;Married;Ind,near dem;White;50
+6527;48;Married;Strong republican;White;48
+6528;35;Never married;Independent;White;35
+6529;35;Married;Not str republican;White;35
+6530;28;Never married;Not str republican;White;28
+6531;50;Separated;Not str democrat;White;50
+6532;47;Divorced;Independent;White;47
+6533;61;Married;Not str republican;White;61
+6534;44;Married;Not str democrat;White;44
+6535;56;Married;Independent;White;56
+6536;67;Married;Not str democrat;White;67
+6537;73;Widowed;Not str democrat;White;73
+6538;43;Never married;Ind,near rep;White;43
+6539;30;Never married;Independent;White;30
+6540;27;Divorced;Not str democrat;White;27
+6541;25;Never married;Ind,near dem;White;25
+6542;40;Married;Ind,near rep;White;40
+6543;25;Never married;Not str republican;White;25
+6544;34;Never married;Not str republican;White;34
+6545;26;Never married;Strong democrat;Black;26
+6546;55;Married;Independent;White;55
+6547;25;Never married;Strong democrat;White;25
+6548;55;Married;Not str democrat;White;55
+6549;23;Never married;Strong democrat;White;23
+6550;39;Married;Independent;White;39
+6551;34;Married;Not str republican;White;34
+6552;70;Married;Strong republican;White;70
+6553;37;Married;Not str democrat;White;37
+6554;40;Separated;Not str democrat;White;40
+6555;48;Married;Not str republican;White;48
+6556;87;Widowed;Ind,near dem;White;87
+6557;74;Married;Independent;White;74
+6558;64;Divorced;Strong republican;White;64
+6559;52;Divorced;Not str republican;White;52
+6560;26;Married;Not str republican;White;26
+6561;51;Married;Not str democrat;White;51
+6562;39;Married;Not str democrat;White;39
+6563;52;Never married;Other party;White;52
+6564;52;Married;Not str democrat;White;52
+6565;38;Divorced;Ind,near dem;White;38
+6566;47;Divorced;Strong democrat;White;47
+6567;73;Widowed;Independent;White;73
+6568;34;Married;Not str republican;White;34
+6569;32;Married;Not str democrat;White;32
+6570;37;Married;Not str republican;White;37
+6571;74;Married;Ind,near rep;White;74
+6572;66;Married;Ind,near rep;White;66
+6573;35;Divorced;Ind,near rep;White;35
+6574;45;Married;Not str democrat;White;45
+6575;47;Married;Ind,near dem;White;47
+6576;34;Never married;Not str democrat;Black;34
+6577;25;Never married;Strong democrat;Black;25
+6578;47;Separated;Ind,near rep;Black;47
+6579;32;Never married;Strong democrat;Black;32
+6580;59;Never married;Strong democrat;Black;59
+6581;19;Never married;Independent;Black;19
+6582;36;Married;Strong democrat;White;36
+6583;65;Married;Strong democrat;White;65
+6584;19;Never married;Strong democrat;Black;19
+6585;29;Married;Not str democrat;Other;29
+6586;49;Married;Not str republican;White;49
+6587;56;Married;Strong democrat;Black;56
+6588;63;Married;Ind,near dem;White;63
+6589;51;Married;Ind,near rep;White;51
+6590;57;Married;Not str democrat;Black;57
+6591;32;Never married;Independent;White;32
+6592;80;Widowed;Not str republican;White;80
+6593;33;Never married;Strong democrat;White;33
+6594;85;Married;Not str democrat;White;85
+6595;84;Married;Independent;White;84
+6596;88;Widowed;Ind,near dem;White;88
+6597;28;Separated;Strong democrat;White;28
+6598;37;Married;Independent;White;37
+6599;78;Widowed;Independent;White;78
+6600;20;Never married;Strong democrat;White;20

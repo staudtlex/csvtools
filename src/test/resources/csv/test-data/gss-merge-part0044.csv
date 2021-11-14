@@ -1,0 +1,301 @@
+obs;race;year;tvhours;partyid;age
+12901;White;2006;4;Not str democrat;84
+12902;White;2006;Not applicable;No answer;45
+12903;Other;2006;8;Independent;32
+12904;White;2006;6;Ind,near rep;46
+12905;Other;2008;8;Strong democrat;49
+12906;Other;2008;1;Independent;48
+12907;Black;2008;2;Strong democrat;47
+12908;Black;2008;Not applicable;Strong democrat;32
+12909;Black;2008;4;Ind,near dem;37
+12910;Black;2008;2;Ind,near dem;72
+12911;Black;2008;Not applicable;Independent;21
+12912;Black;2008;2;Ind,near dem;36
+12913;Black;2008;2;Independent;48
+12914;Black;2008;Not applicable;Strong democrat;56
+12915;Black;2008;3;Not str democrat;62
+12916;Black;2008;Not applicable;Not str democrat;40
+12917;White;2008;Not applicable;Strong democrat;62
+12918;Black;2008;Not applicable;Ind,near dem;71
+12919;Black;2008;Not applicable;Ind,near dem;58
+12920;Other;2008;5;Not str republican;34
+12921;White;2008;0;Independent;26
+12922;White;2008;0;Strong republican;33
+12923;White;2008;Not applicable;Independent;36
+12924;Other;2008;2;Independent;37
+12925;White;2008;Not applicable;Ind,near rep;52
+12926;White;2008;Not applicable;Not str democrat;61
+12927;White;2008;Not applicable;Not str republican;63
+12928;White;2008;4;Strong republican;74
+12929;White;2008;Not applicable;Strong democrat;70
+12930;White;2008;Not applicable;Ind,near dem;38
+12931;Black;2008;Not applicable;Not str democrat;32
+12932;Other;2008;3;Ind,near dem;42
+12933;Black;2008;Not applicable;Strong democrat;41
+12934;White;2008;1;Strong democrat;45
+12935;White;2008;2;Strong democrat;78
+12936;Other;2008;2;Not str democrat;54
+12937;Other;2008;3;Independent;49
+12938;White;2008;2;Strong republican;66
+12939;White;2008;1;Independent;43
+12940;White;2008;3;Not str democrat;37
+12941;Other;2008;2;Independent;30
+12942;White;2008;1;Independent;53
+12943;White;2008;Not applicable;Ind,near rep;78
+12944;Other;2008;4;Not str republican;38
+12945;Other;2008;Not applicable;Not str democrat;64
+12946;White;2008;1;Independent;60
+12947;White;2008;Not applicable;No answer;55
+12948;White;2008;Not applicable;Ind,near dem;28
+12949;Black;2008;6;Not str democrat;46
+12950;Other;2008;1;Strong democrat;38
+12951;White;2008;1;Not str democrat;55
+12952;White;2008;2;Not str democrat;39
+12953;White;2008;6;Ind,near rep;39
+12954;White;2008;2;Strong republican;44
+12955;White;2008;2;Strong republican;60
+12956;White;2008;Not applicable;Strong republican;34
+12957;White;2008;Not applicable;Independent;53
+12958;White;2008;Not applicable;Ind,near dem;22
+12959;White;2008;2;Not str republican;42
+12960;Black;2008;2;Strong democrat;25
+12961;Black;2008;2;Strong democrat;50
+12962;Black;2008;1;Not str democrat;24
+12963;Black;2008;4;Strong democrat;67
+12964;Black;2008;6;Independent;27
+12965;White;2008;4;Strong democrat;65
+12966;White;2008;1;Strong democrat;43
+12967;Black;2008;2;Not str democrat;26
+12968;Other;2008;5;Not str democrat;43
+12969;White;2008;3;Not str republican;62
+12970;White;2008;Not applicable;Strong democrat;43
+12971;Other;2008;1;Not str democrat;50
+12972;White;2008;2;Strong republican;65
+12973;White;2008;Not applicable;Not str republican;38
+12974;White;2008;Not applicable;Strong democrat;40
+12975;White;2008;4;Not str republican;45
+12976;White;2008;Not applicable;Ind,near dem;58
+12977;White;2008;Not applicable;Not str republican;56
+12978;White;2008;4;Not str democrat;61
+12979;White;2008;Not applicable;Not str republican;28
+12980;White;2008;2;Ind,near dem;64
+12981;White;2008;1;Strong democrat;68
+12982;White;2008;Not applicable;Not str republican;35
+12983;White;2008;1;Not str democrat;39
+12984;White;2008;3;Not str democrat;47
+12985;White;2008;3;Ind,near dem;46
+12986;White;2008;4;Ind,near dem;50
+12987;Black;2008;Not applicable;Strong democrat;50
+12988;Black;2008;2;Strong democrat;19
+12989;Other;2008;4;Not str democrat;60
+12990;White;2008;7;Independent;51
+12991;White;2008;4;Ind,near rep;70
+12992;White;2008;Not applicable;Ind,near dem;40
+12993;White;2008;4;Not str democrat;54
+12994;White;2008;2;Strong republican;43
+12995;White;2008;4;Not str republican;33
+12996;White;2008;3;Not str democrat;63
+12997;White;2008;Not applicable;Ind,near dem;60
+12998;White;2008;2;Not str democrat;57
+12999;White;2008;2;Ind,near rep;29
+13000;White;2008;1;Not str democrat;57
+13001;White;2008;1;Strong democrat;48
+13002;Other;2008;Not applicable;Independent;27
+13003;White;2008;Not applicable;No answer;89 or older
+13004;White;2008;2;Not str republican;44
+13005;White;2008;Not applicable;Not str republican;63
+13006;White;2008;4;No answer;No answer
+13007;White;2008;1;Not str democrat;35
+13008;White;2008;3;Ind,near dem;19
+13009;White;2008;3;Not str democrat;83
+13010;White;2008;Not applicable;Strong republican;76
+13011;Other;2008;7;Independent;21
+13012;White;2008;1;Not str democrat;41
+13013;White;2008;2;Ind,near dem;66
+13014;White;2008;Not applicable;Ind,near rep;60
+13015;White;2008;3;Strong democrat;25
+13016;White;2008;0;Not str democrat;34
+13017;White;2008;Not applicable;Not str democrat;34
+13018;White;2008;3;Ind,near rep;71
+13019;White;2008;3;Strong republican;56
+13020;White;2008;1;Not str republican;48
+13021;White;2008;Not applicable;Ind,near dem;27
+13022;White;2008;Not applicable;Strong democrat;81
+13023;White;2008;Not applicable;Strong republican;73
+13024;White;2008;1;Not str democrat;62
+13025;White;2008;Not applicable;Strong republican;48
+13026;White;2008;3;Ind,near dem;52
+13027;Other;2008;2;Ind,near dem;34
+13028;White;2008;Not applicable;Independent;27
+13029;Other;2008;1;Not str republican;58
+13030;Other;2008;6;Ind,near dem;24
+13031;White;2008;0;Not str republican;20
+13032;Other;2008;1;Strong republican;68
+13033;White;2008;5;Ind,near dem;41
+13034;White;2008;1;Ind,near dem;24
+13035;Other;2008;2;Independent;39
+13036;White;2008;Not applicable;Independent;47
+13037;White;2008;Not applicable;Other party;40
+13038;White;2008;Not applicable;Strong democrat;47
+13039;White;2008;Not applicable;Strong republican;27
+13040;White;2008;0;Not str democrat;61
+13041;White;2008;2;Not str democrat;47
+13042;White;2008;Not applicable;Other party;23
+13043;White;2008;1;Strong democrat;45
+13044;Other;2008;Not applicable;Strong democrat;33
+13045;Other;2008;Not applicable;Not str democrat;27
+13046;Black;2008;Not applicable;Strong democrat;18
+13047;White;2008;Not applicable;Not str republican;61
+13048;White;2008;Not applicable;Ind,near rep;79
+13049;White;2008;Not applicable;Ind,near rep;36
+13050;Other;2008;2;Ind,near dem;30
+13051;White;2008;Not applicable;Not str democrat;60
+13052;White;2008;1;Ind,near rep;46
+13053;Other;2008;2;Independent;37
+13054;Other;2008;1;Ind,near dem;28
+13055;White;2008;1;Independent;22
+13056;White;2008;5;Strong democrat;47
+13057;White;2008;4;Independent;34
+13058;White;2008;Not applicable;Strong democrat;20
+13059;Black;2008;3;Independent;63
+13060;Other;2008;Not applicable;Not str republican;47
+13061;Other;2008;0;Ind,near dem;25
+13062;Other;2008;Not applicable;Ind,near rep;21
+13063;White;2008;Not applicable;Ind,near dem;40
+13064;White;2008;Not applicable;Not str democrat;20
+13065;Other;2008;1;Strong democrat;49
+13066;White;2008;2;Strong democrat;50
+13067;White;2008;2;Not str democrat;24
+13068;White;2008;1;Not str republican;69
+13069;Black;2008;Not applicable;Not str democrat;57
+13070;Other;2008;6;Not str democrat;74
+13071;White;2008;1;Strong democrat;25
+13072;Other;2008;1;Not str democrat;27
+13073;White;2008;1;Independent;31
+13074;White;2008;Not applicable;Strong republican;69
+13075;White;2008;5;Not str republican;No answer
+13076;Black;2008;8;Not str democrat;60
+13077;Other;2008;3;Ind,near dem;20
+13078;White;2008;3;Not str democrat;30
+13079;White;2008;0;Strong democrat;50
+13080;White;2008;Not applicable;Ind,near dem;69
+13081;White;2008;Not applicable;Ind,near dem;53
+13082;Black;2008;2;Strong democrat;46
+13083;White;2008;2;Ind,near dem;26
+13084;White;2008;2;Ind,near dem;27
+13085;White;2008;Not applicable;Not str democrat;40
+13086;White;2008;Not applicable;Not str republican;56
+13087;White;2008;Not applicable;Not str democrat;37
+13088;White;2008;Not applicable;Independent;69
+13089;White;2008;Not applicable;Strong republican;50
+13090;White;2008;Not applicable;Ind,near rep;37
+13091;White;2008;Not applicable;Not str democrat;53
+13092;White;2008;2;Independent;51
+13093;White;2008;Not applicable;Not str republican;43
+13094;White;2008;4;Not str democrat;49
+13095;Other;2008;Not applicable;Strong republican;55
+13096;White;2008;1;Strong republican;29
+13097;White;2008;1;Strong democrat;31
+13098;Other;2008;1;Not str democrat;59
+13099;Black;2008;12;Strong democrat;67
+13100;Black;2008;1;Strong democrat;41
+13101;Other;2008;Not applicable;Strong democrat;87
+13102;Black;2008;8;Ind,near dem;47
+13103;Black;2008;6;Not str democrat;71
+13104;Black;2008;3;Strong democrat;62
+13105;Black;2008;Not applicable;Not str democrat;25
+13106;Other;2008;4;Independent;33
+13107;Other;2008;0;Strong democrat;54
+13108;White;2008;1;Not str republican;54
+13109;Black;2008;Not applicable;Strong republican;45
+13110;Other;2008;3;Ind,near dem;23
+13111;Other;2008;Not applicable;Strong democrat;20
+13112;White;2008;4;Independent;34
+13113;Black;2008;2;Strong democrat;69
+13114;Black;2008;2;Not str democrat;57
+13115;White;2008;4;Strong democrat;29
+13116;White;2008;Not applicable;Strong democrat;33
+13117;White;2008;Not applicable;Strong democrat;83
+13118;White;2008;Not applicable;Strong democrat;37
+13119;White;2008;2;Not str republican;20
+13120;White;2008;Not applicable;Strong democrat;59
+13121;White;2008;6;Not str republican;73
+13122;White;2008;2;Not str democrat;53
+13123;Black;2008;1;Strong democrat;36
+13124;White;2008;0;Ind,near rep;56
+13125;White;2008;1;Independent;43
+13126;White;2008;Not applicable;Ind,near dem;55
+13127;White;2008;Not applicable;Strong democrat;60
+13128;White;2008;4;Not str democrat;66
+13129;Black;2008;8;Not str democrat;36
+13130;Other;2008;Not applicable;Strong republican;89 or older
+13131;White;2008;Not applicable;Ind,near dem;40
+13132;White;2008;2;Ind,near dem;69
+13133;White;2008;5;Ind,near dem;70
+13134;Other;2008;Not applicable;Strong republican;80
+13135;White;2008;3;Not str republican;45
+13136;White;2008;3;Ind,near rep;27
+13137;White;2008;4;Strong democrat;57
+13138;Black;2008;3;Strong democrat;55
+13139;White;2008;Not applicable;Not str republican;54
+13140;White;2008;4;Ind,near dem;63
+13141;Black;2008;Not applicable;Strong democrat;60
+13142;Black;2008;Not applicable;Ind,near dem;87
+13143;Black;2008;4;Strong democrat;54
+13144;Black;2008;Not applicable;Ind,near dem;49
+13145;White;2008;Not applicable;Ind,near dem;66
+13146;White;2008;Not applicable;Ind,near dem;29
+13147;White;2008;Not applicable;Strong republican;57
+13148;White;2008;Not applicable;Other party;37
+13149;White;2008;2;Strong democrat;35
+13150;White;2008;Not applicable;Not str republican;45
+13151;White;2008;2;Independent;50
+13152;White;2008;2;Not str democrat;79
+13153;White;2008;6;Not str democrat;87
+13154;Black;2008;Not applicable;Not str democrat;47
+13155;White;2008;3;Not str republican;63
+13156;White;2008;1;Strong democrat;48
+13157;Other;2008;Not applicable;Strong democrat;42
+13158;White;2008;1;Ind,near rep;37
+13159;Other;2008;0;Ind,near rep;39
+13160;White;2008;1;Not str republican;49
+13161;Other;2008;1;Independent;33
+13162;White;2008;2;Not str republican;43
+13163;Other;2008;4;Strong democrat;No answer
+13164;White;2008;5;Strong democrat;77
+13165;Other;2008;1;Not str republican;47
+13166;White;2008;2;Not str democrat;47
+13167;White;2008;Not applicable;Independent;26
+13168;White;2008;2;Ind,near rep;46
+13169;White;2008;10;Independent;55
+13170;White;2008;Not applicable;Strong republican;50
+13171;Other;2008;Not applicable;Ind,near dem;39
+13172;White;2008;Not applicable;Not str republican;58
+13173;White;2008;3;Strong democrat;74
+13174;Other;2008;0;Ind,near dem;41
+13175;Other;2008;0;Not str democrat;19
+13176;White;2008;1;Other party;36
+13177;Other;2008;Not applicable;Independent;27
+13178;White;2008;Not applicable;Not str democrat;28
+13179;Other;2008;Not applicable;Independent;22
+13180;Other;2008;Not applicable;Strong republican;39
+13181;White;2008;2;Not str republican;44
+13182;White;2008;1;Not str republican;39
+13183;White;2008;3;Not str republican;30
+13184;White;2008;1;Ind,near dem;46
+13185;Other;2008;Not applicable;Not str democrat;No answer
+13186;White;2008;1;Strong democrat;33
+13187;White;2008;1;Strong democrat;61
+13188;Other;2008;Not applicable;Not str democrat;20
+13189;White;2008;Not applicable;Ind,near dem;29
+13190;Other;2008;Not applicable;Not str democrat;20
+13191;White;2008;Not applicable;Ind,near dem;27
+13192;Other;2008;2;Ind,near dem;40
+13193;Black;2008;Not applicable;Not str democrat;18
+13194;White;2008;Not applicable;Independent;53
+13195;White;2008;4;Independent;44
+13196;White;2008;Not applicable;Not str republican;30
+13197;White;2008;Not applicable;Independent;52
+13198;Other;2008;2;Strong democrat;36
+13199;White;2008;1;Other party;33
+13200;White;2008;Not applicable;Not str democrat;44

@@ -1,0 +1,301 @@
+obs;tvhours;relig;rincome;age;marital
+15601;3;None;Not applicable;66;Widowed
+15602;14;Protestant;Not applicable;77;Widowed
+15603;5;Protestant;Not applicable;No answer;Widowed
+15604;2;None;$25000 or more;55;Married
+15605;3;Protestant;Not applicable;76;Married
+15606;1;Catholic;$25000 or more;38;Never married
+15607;4;Protestant;Not applicable;39;Divorced
+15608;8;Protestant;Not applicable;22;Divorced
+15609;2;Catholic;$25000 or more;25;Married
+15610;3;Catholic;$1000 to 2999;21;Never married
+15611;4;Christian;$5000 to 5999;23;Never married
+15612;2;Catholic;$25000 or more;55;Divorced
+15613;1;Protestant;Not applicable;42;Separated
+15614;2;Protestant;$10000 - 14999;24;Never married
+15615;2;Protestant;$25000 or more;45;Married
+15616;2;Protestant;Not applicable;72;Married
+15617;Not applicable;Jewish;Not applicable;83;Divorced
+15618;5;Jewish;Not applicable;88;Married
+15619;Not applicable;Protestant;Not applicable;76;Married
+15620;2;Protestant;$20000 - 24999;50;Married
+15621;Not applicable;Jewish;Not applicable;49;Married
+15622;0;No answer;Refused;43;Never married
+15623;Not applicable;Jewish;Refused;32;Married
+15624;1;Catholic;$25000 or more;27;Never married
+15625;Not applicable;Catholic;$25000 or more;35;Married
+15626;2;Protestant;Refused;41;Married
+15627;Not applicable;Catholic;Not applicable;42;Married
+15628;2;None;Refused;43;Married
+15629;20;None;Not applicable;38;Never married
+15630;Not applicable;None;$25000 or more;34;Married
+15631;4;Buddhism;$15000 - 19999;29;Never married
+15632;Not applicable;None;$15000 - 19999;29;Never married
+15633;2;Protestant;Not applicable;22;Never married
+15634;Not applicable;None;$25000 or more;23;Never married
+15635;0;Protestant;$25000 or more;54;Divorced
+15636;1;Protestant;Not applicable;82;Widowed
+15637;3;Protestant;Not applicable;54;Widowed
+15638;2;Protestant;$25000 or more;29;Never married
+15639;3;Protestant;Not applicable;56;Never married
+15640;Not applicable;Catholic;Not applicable;34;Never married
+15641;2;Protestant;$7000 to 7999;48;Never married
+15642;1;Catholic;Not applicable;38;Married
+15643;Not applicable;Catholic;$5000 to 5999;64;Separated
+15644;7;Protestant;Not applicable;49;Never married
+15645;6;None;$25000 or more;31;Never married
+15646;1;Other;Refused;29;Married
+15647;2;Catholic;$25000 or more;45;Married
+15648;2;None;$25000 or more;33;Never married
+15649;1;Catholic;$25000 or more;44;Divorced
+15650;4;Protestant;Not applicable;61;Married
+15651;Not applicable;Jewish;$25000 or more;48;Married
+15652;14;Catholic;Not applicable;50;Married
+15653;Not applicable;Protestant;Not applicable;58;Married
+15654;Not applicable;None;Not applicable;43;Never married
+15655;3;No answer;Not applicable;30;Married
+15656;6;Protestant;Not applicable;47;Divorced
+15657;12;Jewish;Not applicable;60;Divorced
+15658;Not applicable;Catholic;Not applicable;56;Never married
+15659;Not applicable;Protestant;$25000 or more;50;Married
+15660;1;None;Not applicable;83;Widowed
+15661;1;Catholic;$25000 or more;50;Married
+15662;1;None;$25000 or more;43;Married
+15663;3;None;$10000 - 14999;31;Never married
+15664;2;Protestant;Not applicable;77;Divorced
+15665;Not applicable;None;$15000 - 19999;32;Separated
+15666;Not applicable;Protestant;Refused;21;Never married
+15667;1;None;$25000 or more;37;Widowed
+15668;12;Catholic;$25000 or more;52;Never married
+15669;0;Protestant;$25000 or more;54;Married
+15670;Not applicable;Christian;$25000 or more;25;Never married
+15671;Not applicable;Protestant;$25000 or more;28;Divorced
+15672;8;Protestant;Not applicable;65;Never married
+15673;6;Christian;Not applicable;52;Divorced
+15674;3;None;$25000 or more;60;Married
+15675;Not applicable;Catholic;Not applicable;83;Widowed
+15676;2;Catholic;$25000 or more;36;Never married
+15677;14;Catholic;Not applicable;56;Divorced
+15678;Not applicable;Protestant;Not applicable;45;Married
+15679;0;Don't know;$3000 to 3999;35;Never married
+15680;2;Catholic;Not applicable;49;Married
+15681;2;Catholic;Not applicable;23;Never married
+15682;Not applicable;Protestant;$3000 to 3999;74;Married
+15683;4;Protestant;$25000 or more;35;Married
+15684;5;Catholic;$20000 - 24999;42;Divorced
+15685;1;Protestant;Refused;45;Married
+15686;2;None;$25000 or more;38;Never married
+15687;0;Other;$25000 or more;54;Divorced
+15688;Not applicable;Protestant;$25000 or more;27;Never married
+15689;2;None;$25000 or more;28;Never married
+15690;Not applicable;None;$20000 - 24999;63;Never married
+15691;1;Protestant;$25000 or more;27;Never married
+15692;1;Protestant;Not applicable;70;Widowed
+15693;Not applicable;Protestant;$15000 - 19999;24;Married
+15694;0;None;Not applicable;74;Married
+15695;Not applicable;Jewish;$25000 or more;55;Never married
+15696;2;Protestant;$25000 or more;32;Never married
+15697;Not applicable;Catholic;$10000 - 14999;20;Married
+15698;7;Catholic;$1000 to 2999;27;Never married
+15699;2;Catholic;Not applicable;45;Married
+15700;Not applicable;None;$25000 or more;36;Married
+15701;4;Protestant;Not applicable;49;Never married
+15702;Not applicable;None;$20000 - 24999;51;Divorced
+15703;4;Other;Not applicable;60;Divorced
+15704;Not applicable;Catholic;$25000 or more;58;Divorced
+15705;5;Catholic;Not applicable;32;Married
+15706;3;Catholic;$25000 or more;41;Married
+15707;2;Protestant;Not applicable;73;Married
+15708;1;Protestant;$25000 or more;68;Divorced
+15709;5;Protestant;Not applicable;63;Divorced
+15710;2;Protestant;$25000 or more;56;Widowed
+15711;Not applicable;Protestant;Not applicable;35;Never married
+15712;6;Protestant;$10000 - 14999;53;Married
+15713;Not applicable;Catholic;$20000 - 24999;72;Widowed
+15714;Not applicable;Catholic;Not applicable;70;Widowed
+15715;1;Catholic;$25000 or more;32;Married
+15716;Not applicable;Jewish;$25000 or more;56;Married
+15717;1;Orthodox-christian;Not applicable;62;Married
+15718;0;Protestant;$25000 or more;49;Divorced
+15719;1;Catholic;Not applicable;76;Divorced
+15720;No answer;No answer;Not applicable;25;Never married
+15721;Not applicable;Protestant;Not applicable;51;Divorced
+15722;8;Protestant;$3000 to 3999;70;Divorced
+15723;2;Christian;$25000 or more;55;Divorced
+15724;1;None;$25000 or more;42;Married
+15725;2;Buddhism;Not applicable;61;Married
+15726;Not applicable;None;$25000 or more;49;Married
+15727;1;Protestant;Not applicable;24;Never married
+15728;2;Catholic;Refused;40;Married
+15729;1;None;$3000 to 3999;22;Never married
+15730;Not applicable;Catholic;Not applicable;88;Married
+15731;4;Catholic;$25000 or more;27;Never married
+15732;3;None;Not applicable;35;Divorced
+15733;2;Catholic;$25000 or more;27;Never married
+15734;2;Other;Refused;60;Married
+15735;Not applicable;Protestant;$25000 or more;59;Married
+15736;2;Protestant;$25000 or more;73;Widowed
+15737;2;Catholic;$8000 to 9999;46;Married
+15738;2;Protestant;Not applicable;43;Married
+15739;1;Catholic;$25000 or more;50;Never married
+15740;3;Catholic;Not applicable;59;Divorced
+15741;Not applicable;Protestant;$10000 - 14999;76;Married
+15742;5;Protestant;$10000 - 14999;52;Divorced
+15743;0;Inter-nondenominational;Not applicable;30;Never married
+15744;2;None;$20000 - 24999;23;Never married
+15745;Not applicable;Protestant;Not applicable;76;Divorced
+15746;3;None;Not applicable;56;Separated
+15747;7;Other;Refused;23;Never married
+15748;5;None;Not applicable;21;Never married
+15749;Not applicable;Catholic;Not applicable;56;Married
+15750;1;None;Not applicable;30;Never married
+15751;Not applicable;Hinduism;Not applicable;25;Never married
+15752;1;Protestant;Not applicable;29;Never married
+15753;0;None;Not applicable;22;Never married
+15754;1;Protestant;Not applicable;60;Never married
+15755;Not applicable;Protestant;$3000 to 3999;55;Divorced
+15756;1;Catholic;$10000 - 14999;36;Married
+15757;4;Protestant;$10000 - 14999;41;Married
+15758;3;Protestant;$15000 - 19999;58;Separated
+15759;2;Moslem/islam;Not applicable;20;Married
+15760;Not applicable;Catholic;Not applicable;67;Married
+15761;2;Catholic;$25000 or more;60;Married
+15762;Not applicable;Protestant;$15000 - 19999;58;Married
+15763;2;Catholic;$15000 - 19999;60;Married
+15764;1;Protestant;$25000 or more;35;Married
+15765;4;Catholic;$20000 - 24999;60;Married
+15766;Not applicable;Catholic;Not applicable;31;Married
+15767;2;Protestant;$3000 to 3999;67;Married
+15768;2;Catholic;$1000 to 2999;60;Widowed
+15769;3;Catholic;$10000 - 14999;58;Married
+15770;7;Protestant;Refused;77;Widowed
+15771;Not applicable;Protestant;$25000 or more;41;Married
+15772;1;Christian;Refused;49;Married
+15773;2;Catholic;Refused;68;Widowed
+15774;4;None;$25000 or more;56;Widowed
+15775;0;None;$25000 or more;41;Married
+15776;Not applicable;Protestant;$15000 - 19999;55;Divorced
+15777;3;None;Not applicable;81;Married
+15778;Not applicable;Protestant;$25000 or more;44;Married
+15779;2;Protestant;$25000 or more;61;Married
+15780;0;Protestant;$25000 or more;36;Married
+15781;Not applicable;Protestant;$8000 to 9999;67;Widowed
+15782;2;None;$20000 - 24999;42;Never married
+15783;3;Protestant;$6000 to 6999;21;Never married
+15784;Not applicable;Protestant;Not applicable;56;Married
+15785;3;Protestant;$10000 - 14999;46;Never married
+15786;3;Protestant;Refused;86;Widowed
+15787;Not applicable;Protestant;Not applicable;84;Widowed
+15788;1;Protestant;$25000 or more;47;Married
+15789;Not applicable;Protestant;Not applicable;89 or older;Widowed
+15790;2;Protestant;$20000 - 24999;57;Divorced
+15791;5;Christian;Not applicable;34;Married
+15792;2;Catholic;$10000 - 14999;70;Divorced
+15793;Not applicable;Protestant;Not applicable;89 or older;Widowed
+15794;0;Protestant;$25000 or more;30;Married
+15795;2;Catholic;Refused;53;Divorced
+15796;Not applicable;Protestant;$25000 or more;44;Married
+15797;5;Protestant;Not applicable;59;Widowed
+15798;Not applicable;Protestant;Not applicable;71;Divorced
+15799;3;Catholic;$25000 or more;30;Married
+15800;3;Protestant;$25000 or more;49;Never married
+15801;10;Protestant;Not applicable;83;Married
+15802;Not applicable;None;Not applicable;63;Divorced
+15803;6;Catholic;$15000 - 19999;77;Widowed
+15804;1;Catholic;$1000 to 2999;27;Divorced
+15805;2;Christian;$25000 or more;44;Married
+15806;Not applicable;None;$25000 or more;52;Divorced
+15807;0;None;$1000 to 2999;25;Never married
+15808;2;Catholic;Not applicable;70;Married
+15809;3;Catholic;Not applicable;74;Widowed
+15810;0;Protestant;Not applicable;36;Divorced
+15811;Not applicable;Catholic;Not applicable;61;Never married
+15812;1;Protestant;$25000 or more;52;Never married
+15813;5;Catholic;Not applicable;82;Widowed
+15814;5;Protestant;$10000 - 14999;61;Married
+15815;12;Catholic;Not applicable;88;Widowed
+15816;Not applicable;Catholic;$6000 to 6999;38;Married
+15817;0;Christian;$8000 to 9999;23;Never married
+15818;Not applicable;None;Not applicable;40;Married
+15819;9;None;$3000 to 3999;21;Never married
+15820;0;None;$1000 to 2999;26;Separated
+15821;5;None;Not applicable;75;Divorced
+15822;Not applicable;None;$20000 - 24999;46;Married
+15823;3;Catholic;$15000 - 19999;22;Never married
+15824;2;Protestant;$10000 - 14999;49;Divorced
+15825;Not applicable;Protestant;Not applicable;70;Divorced
+15826;2;Inter-nondenominational;$25000 or more;60;Divorced
+15827;Not applicable;Protestant;$25000 or more;59;Never married
+15828;2;Protestant;$20000 - 24999;42;Divorced
+15829;4;Protestant;$25000 or more;37;Never married
+15830;Not applicable;Protestant;$4000 to 4999;29;Never married
+15831;2;Protestant;$25000 or more;64;Married
+15832;0;Protestant;Not applicable;83;Widowed
+15833;Not applicable;Protestant;$25000 or more;72;Married
+15834;2;Protestant;$25000 or more;33;Never married
+15835;3;Catholic;$25000 or more;52;Married
+15836;Not applicable;Protestant;Not applicable;56;Divorced
+15837;Not applicable;Protestant;$10000 - 14999;28;Separated
+15838;Not applicable;Protestant;Not applicable;48;Widowed
+15839;1;Christian;$5000 to 5999;20;Never married
+15840;2;Protestant;$25000 or more;43;Married
+15841;2;Protestant;$25000 or more;52;Divorced
+15842;Not applicable;Protestant;$20000 - 24999;30;Never married
+15843;1;None;$25000 or more;49;Married
+15844;Not applicable;None;$25000 or more;60;Divorced
+15845;4;None;$8000 to 9999;32;Never married
+15846;2;None;$10000 - 14999;31;Never married
+15847;Not applicable;Protestant;$25000 or more;33;Married
+15848;2;Protestant;Not applicable;32;Married
+15849;6;None;Not applicable;46;Married
+15850;3;Protestant;$20000 - 24999;62;Divorced
+15851;Not applicable;Catholic;$3000 to 3999;69;Married
+15852;2;Catholic;Don't know;69;Married
+15853;3;Christian;$1000 to 2999;27;Married
+15854;2;Protestant;$3000 to 3999;62;Married
+15855;2;Catholic;$25000 or more;62;Married
+15856;2;Catholic;$6000 to 6999;32;Married
+15857;1;Catholic;$25000 or more;28;Never married
+15858;Not applicable;Catholic;$25000 or more;29;Married
+15859;1;None;$25000 or more;61;Married
+15860;Not applicable;Protestant;$25000 or more;44;Divorced
+15861;4;Catholic;Not applicable;33;Married
+15862;2;Catholic;Not applicable;19;Never married
+15863;1;Catholic;$1000 to 2999;20;Never married
+15864;3;Protestant;Not applicable;37;Divorced
+15865;Not applicable;Catholic;$1000 to 2999;50;Divorced
+15866;3;Catholic;Not applicable;80;Married
+15867;Not applicable;None;$25000 or more;57;Divorced
+15868;5;Catholic;$25000 or more;27;Married
+15869;1;Protestant;$7000 to 7999;19;Never married
+15870;4;None;$25000 or more;33;Never married
+15871;Not applicable;Protestant;Not applicable;59;Married
+15872;1;Catholic;$25000 or more;31;Married
+15873;2;Catholic;$25000 or more;68;Widowed
+15874;3;Catholic;$25000 or more;53;Married
+15875;3;Protestant;Not applicable;28;Never married
+15876;Not applicable;Catholic;$15000 - 19999;33;Never married
+15877;13;Catholic;Not applicable;40;Never married
+15878;8;Protestant;Not applicable;60;Divorced
+15879;2;Protestant;$25000 or more;59;Divorced
+15880;Not applicable;Catholic;$15000 - 19999;25;Never married
+15881;2;Catholic;Refused;44;Divorced
+15882;5;Protestant;$25000 or more;54;Divorced
+15883;Not applicable;None;$15000 - 19999;26;Never married
+15884;2;Protestant;Not applicable;22;Never married
+15885;1;Protestant;$25000 or more;36;Married
+15886;3;Catholic;$4000 to 4999;22;Never married
+15887;1;Protestant;Not applicable;63;Married
+15888;1;Protestant;Not applicable;40;Married
+15889;1;None;Refused;35;Married
+15890;Not applicable;Protestant;Not applicable;67;Married
+15891;3;Catholic;$25000 or more;56;Married
+15892;2;Protestant;$1000 to 2999;25;Married
+15893;2;Christian;$5000 to 5999;32;Never married
+15894;2;None;$25000 or more;25;Never married
+15895;2;Protestant;Not applicable;80;Widowed
+15896;Not applicable;Protestant;Not applicable;47;Widowed
+15897;3;Protestant;Lt $1000;37;Married
+15898;4;Christian;Not applicable;28;Married
+15899;3;Protestant;Refused;33;Married
+15900;Not applicable;Protestant;$25000 or more;61;Divorced

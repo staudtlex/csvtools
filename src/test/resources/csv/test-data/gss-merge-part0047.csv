@@ -1,0 +1,301 @@
+obs;year;relig;tvhours;age;marital
+13801;2008;Protestant;4;62;Married
+13802;2008;Protestant;1;57;Married
+13803;2008;Catholic;2;55;Married
+13804;2008;Catholic;Not applicable;45;Divorced
+13805;2008;Catholic;Not applicable;70;Widowed
+13806;2008;Catholic;Not applicable;83;Widowed
+13807;2008;Protestant;Not applicable;69;Married
+13808;2008;Catholic;Not applicable;80;Married
+13809;2008;None;3;23;Never married
+13810;2008;Protestant;Not applicable;51;Divorced
+13811;2008;Catholic;1;22;Never married
+13812;2008;Protestant;1;36;Never married
+13813;2008;Catholic;5;76;Widowed
+13814;2008;Protestant;2;29;Married
+13815;2008;Catholic;Not applicable;68;Married
+13816;2008;None;2;47;Married
+13817;2008;Protestant;3;50;Divorced
+13818;2008;Protestant;1;80;Married
+13819;2008;None;3;60;Married
+13820;2008;Protestant;2;50;Never married
+13821;2008;Protestant;Not applicable;31;Married
+13822;2008;Protestant;Not applicable;34;Married
+13823;2008;Protestant;Not applicable;47;Never married
+13824;2008;Protestant;4;48;Never married
+13825;2008;Protestant;3;25;Separated
+13826;2008;Catholic;Not applicable;64;Married
+13827;2008;Protestant;Not applicable;86;Divorced
+13828;2008;None;Not applicable;23;Never married
+13829;2008;Protestant;Not applicable;46;Divorced
+13830;2008;Protestant;1;42;Divorced
+13831;2008;Jewish;2;20;Never married
+13832;2008;None;Not applicable;22;Never married
+13833;2008;Protestant;Not applicable;41;Married
+13834;2008;None;2;47;Married
+13835;2008;Catholic;4;44;Never married
+13836;2008;Catholic;4;46;Divorced
+13837;2008;Hinduism;Not applicable;34;Married
+13838;2008;Protestant;2;57;Widowed
+13839;2008;Protestant;Not applicable;51;Married
+13840;2008;Protestant;Not applicable;78;Widowed
+13841;2008;Protestant;8;65;Divorced
+13842;2008;Protestant;Not applicable;27;Divorced
+13843;2008;Protestant;Not applicable;89 or older;Widowed
+13844;2008;Protestant;4;89 or older;Widowed
+13845;2008;None;4;24;Never married
+13846;2008;Protestant;4;77;Married
+13847;2008;None;4;33;Divorced
+13848;2008;Protestant;4;38;Divorced
+13849;2008;Protestant;Not applicable;73;Widowed
+13850;2008;Catholic;2;37;Divorced
+13851;2008;None;2;24;Never married
+13852;2008;Protestant;1;67;Married
+13853;2008;Catholic;2;46;Married
+13854;2008;None;1;46;Never married
+13855;2008;Catholic;2;72;Divorced
+13856;2008;None;1;43;Married
+13857;2008;Catholic;3;21;Never married
+13858;2008;Protestant;Not applicable;55;Married
+13859;2008;Catholic;3;47;Married
+13860;2008;Protestant;Not applicable;40;Married
+13861;2008;Protestant;3;60;Divorced
+13862;2008;Catholic;Not applicable;27;Never married
+13863;2008;Catholic;3;28;Never married
+13864;2008;None;Not applicable;79;Never married
+13865;2008;None;4;43;Never married
+13866;2008;Protestant;Not applicable;19;Never married
+13867;2008;Catholic;3;45;Never married
+13868;2008;None;2;52;Married
+13869;2008;Protestant;Not applicable;57;Divorced
+13870;2008;Jewish;Not applicable;33;Never married
+13871;2008;Protestant;2;50;Married
+13872;2008;Protestant;Not applicable;54;Widowed
+13873;2008;Catholic;2;50;Divorced
+13874;2008;Protestant;0;77;Widowed
+13875;2008;None;1;22;Never married
+13876;2008;Protestant;2;76;Married
+13877;2008;None;2;60;Married
+13878;2008;No answer;1;34;Married
+13879;2008;Catholic;2;46;Married
+13880;2008;Protestant;Not applicable;56;Married
+13881;2008;Protestant;2;58;Married
+13882;2008;None;Not applicable;50;Married
+13883;2008;Protestant;2;38;Married
+13884;2008;Jewish;1;70;Married
+13885;2008;Catholic;Not applicable;34;Married
+13886;2008;None;Not applicable;39;Divorced
+13887;2008;Protestant;2;59;Never married
+13888;2008;Protestant;0;68;Married
+13889;2008;Protestant;3;70;Never married
+13890;2008;Protestant;8;53;Separated
+13891;2008;Protestant;Not applicable;62;Divorced
+13892;2008;Protestant;Not applicable;37;Never married
+13893;2008;Jewish;10;53;Never married
+13894;2008;Protestant;Not applicable;77;Married
+13895;2008;Protestant;Not applicable;78;Married
+13896;2008;Protestant;2;29;Never married
+13897;2008;None;Not applicable;33;Never married
+13898;2008;None;2;62;Never married
+13899;2008;None;4;39;Divorced
+13900;2008;None;2;59;Married
+13901;2008;Catholic;Not applicable;74;Widowed
+13902;2008;Catholic;3;31;Divorced
+13903;2008;Catholic;Not applicable;41;Divorced
+13904;2008;Protestant;2;28;Divorced
+13905;2008;Catholic;2;47;Married
+13906;2008;Catholic;4;75;Married
+13907;2008;Christian;Not applicable;46;Never married
+13908;2008;Protestant;1;33;Married
+13909;2008;Protestant;1;52;Married
+13910;2008;Protestant;Not applicable;37;Divorced
+13911;2008;Catholic;1;26;Married
+13912;2008;Catholic;4;58;Married
+13913;2008;Protestant;0;82;Married
+13914;2008;Protestant;6;47;Widowed
+13915;2008;Catholic;Not applicable;74;Married
+13916;2008;Protestant;2;48;Married
+13917;2008;Protestant;6;38;Married
+13918;2008;Protestant;Not applicable;55;Divorced
+13919;2008;Catholic;4;27;Never married
+13920;2008;Catholic;3;38;Never married
+13921;2008;Catholic;4;59;Married
+13922;2008;Protestant;8;62;Married
+13923;2008;None;Not applicable;39;Married
+13924;2008;Other;Not applicable;25;Never married
+13925;2008;Buddhism;4;22;Never married
+13926;2008;Catholic;1;49;Married
+13927;2008;Catholic;2;57;Married
+13928;2008;Protestant;2;67;Married
+13929;2008;None;1;62;Married
+13930;2008;None;0;37;Married
+13931;2008;Protestant;5;84;Married
+13932;2008;Protestant;1;27;Never married
+13933;2008;None;3;52;Never married
+13934;2008;Protestant;1;44;Divorced
+13935;2008;Protestant;2;54;Married
+13936;2008;Protestant;2;69;Divorced
+13937;2008;None;3;51;Married
+13938;2008;Protestant;3;34;Never married
+13939;2008;Protestant;Not applicable;85;Widowed
+13940;2008;Protestant;Not applicable;76;Married
+13941;2008;Protestant;Not applicable;82;Widowed
+13942;2008;Protestant;Not applicable;61;Married
+13943;2008;None;Not applicable;31;Never married
+13944;2008;Protestant;6;76;Widowed
+13945;2008;Protestant;4;76;Married
+13946;2008;None;Not applicable;70;Married
+13947;2008;Protestant;6;31;Married
+13948;2008;Protestant;Not applicable;67;Divorced
+13949;2008;Protestant;Not applicable;61;Never married
+13950;2008;Protestant;Not applicable;76;Married
+13951;2008;None;16;56;Divorced
+13952;2008;None;8;65;Widowed
+13953;2008;Catholic;0;36;Widowed
+13954;2008;Protestant;Not applicable;89 or older;Widowed
+13955;2008;Protestant;Not applicable;74;Married
+13956;2008;Protestant;4;57;Married
+13957;2008;None;4;29;Never married
+13958;2008;Protestant;2;54;Married
+13959;2008;Protestant;3;66;Married
+13960;2008;Protestant;3;59;Married
+13961;2008;Protestant;1;27;Never married
+13962;2008;Protestant;Not applicable;26;Married
+13963;2008;Protestant;4;77;Widowed
+13964;2008;Christian;Not applicable;56;Divorced
+13965;2008;Protestant;2;77;Married
+13966;2008;None;3;26;Never married
+13967;2008;Protestant;Not applicable;39;Never married
+13968;2008;Protestant;9;52;Divorced
+13969;2008;Protestant;3;45;Never married
+13970;2008;Protestant;Not applicable;61;Divorced
+13971;2008;Protestant;2;31;Never married
+13972;2008;Protestant;4;35;Married
+13973;2008;Protestant;Not applicable;52;Married
+13974;2008;Protestant;10;44;Never married
+13975;2008;Protestant;Not applicable;20;Never married
+13976;2008;Protestant;5;72;Divorced
+13977;2008;Protestant;2;27;Never married
+13978;2008;Protestant;2;38;Married
+13979;2008;Protestant;Not applicable;82;Married
+13980;2008;Protestant;Not applicable;42;Divorced
+13981;2008;Catholic;Not applicable;72;Divorced
+13982;2008;None;0;23;Never married
+13983;2008;Protestant;Not applicable;47;Divorced
+13984;2008;Catholic;5;72;Married
+13985;2008;None;2;40;Never married
+13986;2008;Catholic;3;65;Married
+13987;2008;None;Not applicable;23;Never married
+13988;2008;None;3;57;Divorced
+13989;2008;Catholic;4;75;Married
+13990;2008;Christian;3;37;Married
+13991;2008;Protestant;14;85;Widowed
+13992;2008;Protestant;6;50;Never married
+13993;2008;Protestant;Not applicable;73;Married
+13994;2008;Protestant;6;31;Married
+13995;2008;Protestant;Not applicable;60;Married
+13996;2008;Protestant;Not applicable;89 or older;Widowed
+13997;2008;Protestant;1;67;Married
+13998;2008;Catholic;Not applicable;70;Married
+13999;2008;Protestant;Not applicable;74;Married
+14000;2008;Protestant;Not applicable;44;Married
+14001;2008;Protestant;1;35;Married
+14002;2008;Protestant;4;61;Married
+14003;2008;Protestant;1;55;Married
+14004;2008;Protestant;1;19;Never married
+14005;2008;Protestant;3;49;Married
+14006;2008;Protestant;2;59;Married
+14007;2008;Catholic;Not applicable;39;Married
+14008;2008;Catholic;2;61;Divorced
+14009;2008;Catholic;4;79;Married
+14010;2008;Protestant;Not applicable;23;Never married
+14011;2008;Jewish;Not applicable;74;Married
+14012;2008;Jewish;2;39;Married
+14013;2008;Protestant;1;49;Married
+14014;2008;None;7;43;Never married
+14015;2008;Protestant;4;30;Separated
+14016;2008;Protestant;4;41;Divorced
+14017;2008;Protestant;0;64;Divorced
+14018;2008;Protestant;6;51;Married
+14019;2008;Protestant;2;52;Married
+14020;2008;Protestant;7;55;Married
+14021;2008;Protestant;4;28;Married
+14022;2008;Protestant;3;50;Married
+14023;2008;Protestant;Not applicable;42;Separated
+14024;2008;Christian;2;36;Never married
+14025;2008;Protestant;1;23;Never married
+14026;2008;Protestant;Not applicable;36;Never married
+14027;2008;Protestant;8;60;Never married
+14028;2008;Protestant;4;51;Divorced
+14029;2008;Protestant;Not applicable;26;Never married
+14030;2008;Christian;6;46;Divorced
+14031;2008;Protestant;4;78;Divorced
+14032;2008;Protestant;4;66;Married
+14033;2008;Protestant;7;48;Never married
+14034;2008;Protestant;4;27;Never married
+14035;2008;Protestant;10;56;Never married
+14036;2008;Protestant;5;71;Married
+14037;2008;Protestant;Not applicable;55;Divorced
+14038;2008;Moslem/islam;Not applicable;53;Never married
+14039;2008;Protestant;Not applicable;31;Never married
+14040;2008;Catholic;1;23;Never married
+14041;2008;Protestant;Not applicable;42;Married
+14042;2008;Protestant;2;35;Married
+14043;2008;Protestant;2;65;Married
+14044;2008;Protestant;3;34;Married
+14045;2008;Protestant;1;37;Divorced
+14046;2008;Protestant;2;50;Divorced
+14047;2008;Protestant;Not applicable;66;Married
+14048;2008;Protestant;Not applicable;37;Married
+14049;2008;Catholic;3;47;Separated
+14050;2008;Protestant;2;18;Never married
+14051;2008;Protestant;Not applicable;25;Married
+14052;2008;Protestant;Not applicable;48;Married
+14053;2008;Protestant;6;27;Never married
+14054;2008;Protestant;3;37;Divorced
+14055;2008;Protestant;2;46;Never married
+14056;2008;Protestant;15;46;Married
+14057;2008;Protestant;0;34;Married
+14058;2008;Protestant;Not applicable;31;Never married
+14059;2008;Protestant;2;37;Married
+14060;2008;None;1;38;Never married
+14061;2008;Protestant;2;64;Married
+14062;2008;Catholic;1;44;Married
+14063;2008;Catholic;2;89 or older;Widowed
+14064;2008;Protestant;0;43;Widowed
+14065;2008;Protestant;1;51;Never married
+14066;2008;Protestant;Not applicable;40;Married
+14067;2008;Protestant;1;53;Married
+14068;2008;Protestant;4;22;Never married
+14069;2008;Protestant;3;25;Never married
+14070;2008;None;3;35;Widowed
+14071;2008;None;2;65;Divorced
+14072;2008;Protestant;10;46;Never married
+14073;2008;None;Not applicable;22;Married
+14074;2008;Catholic;2;27;Never married
+14075;2008;None;4;35;Married
+14076;2008;Protestant;3;76;Widowed
+14077;2008;None;Not applicable;30;Never married
+14078;2008;Protestant;11;26;Never married
+14079;2008;Protestant;12;74;Married
+14080;2008;None;Not applicable;54;Divorced
+14081;2008;None;0;33;Married
+14082;2008;Protestant;2;36;Married
+14083;2008;Protestant;Not applicable;80;Widowed
+14084;2008;Protestant;Not applicable;53;Married
+14085;2008;Protestant;1;44;Divorced
+14086;2008;None;1;36;Married
+14087;2008;Catholic;8;67;Married
+14088;2008;Protestant;4;29;Never married
+14089;2008;Protestant;5;27;Never married
+14090;2008;Christian;Not applicable;58;Married
+14091;2008;Catholic;Not applicable;29;Never married
+14092;2008;Protestant;Not applicable;25;Never married
+14093;2008;Catholic;Not applicable;36;Married
+14094;2008;Protestant;2;39;Divorced
+14095;2008;Protestant;2;61;Married
+14096;2008;Protestant;4;60;Married
+14097;2008;Protestant;Not applicable;76;Married
+14098;2008;Hinduism;1;50;Married
+14099;2008;Protestant;4;67;Married
+14100;2008;Catholic;Not applicable;33;Divorced

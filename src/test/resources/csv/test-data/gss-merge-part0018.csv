@@ -1,0 +1,301 @@
+obs;year;marital;rincome;denom;rincome
+5101;2002;Divorced;$15000 - 19999;Presbyterian c in us;$15000 - 19999
+5102;2002;Married;$25000 or more;Other;$25000 or more
+5103;2002;Divorced;$25000 or more;Baptist-dk which;$25000 or more
+5104;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5105;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5106;2002;Widowed;$10000 - 14999;Not applicable;$10000 - 14999
+5107;2002;Widowed;$15000 - 19999;Am lutheran;$15000 - 19999
+5108;2002;Never married;$25000 or more;Other;$25000 or more
+5109;2002;Never married;Not applicable;Not applicable;Not applicable
+5110;2002;Married;Not applicable;Other;Not applicable
+5111;2002;Never married;$25000 or more;Am lutheran;$25000 or more
+5112;2002;Never married;$25000 or more;Other;$25000 or more
+5113;2002;Married;Refused;Other;Refused
+5114;2002;Separated;Refused;Not applicable;Refused
+5115;2002;Never married;$25000 or more;Am lutheran;$25000 or more
+5116;2002;Married;Not applicable;Am lutheran;Not applicable
+5117;2002;Never married;Not applicable;Not applicable;Not applicable
+5118;2002;Never married;Refused;Not applicable;Refused
+5119;2002;Divorced;Not applicable;Am lutheran;Not applicable
+5120;2002;Never married;Not applicable;Other methodist;Not applicable
+5121;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5122;2002;Widowed;No answer;Am lutheran;No answer
+5123;2002;Married;Not applicable;Evangelical luth;Not applicable
+5124;2002;Never married;Not applicable;Not applicable;Not applicable
+5125;2002;Married;$25000 or more;Episcopal;$25000 or more
+5126;2002;Married;$25000 or more;Lutheran-dk which;$25000 or more
+5127;2002;Married;$25000 or more;Don't know;$25000 or more
+5128;2002;Never married;$25000 or more;Am lutheran;$25000 or more
+5129;2002;Divorced;$25000 or more;Other;$25000 or more
+5130;2002;Never married;$20000 - 24999;Episcopal;$20000 - 24999
+5131;2002;Married;Not applicable;Am lutheran;Not applicable
+5132;2002;Never married;$1000 to 2999;United methodist;$1000 to 2999
+5133;2002;Widowed;Not applicable;Am lutheran;Not applicable
+5134;2002;Married;$8000 to 9999;Not applicable;$8000 to 9999
+5135;2002;Married;Not applicable;Not applicable;Not applicable
+5136;2002;Never married;$15000 - 19999;Not applicable;$15000 - 19999
+5137;2002;Married;Don't know;Am lutheran;Don't know
+5138;2002;Married;$25000 or more;Not applicable;$25000 or more
+5139;2002;Married;Not applicable;Am baptist asso;Not applicable
+5140;2002;Never married;$5000 to 5999;Other lutheran;$5000 to 5999
+5141;2002;Married;$20000 - 24999;Not applicable;$20000 - 24999
+5142;2002;Married;$25000 or more;Not applicable;$25000 or more
+5143;2002;Married;$20000 - 24999;Baptist-dk which;$20000 - 24999
+5144;2002;Married;$25000 or more;Methodist-dk which;$25000 or more
+5145;2002;Married;Don't know;Other;Don't know
+5146;2002;Married;$25000 or more;Southern baptist;$25000 or more
+5147;2002;Widowed;Not applicable;United methodist;Not applicable
+5148;2002;Married;Not applicable;Other;Not applicable
+5149;2002;Never married;$25000 or more;No denomination;$25000 or more
+5150;2002;Married;$3000 to 3999;United methodist;$3000 to 3999
+5151;2002;Married;$25000 or more;Not applicable;$25000 or more
+5152;2002;Married;$25000 or more;Not applicable;$25000 or more
+5153;2002;Married;$25000 or more;Baptist-dk which;$25000 or more
+5154;2002;Married;$25000 or more;Lutheran-dk which;$25000 or more
+5155;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5156;2002;Married;$25000 or more;United methodist;$25000 or more
+5157;2002;Widowed;Not applicable;United methodist;Not applicable
+5158;2002;Divorced;$25000 or more;Southern baptist;$25000 or more
+5159;2002;Married;$25000 or more;United methodist;$25000 or more
+5160;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5161;2002;Married;$25000 or more;Other;$25000 or more
+5162;2002;Divorced;$15000 - 19999;Lutheran-dk which;$15000 - 19999
+5163;2002;Married;$10000 - 14999;Not applicable;$10000 - 14999
+5164;2002;Married;$8000 to 9999;United methodist;$8000 to 9999
+5165;2002;Married;Not applicable;Methodist-dk which;Not applicable
+5166;2002;Never married;$15000 - 19999;Baptist-dk which;$15000 - 19999
+5167;2002;Divorced;Not applicable;Not applicable;Not applicable
+5168;2002;Divorced;Not applicable;Methodist-dk which;Not applicable
+5169;2002;Married;$15000 - 19999;Not applicable;$15000 - 19999
+5170;2002;Separated;$20000 - 24999;Other;$20000 - 24999
+5171;2002;Married;$25000 or more;Not applicable;$25000 or more
+5172;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5173;2002;Married;Not applicable;Lutheran-dk which;Not applicable
+5174;2002;Married;Not applicable;Other;Not applicable
+5175;2002;Never married;Not applicable;Not applicable;Not applicable
+5176;2002;Never married;$8000 to 9999;Not applicable;$8000 to 9999
+5177;2002;Married;$1000 to 2999;No denomination;$1000 to 2999
+5178;2002;Divorced;Not applicable;Other;Not applicable
+5179;2002;Married;Not applicable;Other;Not applicable
+5180;2002;Widowed;Not applicable;Episcopal;Not applicable
+5181;2002;Widowed;Not applicable;Episcopal;Not applicable
+5182;2002;Married;Not applicable;Not applicable;Not applicable
+5183;2002;Married;Not applicable;Lutheran-dk which;Not applicable
+5184;2002;Never married;$10000 - 14999;Not applicable;$10000 - 14999
+5185;2002;Married;$3000 to 3999;Presbyterian c in us;$3000 to 3999
+5186;2002;Divorced;$20000 - 24999;Not applicable;$20000 - 24999
+5187;2002;Never married;$3000 to 3999;Not applicable;$3000 to 3999
+5188;2002;Never married;Not applicable;Not applicable;Not applicable
+5189;2002;Married;$3000 to 3999;Not applicable;$3000 to 3999
+5190;2002;Married;Not applicable;Other;Not applicable
+5191;2002;Married;$25000 or more;United methodist;$25000 or more
+5192;2002;Never married;Not applicable;Not applicable;Not applicable
+5193;2002;Married;$25000 or more;Luth ch in america;$25000 or more
+5194;2002;Widowed;$25000 or more;Presbyterian-dk wh;$25000 or more
+5195;2002;Separated;Not applicable;Baptist-dk which;Not applicable
+5196;2002;Widowed;Not applicable;United methodist;Not applicable
+5197;2002;Married;Not applicable;Other;Not applicable
+5198;2002;Married;$25000 or more;Not applicable;$25000 or more
+5199;2002;Married;$25000 or more;Baptist-dk which;$25000 or more
+5200;2002;Widowed;Not applicable;United methodist;Not applicable
+5201;2002;Widowed;$1000 to 2999;No denomination;$1000 to 2999
+5202;2002;Married;Not applicable;No denomination;Not applicable
+5203;2002;Divorced;No answer;Not applicable;No answer
+5204;2002;Married;$25000 or more;No denomination;$25000 or more
+5205;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5206;2002;Never married;$8000 to 9999;No denomination;$8000 to 9999
+5207;2002;Married;Not applicable;Baptist-dk which;Not applicable
+5208;2002;Divorced;$25000 or more;United methodist;$25000 or more
+5209;2002;Never married;Refused;Southern baptist;Refused
+5210;2002;Never married;$10000 - 14999;Not applicable;$10000 - 14999
+5211;2002;Never married;$8000 to 9999;Baptist-dk which;$8000 to 9999
+5212;2002;Married;$6000 to 6999;Other;$6000 to 6999
+5213;2002;Never married;$15000 - 19999;Baptist-dk which;$15000 - 19999
+5214;2002;Married;$20000 - 24999;Not applicable;$20000 - 24999
+5215;2002;Separated;Not applicable;Southern baptist;Not applicable
+5216;2002;Never married;$25000 or more;Southern baptist;$25000 or more
+5217;2002;Never married;$25000 or more;Other;$25000 or more
+5218;2002;Never married;$5000 to 5999;Southern baptist;$5000 to 5999
+5219;2002;Never married;$7000 to 7999;Not applicable;$7000 to 7999
+5220;2002;Widowed;Refused;Episcopal;Refused
+5221;2002;Married;Not applicable;Luth ch in america;Not applicable
+5222;2002;Widowed;$25000 or more;United methodist;$25000 or more
+5223;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5224;2002;Married;$10000 - 14999;Not applicable;$10000 - 14999
+5225;2002;Never married;$20000 - 24999;Southern baptist;$20000 - 24999
+5226;2002;Divorced;$25000 or more;Southern baptist;$25000 or more
+5227;2002;Married;$1000 to 2999;Other;$1000 to 2999
+5228;2002;Widowed;Not applicable;Baptist-dk which;Not applicable
+5229;2002;Divorced;$25000 or more;United methodist;$25000 or more
+5230;2002;Married;$25000 or more;United methodist;$25000 or more
+5231;2002;Married;$7000 to 7999;Not applicable;$7000 to 7999
+5232;2002;Widowed;Not applicable;Not applicable;Not applicable
+5233;2002;Widowed;$1000 to 2999;Baptist-dk which;$1000 to 2999
+5234;2002;Widowed;Not applicable;United methodist;Not applicable
+5235;2002;Widowed;Not applicable;Baptist-dk which;Not applicable
+5236;2002;Never married;$7000 to 7999;Am baptist asso;$7000 to 7999
+5237;2002;Married;$1000 to 2999;No denomination;$1000 to 2999
+5238;2002;Never married;Don't know;Other;Don't know
+5239;2002;Divorced;Refused;Baptist-dk which;Refused
+5240;2002;Married;$15000 - 19999;No denomination;$15000 - 19999
+5241;2002;Married;$10000 - 14999;Other;$10000 - 14999
+5242;2002;Married;Not applicable;United pres ch in us;Not applicable
+5243;2002;Married;Not applicable;Am baptist asso;Not applicable
+5244;2002;Divorced;$25000 or more;Southern baptist;$25000 or more
+5245;2002;Divorced;Refused;Not applicable;Refused
+5246;2002;Married;Not applicable;Baptist-dk which;Not applicable
+5247;2002;Divorced;$10000 - 14999;Baptist-dk which;$10000 - 14999
+5248;2002;Widowed;Not applicable;Other;Not applicable
+5249;2002;Married;Lt $1000;Other;Lt $1000
+5250;2002;Married;$7000 to 7999;No denomination;$7000 to 7999
+5251;2002;Married;$25000 or more;Southern baptist;$25000 or more
+5252;2002;Married;Refused;Southern baptist;Refused
+5253;2002;Separated;$8000 to 9999;Am bapt ch in usa;$8000 to 9999
+5254;2002;Married;$25000 or more;Not applicable;$25000 or more
+5255;2002;Married;$10000 - 14999;Not applicable;$10000 - 14999
+5256;2002;Married;$7000 to 7999;Other;$7000 to 7999
+5257;2002;Married;$25000 or more;United pres ch in us;$25000 or more
+5258;2002;Married;$8000 to 9999;Southern baptist;$8000 to 9999
+5259;2002;Divorced;$20000 - 24999;No denomination;$20000 - 24999
+5260;2002;Married;$25000 or more;Not applicable;$25000 or more
+5261;2002;Married;Not applicable;Southern baptist;Not applicable
+5262;2002;Married;$25000 or more;Other;$25000 or more
+5263;2002;Married;$25000 or more;Not applicable;$25000 or more
+5264;2002;Married;$25000 or more;Other;$25000 or more
+5265;2002;Divorced;$25000 or more;Southern baptist;$25000 or more
+5266;2002;Married;$25000 or more;Southern baptist;$25000 or more
+5267;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5268;2002;Married;$25000 or more;No denomination;$25000 or more
+5269;2002;Married;$5000 to 5999;No denomination;$5000 to 5999
+5270;2002;Married;$25000 or more;Southern baptist;$25000 or more
+5271;2002;Married;$15000 - 19999;Not applicable;$15000 - 19999
+5272;2002;Married;$15000 - 19999;United methodist;$15000 - 19999
+5273;2002;Married;$25000 or more;Not applicable;$25000 or more
+5274;2002;Married;$25000 or more;United methodist;$25000 or more
+5275;2002;Married;$25000 or more;Baptist-dk which;$25000 or more
+5276;2002;Married;$25000 or more;Not applicable;$25000 or more
+5277;2002;Married;$25000 or more;United methodist;$25000 or more
+5278;2002;Married;Not applicable;Other;Not applicable
+5279;2002;Married;Not applicable;Not applicable;Not applicable
+5280;2002;Divorced;Not applicable;Not applicable;Not applicable
+5281;2002;Married;$1000 to 2999;Southern baptist;$1000 to 2999
+5282;2002;Married;$25000 or more;Not applicable;$25000 or more
+5283;2002;Married;Not applicable;Other;Not applicable
+5284;2002;Separated;Lt $1000;No denomination;Lt $1000
+5285;2002;Widowed;Not applicable;United methodist;Not applicable
+5286;2002;Married;$15000 - 19999;Not applicable;$15000 - 19999
+5287;2002;Widowed;Not applicable;Baptist-dk which;Not applicable
+5288;2002;Married;$10000 - 14999;United methodist;$10000 - 14999
+5289;2002;Divorced;Not applicable;Southern baptist;Not applicable
+5290;2002;Widowed;Not applicable;Southern baptist;Not applicable
+5291;2002;Widowed;Not applicable;Baptist-dk which;Not applicable
+5292;2002;Divorced;Not applicable;Baptist-dk which;Not applicable
+5293;2002;Widowed;Not applicable;Other;Not applicable
+5294;2002;Married;Not applicable;No denomination;Not applicable
+5295;2002;Divorced;$5000 to 5999;No denomination;$5000 to 5999
+5296;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5297;2002;Never married;$25000 or more;Baptist-dk which;$25000 or more
+5298;2002;Married;Not applicable;Other baptists;Not applicable
+5299;2002;Married;$1000 to 2999;Not applicable;$1000 to 2999
+5300;2002;Married;$25000 or more;Episcopal;$25000 or more
+5301;2002;Married;$25000 or more;Other;$25000 or more
+5302;2002;Married;$10000 - 14999;Other;$10000 - 14999
+5303;2002;Never married;Not applicable;Not applicable;Not applicable
+5304;2002;Never married;$25000 or more;Methodist-dk which;$25000 or more
+5305;2002;Married;Not applicable;Other;Not applicable
+5306;2002;Never married;$8000 to 9999;Am baptist asso;$8000 to 9999
+5307;2002;Widowed;Not applicable;Southern baptist;Not applicable
+5308;2002;Married;$25000 or more;Other;$25000 or more
+5309;2002;Married;$25000 or more;Not applicable;$25000 or more
+5310;2002;Married;$20000 - 24999;Not applicable;$20000 - 24999
+5311;2002;Divorced;Refused;No answer;Refused
+5312;2002;Married;$4000 to 4999;Am baptist asso;$4000 to 4999
+5313;2002;Widowed;Not applicable;United methodist;Not applicable
+5314;2002;Separated;Not applicable;Other;Not applicable
+5315;2002;Never married;Not applicable;Southern baptist;Not applicable
+5316;2002;Married;Not applicable;Southern baptist;Not applicable
+5317;2002;Divorced;No answer;Not applicable;No answer
+5318;2002;Married;$25000 or more;Baptist-dk which;$25000 or more
+5319;2002;Never married;Refused;Southern baptist;Refused
+5320;2002;Never married;$10000 - 14999;Baptist-dk which;$10000 - 14999
+5321;2002;Married;Refused;Other;Refused
+5322;2002;Married;$25000 or more;Southern baptist;$25000 or more
+5323;2002;Married;Refused;Southern baptist;Refused
+5324;2002;Married;Refused;Baptist-dk which;Refused
+5325;2002;Married;$25000 or more;Not applicable;$25000 or more
+5326;2002;Divorced;Don't know;Lutheran-dk which;Don't know
+5327;2002;Married;Lt $1000;Wi evan luth synod;Lt $1000
+5328;2002;Married;$25000 or more;Not applicable;$25000 or more
+5329;2002;Married;$25000 or more;Lutheran-dk which;$25000 or more
+5330;2002;Married;Not applicable;Wi evan luth synod;Not applicable
+5331;2002;Married;Not applicable;Lutheran-mo synod;Not applicable
+5332;2002;Never married;Don't know;Wi evan luth synod;Don't know
+5333;2002;Married;$15000 - 19999;Southern baptist;$15000 - 19999
+5334;2002;Married;$20000 - 24999;Wi evan luth synod;$20000 - 24999
+5335;2002;Widowed;Not applicable;United pres ch in us;Not applicable
+5336;2002;Widowed;$15000 - 19999;Lutheran-mo synod;$15000 - 19999
+5337;2002;Married;$15000 - 19999;Lutheran-mo synod;$15000 - 19999
+5338;2002;Widowed;Not applicable;Episcopal;Not applicable
+5339;2002;Married;$5000 to 5999;United methodist;$5000 to 5999
+5340;2002;Never married;$3000 to 3999;Not applicable;$3000 to 3999
+5341;2002;Widowed;Not applicable;Lutheran-dk which;Not applicable
+5342;2002;Married;$25000 or more;Lutheran-dk which;$25000 or more
+5343;2002;Married;$25000 or more;Lutheran-dk which;$25000 or more
+5344;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5345;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5346;2002;Married;Not applicable;Southern baptist;Not applicable
+5347;2002;Widowed;$10000 - 14999;Episcopal;$10000 - 14999
+5348;2002;Widowed;Not applicable;United methodist;Not applicable
+5349;2002;Divorced;Not applicable;Not applicable;Not applicable
+5350;2002;Divorced;Not applicable;Not applicable;Not applicable
+5351;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5352;2002;Never married;Not applicable;Not applicable;Not applicable
+5353;2002;Married;$15000 - 19999;Other;$15000 - 19999
+5354;2002;Married;Not applicable;Not applicable;Not applicable
+5355;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5356;2002;Married;$25000 or more;Not applicable;$25000 or more
+5357;2002;Married;$5000 to 5999;Not applicable;$5000 to 5999
+5358;2002;Never married;$15000 - 19999;Not applicable;$15000 - 19999
+5359;2002;Never married;$3000 to 3999;Baptist-dk which;$3000 to 3999
+5360;2002;Married;$25000 or more;Not applicable;$25000 or more
+5361;2002;Divorced;Not applicable;Not applicable;Not applicable
+5362;2002;Divorced;$25000 or more;Other;$25000 or more
+5363;2002;Married;$25000 or more;Not applicable;$25000 or more
+5364;2002;Never married;Not applicable;Not applicable;Not applicable
+5365;2002;Married;Not applicable;Not applicable;Not applicable
+5366;2002;Never married;$6000 to 6999;No denomination;$6000 to 6999
+5367;2002;Married;$25000 or more;No denomination;$25000 or more
+5368;2002;Divorced;Refused;No denomination;Refused
+5369;2002;Never married;$25000 or more;No denomination;$25000 or more
+5370;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5371;2002;Never married;Not applicable;Not applicable;Not applicable
+5372;2002;Married;Refused;Not applicable;Refused
+5373;2002;Divorced;Refused;Not applicable;Refused
+5374;2002;Never married;$7000 to 7999;Not applicable;$7000 to 7999
+5375;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5376;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5377;2002;Never married;$25000 or more;Not applicable;$25000 or more
+5378;2002;Separated;Not applicable;Not applicable;Not applicable
+5379;2002;Married;Not applicable;Other;Not applicable
+5380;2002;Never married;Refused;Not applicable;Refused
+5381;2002;Widowed;Not applicable;Not applicable;Not applicable
+5382;2002;Married;$25000 or more;No denomination;$25000 or more
+5383;2002;Married;Not applicable;Not applicable;Not applicable
+5384;2002;Divorced;$25000 or more;Not applicable;$25000 or more
+5385;2002;Married;$25000 or more;Not applicable;$25000 or more
+5386;2002;Married;$25000 or more;United methodist;$25000 or more
+5387;2002;Married;$25000 or more;Other;$25000 or more
+5388;2002;Married;$25000 or more;Baptist-dk which;$25000 or more
+5389;2002;Married;Refused;Am lutheran;Refused
+5390;2002;Never married;Not applicable;Not applicable;Not applicable
+5391;2002;Married;Not applicable;Other;Not applicable
+5392;2002;Married;Not applicable;Other;Not applicable
+5393;2002;Separated;Not applicable;Not applicable;Not applicable
+5394;2002;Married;Not applicable;United methodist;Not applicable
+5395;2002;Married;$25000 or more;Not applicable;$25000 or more
+5396;2002;Widowed;Not applicable;Other;Not applicable
+5397;2002;Married;$25000 or more;No denomination;$25000 or more
+5398;2002;Married;$25000 or more;Not applicable;$25000 or more
+5399;2002;Divorced;$25000 or more;Nat bapt conv of am;$25000 or more
+5400;2002;Never married;Not applicable;Other;Not applicable

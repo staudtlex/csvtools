@@ -1,0 +1,301 @@
+obs;marital;year;relig;rincome;marital
+9301;Married;2006;Catholic;$25000 or more;Married
+9302;Never married;2006;Protestant;$25000 or more;Never married
+9303;Widowed;2006;Catholic;Not applicable;Widowed
+9304;Never married;2006;Protestant;Not applicable;Never married
+9305;Never married;2006;None;$15000 - 19999;Never married
+9306;Never married;2006;Protestant;$25000 or more;Never married
+9307;Never married;2006;Protestant;$25000 or more;Never married
+9308;Never married;2006;Protestant;$15000 - 19999;Never married
+9309;Widowed;2006;Catholic;Not applicable;Widowed
+9310;Never married;2006;Protestant;$4000 to 4999;Never married
+9311;Never married;2006;Protestant;$25000 or more;Never married
+9312;Never married;2006;Catholic;$25000 or more;Never married
+9313;Never married;2006;None;$25000 or more;Never married
+9314;Divorced;2006;Protestant;$25000 or more;Divorced
+9315;Never married;2006;Protestant;$25000 or more;Never married
+9316;Never married;2006;None;Refused;Never married
+9317;Married;2006;Protestant;Not applicable;Married
+9318;Married;2006;Catholic;$25000 or more;Married
+9319;Separated;2006;None;$25000 or more;Separated
+9320;Widowed;2006;Protestant;Not applicable;Widowed
+9321;Married;2006;Hinduism;Not applicable;Married
+9322;Married;2006;Catholic;Not applicable;Married
+9323;Married;2006;Protestant;Not applicable;Married
+9324;Divorced;2006;None;$25000 or more;Divorced
+9325;Divorced;2006;Protestant;$25000 or more;Divorced
+9326;Married;2006;Catholic;$15000 - 19999;Married
+9327;Separated;2006;Catholic;$15000 - 19999;Separated
+9328;Divorced;2006;Protestant;$25000 or more;Divorced
+9329;Never married;2006;Catholic;$15000 - 19999;Never married
+9330;Married;2006;Protestant;$3000 to 3999;Married
+9331;Never married;2006;Protestant;$25000 or more;Never married
+9332;Never married;2006;None;$25000 or more;Never married
+9333;Widowed;2006;Protestant;Not applicable;Widowed
+9334;Never married;2006;Catholic;$25000 or more;Never married
+9335;Widowed;2006;Catholic;$10000 - 14999;Widowed
+9336;Married;2006;Protestant;$25000 or more;Married
+9337;Never married;2006;Protestant;$25000 or more;Never married
+9338;Never married;2006;Protestant;$25000 or more;Never married
+9339;Widowed;2006;Protestant;Not applicable;Widowed
+9340;Never married;2006;Protestant;$25000 or more;Never married
+9341;Never married;2006;Protestant;$25000 or more;Never married
+9342;Married;2006;Catholic;$25000 or more;Married
+9343;Married;2006;Protestant;$25000 or more;Married
+9344;Never married;2006;None;$15000 - 19999;Never married
+9345;Widowed;2006;Catholic;Not applicable;Widowed
+9346;Married;2006;Catholic;$25000 or more;Married
+9347;Married;2006;Protestant;$25000 or more;Married
+9348;Never married;2006;Catholic;$10000 - 14999;Never married
+9349;Separated;2006;Protestant;Not applicable;Separated
+9350;Divorced;2006;Catholic;$25000 or more;Divorced
+9351;Separated;2006;Catholic;$6000 to 6999;Separated
+9352;Never married;2006;Catholic;$25000 or more;Never married
+9353;Married;2006;Catholic;Not applicable;Married
+9354;Married;2006;Catholic;$25000 or more;Married
+9355;Married;2006;Protestant;$20000 - 24999;Married
+9356;Married;2006;Protestant;$25000 or more;Married
+9357;Married;2006;Protestant;$25000 or more;Married
+9358;Married;2006;Christian;$25000 or more;Married
+9359;Never married;2006;Protestant;$25000 or more;Never married
+9360;Married;2006;Protestant;Don't know;Married
+9361;Married;2006;No answer;$25000 or more;Married
+9362;Married;2006;Protestant;$25000 or more;Married
+9363;Married;2006;Jewish;$25000 or more;Married
+9364;Married;2006;Moslem/islam;Not applicable;Married
+9365;Married;2006;None;$25000 or more;Married
+9366;Never married;2006;None;$25000 or more;Never married
+9367;Never married;2006;None;$25000 or more;Never married
+9368;Married;2006;None;$25000 or more;Married
+9369;Married;2006;None;$20000 - 24999;Married
+9370;Married;2006;Catholic;Not applicable;Married
+9371;Married;2006;Protestant;Refused;Married
+9372;Married;2006;Jewish;$25000 or more;Married
+9373;Married;2006;None;$25000 or more;Married
+9374;Married;2006;None;$25000 or more;Married
+9375;Married;2006;Protestant;$25000 or more;Married
+9376;Married;2006;Protestant;Not applicable;Married
+9377;Married;2006;Hinduism;Not applicable;Married
+9378;Divorced;2006;Protestant;$25000 or more;Divorced
+9379;Married;2006;Catholic;$1000 to 2999;Married
+9380;Married;2006;Protestant;$25000 or more;Married
+9381;Married;2006;Catholic;Not applicable;Married
+9382;Never married;2006;Christian;Not applicable;Never married
+9383;Married;2006;Protestant;$25000 or more;Married
+9384;Married;2006;Protestant;$25000 or more;Married
+9385;Divorced;2006;Protestant;$25000 or more;Divorced
+9386;Never married;2006;Protestant;$25000 or more;Never married
+9387;Married;2006;Protestant;$25000 or more;Married
+9388;Married;2006;Catholic;$4000 to 4999;Married
+9389;Divorced;2006;Protestant;$15000 - 19999;Divorced
+9390;Divorced;2006;Protestant;Refused;Divorced
+9391;Widowed;2006;Protestant;Not applicable;Widowed
+9392;Never married;2006;Catholic;$25000 or more;Never married
+9393;Never married;2006;Protestant;$20000 - 24999;Never married
+9394;Married;2006;Protestant;Not applicable;Married
+9395;Married;2006;Protestant;Not applicable;Married
+9396;Married;2006;Christian;$20000 - 24999;Married
+9397;Divorced;2006;Jewish;$1000 to 2999;Divorced
+9398;Married;2006;None;Not applicable;Married
+9399;Divorced;2006;Protestant;$25000 or more;Divorced
+9400;Married;2006;Protestant;$25000 or more;Married
+9401;Married;2006;None;$25000 or more;Married
+9402;Divorced;2006;Catholic;$25000 or more;Divorced
+9403;Married;2006;Protestant;Not applicable;Married
+9404;Married;2006;Protestant;Don't know;Married
+9405;Married;2006;Christian;Not applicable;Married
+9406;Divorced;2006;Catholic;$25000 or more;Divorced
+9407;Married;2006;Protestant;Not applicable;Married
+9408;Divorced;2006;Catholic;$25000 or more;Divorced
+9409;Married;2006;Protestant;$10000 - 14999;Married
+9410;Married;2006;Protestant;Not applicable;Married
+9411;Never married;2006;Catholic;Lt $1000;Never married
+9412;Married;2006;Catholic;$15000 - 19999;Married
+9413;Separated;2006;Protestant;$10000 - 14999;Separated
+9414;Married;2006;Catholic;Not applicable;Married
+9415;Married;2006;Catholic;$25000 or more;Married
+9416;Married;2006;Protestant;$25000 or more;Married
+9417;Married;2006;Catholic;Not applicable;Married
+9418;Married;2006;Jewish;$25000 or more;Married
+9419;Married;2006;Catholic;Not applicable;Married
+9420;Married;2006;Catholic;$25000 or more;Married
+9421;Married;2006;Protestant;$25000 or more;Married
+9422;Married;2006;Catholic;$15000 - 19999;Married
+9423;Never married;2006;Catholic;$1000 to 2999;Never married
+9424;Divorced;2006;Protestant;$15000 - 19999;Divorced
+9425;Married;2006;Catholic;$1000 to 2999;Married
+9426;Married;2006;Catholic;$20000 - 24999;Married
+9427;Married;2006;Christian;Not applicable;Married
+9428;Married;2006;Catholic;$20000 - 24999;Married
+9429;Married;2006;Protestant;Not applicable;Married
+9430;Married;2006;None;$6000 to 6999;Married
+9431;Married;2006;Protestant;$25000 or more;Married
+9432;Never married;2006;Catholic;Not applicable;Never married
+9433;Married;2006;Catholic;Not applicable;Married
+9434;Never married;2006;Catholic;$4000 to 4999;Never married
+9435;Married;2006;Protestant;$25000 or more;Married
+9436;Married;2006;Catholic;Not applicable;Married
+9437;Never married;2006;Catholic;Not applicable;Never married
+9438;Divorced;2006;Catholic;$25000 or more;Divorced
+9439;Married;2006;Protestant;Refused;Married
+9440;Married;2006;Protestant;$25000 or more;Married
+9441;Widowed;2006;Protestant;Not applicable;Widowed
+9442;Separated;2006;Protestant;Not applicable;Separated
+9443;Separated;2006;None;$1000 to 2999;Separated
+9444;Never married;2006;Protestant;Not applicable;Never married
+9445;Divorced;2006;Protestant;Not applicable;Divorced
+9446;Never married;2006;Protestant;Not applicable;Never married
+9447;Never married;2006;Protestant;Not applicable;Never married
+9448;Separated;2006;Christian;$20000 - 24999;Separated
+9449;Never married;2006;Protestant;Not applicable;Never married
+9450;Married;2006;Protestant;$25000 or more;Married
+9451;Married;2006;Catholic;$25000 or more;Married
+9452;Married;2006;Protestant;$4000 to 4999;Married
+9453;Married;2006;Protestant;$10000 - 14999;Married
+9454;Divorced;2006;Other eastern;$20000 - 24999;Divorced
+9455;Married;2006;Protestant;$25000 or more;Married
+9456;Never married;2006;Protestant;$1000 to 2999;Never married
+9457;Married;2006;Protestant;Refused;Married
+9458;Married;2006;Catholic;$25000 or more;Married
+9459;Never married;2006;Protestant;Not applicable;Never married
+9460;Married;2006;None;$4000 to 4999;Married
+9461;Never married;2006;Catholic;$25000 or more;Never married
+9462;Never married;2006;Catholic;Not applicable;Never married
+9463;Separated;2006;Catholic;Not applicable;Separated
+9464;Married;2006;Catholic;Not applicable;Married
+9465;Never married;2006;Catholic;$5000 to 5999;Never married
+9466;Never married;2006;Protestant;Not applicable;Never married
+9467;Never married;2006;Jewish;$8000 to 9999;Never married
+9468;Never married;2006;Protestant;$25000 or more;Never married
+9469;Never married;2006;Catholic;Not applicable;Never married
+9470;Divorced;2006;None;$25000 or more;Divorced
+9471;Married;2006;Catholic;Not applicable;Married
+9472;Never married;2006;None;$3000 to 3999;Never married
+9473;Never married;2006;None;$25000 or more;Never married
+9474;Married;2006;Catholic;Don't know;Married
+9475;Never married;2006;Catholic;$25000 or more;Never married
+9476;Separated;2006;Protestant;$25000 or more;Separated
+9477;Widowed;2006;Catholic;Not applicable;Widowed
+9478;Never married;2006;Catholic;$10000 - 14999;Never married
+9479;Never married;2006;Buddhism;$3000 to 3999;Never married
+9480;Separated;2006;Catholic;Refused;Separated
+9481;Divorced;2006;None;Not applicable;Divorced
+9482;Married;2006;Catholic;Refused;Married
+9483;Married;2006;Catholic;Not applicable;Married
+9484;Married;2006;Catholic;$25000 or more;Married
+9485;Never married;2006;Catholic;$25000 or more;Never married
+9486;Married;2006;Catholic;$25000 or more;Married
+9487;Married;2006;Catholic;Not applicable;Married
+9488;Divorced;2006;Protestant;$10000 - 14999;Divorced
+9489;Married;2006;Protestant;Not applicable;Married
+9490;Widowed;2006;None;Not applicable;Widowed
+9491;Divorced;2006;Protestant;$25000 or more;Divorced
+9492;Married;2006;Catholic;$25000 or more;Married
+9493;Never married;2006;None;$25000 or more;Never married
+9494;Married;2006;Catholic;$25000 or more;Married
+9495;Widowed;2006;Jewish;Not applicable;Widowed
+9496;Never married;2006;Catholic;$25000 or more;Never married
+9497;Married;2006;Orthodox-christian;$25000 or more;Married
+9498;Widowed;2006;Jewish;Not applicable;Widowed
+9499;Divorced;2006;Jewish;Not applicable;Divorced
+9500;Married;2006;Jewish;$25000 or more;Married
+9501;Widowed;2006;Catholic;Not applicable;Widowed
+9502;Married;2006;Protestant;Not applicable;Married
+9503;Married;2006;Protestant;$25000 or more;Married
+9504;Married;2006;Protestant;$25000 or more;Married
+9505;Married;2006;Catholic;Not applicable;Married
+9506;Divorced;2006;None;$25000 or more;Divorced
+9507;Never married;2006;Jewish;Not applicable;Never married
+9508;Married;2006;Protestant;$25000 or more;Married
+9509;Divorced;2006;None;Not applicable;Divorced
+9510;Married;2006;Jewish;Not applicable;Married
+9511;Married;2006;Protestant;$25000 or more;Married
+9512;Married;2006;Catholic;Not applicable;Married
+9513;Never married;2006;Catholic;$3000 to 3999;Never married
+9514;Married;2006;None;$25000 or more;Married
+9515;Married;2006;Protestant;Not applicable;Married
+9516;Married;2006;Protestant;Don't know;Married
+9517;Never married;2006;None;$8000 to 9999;Never married
+9518;Married;2006;Protestant;$25000 or more;Married
+9519;Never married;2006;None;$20000 - 24999;Never married
+9520;Married;2006;Protestant;$25000 or more;Married
+9521;Divorced;2006;Protestant;Not applicable;Divorced
+9522;Married;2006;Catholic;$25000 or more;Married
+9523;Married;2006;Catholic;$25000 or more;Married
+9524;Never married;2006;Protestant;$25000 or more;Never married
+9525;Never married;2006;Catholic;$15000 - 19999;Never married
+9526;Never married;2006;No answer;No answer;Never married
+9527;Never married;2006;Protestant;Not applicable;Never married
+9528;Married;2006;Protestant;$25000 or more;Married
+9529;Married;2006;Protestant;Not applicable;Married
+9530;Never married;2006;None;Not applicable;Never married
+9531;Never married;2006;Protestant;Refused;Never married
+9532;Widowed;2006;Protestant;Not applicable;Widowed
+9533;Married;2006;Hinduism;$25000 or more;Married
+9534;Married;2006;Catholic;$25000 or more;Married
+9535;Married;2006;Catholic;$25000 or more;Married
+9536;Married;2006;None;$25000 or more;Married
+9537;Married;2006;None;$25000 or more;Married
+9538;Divorced;2006;Protestant;Not applicable;Divorced
+9539;Married;2006;None;$25000 or more;Married
+9540;Divorced;2006;Protestant;$25000 or more;Divorced
+9541;Never married;2006;Protestant;$25000 or more;Never married
+9542;Never married;2006;Catholic;$25000 or more;Never married
+9543;Widowed;2006;Protestant;Not applicable;Widowed
+9544;Married;2006;Protestant;No answer;Married
+9545;Married;2006;None;$25000 or more;Married
+9546;Married;2006;Protestant;$25000 or more;Married
+9547;Never married;2006;None;Lt $1000;Never married
+9548;Married;2006;Protestant;$25000 or more;Married
+9549;Married;2006;Protestant;Not applicable;Married
+9550;Married;2006;Protestant;$20000 - 24999;Married
+9551;Married;2006;Protestant;$8000 to 9999;Married
+9552;Married;2006;Catholic;Not applicable;Married
+9553;Never married;2006;None;$20000 - 24999;Never married
+9554;Married;2006;Catholic;Not applicable;Married
+9555;Never married;2006;Protestant;Not applicable;Never married
+9556;Married;2006;Catholic;$20000 - 24999;Married
+9557;Never married;2006;Protestant;$25000 or more;Never married
+9558;Married;2006;Inter-nondenominational;$20000 - 24999;Married
+9559;Married;2006;None;Not applicable;Married
+9560;Divorced;2006;Protestant;$25000 or more;Divorced
+9561;Divorced;2006;Protestant;$25000 or more;Divorced
+9562;Divorced;2006;None;$15000 - 19999;Divorced
+9563;Divorced;2006;None;$25000 or more;Divorced
+9564;Married;2006;Protestant;$25000 or more;Married
+9565;Married;2006;Protestant;$25000 or more;Married
+9566;Married;2006;None;Not applicable;Married
+9567;Married;2006;Protestant;$10000 - 14999;Married
+9568;Married;2006;None;Not applicable;Married
+9569;Married;2006;Moslem/islam;$10000 - 14999;Married
+9570;Married;2006;Protestant;Lt $1000;Married
+9571;Married;2006;Protestant;$25000 or more;Married
+9572;Married;2006;None;$25000 or more;Married
+9573;Married;2006;Jewish;Refused;Married
+9574;Never married;2006;Protestant;Not applicable;Never married
+9575;Married;2006;Protestant;No answer;Married
+9576;Married;2006;Protestant;Refused;Married
+9577;Never married;2006;Catholic;$25000 or more;Never married
+9578;Divorced;2006;None;$25000 or more;Divorced
+9579;Never married;2006;Protestant;$15000 - 19999;Never married
+9580;Never married;2006;Jewish;$4000 to 4999;Never married
+9581;Never married;2006;None;$25000 or more;Never married
+9582;Never married;2006;Protestant;$1000 to 2999;Never married
+9583;Divorced;2006;Protestant;$25000 or more;Divorced
+9584;Married;2006;Protestant;$20000 - 24999;Married
+9585;Married;2006;Protestant;$25000 or more;Married
+9586;Separated;2006;Catholic;$1000 to 2999;Separated
+9587;Never married;2006;Protestant;$10000 - 14999;Never married
+9588;Never married;2006;Christian;$15000 - 19999;Never married
+9589;Never married;2006;Protestant;$25000 or more;Never married
+9590;Never married;2006;Protestant;Not applicable;Never married
+9591;Married;2006;Protestant;$25000 or more;Married
+9592;Never married;2006;Protestant;Not applicable;Never married
+9593;Divorced;2006;None;Not applicable;Divorced
+9594;Divorced;2006;Protestant;Not applicable;Divorced
+9595;Married;2006;Protestant;$25000 or more;Married
+9596;Married;2006;None;$25000 or more;Married
+9597;Married;2006;Catholic;$4000 to 4999;Married
+9598;Married;2006;None;$20000 - 24999;Married
+9599;Married;2006;Catholic;Not applicable;Married
+9600;Married;2006;None;$25000 or more;Married

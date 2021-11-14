@@ -1,0 +1,301 @@
+obs;race;year;tvhours;rincome;relig
+2401;Black;2000;Not applicable;$10000 - 14999;Protestant
+2402;Black;2000;2;$5000 to 5999;Protestant
+2403;Black;2000;1;$7000 to 7999;Protestant
+2404;Black;2000;No answer;$15000 - 19999;Protestant
+2405;White;2000;4;Not applicable;Protestant
+2406;White;2000;2;$25000 or more;Protestant
+2407;White;2000;Not applicable;Not applicable;Protestant
+2408;White;2000;2;Not applicable;Protestant
+2409;White;2000;Not applicable;Not applicable;Protestant
+2410;White;2000;Not applicable;$20000 - 24999;Protestant
+2411;White;2000;Not applicable;$10000 - 14999;Protestant
+2412;White;2000;Not applicable;$25000 or more;Protestant
+2413;White;2000;Not applicable;$4000 to 4999;Protestant
+2414;White;2000;1;$20000 - 24999;Protestant
+2415;White;2000;3;Not applicable;Protestant
+2416;White;2000;Not applicable;$8000 to 9999;Protestant
+2417;White;2000;4;Not applicable;Protestant
+2418;White;2000;10;Not applicable;Protestant
+2419;White;2000;Not applicable;$25000 or more;None
+2420;White;2000;Not applicable;Not applicable;Protestant
+2421;White;2000;6;Not applicable;Protestant
+2422;White;2000;2;Lt $1000;Protestant
+2423;White;2000;5;Not applicable;Protestant
+2424;White;2000;7;Not applicable;Protestant
+2425;White;2000;Not applicable;$25000 or more;Catholic
+2426;White;2000;3;$8000 to 9999;Protestant
+2427;White;2000;Not applicable;$25000 or more;Protestant
+2428;White;2000;0;$5000 to 5999;Protestant
+2429;White;2000;2;$10000 - 14999;Protestant
+2430;White;2000;Not applicable;$25000 or more;Protestant
+2431;White;2000;4;$1000 to 2999;Protestant
+2432;White;2000;Not applicable;$20000 - 24999;Protestant
+2433;White;2000;Not applicable;$8000 to 9999;Protestant
+2434;White;2000;3;Not applicable;Protestant
+2435;White;2000;8;Not applicable;Protestant
+2436;White;2000;2;$8000 to 9999;Protestant
+2437;White;2000;5;Not applicable;Protestant
+2438;White;2000;4;$15000 - 19999;None
+2439;White;2000;4;$25000 or more;Protestant
+2440;White;2000;Not applicable;$25000 or more;Protestant
+2441;White;2000;Not applicable;Not applicable;Protestant
+2442;White;2000;Not applicable;Refused;Protestant
+2443;White;2000;2;$10000 - 14999;Protestant
+2444;White;2000;1;$6000 to 6999;Protestant
+2445;White;2000;3;Not applicable;Protestant
+2446;White;2000;2;$4000 to 4999;None
+2447;White;2000;Not applicable;$25000 or more;None
+2448;White;2000;1;Not applicable;Protestant
+2449;White;2000;Not applicable;$25000 or more;Protestant
+2450;White;2000;4;Not applicable;Catholic
+2451;White;2000;Not applicable;$15000 - 19999;Protestant
+2452;White;2000;2;Not applicable;Protestant
+2453;White;2000;2;$15000 - 19999;Protestant
+2454;White;2000;1;$25000 or more;Protestant
+2455;White;2000;2;$25000 or more;Protestant
+2456;Other;2000;Not applicable;$25000 or more;Catholic
+2457;White;2000;Not applicable;$10000 - 14999;Protestant
+2458;White;2000;0;Not applicable;Catholic
+2459;White;2000;1;$25000 or more;Catholic
+2460;White;2000;3;Not applicable;Catholic
+2461;White;2000;2;$25000 or more;Catholic
+2462;White;2000;Not applicable;$25000 or more;Christian
+2463;White;2000;Not applicable;Refused;Catholic
+2464;White;2000;Not applicable;$25000 or more;Catholic
+2465;White;2000;3;Refused;Catholic
+2466;White;2000;2;$20000 - 24999;None
+2467;White;2000;2;$25000 or more;Protestant
+2468;White;2000;Not applicable;$25000 or more;Catholic
+2469;White;2000;Not applicable;$3000 to 3999;Protestant
+2470;White;2000;4;$10000 - 14999;Catholic
+2471;White;2000;Not applicable;Not applicable;Catholic
+2472;White;2000;1;$20000 - 24999;Catholic
+2473;White;2000;2;$25000 or more;Catholic
+2474;White;2000;1;$25000 or more;Catholic
+2475;White;2000;2;Not applicable;Protestant
+2476;White;2000;2;$25000 or more;Catholic
+2477;White;2000;1;$25000 or more;Protestant
+2478;Other;2000;3;$15000 - 19999;None
+2479;White;2000;Not applicable;Not applicable;Protestant
+2480;White;2000;Not applicable;Not applicable;Catholic
+2481;White;2000;2;$8000 to 9999;Protestant
+2482;White;2000;Not applicable;$8000 to 9999;Catholic
+2483;White;2000;1;$20000 - 24999;Catholic
+2484;White;2000;2;Not applicable;Protestant
+2485;White;2000;7;$7000 to 7999;Catholic
+2486;White;2000;8;Not applicable;Catholic
+2487;White;2000;3;Not applicable;Protestant
+2488;Other;2000;Not applicable;$25000 or more;Catholic
+2489;White;2000;Not applicable;Lt $1000;Catholic
+2490;White;2000;2;Not applicable;Protestant
+2491;White;2000;10;$25000 or more;Protestant
+2492;White;2000;1;$10000 - 14999;Protestant
+2493;White;2000;3;Not applicable;Protestant
+2494;White;2000;Not applicable;$20000 - 24999;Protestant
+2495;White;2000;Not applicable;$25000 or more;Protestant
+2496;White;2000;0;$6000 to 6999;Protestant
+2497;White;2000;2;$4000 to 4999;Protestant
+2498;Black;2000;3;$15000 - 19999;Protestant
+2499;White;2000;3;$20000 - 24999;Protestant
+2500;Black;2000;6;$25000 or more;Protestant
+2501;Black;2000;8;Not applicable;Protestant
+2502;Black;2000;15;Not applicable;Protestant
+2503;Black;2000;Not applicable;$25000 or more;Protestant
+2504;Black;2000;4;$8000 to 9999;Protestant
+2505;White;2000;2;$25000 or more;Protestant
+2506;White;2000;Not applicable;Not applicable;Protestant
+2507;White;2000;Not applicable;$25000 or more;Catholic
+2508;Black;2000;Not applicable;$20000 - 24999;Protestant
+2509;Black;2000;4;$20000 - 24999;Protestant
+2510;Black;2000;3;$20000 - 24999;Protestant
+2511;White;2000;3;$25000 or more;None
+2512;White;2000;3;$10000 - 14999;Protestant
+2513;White;2000;1;Not applicable;Protestant
+2514;White;2000;Not applicable;Not applicable;Protestant
+2515;White;2000;Not applicable;Not applicable;Protestant
+2516;White;2000;0;$20000 - 24999;Protestant
+2517;White;2000;1;Refused;None
+2518;White;2000;Not applicable;Refused;Protestant
+2519;White;2000;1;$15000 - 19999;None
+2520;Black;2000;5;Not applicable;Protestant
+2521;Black;2000;Not applicable;Not applicable;Protestant
+2522;Black;2000;2;$25000 or more;Protestant
+2523;Black;2000;2;Lt $1000;Protestant
+2524;Black;2000;4;$8000 to 9999;Protestant
+2525;Black;2000;Not applicable;$8000 to 9999;Protestant
+2526;White;2000;2;$25000 or more;None
+2527;White;2000;Not applicable;$25000 or more;None
+2528;White;2000;2;$8000 to 9999;Protestant
+2529;White;2000;2;$25000 or more;Protestant
+2530;Other;2000;2;$25000 or more;Protestant
+2531;White;2000;Not applicable;$6000 to 6999;Protestant
+2532;White;2000;Not applicable;$10000 - 14999;Protestant
+2533;White;2000;Not applicable;$10000 - 14999;Protestant
+2534;White;2000;6;Not applicable;Protestant
+2535;White;2000;Not applicable;Not applicable;Protestant
+2536;Black;2000;4;$25000 or more;Protestant
+2537;White;2000;4;Not applicable;Protestant
+2538;White;2000;Not applicable;$25000 or more;Protestant
+2539;White;2000;2;$6000 to 6999;Protestant
+2540;White;2000;3;Not applicable;Protestant
+2541;White;2000;2;Refused;Protestant
+2542;Other;2000;2;$20000 - 24999;Protestant
+2543;White;2000;3;$25000 or more;Protestant
+2544;White;2000;Not applicable;$20000 - 24999;Protestant
+2545;Black;2000;Not applicable;$10000 - 14999;Christian
+2546;White;2000;3;$8000 to 9999;Catholic
+2547;Other;2000;5;$10000 - 14999;Catholic
+2548;Black;2000;Not applicable;$20000 - 24999;Protestant
+2549;Black;2000;1;$20000 - 24999;Protestant
+2550;White;2000;5;Not applicable;Inter-nondenominational
+2551;White;2000;Not applicable;$25000 or more;Protestant
+2552;White;2000;Not applicable;$15000 - 19999;Catholic
+2553;White;2000;Not applicable;Not applicable;Protestant
+2554;White;2000;2;Not applicable;Catholic
+2555;White;2000;3;$20000 - 24999;Protestant
+2556;White;2000;4;Not applicable;Protestant
+2557;White;2000;1;$10000 - 14999;Protestant
+2558;White;2000;8;Not applicable;Protestant
+2559;White;2000;3;$20000 - 24999;Catholic
+2560;White;2000;4;$10000 - 14999;Protestant
+2561;White;2000;2;$10000 - 14999;Catholic
+2562;White;2000;3;Not applicable;Catholic
+2563;White;2000;Not applicable;Not applicable;Protestant
+2564;White;2000;Not applicable;$20000 - 24999;Protestant
+2565;Other;2000;Not applicable;$15000 - 19999;Catholic
+2566;White;2000;4;Not applicable;Protestant
+2567;White;2000;1;$25000 or more;Protestant
+2568;White;2000;2;$25000 or more;Protestant
+2569;White;2000;Not applicable;$25000 or more;Catholic
+2570;White;2000;2;Lt $1000;Catholic
+2571;White;2000;Not applicable;$25000 or more;Protestant
+2572;White;2000;Not applicable;$10000 - 14999;Catholic
+2573;White;2000;1;Not applicable;Catholic
+2574;White;2000;0;$25000 or more;Protestant
+2575;Black;2000;6;$15000 - 19999;Protestant
+2576;Black;2000;4;$10000 - 14999;Protestant
+2577;White;2000;2;$10000 - 14999;Protestant
+2578;White;2000;Not applicable;$1000 to 2999;Protestant
+2579;White;2000;5;Not applicable;Protestant
+2580;White;2000;1;Not applicable;Protestant
+2581;White;2000;4;Not applicable;Protestant
+2582;White;2000;Not applicable;$1000 to 2999;Catholic
+2583;White;2000;Not applicable;$25000 or more;Protestant
+2584;White;2000;1;$10000 - 14999;None
+2585;White;2000;2;$15000 - 19999;None
+2586;Other;2000;Not applicable;$4000 to 4999;Catholic
+2587;White;2000;2;Not applicable;Protestant
+2588;White;2000;Not applicable;Not applicable;Protestant
+2589;White;2000;12;Not applicable;Protestant
+2590;Other;2000;0;$10000 - 14999;Catholic
+2591;White;2000;Not applicable;$25000 or more;Protestant
+2592;White;2000;4;Not applicable;Catholic
+2593;White;2000;3;$8000 to 9999;None
+2594;White;2000;4;$6000 to 6999;Catholic
+2595;White;2000;1;$15000 - 19999;Protestant
+2596;White;2000;3;$25000 or more;Protestant
+2597;White;2000;2;Refused;Protestant
+2598;White;2000;3;$20000 - 24999;Protestant
+2599;Other;2000;Not applicable;$25000 or more;Catholic
+2600;White;2000;4;$15000 - 19999;Catholic
+2601;White;2000;Not applicable;$10000 - 14999;Protestant
+2602;White;2000;1;Refused;Protestant
+2603;White;2000;1;$25000 or more;Catholic
+2604;White;2000;4;Not applicable;Protestant
+2605;White;2000;2;$20000 - 24999;Catholic
+2606;White;2000;Not applicable;Refused;Catholic
+2607;White;2000;6;Not applicable;Protestant
+2608;White;2000;Not applicable;$25000 or more;Catholic
+2609;White;2000;1;Refused;Catholic
+2610;White;2000;2;$25000 or more;None
+2611;White;2000;8;$25000 or more;Protestant
+2612;White;2000;3;$6000 to 6999;Catholic
+2613;White;2000;8;Not applicable;Protestant
+2614;White;2000;2;Not applicable;Protestant
+2615;White;2000;Not applicable;$4000 to 4999;None
+2616;Other;2000;Not applicable;$15000 - 19999;Protestant
+2617;White;2000;Not applicable;$25000 or more;Protestant
+2618;White;2000;2;$25000 or more;Protestant
+2619;White;2000;3;Not applicable;Protestant
+2620;White;2000;1;$25000 or more;Protestant
+2621;Other;2000;4;Not applicable;Protestant
+2622;Black;2000;Not applicable;$5000 to 5999;Protestant
+2623;White;2000;Not applicable;$4000 to 4999;Catholic
+2624;White;2000;2;$25000 or more;Protestant
+2625;White;2000;Not applicable;Not applicable;Protestant
+2626;White;2000;3;$25000 or more;Protestant
+2627;White;2000;Not applicable;Not applicable;Protestant
+2628;White;2000;2;Not applicable;None
+2629;White;2000;0;$5000 to 5999;Protestant
+2630;White;2000;1;$25000 or more;None
+2631;White;2000;3;$25000 or more;Protestant
+2632;White;2000;3;$8000 to 9999;Protestant
+2633;White;2000;3;Not applicable;Protestant
+2634;White;2000;Not applicable;Not applicable;Protestant
+2635;White;2000;No answer;Not applicable;Protestant
+2636;White;2000;Not applicable;$20000 - 24999;Protestant
+2637;Other;2000;No answer;$7000 to 7999;Catholic
+2638;White;2000;Not applicable;$25000 or more;None
+2639;White;2000;Not applicable;$25000 or more;Protestant
+2640;Other;2000;4;$25000 or more;Buddhism
+2641;White;2000;11;$25000 or more;Protestant
+2642;Other;2000;Not applicable;$25000 or more;Catholic
+2643;White;2000;5;Not applicable;Protestant
+2644;White;2000;2;$25000 or more;Protestant
+2645;White;2000;3;$20000 - 24999;Protestant
+2646;White;2000;2;$20000 - 24999;Protestant
+2647;White;2000;Not applicable;$25000 or more;Protestant
+2648;White;2000;6;Not applicable;Protestant
+2649;White;2000;Not applicable;Not applicable;Protestant
+2650;White;2000;1;$25000 or more;Protestant
+2651;White;2000;4;$25000 or more;Protestant
+2652;White;2000;2;$10000 - 14999;None
+2653;White;2000;0;Not applicable;Protestant
+2654;White;2000;0;$6000 to 6999;Protestant
+2655;White;2000;Not applicable;$20000 - 24999;Orthodox-christian
+2656;White;2000;10;Not applicable;None
+2657;White;2000;0;$10000 - 14999;Protestant
+2658;White;2000;2;$8000 to 9999;Protestant
+2659;White;2000;Not applicable;$25000 or more;Protestant
+2660;White;2000;Not applicable;$20000 - 24999;Protestant
+2661;White;2000;2;Refused;Protestant
+2662;White;2000;4;$7000 to 7999;Protestant
+2663;White;2000;3;Not applicable;Protestant
+2664;White;2000;3;$25000 or more;None
+2665;White;2000;Not applicable;$15000 - 19999;Protestant
+2666;White;2000;Not applicable;$20000 - 24999;Catholic
+2667;White;2000;Not applicable;Not applicable;Protestant
+2668;White;2000;Not applicable;$8000 to 9999;Protestant
+2669;White;2000;4;$15000 - 19999;Protestant
+2670;White;2000;3;Not applicable;Catholic
+2671;White;2000;3;$10000 - 14999;Catholic
+2672;White;2000;2;Lt $1000;Protestant
+2673;White;2000;2;$6000 to 6999;Protestant
+2674;White;2000;2;$15000 - 19999;Protestant
+2675;Black;2000;3;Not applicable;Protestant
+2676;Black;2000;3;$3000 to 3999;Protestant
+2677;Black;2000;Not applicable;$15000 - 19999;Protestant
+2678;White;2000;Not applicable;$25000 or more;None
+2679;White;2000;No answer;$25000 or more;Other
+2680;White;2000;2;$20000 - 24999;Protestant
+2681;White;2000;1;$10000 - 14999;Protestant
+2682;White;2000;2;$10000 - 14999;Protestant
+2683;White;2000;1;$15000 - 19999;Protestant
+2684;White;2000;4;No answer;Protestant
+2685;White;2000;3;$10000 - 14999;Protestant
+2686;White;2000;Not applicable;Not applicable;Protestant
+2687;White;2000;5;Not applicable;Protestant
+2688;White;2000;2;Not applicable;Protestant
+2689;White;2000;3;Not applicable;Catholic
+2690;White;2000;2;Not applicable;Protestant
+2691;White;2000;Not applicable;Not applicable;Protestant
+2692;White;2000;2;Not applicable;Protestant
+2693;White;2000;8;Lt $1000;Protestant
+2694;White;2000;2;$10000 - 14999;Protestant
+2695;White;2000;2;Not applicable;Protestant
+2696;White;2000;3;Not applicable;Protestant
+2697;White;2000;Not applicable;Not applicable;Protestant
+2698;White;2000;Not applicable;$15000 - 19999;Protestant
+2699;White;2000;Not applicable;Not applicable;Protestant
+2700;White;2000;5;$25000 or more;Protestant

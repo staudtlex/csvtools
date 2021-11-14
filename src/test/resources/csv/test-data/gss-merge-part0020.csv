@@ -1,0 +1,301 @@
+obs;age;partyid;relig;relig;tvhours
+5701;52;Strong democrat;None;None;3
+5702;35;Ind,near dem;None;None;Not applicable
+5703;33;Not str republican;None;None;Not applicable
+5704;35;Strong republican;Catholic;Catholic;Not applicable
+5705;37;Strong democrat;None;None;Not applicable
+5706;68;Strong republican;Catholic;Catholic;Not applicable
+5707;47;Not str democrat;Catholic;Catholic;Not applicable
+5708;42;Ind,near rep;Catholic;Catholic;1
+5709;56;Not str republican;Catholic;Catholic;1
+5710;57;Strong democrat;Catholic;Catholic;Not applicable
+5711;62;Strong republican;Catholic;Catholic;Not applicable
+5712;61;Not str democrat;Catholic;Catholic;Not applicable
+5713;56;Strong democrat;Orthodox-christian;Orthodox-christian;Not applicable
+5714;59;Independent;Catholic;Catholic;Not applicable
+5715;19;Not str democrat;None;None;Not applicable
+5716;40;Not str democrat;Catholic;Catholic;1
+5717;55;Not str republican;Catholic;Catholic;Not applicable
+5718;32;Strong democrat;Catholic;Catholic;Not applicable
+5719;46;Not str republican;Jewish;Jewish;3
+5720;23;Ind,near rep;Catholic;Catholic;2
+5721;50;Not str democrat;None;None;Not applicable
+5722;24;Not str republican;Protestant;Protestant;Not applicable
+5723;52;Not str democrat;Catholic;Catholic;3
+5724;51;Not str democrat;Catholic;Catholic;6
+5725;50;Independent;None;None;Not applicable
+5726;55;Independent;None;None;Not applicable
+5727;21;Independent;Catholic;Catholic;1
+5728;49;Strong republican;Catholic;Catholic;Not applicable
+5729;61;Not str republican;Protestant;Protestant;1
+5730;21;Ind,near dem;None;None;2
+5731;28;Not str democrat;Catholic;Catholic;Not applicable
+5732;45;Ind,near rep;Catholic;Catholic;Not applicable
+5733;61;Not str republican;Catholic;Catholic;Not applicable
+5734;35;Not str republican;Catholic;Catholic;Not applicable
+5735;32;Ind,near rep;Moslem/islam;Moslem/islam;3
+5736;31;Not str democrat;Catholic;Catholic;3
+5737;32;Ind,near rep;Catholic;Catholic;Not applicable
+5738;58;Independent;Catholic;Catholic;Not applicable
+5739;33;Not str democrat;Catholic;Catholic;8
+5740;51;Independent;Catholic;Catholic;Not applicable
+5741;33;Strong republican;Protestant;Protestant;Not applicable
+5742;58;Strong republican;Protestant;Protestant;Not applicable
+5743;25;Ind,near dem;None;None;1
+5744;28;Not str democrat;Catholic;Catholic;3
+5745;33;Not str democrat;Catholic;Catholic;Not applicable
+5746;37;Not str republican;Protestant;Protestant;Not applicable
+5747;29;Not str republican;None;None;1
+5748;25;Ind,near rep;Christian;Christian;Not applicable
+5749;50;Other party;Jewish;Jewish;Not applicable
+5750;No answer;Not str democrat;Protestant;Protestant;Not applicable
+5751;63;Not str republican;Protestant;Protestant;Not applicable
+5752;46;Strong republican;None;None;2
+5753;67;Strong republican;Protestant;Protestant;Not applicable
+5754;55;Not str democrat;Protestant;Protestant;Not applicable
+5755;34;Ind,near dem;Catholic;Catholic;3
+5756;34;Not str democrat;Catholic;Catholic;3
+5757;26;Not str republican;Catholic;Catholic;5
+5758;31;Not str republican;Protestant;Protestant;Not applicable
+5759;74;Strong republican;None;None;Not applicable
+5760;62;Strong republican;Catholic;Catholic;Not applicable
+5761;44;Ind,near rep;Protestant;Protestant;2
+5762;35;Strong republican;Protestant;Protestant;Not applicable
+5763;38;Ind,near dem;Protestant;Protestant;Not applicable
+5764;69;Independent;Protestant;Protestant;Not applicable
+5765;35;Not str democrat;Protestant;Protestant;Not applicable
+5766;59;Strong democrat;Protestant;Protestant;Not applicable
+5767;76;Strong republican;Protestant;Protestant;Not applicable
+5768;62;Strong republican;Protestant;Protestant;2
+5769;70;Strong democrat;Catholic;Catholic;Not applicable
+5770;69;Ind,near dem;Protestant;Protestant;Not applicable
+5771;No answer;Strong republican;None;None;Not applicable
+5772;70;Not str republican;Protestant;Protestant;Not applicable
+5773;79;Strong republican;Protestant;Protestant;Not applicable
+5774;56;Strong democrat;Protestant;Protestant;Not applicable
+5775;47;Strong republican;Other;Other;Not applicable
+5776;62;Strong republican;Protestant;Protestant;Not applicable
+5777;56;Strong democrat;Catholic;Catholic;Not applicable
+5778;27;Strong republican;None;None;3
+5779;30;Not str democrat;Catholic;Catholic;1
+5780;30;Independent;None;None;Not applicable
+5781;64;Strong republican;Protestant;Protestant;Not applicable
+5782;36;Not str democrat;Protestant;Protestant;1
+5783;27;Not str republican;Catholic;Catholic;Not applicable
+5784;18;Strong republican;None;None;Not applicable
+5785;64;Strong democrat;Protestant;Protestant;Not applicable
+5786;38;Not str democrat;Catholic;Catholic;Not applicable
+5787;49;Not str democrat;Protestant;Protestant;Not applicable
+5788;28;Not str republican;Protestant;Protestant;Not applicable
+5789;24;Ind,near dem;None;None;Not applicable
+5790;36;Independent;Catholic;Catholic;0
+5791;41;Not str democrat;None;None;Not applicable
+5792;24;Strong democrat;Catholic;Catholic;Not applicable
+5793;28;Ind,near dem;Protestant;Protestant;Not applicable
+5794;51;Independent;Other eastern;Other eastern;Not applicable
+5795;20;Not str republican;Protestant;Protestant;3
+5796;30;Independent;Catholic;Catholic;Not applicable
+5797;56;Ind,near rep;Catholic;Catholic;Not applicable
+5798;44;Strong democrat;Catholic;Catholic;Not applicable
+5799;38;Independent;Catholic;Catholic;4
+5800;34;Not str democrat;None;None;Not applicable
+5801;21;Strong republican;Protestant;Protestant;2
+5802;31;Not str republican;Christian;Christian;Not applicable
+5803;23;Independent;Catholic;Catholic;7
+5804;45;Ind,near dem;None;None;2
+5805;55;Independent;No answer;No answer;Not applicable
+5806;56;Not str republican;None;None;1
+5807;23;Strong democrat;Protestant;Protestant;Not applicable
+5808;61;Not str republican;Catholic;Catholic;Not applicable
+5809;36;Ind,near dem;Catholic;Catholic;Not applicable
+5810;20;Other party;Protestant;Protestant;1
+5811;26;Not str democrat;Catholic;Catholic;Not applicable
+5812;33;Independent;Catholic;Catholic;Not applicable
+5813;28;Ind,near rep;Protestant;Protestant;5
+5814;29;Independent;Buddhism;Buddhism;Not applicable
+5815;57;Ind,near rep;Protestant;Protestant;Not applicable
+5816;25;Not str republican;Catholic;Catholic;5
+5817;64;Not str democrat;Protestant;Protestant;Not applicable
+5818;37;Ind,near dem;None;None;1
+5819;26;Not str democrat;Catholic;Catholic;Not applicable
+5820;28;Not str democrat;Catholic;Catholic;Not applicable
+5821;41;Not str republican;Protestant;Protestant;Not applicable
+5822;70;Ind,near rep;Catholic;Catholic;Not applicable
+5823;57;No answer;Protestant;Protestant;Not applicable
+5824;48;Strong republican;Catholic;Catholic;1
+5825;40;Independent;Protestant;Protestant;Not applicable
+5826;27;Independent;Catholic;Catholic;2
+5827;43;Independent;None;None;5
+5828;61;Strong republican;Protestant;Protestant;1
+5829;43;Not str republican;Christian;Christian;Not applicable
+5830;62;Not str democrat;Christian;Christian;Not applicable
+5831;64;Other party;None;None;4
+5832;59;Not str democrat;Jewish;Jewish;Not applicable
+5833;39;Strong republican;Protestant;Protestant;5
+5834;62;Independent;None;None;Not applicable
+5835;49;Strong republican;Protestant;Protestant;Not applicable
+5836;84;Ind,near dem;Protestant;Protestant;4
+5837;44;Ind,near rep;Other;Other;Not applicable
+5838;40;Ind,near dem;No answer;No answer;Not applicable
+5839;39;Not str democrat;Hinduism;Hinduism;Not applicable
+5840;50;Not str republican;Jewish;Jewish;Not applicable
+5841;44;Strong democrat;Jewish;Jewish;Not applicable
+5842;28;Strong democrat;Jewish;Jewish;Not applicable
+5843;24;Not str democrat;Catholic;Catholic;Not applicable
+5844;20;Strong democrat;Catholic;Catholic;Not applicable
+5845;22;Ind,near dem;None;None;1
+5846;38;Ind,near dem;None;None;Not applicable
+5847;69;Strong democrat;Protestant;Protestant;4
+5848;24;Ind,near dem;None;None;Not applicable
+5849;54;Strong democrat;Protestant;Protestant;Not applicable
+5850;49;Strong democrat;Catholic;Catholic;Not applicable
+5851;32;Ind,near dem;Orthodox-christian;Orthodox-christian;Not applicable
+5852;27;Not str democrat;Catholic;Catholic;Not applicable
+5853;25;Not str democrat;Catholic;Catholic;Not applicable
+5854;45;Not str republican;Protestant;Protestant;Not applicable
+5855;18;Not str democrat;Catholic;Catholic;Not applicable
+5856;25;Independent;Catholic;Catholic;3
+5857;22;Strong democrat;Protestant;Protestant;Not applicable
+5858;36;Independent;Catholic;Catholic;Not applicable
+5859;19;Not str republican;Christian;Christian;Not applicable
+5860;60;Ind,near rep;Protestant;Protestant;Not applicable
+5861;25;Not str republican;Protestant;Protestant;Not applicable
+5862;39;Strong republican;Protestant;Protestant;Not applicable
+5863;28;Not str republican;Protestant;Protestant;Not applicable
+5864;43;Strong democrat;Protestant;Protestant;3
+5865;56;Strong republican;None;None;Not applicable
+5866;42;Strong democrat;Catholic;Catholic;Not applicable
+5867;46;Ind,near dem;Catholic;Catholic;Not applicable
+5868;41;Not str democrat;Catholic;Catholic;Not applicable
+5869;35;Independent;Catholic;Catholic;Not applicable
+5870;57;Not str republican;Catholic;Catholic;Not applicable
+5871;53;Not str democrat;Catholic;Catholic;Not applicable
+5872;50;Not str democrat;Catholic;Catholic;Not applicable
+5873;76;Not str republican;Catholic;Catholic;8
+5874;45;Independent;Catholic;Catholic;Not applicable
+5875;66;Not str republican;Protestant;Protestant;Not applicable
+5876;49;Independent;Other;Other;Not applicable
+5877;67;Strong republican;Catholic;Catholic;2
+5878;25;Not str democrat;Catholic;Catholic;Not applicable
+5879;70;Strong democrat;Catholic;Catholic;4
+5880;77;Not str democrat;Catholic;Catholic;Not applicable
+5881;46;Not str republican;Catholic;Catholic;Not applicable
+5882;23;Strong democrat;Catholic;Catholic;Not applicable
+5883;39;Not str democrat;Catholic;Catholic;Not applicable
+5884;22;Ind,near dem;Catholic;Catholic;Not applicable
+5885;46;Strong democrat;Protestant;Protestant;Not applicable
+5886;78;Strong republican;Protestant;Protestant;Not applicable
+5887;46;Not str republican;Catholic;Catholic;Not applicable
+5888;36;Ind,near rep;Catholic;Catholic;1
+5889;53;Strong republican;Protestant;Protestant;4
+5890;67;Strong democrat;Protestant;Protestant;4
+5891;41;Not str republican;Protestant;Protestant;Not applicable
+5892;22;Not str democrat;Moslem/islam;Moslem/islam;5
+5893;63;Not str democrat;Protestant;Protestant;Not applicable
+5894;62;Strong democrat;Protestant;Protestant;2
+5895;56;Independent;Catholic;Catholic;Not applicable
+5896;18;Ind,near dem;Protestant;Protestant;Not applicable
+5897;36;Ind,near dem;Catholic;Catholic;1
+5898;50;Strong republican;Protestant;Protestant;Not applicable
+5899;48;Independent;Catholic;Catholic;Not applicable
+5900;34;Strong republican;Protestant;Protestant;Not applicable
+5901;40;Strong republican;Protestant;Protestant;1
+5902;60;Not str republican;Catholic;Catholic;Not applicable
+5903;26;Not str republican;Protestant;Protestant;Not applicable
+5904;43;Strong democrat;Catholic;Catholic;Not applicable
+5905;52;Not str republican;Catholic;Catholic;Not applicable
+5906;24;Not str democrat;Protestant;Protestant;Not applicable
+5907;31;Strong democrat;Protestant;Protestant;8
+5908;62;Ind,near dem;Protestant;Protestant;Not applicable
+5909;36;Ind,near dem;Christian;Christian;3
+5910;37;Ind,near rep;None;None;Not applicable
+5911;37;Not str democrat;None;None;Not applicable
+5912;54;Ind,near dem;Protestant;Protestant;Not applicable
+5913;24;Ind,near rep;Catholic;Catholic;Not applicable
+5914;19;Ind,near dem;Catholic;Catholic;4
+5915;35;Not str republican;None;None;Not applicable
+5916;27;Independent;Protestant;Protestant;Not applicable
+5917;49;Independent;Catholic;Catholic;Not applicable
+5918;24;Not str democrat;None;None;Not applicable
+5919;50;Strong democrat;None;None;Not applicable
+5920;74;Ind,near dem;Buddhism;Buddhism;4
+5921;41;Independent;Catholic;Catholic;Not applicable
+5922;82;Strong democrat;Catholic;Catholic;Not applicable
+5923;47;Strong democrat;None;None;Not applicable
+5924;44;Independent;None;None;Not applicable
+5925;36;Strong democrat;Catholic;Catholic;4
+5926;28;Ind,near rep;Protestant;Protestant;Not applicable
+5927;33;Independent;None;None;Not applicable
+5928;40;Independent;None;None;Not applicable
+5929;41;Strong republican;Catholic;Catholic;1
+5930;35;Not str republican;Christian;Christian;2
+5931;41;Strong democrat;Catholic;Catholic;Not applicable
+5932;58;Strong republican;Catholic;Catholic;Not applicable
+5933;81;Not str democrat;Protestant;Protestant;6
+5934;55;Ind,near dem;None;None;0
+5935;37;Not str democrat;Catholic;Catholic;Not applicable
+5936;67;Ind,near rep;Protestant;Protestant;Not applicable
+5937;46;Ind,near rep;Protestant;Protestant;Not applicable
+5938;35;Not str democrat;None;None;Not applicable
+5939;76;Not str republican;None;None;Not applicable
+5940;81;Not str republican;Jewish;Jewish;Not applicable
+5941;57;Not str democrat;Catholic;Catholic;Not applicable
+5942;32;Ind,near rep;Catholic;Catholic;Not applicable
+5943;42;Not str democrat;Catholic;Catholic;Not applicable
+5944;46;Ind,near dem;None;None;Not applicable
+5945;48;Strong democrat;Jewish;Jewish;Not applicable
+5946;30;Not str democrat;Protestant;Protestant;1
+5947;51;Strong republican;Catholic;Catholic;Not applicable
+5948;89 or older;Not str republican;Catholic;Catholic;Not applicable
+5949;38;Not str republican;Catholic;Catholic;Not applicable
+5950;27;Ind,near rep;Inter-nondenominational;Inter-nondenominational;1
+5951;47;Not str democrat;Moslem/islam;Moslem/islam;Not applicable
+5952;53;Strong republican;None;None;Not applicable
+5953;49;Strong democrat;Catholic;Catholic;1
+5954;66;Not str republican;None;None;Not applicable
+5955;68;Strong democrat;Catholic;Catholic;Not applicable
+5956;55;Strong democrat;Catholic;Catholic;Not applicable
+5957;32;Not str republican;None;None;Not applicable
+5958;53;Strong democrat;Catholic;Catholic;2
+5959;44;Not str democrat;Catholic;Catholic;Not applicable
+5960;67;Strong democrat;Catholic;Catholic;Not applicable
+5961;44;Not str democrat;Catholic;Catholic;4
+5962;46;Strong democrat;Christian;Christian;Not applicable
+5963;38;Not str democrat;Protestant;Protestant;Not applicable
+5964;69;Ind,near dem;None;None;Not applicable
+5965;61;Strong democrat;None;None;1
+5966;29;Independent;Other;Other;2
+5967;40;Independent;None;None;Not applicable
+5968;32;Not str republican;None;None;Not applicable
+5969;37;Strong democrat;None;None;Not applicable
+5970;29;Independent;None;None;Not applicable
+5971;43;Not str republican;Protestant;Protestant;2
+5972;23;Ind,near rep;Protestant;Protestant;Not applicable
+5973;50;Strong democrat;Catholic;Catholic;Not applicable
+5974;29;Ind,near rep;Protestant;Protestant;Not applicable
+5975;48;Ind,near rep;Other;Other;Not applicable
+5976;86;Strong democrat;Protestant;Protestant;Not applicable
+5977;38;Other party;None;None;12
+5978;48;Not str democrat;Protestant;Protestant;Not applicable
+5979;62;Strong republican;Protestant;Protestant;Not applicable
+5980;55;Not str republican;Protestant;Protestant;1
+5981;39;Strong republican;Protestant;Protestant;2
+5982;22;Independent;Protestant;Protestant;Not applicable
+5983;43;Strong republican;Catholic;Catholic;Not applicable
+5984;56;Ind,near dem;Catholic;Catholic;Not applicable
+5985;38;Not str democrat;Buddhism;Buddhism;Not applicable
+5986;32;Not str democrat;None;None;Not applicable
+5987;49;Not str democrat;None;None;Not applicable
+5988;49;Strong democrat;Protestant;Protestant;3
+5989;72;Strong democrat;Other;Other;Not applicable
+5990;53;Independent;Buddhism;Buddhism;Not applicable
+5991;59;Strong democrat;Protestant;Protestant;Not applicable
+5992;84;Strong democrat;Jewish;Jewish;Not applicable
+5993;60;Strong democrat;None;None;2
+5994;21;Not str democrat;Jewish;Jewish;Not applicable
+5995;23;Strong democrat;None;None;Not applicable
+5996;24;Strong republican;Catholic;Catholic;Not applicable
+5997;55;Strong democrat;Protestant;Protestant;8
+5998;41;Not str democrat;Protestant;Protestant;3
+5999;29;Independent;Buddhism;Buddhism;Not applicable
+6000;35;Strong democrat;None;None;Not applicable

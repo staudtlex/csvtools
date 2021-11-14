@@ -1,0 +1,301 @@
+obs;age;denom;denom;marital;age
+901;20;Baptist-dk which;Baptist-dk which;Never married;20
+902;86;Southern baptist;Southern baptist;Married;86
+903;21;Not applicable;Not applicable;Never married;21
+904;69;Nat bapt conv usa;Nat bapt conv usa;Divorced;69
+905;23;Not applicable;Not applicable;Married;23
+906;80;Southern baptist;Southern baptist;Widowed;80
+907;37;Not applicable;Not applicable;Divorced;37
+908;58;Baptist-dk which;Baptist-dk which;Divorced;58
+909;37;Baptist-dk which;Baptist-dk which;Married;37
+910;59;Nat bapt conv of am;Nat bapt conv of am;Divorced;59
+911;47;Am bapt ch in usa;Am bapt ch in usa;Married;47
+912;79;Southern baptist;Southern baptist;Married;79
+913;20;Southern baptist;Southern baptist;Never married;20
+914;71;Episcopal;Episcopal;Divorced;71
+915;34;Not applicable;Not applicable;Separated;34
+916;19;Other baptists;Other baptists;Married;19
+917;29;Other baptists;Other baptists;Never married;29
+918;44;Not applicable;Not applicable;Divorced;44
+919;26;Not applicable;Not applicable;Never married;26
+920;41;United methodist;United methodist;Never married;41
+921;84;United methodist;United methodist;Widowed;84
+922;32;Baptist-dk which;Baptist-dk which;Never married;32
+923;55;Other baptists;Other baptists;Married;55
+924;38;Other baptists;Other baptists;Married;38
+925;49;Southern baptist;Southern baptist;Divorced;49
+926;24;Other;Other;Separated;24
+927;24;Southern baptist;Southern baptist;Separated;24
+928;35;Southern baptist;Southern baptist;Married;35
+929;63;Southern baptist;Southern baptist;Divorced;63
+930;41;Not applicable;Not applicable;Divorced;41
+931;40;Baptist-dk which;Baptist-dk which;Married;40
+932;56;Other baptists;Other baptists;Divorced;56
+933;20;Other lutheran;Other lutheran;Married;20
+934;42;Not applicable;Not applicable;Divorced;42
+935;27;Not applicable;Not applicable;Never married;27
+936;42;Not applicable;Not applicable;Divorced;42
+937;50;Not applicable;Not applicable;Divorced;50
+938;22;Am baptist asso;Am baptist asso;Never married;22
+939;26;Not applicable;Not applicable;Never married;26
+940;43;United methodist;United methodist;Never married;43
+941;44;Am baptist asso;Am baptist asso;Married;44
+942;76;Not applicable;Not applicable;Widowed;76
+943;46;Other baptists;Other baptists;Married;46
+944;34;Southern baptist;Southern baptist;Married;34
+945;26;Not applicable;Not applicable;Divorced;26
+946;44;Other methodist;Other methodist;Married;44
+947;29;United methodist;United methodist;Divorced;29
+948;31;Southern baptist;Southern baptist;Divorced;31
+949;39;Presbyterian c in us;Presbyterian c in us;Married;39
+950;51;Not applicable;Not applicable;Married;51
+951;61;Not applicable;Not applicable;Married;61
+952;56;Not applicable;Not applicable;Married;56
+953;50;Not applicable;Not applicable;Never married;50
+954;49;Not applicable;Not applicable;Divorced;49
+955;50;No denomination;No denomination;Divorced;50
+956;35;Not applicable;Not applicable;Never married;35
+957;61;Not applicable;Not applicable;Separated;61
+958;32;Other;Other;Never married;32
+959;56;Not applicable;Not applicable;Married;56
+960;35;Not applicable;Not applicable;Married;35
+961;46;Other;Other;Married;46
+962;39;Other;Other;Married;39
+963;41;Southern baptist;Southern baptist;Married;41
+964;34;Not applicable;Not applicable;Never married;34
+965;34;United methodist;United methodist;Married;34
+966;28;Not applicable;Not applicable;Never married;28
+967;47;Other presbyterian;Other presbyterian;Married;47
+968;42;Not applicable;Not applicable;Divorced;42
+969;37;United methodist;United methodist;Married;37
+970;40;Lutheran-dk which;Lutheran-dk which;Married;40
+971;50;Not applicable;Not applicable;Never married;50
+972;42;Not applicable;Not applicable;Never married;42
+973;43;Southern baptist;Southern baptist;Married;43
+974;76;United methodist;United methodist;Divorced;76
+975;78;Southern baptist;Southern baptist;Widowed;78
+976;41;Other;Other;Divorced;41
+977;61;Episcopal;Episcopal;Never married;61
+978;49;No denomination;No denomination;Married;49
+979;59;No answer;No answer;Married;59
+980;39;Southern baptist;Southern baptist;Divorced;39
+981;24;Not applicable;Not applicable;Married;24
+982;31;United methodist;United methodist;Never married;31
+983;35;Other baptists;Other baptists;Never married;35
+984;29;Southern baptist;Southern baptist;Never married;29
+985;37;Not applicable;Not applicable;Separated;37
+986;41;Baptist-dk which;Baptist-dk which;Never married;41
+987;44;Baptist-dk which;Baptist-dk which;Divorced;44
+988;37;Not applicable;Not applicable;Married;37
+989;27;Southern baptist;Southern baptist;Divorced;27
+990;47;Other;Other;Married;47
+991;38;Not applicable;Not applicable;Married;38
+992;51;Not applicable;Not applicable;Married;51
+993;30;Southern baptist;Southern baptist;Married;30
+994;27;Not applicable;Not applicable;Married;27
+995;63;Not applicable;Not applicable;Married;63
+996;76;Other methodist;Other methodist;Married;76
+997;22;Not applicable;Not applicable;Never married;22
+998;No answer;No denomination;No denomination;Married;No answer
+999;75;Baptist-dk which;Baptist-dk which;Married;75
+1000;58;Southern baptist;Southern baptist;Married;58
+1001;56;Not applicable;Not applicable;Divorced;56
+1002;42;Other;Other;Never married;42
+1003;58;Not applicable;Not applicable;Married;58
+1004;36;Other;Other;Married;36
+1005;44;United methodist;United methodist;Married;44
+1006;21;Not applicable;Not applicable;Married;21
+1007;23;Other;Other;Married;23
+1008;22;Not applicable;Not applicable;Married;22
+1009;30;Not applicable;Not applicable;Married;30
+1010;41;Other;Other;Married;41
+1011;52;Not applicable;Not applicable;Divorced;52
+1012;53;Southern baptist;Southern baptist;Separated;53
+1013;52;Southern baptist;Southern baptist;Married;52
+1014;74;Not applicable;Not applicable;Widowed;74
+1015;26;United methodist;United methodist;Married;26
+1016;21;Not applicable;Not applicable;Never married;21
+1017;30;No answer;No answer;Separated;30
+1018;73;Luth ch in america;Luth ch in america;Married;73
+1019;18;Baptist-dk which;Baptist-dk which;Never married;18
+1020;21;Not applicable;Not applicable;Never married;21
+1021;54;Other;Other;Never married;54
+1022;34;No denomination;No denomination;Divorced;34
+1023;33;Other;Other;Married;33
+1024;25;United methodist;United methodist;Married;25
+1025;30;No denomination;No denomination;Separated;30
+1026;42;Not applicable;Not applicable;Married;42
+1027;27;Not applicable;Not applicable;Married;27
+1028;28;Not applicable;Not applicable;Never married;28
+1029;37;Not applicable;Not applicable;Married;37
+1030;39;Not applicable;Not applicable;Married;39
+1031;36;No denomination;No denomination;Married;36
+1032;53;Not applicable;Not applicable;Married;53
+1033;51;Afr meth ep zion;Afr meth ep zion;Divorced;51
+1034;22;Not applicable;Not applicable;Never married;22
+1035;23;Not applicable;Not applicable;Married;23
+1036;40;Not applicable;Not applicable;Married;40
+1037;44;Other;Other;Married;44
+1038;39;Not applicable;Not applicable;Divorced;39
+1039;34;Baptist-dk which;Baptist-dk which;Divorced;34
+1040;45;Not applicable;Not applicable;Married;45
+1041;61;No denomination;No denomination;Married;61
+1042;56;Not applicable;Not applicable;Married;56
+1043;21;Not applicable;Not applicable;Married;21
+1044;38;Southern baptist;Southern baptist;Married;38
+1045;36;Not applicable;Not applicable;Separated;36
+1046;41;Southern baptist;Southern baptist;Married;41
+1047;36;Not applicable;Not applicable;Married;36
+1048;24;Not applicable;Not applicable;Separated;24
+1049;42;Not applicable;Not applicable;Divorced;42
+1050;43;Not applicable;Not applicable;Married;43
+1051;63;Not applicable;Not applicable;Married;63
+1052;46;Not applicable;Not applicable;Married;46
+1053;27;Not applicable;Not applicable;Separated;27
+1054;22;Not applicable;Not applicable;Married;22
+1055;19;Not applicable;Not applicable;Never married;19
+1056;24;Not applicable;Not applicable;Married;24
+1057;40;Not applicable;Not applicable;Never married;40
+1058;24;Not applicable;Not applicable;Never married;24
+1059;73;Methodist-dk which;Methodist-dk which;Married;73
+1060;40;Episcopal;Episcopal;Married;40
+1061;78;United methodist;United methodist;Married;78
+1062;33;Not applicable;Not applicable;Married;33
+1063;40;Not applicable;Not applicable;Married;40
+1064;78;Other;Other;Married;78
+1065;39;Southern baptist;Southern baptist;Divorced;39
+1066;43;Not applicable;Not applicable;Married;43
+1067;41;Not applicable;Not applicable;Married;41
+1068;59;Not applicable;Not applicable;Married;59
+1069;31;Not applicable;Not applicable;Married;31
+1070;50;Not applicable;Not applicable;Married;50
+1071;18;No denomination;No denomination;Never married;18
+1072;53;Luth ch in america;Luth ch in america;Married;53
+1073;42;United pres ch in us;United pres ch in us;Married;42
+1074;67;Not applicable;Not applicable;Married;67
+1075;41;Not applicable;Not applicable;Married;41
+1076;43;Other;Other;Divorced;43
+1077;60;Other;Other;Married;60
+1078;62;Not applicable;Not applicable;Married;62
+1079;35;Not applicable;Not applicable;Married;35
+1080;30;Not applicable;Not applicable;Never married;30
+1081;70;Not applicable;Not applicable;Never married;70
+1082;86;Not applicable;Not applicable;Never married;86
+1083;36;Not applicable;Not applicable;Never married;36
+1084;75;Not applicable;Not applicable;Divorced;75
+1085;63;Not applicable;Not applicable;Divorced;63
+1086;26;Not applicable;Not applicable;Divorced;26
+1087;74;Presbyterian, merged;Presbyterian, merged;Married;74
+1088;32;Not applicable;Not applicable;Married;32
+1089;81;Not applicable;Not applicable;Divorced;81
+1090;37;Not applicable;Not applicable;Never married;37
+1091;80;Not applicable;Not applicable;Married;80
+1092;86;Baptist-dk which;Baptist-dk which;Married;86
+1093;63;Lutheran-dk which;Lutheran-dk which;Divorced;63
+1094;45;No denomination;No denomination;Divorced;45
+1095;60;Lutheran-mo synod;Lutheran-mo synod;Married;60
+1096;56;Other baptists;Other baptists;Married;56
+1097;44;Other;Other;Separated;44
+1098;22;Other;Other;Never married;22
+1099;50;Lutheran-mo synod;Lutheran-mo synod;Married;50
+1100;25;Not applicable;Not applicable;Never married;25
+1101;43;Southern baptist;Southern baptist;Married;43
+1102;27;Not applicable;Not applicable;Never married;27
+1103;51;United methodist;United methodist;Divorced;51
+1104;28;Lutheran-mo synod;Lutheran-mo synod;Never married;28
+1105;45;No answer;No answer;Married;45
+1106;24;Other;Other;Married;24
+1107;43;Not applicable;Not applicable;Married;43
+1108;32;Lutheran-mo synod;Lutheran-mo synod;Married;32
+1109;25;Not applicable;Not applicable;Married;25
+1110;22;United methodist;United methodist;Married;22
+1111;30;United methodist;United methodist;Married;30
+1112;40;Not applicable;Not applicable;Married;40
+1113;24;Not applicable;Not applicable;Never married;24
+1114;25;Not applicable;Not applicable;Never married;25
+1115;78;Not applicable;Not applicable;Widowed;78
+1116;32;Lutheran-dk which;Lutheran-dk which;Never married;32
+1117;49;Not applicable;Not applicable;Divorced;49
+1118;72;No denomination;No denomination;Married;72
+1119;19;Presbyterian c in us;Presbyterian c in us;Never married;19
+1120;37;Lutheran-dk which;Lutheran-dk which;Married;37
+1121;49;Not applicable;Not applicable;Married;49
+1122;24;Other;Other;Never married;24
+1123;20;Not applicable;Not applicable;Never married;20
+1124;21;Not applicable;Not applicable;Never married;21
+1125;40;Other;Other;Married;40
+1126;81;Not applicable;Not applicable;Never married;81
+1127;42;Not applicable;Not applicable;Married;42
+1128;40;Lutheran-dk which;Lutheran-dk which;Never married;40
+1129;80;United methodist;United methodist;Widowed;80
+1130;52;Am lutheran;Am lutheran;Married;52
+1131;40;Am baptist asso;Am baptist asso;Never married;40
+1132;61;Not applicable;Not applicable;Married;61
+1133;45;Am baptist asso;Am baptist asso;Never married;45
+1134;19;Presbyterian-dk wh;Presbyterian-dk wh;Never married;19
+1135;30;Not applicable;Not applicable;Separated;30
+1136;71;Baptist-dk which;Baptist-dk which;Widowed;71
+1137;24;Not applicable;Not applicable;Never married;24
+1138;60;Other baptists;Other baptists;Married;60
+1139;45;Other;Other;Married;45
+1140;45;Not applicable;Not applicable;Divorced;45
+1141;54;Evangelical luth;Evangelical luth;Divorced;54
+1142;56;United methodist;United methodist;Divorced;56
+1143;37;Not applicable;Not applicable;Married;37
+1144;32;Am lutheran;Am lutheran;Married;32
+1145;29;Not applicable;Not applicable;Married;29
+1146;31;No denomination;No denomination;Married;31
+1147;39;No denomination;No denomination;Married;39
+1148;77;Not applicable;Not applicable;Married;77
+1149;48;Not applicable;Not applicable;Married;48
+1150;41;Not applicable;Not applicable;Married;41
+1151;77;Episcopal;Episcopal;Widowed;77
+1152;36;Not applicable;Not applicable;Never married;36
+1153;23;Not applicable;Not applicable;Never married;23
+1154;39;No denomination;No denomination;Never married;39
+1155;46;Not applicable;Not applicable;Never married;46
+1156;21;Not applicable;Not applicable;Never married;21
+1157;34;Not applicable;Not applicable;Never married;34
+1158;44;Not applicable;Not applicable;Married;44
+1159;54;United methodist;United methodist;Widowed;54
+1160;23;Not applicable;Not applicable;Married;23
+1161;64;Baptist-dk which;Baptist-dk which;Married;64
+1162;43;Am bapt ch in usa;Am bapt ch in usa;Married;43
+1163;34;United methodist;United methodist;Widowed;34
+1164;72;Lutheran-mo synod;Lutheran-mo synod;Married;72
+1165;66;United pres ch in us;United pres ch in us;Married;66
+1166;85;Not applicable;Not applicable;Widowed;85
+1167;28;Southern baptist;Southern baptist;Never married;28
+1168;No answer;Not applicable;Not applicable;Married;No answer
+1169;45;Not applicable;Not applicable;Divorced;45
+1170;77;United methodist;United methodist;Widowed;77
+1171;47;Other baptists;Other baptists;Married;47
+1172;41;Southern baptist;Southern baptist;Married;41
+1173;66;Not applicable;Not applicable;Married;66
+1174;37;Episcopal;Episcopal;Divorced;37
+1175;71;Not applicable;Not applicable;Married;71
+1176;35;Not applicable;Not applicable;Never married;35
+1177;73;United methodist;United methodist;Divorced;73
+1178;40;Am bapt ch in usa;Am bapt ch in usa;Married;40
+1179;42;Evangelical luth;Evangelical luth;Married;42
+1180;37;Not applicable;Not applicable;Married;37
+1181;57;Episcopal;Episcopal;Divorced;57
+1182;85;Am baptist asso;Am baptist asso;Widowed;85
+1183;39;United methodist;United methodist;Never married;39
+1184;33;Other;Other;Divorced;33
+1185;30;Not applicable;Not applicable;Divorced;30
+1186;56;Other baptists;Other baptists;Separated;56
+1187;43;Baptist-dk which;Baptist-dk which;Divorced;43
+1188;26;Other baptists;Other baptists;Separated;26
+1189;52;Nat bapt conv usa;Nat bapt conv usa;Married;52
+1190;38;Baptist-dk which;Baptist-dk which;Separated;38
+1191;35;Not applicable;Not applicable;Divorced;35
+1192;28;Not applicable;Not applicable;Married;28
+1193;44;Not applicable;Not applicable;Never married;44
+1194;29;Afr meth episcopal;Afr meth episcopal;Never married;29
+1195;58;Southern baptist;Southern baptist;Widowed;58
+1196;50;Other baptists;Other baptists;Never married;50
+1197;45;Baptist-dk which;Baptist-dk which;Never married;45
+1198;61;United methodist;United methodist;Divorced;61
+1199;45;United methodist;United methodist;Separated;45
+1200;44;Afr meth episcopal;Afr meth episcopal;Married;44

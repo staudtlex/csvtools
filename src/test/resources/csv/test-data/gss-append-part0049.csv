@@ -1,0 +1,301 @@
+obs;year;age;denom;relig;partyid;rincome;race;marital;tvhours
+14401;2008;89 or older;Other;Protestant;Ind,near dem;Not applicable;White;Widowed;3
+14402;2008;28;Not applicable;Catholic;Strong republican;$25000 or more;White;Married;2
+14403;2008;49;No denomination;Protestant;Not str democrat;$25000 or more;White;Divorced;1
+14404;2008;61;Not applicable;None;Independent;$25000 or more;White;Married;2
+14405;2008;69;United pres ch in us;Protestant;Strong democrat;Not applicable;White;Married;4
+14406;2008;49;Not applicable;None;Independent;No answer;White;Separated;0
+14407;2008;79;No denomination;Protestant;Ind,near dem;Not applicable;White;Married;2
+14408;2008;37;Other;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+14409;2008;82;Not applicable;Catholic;Strong democrat;Not applicable;White;Married;Not applicable
+14410;2008;53;Baptist-dk which;Protestant;Independent;$10000 - 14999;White;Married;Not applicable
+14411;2008;85;Other lutheran;Protestant;Not str republican;Not applicable;White;Widowed;4
+14412;2008;44;Not applicable;Catholic;Not str republican;Refused;White;Married;1
+14413;2008;67;United methodist;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+14414;2008;63;Evangelical luth;Protestant;Strong republican;Not applicable;White;Married;1
+14415;2008;56;United methodist;Protestant;Strong republican;$25000 or more;White;Married;2
+14416;2008;62;Not applicable;Catholic;Strong democrat;Not applicable;White;Widowed;5
+14417;2008;47;Not applicable;Catholic;Not str republican;Not applicable;White;Married;4
+14418;2008;60;United pres ch in us;Protestant;Not str republican;Not applicable;White;Never married;3
+14419;2008;25;Not applicable;None;Ind,near dem;$1000 to 2999;White;Never married;2
+14420;2008;60;Nat bapt conv of am;Protestant;Strong democrat;$25000 or more;Black;Married;6
+14421;2008;59;Other;Protestant;Strong democrat;$25000 or more;White;Married;0
+14422;2008;49;Not applicable;None;Independent;$25000 or more;White;Married;Not applicable
+14423;2008;23;No denomination;Protestant;Strong republican;$25000 or more;White;Never married;2
+14424;2008;42;United methodist;Protestant;Ind,near rep;$25000 or more;White;Married;Not applicable
+14425;2008;24;No denomination;Protestant;Not str republican;$7000 to 7999;White;Married;Not applicable
+14426;2008;22;Not applicable;None;Not str democrat;$7000 to 7999;White;Never married;2
+14427;2008;24;Other;Protestant;Not str republican;$20000 - 24999;White;Never married;Not applicable
+14428;2008;31;Not applicable;None;Not str democrat;Not applicable;White;Married;Not applicable
+14429;2008;27;Not applicable;None;Other party;$20000 - 24999;White;Never married;3
+14430;2008;29;Not applicable;Catholic;Not str republican;$20000 - 24999;White;Never married;2
+14431;2008;38;Not applicable;None;Not str democrat;Not applicable;White;Never married;2
+14432;2008;26;United methodist;Protestant;Not str democrat;$25000 or more;White;Divorced;3
+14433;2008;66;Not applicable;Catholic;Strong republican;$6000 to 6999;White;Married;Not applicable
+14434;2008;51;Not applicable;None;Strong republican;$25000 or more;White;Married;2
+14435;2008;70;Other;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+14436;2008;40;No denomination;Protestant;Not str democrat;$25000 or more;White;Married;Not applicable
+14437;2008;66;Other;Protestant;Not str republican;Not applicable;White;Married;0
+14438;2008;58;Southern baptist;Protestant;Independent;Not applicable;White;Divorced;5
+14439;2008;39;Not applicable;Catholic;Not str republican;$25000 or more;White;Married;1
+14440;2008;78;Not applicable;Catholic;Not str democrat;Not applicable;White;Married;Not applicable
+14441;2008;50;Not applicable;Catholic;Not str democrat;$25000 or more;White;Married;Not applicable
+14442;2008;70;Evangelical luth;Protestant;Independent;Not applicable;White;Widowed;2
+14443;2008;36;United methodist;Protestant;Strong democrat;$20000 - 24999;White;Married;2
+14444;2008;50;United methodist;Protestant;Strong democrat;$25000 or more;White;Married;Not applicable
+14445;2008;64;Not applicable;Catholic;Strong republican;Refused;White;Married;4
+14446;2008;72;Lutheran-mo synod;Protestant;Strong republican;$4000 to 4999;White;Married;Not applicable
+14447;2008;54;Other;Protestant;Not str republican;Refused;White;Married;5
+14448;2008;48;No denomination;Protestant;Not str republican;$25000 or more;White;Never married;1
+14449;2008;89 or older;No denomination;Protestant;Not str republican;Not applicable;White;Widowed;Not applicable
+14450;2008;24;Not applicable;Catholic;Ind,near dem;Not applicable;Other;Never married;4
+14451;2008;20;Other;Protestant;Not str republican;$3000 to 3999;White;Never married;2
+14452;2008;27;Lutheran-dk which;Protestant;Not str republican;$10000 - 14999;White;Never married;1
+14453;2008;36;Lutheran-mo synod;Protestant;Strong democrat;$25000 or more;White;Divorced;1
+14454;2008;31;United methodist;Protestant;Not str democrat;Refused;White;Widowed;3
+14455;2008;31;No denomination;Protestant;Strong republican;$25000 or more;White;Married;3
+14456;2008;40;Other;Protestant;Ind,near rep;Not applicable;White;Married;1
+14457;2008;23;No denomination;Protestant;Not str democrat;Not applicable;White;Married;3
+14458;2008;26;Other;Protestant;Ind,near rep;Not applicable;White;Married;Not applicable
+14459;2008;37;Not applicable;None;Not str republican;$25000 or more;White;Married;Not applicable
+14460;2008;35;Not applicable;Catholic;Independent;$25000 or more;White;Married;3
+14461;2008;58;Not applicable;Catholic;Not str democrat;$7000 to 7999;White;Married;4
+14462;2008;78;Lutheran-dk which;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+14463;2008;55;United methodist;Protestant;Ind,near dem;Not applicable;White;Married;1
+14464;2008;35;United methodist;Protestant;Ind,near rep;$25000 or more;White;Divorced;0
+14465;2008;40;No denomination;Protestant;Independent;$25000 or more;White;Never married;Not applicable
+14466;2008;32;United pres ch in us;Protestant;Strong republican;$25000 or more;White;Widowed;2
+14467;2008;62;Not applicable;Catholic;Ind,near rep;Not applicable;White;Married;Not applicable
+14468;2008;38;Not applicable;Catholic;Independent;Refused;White;Married;2
+14469;2008;72;Am lutheran;Protestant;Strong democrat;Not applicable;White;Widowed;8
+14470;2008;49;No denomination;Christian;Not str republican;$25000 or more;White;Widowed;1
+14471;2008;56;United methodist;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+14472;2008;50;Other;Protestant;Ind,near dem;$25000 or more;White;Married;1
+14473;2008;30;Not applicable;Catholic;Not str democrat;$25000 or more;White;Married;1
+14474;2008;44;Other;Protestant;Not str democrat;$10000 - 14999;White;Married;1
+14475;2008;55;No denomination;Christian;Independent;Not applicable;White;Married;1
+14476;2008;60;Lutheran-dk which;Protestant;Not str democrat;Not applicable;White;Married;10
+14477;2008;84;Not applicable;Catholic;Ind,near dem;$5000 to 5999;White;Widowed;Not applicable
+14478;2008;47;Not applicable;Catholic;Independent;$25000 or more;White;Married;2
+14479;2008;39;Presbyterian c in us;Protestant;Ind,near rep;$25000 or more;White;Never married;Not applicable
+14480;2008;19;Presbyterian-dk wh;Protestant;Other party;$1000 to 2999;White;Married;1
+14481;2008;56;Presbyterian-dk wh;Protestant;Ind,near dem;Not applicable;White;Married;2
+14482;2008;67;Presbyterian c in us;Protestant;Strong democrat;Not applicable;White;Married;8
+14483;2008;54;Lutheran-mo synod;Protestant;Not str republican;$20000 - 24999;White;Married;3
+14484;2008;43;Am lutheran;Protestant;Ind,near rep;$4000 to 4999;White;Married;4
+14485;2008;46;Not applicable;None;Ind,near rep;$25000 or more;White;Married;5
+14486;2008;74;Not applicable;Catholic;Strong democrat;Not applicable;White;Married;4
+14487;2008;61;Lutheran-mo synod;Protestant;Strong democrat;$1000 to 2999;White;Married;6
+14488;2008;62;Other;Protestant;Ind,near dem;Not applicable;White;Divorced;4
+14489;2008;39;Other;Protestant;Other party;$8000 to 9999;White;Divorced;Not applicable
+14490;2008;53;Not applicable;None;Independent;$10000 - 14999;White;Married;2
+14491;2008;72;Not applicable;Catholic;Strong republican;Not applicable;White;Married;Not applicable
+14492;2008;48;Southern baptist;Protestant;Not str republican;$20000 - 24999;White;Divorced;2
+14493;2008;43;No denomination;Protestant;Not str democrat;$20000 - 24999;White;Divorced;0
+14494;2008;71;Presbyterian-dk wh;Protestant;Ind,near dem;$10000 - 14999;White;Never married;Not applicable
+14495;2008;73;Presbyterian-dk wh;Protestant;Ind,near dem;Not applicable;White;Widowed;3
+14496;2008;50;Not applicable;None;Independent;Not applicable;White;Divorced;Not applicable
+14497;2008;21;Not applicable;Catholic;Independent;Don't know;White;Never married;24
+14498;2008;27;Not applicable;None;Independent;Lt $1000;White;Never married;Not applicable
+14499;2008;53;Lutheran-dk which;Protestant;Independent;$15000 - 19999;White;Divorced;Not applicable
+14500;2008;86;No denomination;Protestant;Independent;Not applicable;White;Widowed;Not applicable
+14501;2008;40;Southern baptist;Protestant;Not str democrat;Not applicable;White;Married;3
+14502;2008;49;Not applicable;Catholic;Ind,near rep;$25000 or more;White;Married;2
+14503;2008;63;Other;Protestant;No answer;Not applicable;White;Married;2
+14504;2008;36;Other;Protestant;Independent;Not applicable;White;Separated;Not applicable
+14505;2008;56;Southern baptist;Protestant;Not str democrat;$25000 or more;White;Married;Not applicable
+14506;2008;60;United methodist;Protestant;Ind,near dem;Not applicable;White;Married;2
+14507;2008;57;Southern baptist;Protestant;Strong democrat;$20000 - 24999;White;Married;2
+14508;2008;22;Other;Protestant;Not str republican;Not applicable;White;Married;3
+14509;2008;29;Not applicable;None;Independent;$15000 - 19999;White;Separated;4
+14510;2008;24;Southern baptist;Protestant;Ind,near rep;Not applicable;White;Never married;1
+14511;2008;37;Not applicable;Catholic;Not str democrat;Not applicable;White;Married;Don't know
+14512;2008;62;Not applicable;None;Independent;Not applicable;White;Divorced;9
+14513;2008;60;Southern baptist;Protestant;Not str democrat;No answer;White;Divorced;6
+14514;2008;74;Southern baptist;Protestant;Strong democrat;Not applicable;White;Divorced;6
+14515;2008;68;United methodist;Protestant;Not str republican;$10000 - 14999;White;Divorced;6
+14516;2008;49;Southern baptist;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+14517;2008;66;Southern baptist;Protestant;Not str republican;Not applicable;White;Married;8
+14518;2008;64;United methodist;Protestant;Ind,near dem;Lt $1000;White;Married;Not applicable
+14519;2008;49;United methodist;Protestant;Ind,near dem;$25000 or more;White;Married;3
+14520;2008;47;Not applicable;None;Ind,near dem;$20000 - 24999;White;Married;3
+14521;2008;51;United methodist;Protestant;Ind,near dem;Not applicable;White;Married;Not applicable
+14522;2008;78;Baptist-dk which;Protestant;Strong democrat;Not applicable;White;Widowed;Not applicable
+14523;2008;61;Not applicable;None;Ind,near rep;$25000 or more;White;Married;3
+14524;2008;71;No denomination;Protestant;Not str democrat;Not applicable;White;Married;8
+14525;2008;64;Other;Protestant;Ind,near dem;Refused;White;Married;2
+14526;2008;80;Other;Protestant;Independent;Not applicable;White;Married;Not applicable
+14527;2008;65;Other;Protestant;Not str democrat;Not applicable;White;Married;4
+14528;2008;47;Other;Protestant;Ind,near dem;$25000 or more;White;Married;1
+14529;2008;31;Other;Protestant;Ind,near rep;$25000 or more;White;Married;3
+14530;2008;20;No denomination;Protestant;Not str republican;Not applicable;White;Never married;Not applicable
+14531;2008;41;Other;Protestant;Strong democrat;$25000 or more;White;Divorced;1
+14532;2008;35;Not applicable;None;Ind,near dem;$25000 or more;White;Never married;3
+14533;2008;35;Baptist-dk which;Protestant;Strong democrat;Not applicable;White;Divorced;Not applicable
+14534;2008;72;No denomination;Protestant;Strong democrat;$20000 - 24999;White;Married;1
+14535;2008;55;No denomination;Protestant;Strong democrat;$15000 - 19999;White;Married;1
+14536;2008;26;Not applicable;None;Not str republican;$25000 or more;White;Married;3
+14537;2008;34;No denomination;Protestant;Independent;$25000 or more;White;Married;2
+14538;2008;54;Baptist-dk which;Protestant;Not str democrat;$25000 or more;White;Married;2
+14539;2008;79;United methodist;Protestant;Not str democrat;Not applicable;White;Widowed;Not applicable
+14540;2008;26;No denomination;Christian;Other party;$20000 - 24999;White;Never married;Not applicable
+14541;2008;31;No denomination;Protestant;Ind,near dem;$25000 or more;White;Married;Not applicable
+14542;2008;63;Not applicable;None;Independent;Not applicable;White;Married;5
+14543;2008;25;Not applicable;None;Not str democrat;$15000 - 19999;White;Married;5
+14544;2008;22;Not applicable;None;Ind,near dem;Not applicable;White;Never married;10
+14545;2008;24;Not applicable;None;Not str democrat;Not applicable;White;Never married;4
+14546;2008;47;Southern baptist;Protestant;Not str democrat;$25000 or more;White;Married;Not applicable
+14547;2008;72;Other baptists;Protestant;Strong republican;Not applicable;White;Married;1
+14548;2008;75;Not applicable;None;Strong democrat;Not applicable;White;Widowed;2
+14549;2008;31;Not applicable;None;Strong democrat;$20000 - 24999;White;Married;4
+14550;2008;57;Southern baptist;Protestant;Strong democrat;Not applicable;White;Married;3
+14551;2008;30;Not applicable;None;Independent;Not applicable;White;Never married;Not applicable
+14552;2008;52;Not applicable;Catholic;Strong democrat;$25000 or more;White;Married;2
+14553;2008;70;Not applicable;Catholic;Strong republican;Not applicable;White;Never married;6
+14554;2008;89 or older;Not applicable;Catholic;Not str democrat;Not applicable;White;Widowed;8
+14555;2008;55;Methodist-dk which;Protestant;Independent;Not applicable;White;Married;Not applicable
+14556;2008;49;Not applicable;None;Strong republican;Refused;White;Married;Not applicable
+14557;2008;57;Baptist-dk which;Protestant;Strong republican;Not applicable;White;Married;3
+14558;2008;45;Wi evan luth synod;Protestant;Independent;Not applicable;White;Married;1
+14559;2008;40;Not applicable;Catholic;Not str republican;$25000 or more;White;Married;Not applicable
+14560;2008;74;Not applicable;Catholic;Independent;Lt $1000;White;Widowed;Not applicable
+14561;2008;65;Evangelical luth;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+14562;2008;37;Wi evan luth synod;Protestant;Not str democrat;$25000 or more;White;Divorced;Not applicable
+14563;2008;75;Other;Protestant;Ind,near dem;Not applicable;White;Widowed;6
+14564;2008;22;Lutheran-dk which;Protestant;Not str democrat;Lt $1000;White;Never married;2
+14565;2008;47;Other;Protestant;Independent;$25000 or more;White;Divorced;0
+14566;2008;29;Other;Protestant;Not str republican;$25000 or more;White;Married;3
+14567;2008;53;Not applicable;Catholic;Ind,near dem;$25000 or more;White;Married;Not applicable
+14568;2008;43;Wi evan luth synod;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+14569;2008;54;Not applicable;Catholic;Strong democrat;$5000 to 5999;White;Married;Not applicable
+14570;2008;64;Not applicable;Catholic;Independent;$20000 - 24999;White;Divorced;Not applicable
+14571;2008;60;Baptist-dk which;Protestant;Independent;Not applicable;White;Married;Not applicable
+14572;2008;36;Baptist-dk which;Protestant;Not str democrat;$25000 or more;Black;Never married;Not applicable
+14573;2008;31;Not applicable;None;Ind,near dem;$25000 or more;White;Never married;4
+14574;2008;56;No denomination;Protestant;Ind,near rep;Not applicable;White;Divorced;15
+14575;2008;34;Southern baptist;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+14576;2008;47;Baptist-dk which;Protestant;Strong republican;$25000 or more;White;Divorced;4
+14577;2008;38;Other;Protestant;Strong republican;$25000 or more;White;Divorced;1
+14578;2008;47;Baptist-dk which;Protestant;Strong democrat;$25000 or more;Black;Married;3
+14579;2008;65;Baptist-dk which;Protestant;Ind,near rep;$6000 to 6999;White;Married;Not applicable
+14580;2008;51;Baptist-dk which;Protestant;Independent;Not applicable;White;Divorced;5
+14581;2008;66;Southern baptist;Protestant;Independent;Not applicable;White;Married;Not applicable
+14582;2008;81;No denomination;Protestant;Not str republican;$10000 - 14999;White;Married;0
+14583;2008;63;Baptist-dk which;Protestant;Not str republican;Not applicable;White;Married;4
+14584;2008;54;Other;Protestant;Strong democrat;Not applicable;White;Married;3
+14585;2008;51;Other;Protestant;Not str republican;$25000 or more;White;Married;6
+14586;2008;21;Am baptist asso;Protestant;Strong republican;$3000 to 3999;Black;Never married;2
+14587;2008;21;Not applicable;None;Independent;$20000 - 24999;Black;Never married;4
+14588;2008;31;Am baptist asso;Protestant;Independent;$5000 to 5999;White;Divorced;Not applicable
+14589;2008;52;Baptist-dk which;Protestant;Independent;Not applicable;White;Never married;5
+14590;2008;19;Southern baptist;Protestant;Independent;Not applicable;White;Never married;0
+14591;2008;24;Not applicable;None;Ind,near dem;$15000 - 19999;White;Never married;Not applicable
+14592;2008;74;Baptist-dk which;Protestant;Strong democrat;Not applicable;White;Divorced;5
+14593;2008;51;Evangelical luth;Protestant;Not str democrat;$20000 - 24999;White;Separated;Not applicable
+14594;2008;50;United methodist;Protestant;Independent;Refused;White;Married;3
+14595;2008;35;Other;Protestant;Independent;$25000 or more;White;Married;Not applicable
+14596;2008;67;United methodist;Protestant;Strong democrat;Not applicable;White;Married;1
+14597;2008;29;Not applicable;Catholic;Ind,near dem;$10000 - 14999;White;Never married;4
+14598;2008;52;Southern baptist;Protestant;Not str republican;Not applicable;White;Married;6
+14599;2008;35;No denomination;Protestant;Strong democrat;Not applicable;Black;Married;5
+14600;2008;87;Southern baptist;Protestant;Independent;Not applicable;White;Widowed;Not applicable
+14601;2008;54;Other;Protestant;Ind,near rep;Not applicable;White;Widowed;Not applicable
+14602;2008;44;Southern baptist;Protestant;Strong democrat;$25000 or more;White;Never married;Not applicable
+14603;2008;55;Southern baptist;Protestant;Independent;$25000 or more;White;Married;Not applicable
+14604;2008;66;Not applicable;None;Independent;Not applicable;White;Married;Not applicable
+14605;2008;69;Other;Protestant;Ind,near dem;Not applicable;White;Divorced;6
+14606;2008;56;Baptist-dk which;Protestant;Independent;Not applicable;White;Separated;Not applicable
+14607;2008;49;Don't know;Protestant;Ind,near rep;$25000 or more;White;Divorced;3
+14608;2008;46;Other;Protestant;Not str republican;$20000 - 24999;White;Married;1
+14609;2008;50;Southern baptist;Protestant;Ind,near rep;$25000 or more;White;Married;2
+14610;2008;66;Other;Protestant;Independent;Not applicable;White;Married;3
+14611;2008;19;Southern baptist;Protestant;Ind,near dem;$10000 - 14999;White;Never married;0
+14612;2008;58;Southern baptist;Protestant;Strong democrat;$4000 to 4999;White;Married;4
+14613;2008;48;Southern baptist;Protestant;Ind,near dem;$15000 - 19999;White;Never married;3
+14614;2008;71;Don't know;Protestant;Strong democrat;Not applicable;White;Widowed;24
+14615;2008;31;Baptist-dk which;Protestant;Ind,near dem;Not applicable;White;Married;2
+14616;2008;66;Other;Protestant;Ind,near dem;Not applicable;White;Widowed;4
+14617;2008;45;Not applicable;Native american;Not str democrat;$25000 or more;White;Divorced;5
+14618;2008;69;Southern baptist;Protestant;Not str republican;Not applicable;White;Married;4
+14619;2008;49;Methodist-dk which;Protestant;Not str democrat;Refused;White;Married;2
+14620;2008;68;Southern baptist;Protestant;Not str republican;Refused;White;Separated;Not applicable
+14621;2008;55;Baptist-dk which;Protestant;Independent;$15000 - 19999;White;Married;Not applicable
+14622;2008;59;Baptist-dk which;Protestant;Ind,near rep;Refused;White;Married;1
+14623;2008;36;Baptist-dk which;Protestant;Strong democrat;Not applicable;White;Married;1
+14624;2008;21;Baptist-dk which;Protestant;Strong republican;No answer;White;Never married;1
+14625;2008;21;Baptist-dk which;Protestant;Not str democrat;Not applicable;White;Married;3
+14626;2008;80;Baptist-dk which;Protestant;Not str democrat;Not applicable;White;Married;Not applicable
+14627;2008;51;Baptist-dk which;Protestant;Independent;Not applicable;White;Divorced;Not applicable
+14628;2008;66;United methodist;Protestant;Ind,near rep;$25000 or more;White;Married;3
+14629;2008;62;Baptist-dk which;Protestant;Not str republican;Not applicable;White;Widowed;Not applicable
+14630;2008;50;No denomination;Christian;Ind,near dem;Not applicable;White;Married;Not applicable
+14631;2008;76;Southern baptist;Protestant;Strong republican;Don't know;White;Divorced;3
+14632;2008;49;Other;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+14633;2008;44;Lutheran-dk which;Protestant;Strong republican;$25000 or more;White;Divorced;1
+14634;2008;37;Episcopal;Protestant;Strong democrat;$5000 to 5999;White;Married;1
+14635;2008;59;No denomination;Christian;Not str republican;$25000 or more;White;Married;Not applicable
+14636;2008;52;Episcopal;Protestant;Not str republican;$25000 or more;White;Divorced;Not applicable
+14637;2008;82;Not applicable;Catholic;Strong republican;Not applicable;White;Widowed;Not applicable
+14638;2008;67;Not applicable;None;Ind,near rep;Not applicable;White;Married;3
+14639;2008;47;No denomination;Protestant;Not str republican;$25000 or more;White;Married;1
+14640;2008;44;Southern baptist;Protestant;Strong democrat;Not applicable;White;Married;3
+14641;2008;56;Not applicable;None;Ind,near dem;$25000 or more;White;Married;4
+14642;2008;41;Southern baptist;Protestant;Ind,near rep;$25000 or more;White;Married;0
+14643;2008;50;Not applicable;None;Ind,near dem;$25000 or more;White;Married;1
+14644;2008;81;Baptist-dk which;Protestant;Strong democrat;$1000 to 2999;White;Married;1
+14645;2008;68;Methodist-dk which;Protestant;Independent;Not applicable;White;Divorced;1
+14646;2008;44;Lutheran-mo synod;Protestant;Strong republican;$25000 or more;White;Married;1
+14647;2008;51;Am lutheran;Protestant;Strong republican;Not applicable;White;Married;4
+14648;2008;36;Not applicable;Orthodox-christian;Not str republican;Refused;White;Married;3
+14649;2008;47;Other;Protestant;Independent;$25000 or more;White;Divorced;1
+14650;2008;43;Am baptist asso;Protestant;Not str republican;$20000 - 24999;White;Married;2
+14651;2008;60;Afr meth episcopal;Protestant;Independent;No answer;Black;Widowed;Don't know
+14652;2008;52;Southern baptist;Protestant;Not str republican;$25000 or more;White;Married;Not applicable
+14653;2008;40;United pres ch in us;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+14654;2008;70;Nat bapt conv of am;Protestant;Not str republican;Not applicable;White;Widowed;6
+14655;2008;57;Other;Protestant;Strong democrat;No answer;White;Divorced;3
+14656;2008;41;Southern baptist;Protestant;Ind,near rep;$20000 - 24999;White;Married;1
+14657;2008;34;Baptist-dk which;Protestant;Ind,near dem;$25000 or more;Black;Divorced;3
+14658;2008;28;Other;Protestant;Not str republican;No answer;White;Divorced;3
+14659;2008;48;Baptist-dk which;Protestant;Not str democrat;No answer;White;Divorced;3
+14660;2008;22;Southern baptist;Protestant;Ind,near rep;$20000 - 24999;White;Married;1
+14661;2008;22;Southern baptist;Protestant;Ind,near dem;Not applicable;White;Married;1
+14662;2008;48;Am baptist asso;Protestant;Strong democrat;No answer;Black;Never married;3
+14663;2008;67;Am baptist asso;Protestant;Not str democrat;Not applicable;White;Married;1
+14664;2008;55;Other;Protestant;Not str republican;$20000 - 24999;White;Married;Not applicable
+14665;2008;37;Am bapt ch in usa;Protestant;Strong democrat;$10000 - 14999;Black;Separated;Not applicable
+14666;2008;64;Am bapt ch in usa;Protestant;Strong democrat;Not applicable;Black;Married;Not applicable
+14667;2008;46;Baptist-dk which;Protestant;Independent;Not applicable;Black;Divorced;Not applicable
+14668;2008;68;Baptist-dk which;Protestant;Strong democrat;Not applicable;Black;Separated;3
+14669;2008;45;Baptist-dk which;Protestant;Strong democrat;No answer;Black;Married;5
+14670;2008;70;United methodist;Protestant;Strong republican;Not applicable;White;Married;4
+14671;2008;30;Not applicable;Catholic;Not str republican;$15000 - 19999;Other;Married;8
+14672;2008;55;Southern baptist;Protestant;Independent;No answer;White;Divorced;8
+14673;2008;52;Southern baptist;Protestant;Not str democrat;$25000 or more;White;Married;5
+14674;2008;34;No denomination;Christian;Not str republican;$25000 or more;White;Married;0
+14675;2008;65;Southern baptist;Protestant;Strong republican;Not applicable;White;Divorced;8
+14676;2008;53;Other;Protestant;Ind,near dem;$20000 - 24999;White;Married;10
+14677;2008;55;No denomination;Protestant;Ind,near rep;Not applicable;White;Divorced;5
+14678;2008;63;Baptist-dk which;Protestant;Not str republican;$8000 to 9999;White;Married;Not applicable
+14679;2008;65;Southern baptist;Protestant;Strong republican;$25000 or more;White;Married;6
+14680;2008;28;Southern baptist;Protestant;Independent;$1000 to 2999;White;Divorced;1
+14681;2008;36;Southern baptist;Protestant;Strong republican;$25000 or more;White;Married;Not applicable
+14682;2008;81;Southern baptist;Protestant;Strong democrat;Not applicable;Black;Widowed;8
+14683;2008;28;Southern baptist;Protestant;Not str democrat;$25000 or more;Black;Never married;6
+14684;2008;57;Baptist-dk which;Protestant;Strong democrat;Not applicable;Black;Married;Not applicable
+14685;2008;53;Other;Protestant;Not str democrat;$10000 - 14999;White;Married;5
+14686;2008;67;Southern baptist;Protestant;Strong republican;Not applicable;White;Married;Not applicable
+14687;2008;66;Nat bapt conv of am;Protestant;Strong democrat;Not applicable;Black;Separated;10
+14688;2008;29;No denomination;Christian;Ind,near dem;$1000 to 2999;Black;Married;1
+14689;2008;77;Other;Protestant;Not str republican;Not applicable;White;Married;Not applicable
+14690;2008;57;Not applicable;Catholic;Not str democrat;$25000 or more;White;Never married;3
+14691;2008;19;Baptist-dk which;Protestant;Independent;Not applicable;Black;Never married;Not applicable
+14692;2008;57;Not applicable;Catholic;Ind,near rep;$25000 or more;White;Never married;Not applicable
+14693;2008;67;Southern baptist;Protestant;Strong democrat;Not applicable;Black;Widowed;5
+14694;2008;65;Other;Protestant;Not str democrat;Not applicable;Black;Never married;Not applicable
+14695;2008;58;Other;Protestant;Independent;$8000 to 9999;Black;Divorced;4
+14696;2008;35;Not applicable;Catholic;Strong democrat;$25000 or more;White;Married;2
+14697;2008;29;Southern baptist;Protestant;Not str democrat;Not applicable;Black;Married;5
+14698;2008;24;No denomination;Christian;Not str democrat;$1000 to 2999;Black;Never married;Not applicable
+14699;2008;30;Southern baptist;Protestant;Not str democrat;Not applicable;White;Never married;1
+14700;2008;56;Not applicable;Catholic;Not str democrat;Not applicable;White;Married;3

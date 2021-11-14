@@ -1,0 +1,301 @@
+obs;tvhours;tvhours;partyid;race;marital
+3901;1;1;Not str republican;Other;Married
+3902;Not applicable;Not applicable;Not str republican;White;Married
+3903;Not applicable;Not applicable;Independent;White;Divorced
+3904;Not applicable;Not applicable;Ind,near dem;White;Married
+3905;7;7;Ind,near rep;White;Married
+3906;3;3;Not str democrat;Black;Married
+3907;Not applicable;Not applicable;Not str republican;White;Married
+3908;Not applicable;Not applicable;Not str republican;White;Married
+3909;Not applicable;Not applicable;Not str republican;White;Married
+3910;Not applicable;Not applicable;No answer;Other;Married
+3911;2;2;Not str republican;White;Married
+3912;3;3;Not str republican;White;Married
+3913;Not applicable;Not applicable;Strong republican;White;Married
+3914;Not applicable;Not applicable;Not str republican;White;Married
+3915;Not applicable;Not applicable;Strong democrat;White;Married
+3916;Not applicable;Not applicable;Independent;White;Married
+3917;Not applicable;Not applicable;Strong democrat;White;Married
+3918;Not applicable;Not applicable;Not str republican;White;Married
+3919;8;8;Strong democrat;White;Widowed
+3920;2;2;Ind,near dem;White;Divorced
+3921;Not applicable;Not applicable;Independent;White;Never married
+3922;Not applicable;Not applicable;Strong republican;White;Never married
+3923;Not applicable;Not applicable;Ind,near dem;White;Divorced
+3924;Not applicable;Not applicable;Strong republican;White;Widowed
+3925;Not applicable;Not applicable;Strong democrat;White;Married
+3926;Not applicable;Not applicable;Strong democrat;White;Divorced
+3927;Not applicable;Not applicable;Strong democrat;White;Divorced
+3928;5;5;Strong republican;White;Divorced
+3929;5;5;Not str republican;White;Never married
+3930;Not applicable;Not applicable;Independent;White;Divorced
+3931;Not applicable;Not applicable;Not str republican;White;Married
+3932;2;2;Strong democrat;White;Widowed
+3933;6;6;Independent;White;Divorced
+3934;Not applicable;Not applicable;Independent;White;Never married
+3935;Not applicable;Not applicable;Ind,near dem;Black;Never married
+3936;Not applicable;Not applicable;Not str democrat;White;Married
+3937;2;2;Strong republican;White;Divorced
+3938;2;2;Not str democrat;White;Married
+3939;Not applicable;Not applicable;Independent;White;Never married
+3940;Not applicable;Not applicable;Not str democrat;White;Never married
+3941;Not applicable;Not applicable;Strong republican;White;Married
+3942;Not applicable;Not applicable;Strong republican;White;Never married
+3943;4;4;Independent;Black;Never married
+3944;Not applicable;Not applicable;Independent;White;Married
+3945;Not applicable;Not applicable;Not str democrat;White;Married
+3946;1;1;Ind,near rep;White;Never married
+3947;1;1;Strong republican;White;Married
+3948;Not applicable;Not applicable;Not str democrat;Black;Married
+3949;Not applicable;Not applicable;Independent;White;Married
+3950;Not applicable;Not applicable;Strong democrat;White;Married
+3951;Not applicable;Not applicable;Not str republican;White;Married
+3952;Not applicable;Not applicable;No answer;White;Married
+3953;8;8;Independent;White;Married
+3954;3;3;Independent;Other;Married
+3955;Not applicable;Not applicable;Independent;White;Married
+3956;Not applicable;Not applicable;Independent;White;Married
+3957;Not applicable;Not applicable;Independent;White;Married
+3958;5;5;Strong republican;White;Divorced
+3959;Not applicable;Not applicable;Other party;White;Married
+3960;Not applicable;Not applicable;Not str democrat;White;Never married
+3961;6;6;Strong democrat;Black;Never married
+3962;Not applicable;Not applicable;Strong democrat;White;Widowed
+3963;Not applicable;Not applicable;Ind,near rep;White;Widowed
+3964;Not applicable;Not applicable;Strong republican;White;Never married
+3965;2;2;Ind,near rep;White;Never married
+3966;24;24;Independent;White;Never married
+3967;Not applicable;Not applicable;Not str democrat;White;Never married
+3968;0;0;Independent;White;Never married
+3969;Not applicable;Not applicable;Not str democrat;White;Married
+3970;Not applicable;Not applicable;Strong republican;White;Never married
+3971;4;4;Ind,near rep;White;Married
+3972;Not applicable;Not applicable;Not str republican;White;Never married
+3973;Not applicable;Not applicable;Independent;White;Never married
+3974;Not applicable;Not applicable;Independent;White;Divorced
+3975;Not applicable;Not applicable;Not str republican;White;Married
+3976;Not applicable;Not applicable;Strong democrat;White;Married
+3977;Not applicable;Not applicable;Not str republican;White;Widowed
+3978;5;5;Not str republican;White;Widowed
+3979;3;3;Independent;White;Married
+3980;Not applicable;Not applicable;Not str democrat;White;Widowed
+3981;Not applicable;Not applicable;Strong democrat;White;Married
+3982;Not applicable;Not applicable;Not str democrat;White;Widowed
+3983;2;2;Not str democrat;White;Never married
+3984;2;2;Not str democrat;White;Widowed
+3985;Not applicable;Not applicable;Not str democrat;White;Married
+3986;Not applicable;Not applicable;Not str republican;White;Widowed
+3987;Not applicable;Not applicable;Ind,near rep;White;Never married
+3988;Not applicable;Not applicable;Not str republican;White;Married
+3989;Not applicable;Not applicable;Strong democrat;White;Married
+3990;Not applicable;Not applicable;Ind,near dem;White;Never married
+3991;Not applicable;Not applicable;Independent;White;Married
+3992;Not applicable;Not applicable;Not str democrat;Other;Married
+3993;11;11;Independent;White;Married
+3994;Not applicable;Not applicable;Strong democrat;White;Married
+3995;Not applicable;Not applicable;Not str democrat;White;Divorced
+3996;Not applicable;Not applicable;No answer;Other;Separated
+3997;11;11;Independent;White;Never married
+3998;Not applicable;Not applicable;Strong democrat;White;Widowed
+3999;Not applicable;Not applicable;Independent;White;Married
+4000;2;2;Strong democrat;White;Widowed
+4001;3;3;Strong democrat;White;Never married
+4002;Not applicable;Not applicable;Independent;White;Married
+4003;Not applicable;Not applicable;Independent;White;Married
+4004;0;0;Ind,near rep;White;Never married
+4005;3;3;Ind,near rep;White;Married
+4006;Not applicable;Not applicable;Independent;White;Married
+4007;0;0;Not str republican;White;Never married
+4008;2;2;Ind,near rep;White;Married
+4009;Not applicable;Not applicable;Strong republican;White;Divorced
+4010;Not applicable;Not applicable;Not str democrat;White;Widowed
+4011;Not applicable;Not applicable;Strong democrat;White;Widowed
+4012;Not applicable;Not applicable;Strong democrat;White;Never married
+4013;Not applicable;Not applicable;Not str republican;White;Divorced
+4014;1;1;No answer;Other;Never married
+4015;1;1;Independent;White;Never married
+4016;Not applicable;Not applicable;Ind,near rep;White;Married
+4017;Not applicable;Not applicable;Not str republican;White;Widowed
+4018;Not applicable;Not applicable;Strong democrat;White;Married
+4019;5;5;Not str republican;White;Divorced
+4020;2;2;Ind,near dem;White;Never married
+4021;Not applicable;Not applicable;Not str republican;White;Never married
+4022;Not applicable;Not applicable;Ind,near dem;White;Married
+4023;3;3;Strong republican;White;Widowed
+4024;3;3;Independent;Other;Separated
+4025;Not applicable;Not applicable;Strong republican;White;Married
+4026;Not applicable;Not applicable;Independent;Black;Married
+4027;Not applicable;Not applicable;Independent;Other;Married
+4028;Not applicable;Not applicable;Strong republican;White;Married
+4029;Not applicable;Not applicable;Independent;White;Never married
+4030;1;1;Ind,near dem;Other;Married
+4031;Not applicable;Not applicable;Not str democrat;White;Married
+4032;Not applicable;Not applicable;Not str democrat;Black;Married
+4033;3;3;Ind,near dem;White;Never married
+4034;1;1;Ind,near rep;White;Married
+4035;Not applicable;Not applicable;Not str republican;White;Divorced
+4036;Not applicable;Not applicable;Not str republican;White;Never married
+4037;2;2;Strong democrat;White;Married
+4038;Not applicable;Not applicable;Strong democrat;White;Married
+4039;2;2;Not str democrat;White;Never married
+4040;5;5;Independent;Black;Never married
+4041;Not applicable;Not applicable;Strong democrat;Black;Separated
+4042;Not applicable;Not applicable;Not str democrat;Black;Married
+4043;Not applicable;Not applicable;Independent;Black;Married
+4044;Not applicable;Not applicable;Not str republican;White;Married
+4045;Not applicable;Not applicable;Not str republican;White;Married
+4046;2;2;Strong democrat;White;Widowed
+4047;3;3;Not str democrat;White;Married
+4048;2;2;Ind,near rep;White;Married
+4049;Not applicable;Not applicable;Strong republican;White;Married
+4050;Not applicable;Not applicable;Not str democrat;Black;Divorced
+4051;Not applicable;Not applicable;Ind,near rep;White;Divorced
+4052;Not applicable;Not applicable;Strong democrat;White;Married
+4053;1;1;Strong republican;White;Married
+4054;Not applicable;Not applicable;Not str democrat;White;Never married
+4055;Not applicable;Not applicable;Not str republican;White;Never married
+4056;Not applicable;Not applicable;No answer;White;Divorced
+4057;4;4;Strong republican;Other;Never married
+4058;3;3;Not str republican;White;Married
+4059;Not applicable;Not applicable;Ind,near rep;White;Married
+4060;Not applicable;Not applicable;Ind,near dem;White;Never married
+4061;Not applicable;Not applicable;Strong republican;White;Married
+4062;Not applicable;Not applicable;Ind,near rep;White;Married
+4063;Not applicable;Not applicable;Not str republican;White;Married
+4064;1;1;Not str republican;White;Married
+4065;5;5;Not str democrat;White;Married
+4066;Not applicable;Not applicable;Not str democrat;White;Divorced
+4067;Not applicable;Not applicable;Not str republican;White;Married
+4068;Not applicable;Not applicable;Strong republican;White;Separated
+4069;Not applicable;Not applicable;Ind,near dem;White;Divorced
+4070;Not applicable;Not applicable;Not str republican;Black;Married
+4071;Not applicable;Not applicable;Other party;White;Never married
+4072;Not applicable;Not applicable;Strong republican;White;Divorced
+4073;Not applicable;Not applicable;Strong democrat;Black;Divorced
+4074;3;3;Not str democrat;Black;Married
+4075;Not applicable;Not applicable;Independent;Black;Never married
+4076;Not applicable;Not applicable;Strong democrat;Black;Married
+4077;6;6;Strong democrat;Black;Never married
+4078;Not applicable;Not applicable;Not str democrat;Black;Divorced
+4079;Not applicable;Not applicable;Strong democrat;Black;Married
+4080;Not applicable;Not applicable;Not str republican;Black;Divorced
+4081;Not applicable;Not applicable;Not str democrat;Black;Never married
+4082;Not applicable;Not applicable;Strong democrat;Black;Divorced
+4083;4;4;Ind,near dem;Black;Divorced
+4084;0;0;Ind,near rep;White;Divorced
+4085;Not applicable;Not applicable;Strong democrat;Black;Widowed
+4086;Not applicable;Not applicable;Independent;White;Widowed
+4087;Not applicable;Not applicable;Independent;White;Married
+4088;9;9;Strong democrat;Black;Never married
+4089;Not applicable;Not applicable;Not str republican;White;Widowed
+4090;Not applicable;Not applicable;Strong republican;White;Married
+4091;Not applicable;Not applicable;Strong republican;White;Married
+4092;Not applicable;Not applicable;Independent;White;Never married
+4093;3;3;Strong democrat;Black;Never married
+4094;3;3;Independent;White;Separated
+4095;Not applicable;Not applicable;Not str democrat;White;Divorced
+4096;Not applicable;Not applicable;Independent;Black;Never married
+4097;3;3;Not str democrat;Black;Never married
+4098;Not applicable;Not applicable;Ind,near rep;White;Never married
+4099;Not applicable;Not applicable;Not str democrat;White;Married
+4100;2;2;Strong republican;White;Never married
+4101;8;8;Strong democrat;White;Widowed
+4102;Not applicable;Not applicable;Independent;White;Married
+4103;Not applicable;Not applicable;Independent;White;Never married
+4104;Not applicable;Not applicable;Strong republican;White;Never married
+4105;Not applicable;Not applicable;Independent;White;Never married
+4106;4;4;Strong republican;White;Never married
+4107;Not applicable;Not applicable;Strong democrat;White;Married
+4108;Not applicable;Not applicable;Not str democrat;White;Never married
+4109;Not applicable;Not applicable;Independent;Black;Married
+4110;1;1;Strong republican;White;Divorced
+4111;4;4;Strong democrat;Black;Divorced
+4112;Not applicable;Not applicable;Strong democrat;White;Never married
+4113;Not applicable;Not applicable;Not str republican;White;Married
+4114;3;3;Independent;White;Never married
+4115;Not applicable;Not applicable;Ind,near dem;White;Separated
+4116;Not applicable;Not applicable;Ind,near rep;White;Married
+4117;1;1;Strong republican;White;Married
+4118;2;2;Ind,near rep;White;Separated
+4119;Not applicable;Not applicable;Not str republican;White;Divorced
+4120;Not applicable;Not applicable;Strong democrat;Black;Married
+4121;Not applicable;Not applicable;Independent;White;Married
+4122;Not applicable;Not applicable;Not str republican;White;Married
+4123;0;0;Ind,near dem;Other;Married
+4124;Not applicable;Not applicable;Ind,near rep;White;Married
+4125;Not applicable;Not applicable;Ind,near rep;White;Divorced
+4126;Not applicable;Not applicable;Independent;White;Married
+4127;3;3;Not str democrat;White;Never married
+4128;Not applicable;Not applicable;Independent;White;Never married
+4129;Not applicable;Not applicable;No answer;Black;Married
+4130;Not applicable;Not applicable;Ind,near dem;White;Never married
+4131;3;3;Independent;White;Married
+4132;Not applicable;Not applicable;Not str democrat;White;Separated
+4133;Not applicable;Not applicable;Strong democrat;Black;Never married
+4134;Not applicable;Not applicable;Independent;White;Divorced
+4135;6;6;Not str democrat;White;Never married
+4136;Not applicable;Not applicable;Not str democrat;Black;Never married
+4137;Not applicable;Not applicable;Independent;White;Married
+4138;1;1;Other party;White;Married
+4139;1;1;Not str democrat;White;Never married
+4140;Not applicable;Not applicable;Strong democrat;White;Married
+4141;Not applicable;Not applicable;Strong republican;White;Never married
+4142;1;1;Independent;White;Never married
+4143;5;5;Strong democrat;White;Never married
+4144;Not applicable;Not applicable;Not str democrat;White;Divorced
+4145;3;3;Independent;White;Never married
+4146;Not applicable;Not applicable;Not str democrat;White;Divorced
+4147;Not applicable;Not applicable;Ind,near dem;White;Divorced
+4148;Not applicable;Not applicable;Not str republican;White;Married
+4149;12;12;Independent;White;Never married
+4150;2;2;Independent;White;Married
+4151;Not applicable;Not applicable;Not str democrat;White;Never married
+4152;Not applicable;Not applicable;Not str republican;White;Divorced
+4153;Not applicable;Not applicable;Not str democrat;White;Divorced
+4154;1;1;Not str democrat;White;Married
+4155;Not applicable;Not applicable;Not str republican;White;Married
+4156;Not applicable;Not applicable;Not str democrat;White;Widowed
+4157;Not applicable;Not applicable;Not str republican;White;Never married
+4158;Not applicable;Not applicable;Not str republican;White;Married
+4159;Not applicable;Not applicable;Not str democrat;White;Divorced
+4160;Not applicable;Not applicable;Independent;White;Never married
+4161;2;2;Independent;Black;Never married
+4162;3;3;Not str democrat;Black;Divorced
+4163;Not applicable;Not applicable;Strong democrat;White;Married
+4164;Not applicable;Not applicable;Ind,near dem;White;Never married
+4165;Not applicable;Not applicable;Strong democrat;Black;Never married
+4166;Not applicable;Not applicable;No answer;Black;Never married
+4167;6;6;Ind,near rep;Black;Never married
+4168;2;2;No answer;Black;Never married
+4169;Not applicable;Not applicable;Strong democrat;White;Separated
+4170;Not applicable;Not applicable;Not str republican;White;Married
+4171;Not applicable;Not applicable;Strong democrat;White;Married
+4172;2;2;Independent;White;Married
+4173;Not applicable;Not applicable;Not str democrat;White;Widowed
+4174;Not applicable;Not applicable;Not str republican;White;Married
+4175;1;1;Not str republican;White;Married
+4176;Not applicable;Not applicable;Not str republican;White;Widowed
+4177;Not applicable;Not applicable;Not str democrat;White;Married
+4178;2;2;Not str republican;White;Married
+4179;1;1;Strong democrat;White;Married
+4180;Not applicable;Not applicable;Not str democrat;White;Divorced
+4181;Not applicable;Not applicable;Not str democrat;White;Married
+4182;Not applicable;Not applicable;Not str republican;White;Divorced
+4183;Not applicable;Not applicable;Not str democrat;Black;Widowed
+4184;Not applicable;Not applicable;Not str republican;White;Divorced
+4185;2;2;Independent;White;Married
+4186;Not applicable;Not applicable;Independent;White;Married
+4187;Not applicable;Not applicable;Independent;White;Married
+4188;Not applicable;Not applicable;Strong democrat;White;Divorced
+4189;Not applicable;Not applicable;Strong republican;White;Divorced
+4190;2;2;Not str democrat;White;Married
+4191;2;2;Not str democrat;White;Divorced
+4192;Not applicable;Not applicable;Independent;White;Married
+4193;Not applicable;Not applicable;Strong republican;White;Widowed
+4194;Not applicable;Not applicable;Not str democrat;White;Married
+4195;Not applicable;Not applicable;Strong democrat;Black;Married
+4196;Not applicable;Not applicable;Ind,near dem;White;Married
+4197;Not applicable;Not applicable;Strong democrat;White;Married
+4198;4;4;Not str democrat;White;Never married
+4199;Not applicable;Not applicable;Not str democrat;Black;Widowed
+4200;Not applicable;Not applicable;Independent;White;Never married

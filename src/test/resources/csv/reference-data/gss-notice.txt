@@ -1,0 +1,4 @@
+NOTE: gss-append.csv and gss-merge.csv contain GSS data extracted with the GSS Data Explorer (https://gssdataexplorer.norc.org/).
+Years covered: 2000-2014
+Variables: year, age, denom, relig, partyid, rincome, race, marital, tvhours
+Added variable: obs (observation identifier)

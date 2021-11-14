@@ -1,0 +1,301 @@
+obs;denom;rincome;denom;marital;relig
+9601;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9602;United pres ch in us;$15000 - 19999;United pres ch in us;Married;Protestant
+9603;Luth ch in america;Not applicable;Luth ch in america;Married;Protestant
+9604;Not applicable;Not applicable;Not applicable;Widowed;Catholic
+9605;No denomination;$25000 or more;No denomination;Divorced;Christian
+9606;Not applicable;$25000 or more;Not applicable;Divorced;Other
+9607;Not applicable;Not applicable;Not applicable;Married;Catholic
+9608;Am lutheran;Not applicable;Am lutheran;Married;Protestant
+9609;No denomination;$25000 or more;No denomination;Never married;Christian
+9610;Other;$10000 - 14999;Other;Never married;Protestant
+9611;Not applicable;Not applicable;Not applicable;Married;Catholic
+9612;Am lutheran;$25000 or more;Am lutheran;Divorced;Protestant
+9613;Baptist-dk which;Not applicable;Baptist-dk which;Never married;Protestant
+9614;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9615;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9616;No denomination;$25000 or more;No denomination;Divorced;Protestant
+9617;Other;Not applicable;Other;Married;Protestant
+9618;No answer;Not applicable;No answer;Widowed;No answer
+9619;No denomination;$25000 or more;No denomination;Married;Protestant
+9620;Other baptists;Not applicable;Other baptists;Married;Protestant
+9621;Luth ch in america;Not applicable;Luth ch in america;Married;Protestant
+9622;No denomination;$25000 or more;No denomination;Never married;Christian
+9623;Not applicable;$4000 to 4999;Not applicable;Separated;Catholic
+9624;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9625;United methodist;Not applicable;United methodist;Married;Protestant
+9626;No denomination;Not applicable;No denomination;Widowed;Protestant
+9627;Not applicable;$3000 to 3999;Not applicable;Divorced;Catholic
+9628;No denomination;$7000 to 7999;No denomination;Never married;Christian
+9629;Not applicable;$15000 - 19999;Not applicable;Never married;Catholic
+9630;Not applicable;$15000 - 19999;Not applicable;Never married;None
+9631;Other;$25000 or more;Other;Divorced;Protestant
+9632;Not applicable;$20000 - 24999;Not applicable;Separated;None
+9633;Other;Not applicable;Other;Never married;Protestant
+9634;No denomination;$25000 or more;No denomination;Divorced;Christian
+9635;Presbyterian, merged;Refused;Presbyterian, merged;Married;Protestant
+9636;Am lutheran;$10000 - 14999;Am lutheran;Divorced;Protestant
+9637;No denomination;$25000 or more;No denomination;Divorced;Christian
+9638;Not applicable;$10000 - 14999;Not applicable;Divorced;None
+9639;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9640;United methodist;$3000 to 3999;United methodist;Separated;Protestant
+9641;Other;Not applicable;Other;Married;Protestant
+9642;Not applicable;$10000 - 14999;Not applicable;Married;Catholic
+9643;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9644;Not applicable;$20000 - 24999;Not applicable;Never married;Catholic
+9645;Not applicable;$20000 - 24999;Not applicable;Never married;None
+9646;No denomination;$25000 or more;No denomination;Married;Protestant
+9647;Lutheran-dk which;Not applicable;Lutheran-dk which;Married;Protestant
+9648;Not applicable;Not applicable;Not applicable;Married;Hinduism
+9649;Not applicable;Not applicable;Not applicable;Divorced;None
+9650;Not applicable;Refused;Not applicable;Separated;None
+9651;Not applicable;$25000 or more;Not applicable;Never married;None
+9652;Not applicable;Not applicable;Not applicable;Never married;None
+9653;Not applicable;$20000 - 24999;Not applicable;Never married;None
+9654;Other;Not applicable;Other;Married;Protestant
+9655;Not applicable;Refused;Not applicable;Never married;None
+9656;Presbyterian c in us;$25000 or more;Presbyterian c in us;Married;Protestant
+9657;Not applicable;Refused;Not applicable;Married;Jewish
+9658;Not applicable;$25000 or more;Not applicable;Never married;None
+9659;Evangelical luth;Refused;Evangelical luth;Divorced;Protestant
+9660;No denomination;$10000 - 14999;No denomination;Divorced;Christian
+9661;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9662;Evangelical luth;$25000 or more;Evangelical luth;Never married;Protestant
+9663;United methodist;Not applicable;United methodist;Married;Protestant
+9664;Not applicable;$25000 or more;Not applicable;Married;None
+9665;Lutheran-mo synod;$20000 - 24999;Lutheran-mo synod;Widowed;Protestant
+9666;Methodist-dk which;Not applicable;Methodist-dk which;Married;Protestant
+9667;Southern baptist;Not applicable;Southern baptist;Separated;Protestant
+9668;Other;$7000 to 7999;Other;Married;Protestant
+9669;Lutheran-mo synod;$25000 or more;Lutheran-mo synod;Married;Protestant
+9670;No denomination;$25000 or more;No denomination;Never married;Christian
+9671;Other;$25000 or more;Other;Divorced;Protestant
+9672;Not applicable;Not applicable;Not applicable;Divorced;Jewish
+9673;United methodist;$25000 or more;United methodist;Married;Protestant
+9674;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9675;Other;$25000 or more;Other;Married;Protestant
+9676;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9677;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9678;Other;$4000 to 4999;Other;Never married;Protestant
+9679;Not applicable;$10000 - 14999;Not applicable;Never married;Catholic
+9680;Am lutheran;Not applicable;Am lutheran;Married;Protestant
+9681;Am lutheran;$25000 or more;Am lutheran;Divorced;Protestant
+9682;Not applicable;$25000 or more;Not applicable;Married;None
+9683;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9684;Not applicable;$25000 or more;Not applicable;Never married;None
+9685;Other;Not applicable;Other;Widowed;Protestant
+9686;United methodist;Not applicable;United methodist;Married;Protestant
+9687;Not applicable;Refused;Not applicable;Married;Catholic
+9688;Episcopal;Not applicable;Episcopal;Never married;Protestant
+9689;Other;$1000 to 2999;Other;Separated;Protestant
+9690;Not applicable;Not applicable;Not applicable;Married;Catholic
+9691;United methodist;$25000 or more;United methodist;Married;Protestant
+9692;Lutheran-mo synod;$10000 - 14999;Lutheran-mo synod;Never married;Protestant
+9693;Other;Refused;Other;Married;Protestant
+9694;Not applicable;Not applicable;Not applicable;Married;Catholic
+9695;Am lutheran;$25000 or more;Am lutheran;Married;Protestant
+9696;Baptist-dk which;$25000 or more;Baptist-dk which;Married;Protestant
+9697;Am lutheran;$25000 or more;Am lutheran;Married;Protestant
+9698;Not applicable;Not applicable;Not applicable;Married;Catholic
+9699;United methodist;$15000 - 19999;United methodist;Never married;Protestant
+9700;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9701;Presbyterian, merged;$1000 to 2999;Presbyterian, merged;Married;Protestant
+9702;Not applicable;Not applicable;Not applicable;Married;Catholic
+9703;United methodist;$25000 or more;United methodist;Married;Protestant
+9704;Nat bapt conv of am;$8000 to 9999;Nat bapt conv of am;Never married;Protestant
+9705;No denomination;$20000 - 24999;No denomination;Married;Protestant
+9706;Not applicable;$10000 - 14999;Not applicable;Divorced;Catholic
+9707;No denomination;$25000 or more;No denomination;Widowed;Protestant
+9708;Other;Not applicable;Other;Widowed;Protestant
+9709;Not applicable;Not applicable;Not applicable;Never married;Catholic
+9710;United methodist;Not applicable;United methodist;Married;Protestant
+9711;Afr meth ep zion;$15000 - 19999;Afr meth ep zion;Married;Protestant
+9712;Southern baptist;$3000 to 3999;Southern baptist;Never married;Protestant
+9713;United methodist;Not applicable;United methodist;Married;Protestant
+9714;Other;$20000 - 24999;Other;Married;Protestant
+9715;Other;Refused;Other;Married;Protestant
+9716;No denomination;$8000 to 9999;No denomination;Divorced;Protestant
+9717;No denomination;Not applicable;No denomination;Divorced;Protestant
+9718;Other;$20000 - 24999;Other;Never married;Protestant
+9719;Southern baptist;Not applicable;Southern baptist;Divorced;Protestant
+9720;No denomination;$25000 or more;No denomination;Never married;Protestant
+9721;No denomination;Not applicable;No denomination;Married;Protestant
+9722;Southern baptist;Not applicable;Southern baptist;Divorced;Protestant
+9723;No denomination;$25000 or more;No denomination;Married;Protestant
+9724;Baptist-dk which;$25000 or more;Baptist-dk which;Widowed;Protestant
+9725;Other;Not applicable;Other;Divorced;Protestant
+9726;Lutheran-mo synod;$25000 or more;Lutheran-mo synod;Separated;Protestant
+9727;Other;$25000 or more;Other;Married;Protestant
+9728;Don't know;$1000 to 2999;Don't know;Never married;Protestant
+9729;Southern baptist;$25000 or more;Southern baptist;Married;Protestant
+9730;United methodist;$25000 or more;United methodist;Divorced;Protestant
+9731;Baptist-dk which;$10000 - 14999;Baptist-dk which;Married;Protestant
+9732;Other;$10000 - 14999;Other;Separated;Protestant
+9733;Other;Not applicable;Other;Divorced;Protestant
+9734;Episcopal;$25000 or more;Episcopal;Never married;Protestant
+9735;United methodist;$25000 or more;United methodist;Never married;Protestant
+9736;Not applicable;Not applicable;Not applicable;Married;Jewish
+9737;Episcopal;$25000 or more;Episcopal;Divorced;Protestant
+9738;Episcopal;$8000 to 9999;Episcopal;Married;Protestant
+9739;Not applicable;$25000 or more;Not applicable;Never married;Hinduism
+9740;Southern baptist;$25000 or more;Southern baptist;Married;Protestant
+9741;Lutheran-mo synod;$25000 or more;Lutheran-mo synod;Never married;Protestant
+9742;No denomination;$25000 or more;No denomination;Never married;Protestant
+9743;Southern baptist;$15000 - 19999;Southern baptist;Never married;Protestant
+9744;Southern baptist;Not applicable;Southern baptist;Never married;Protestant
+9745;Am baptist asso;$25000 or more;Am baptist asso;Divorced;Protestant
+9746;Southern baptist;Not applicable;Southern baptist;Married;Protestant
+9747;Not applicable;Not applicable;Not applicable;Married;Catholic
+9748;Baptist-dk which;Not applicable;Baptist-dk which;Married;Protestant
+9749;Not applicable;$25000 or more;Not applicable;Never married;Hinduism
+9750;Not applicable;Not applicable;Not applicable;Never married;Catholic
+9751;Other presbyterian;$25000 or more;Other presbyterian;Married;Protestant
+9752;Other methodist;$25000 or more;Other methodist;Married;Protestant
+9753;Other;$25000 or more;Other;Never married;Protestant
+9754;Not applicable;$25000 or more;Not applicable;Married;None
+9755;Southern baptist;$25000 or more;Southern baptist;Married;Protestant
+9756;Southern baptist;$25000 or more;Southern baptist;Never married;Protestant
+9757;Other;Not applicable;Other;Married;Protestant
+9758;Other;$20000 - 24999;Other;Married;Protestant
+9759;Southern baptist;$3000 to 3999;Southern baptist;Divorced;Protestant
+9760;Other;Not applicable;Other;No answer;Protestant
+9761;Other;Not applicable;Other;Widowed;Protestant
+9762;Southern baptist;$10000 - 14999;Southern baptist;Married;Protestant
+9763;Southern baptist;$20000 - 24999;Southern baptist;Never married;Protestant
+9764;United methodist;Not applicable;United methodist;Widowed;Protestant
+9765;Southern baptist;$20000 - 24999;Southern baptist;Married;Protestant
+9766;Other;$25000 or more;Other;Never married;Protestant
+9767;United methodist;$3000 to 3999;United methodist;Widowed;Protestant
+9768;Southern baptist;$15000 - 19999;Southern baptist;Divorced;Protestant
+9769;Am baptist asso;$25000 or more;Am baptist asso;Married;Protestant
+9770;Other;$15000 - 19999;Other;Married;Protestant
+9771;Southern baptist;$25000 or more;Southern baptist;Married;Protestant
+9772;Other;$25000 or more;Other;Married;Protestant
+9773;Other;$25000 or more;Other;Married;Protestant
+9774;No denomination;$25000 or more;No denomination;Never married;Protestant
+9775;Southern baptist;Not applicable;Southern baptist;Separated;Protestant
+9776;Other baptists;$20000 - 24999;Other baptists;Married;Protestant
+9777;Other;$25000 or more;Other;Married;Protestant
+9778;United methodist;Not applicable;United methodist;Married;Protestant
+9779;Not applicable;Refused;Not applicable;Married;Catholic
+9780;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9781;Baptist-dk which;$25000 or more;Baptist-dk which;Married;Protestant
+9782;Other;Not applicable;Other;Married;Protestant
+9783;Not applicable;$25000 or more;Not applicable;Married;None
+9784;Not applicable;$20000 - 24999;Not applicable;Never married;None
+9785;Other;$8000 to 9999;Other;Married;Protestant
+9786;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9787;Not applicable;$5000 to 5999;Not applicable;Never married;Catholic
+9788;No denomination;$25000 or more;No denomination;Married;Protestant
+9789;Not applicable;Refused;Not applicable;Married;Catholic
+9790;Not applicable;$15000 - 19999;Not applicable;Never married;Catholic
+9791;Not applicable;$25000 or more;Not applicable;Never married;None
+9792;No denomination;Not applicable;No denomination;Divorced;Protestant
+9793;Not applicable;$25000 or more;Not applicable;Never married;None
+9794;No denomination;$25000 or more;No denomination;Married;Protestant
+9795;Not applicable;$1000 to 2999;Not applicable;Married;Catholic
+9796;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9797;No denomination;$25000 or more;No denomination;Married;Protestant
+9798;No denomination;$25000 or more;No denomination;Never married;Protestant
+9799;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9800;Southern baptist;$25000 or more;Southern baptist;Never married;Protestant
+9801;Not applicable;Not applicable;Not applicable;Widowed;Catholic
+9802;Presbyterian-dk wh;$15000 - 19999;Presbyterian-dk wh;Divorced;Protestant
+9803;Baptist-dk which;Not applicable;Baptist-dk which;Married;Protestant
+9804;Not applicable;$25000 or more;Not applicable;Married;Native american
+9805;Not applicable;Refused;Not applicable;Married;Catholic
+9806;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9807;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9808;Episcopal;Refused;Episcopal;Married;Protestant
+9809;Not applicable;Not applicable;Not applicable;Divorced;Catholic
+9810;Not applicable;$25000 or more;Not applicable;Married;None
+9811;Lutheran-mo synod;Don't know;Lutheran-mo synod;Divorced;Protestant
+9812;Not applicable;$25000 or more;Not applicable;Never married;Jewish
+9813;Not applicable;$15000 - 19999;Not applicable;Married;Catholic
+9814;Other;$25000 or more;Other;Married;Protestant
+9815;Baptist-dk which;Not applicable;Baptist-dk which;Divorced;Protestant
+9816;Baptist-dk which;$25000 or more;Baptist-dk which;Married;Protestant
+9817;Other;$6000 to 6999;Other;Divorced;Protestant
+9818;Other;$25000 or more;Other;Divorced;Protestant
+9819;Other;$25000 or more;Other;Divorced;Protestant
+9820;Other;$3000 to 3999;Other;Never married;Protestant
+9821;Southern baptist;$25000 or more;Southern baptist;Never married;Protestant
+9822;Southern baptist;Not applicable;Southern baptist;Married;Protestant
+9823;Baptist-dk which;Not applicable;Baptist-dk which;Married;Protestant
+9824;Evangelical luth;Not applicable;Evangelical luth;Married;Protestant
+9825;No denomination;Not applicable;No denomination;Married;Protestant
+9826;Presbyterian-dk wh;Not applicable;Presbyterian-dk wh;Married;Protestant
+9827;Southern baptist;$25000 or more;Southern baptist;Widowed;Protestant
+9828;Not applicable;Refused;Not applicable;Married;Catholic
+9829;Southern baptist;$25000 or more;Southern baptist;Married;Protestant
+9830;No denomination;Not applicable;No denomination;Married;Protestant
+9831;Other;Don't know;Other;Married;Protestant
+9832;No denomination;$25000 or more;No denomination;Married;Protestant
+9833;United methodist;$25000 or more;United methodist;Widowed;Protestant
+9834;Not applicable;Not applicable;Not applicable;Married;Catholic
+9835;Other;Not applicable;Other;Married;Protestant
+9836;Not applicable;Refused;Not applicable;Divorced;None
+9837;Not applicable;$20000 - 24999;Not applicable;Never married;None
+9838;Not applicable;$10000 - 14999;Not applicable;Never married;Other
+9839;Not applicable;$25000 or more;Not applicable;Never married;None
+9840;Not applicable;$25000 or more;Not applicable;Separated;Catholic
+9841;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9842;Other presbyterian;$25000 or more;Other presbyterian;Divorced;Protestant
+9843;Not applicable;$25000 or more;Not applicable;Never married;None
+9844;Other;Refused;Other;Separated;Protestant
+9845;No denomination;$25000 or more;No denomination;Never married;Protestant
+9846;Not applicable;Not applicable;Not applicable;Married;Catholic
+9847;Not applicable;Don't know;Not applicable;Married;Catholic
+9848;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9849;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9850;Not applicable;Not applicable;Not applicable;Widowed;Catholic
+9851;Not applicable;$15000 - 19999;Not applicable;Married;Catholic
+9852;Not applicable;Not applicable;Not applicable;Divorced;Catholic
+9853;Not applicable;Not applicable;Not applicable;Married;Catholic
+9854;Baptist-dk which;$25000 or more;Baptist-dk which;Married;Protestant
+9855;United methodist;$15000 - 19999;United methodist;Divorced;Protestant
+9856;Not applicable;Not applicable;Not applicable;Never married;Catholic
+9857;Not applicable;Refused;Not applicable;Married;Catholic
+9858;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9859;Not applicable;Not applicable;Not applicable;Married;Catholic
+9860;Not applicable;$25000 or more;Not applicable;Divorced;None
+9861;Baptist-dk which;$8000 to 9999;Baptist-dk which;Married;Protestant
+9862;Presbyterian c in us;$25000 or more;Presbyterian c in us;Divorced;Protestant
+9863;Southern baptist;Not applicable;Southern baptist;Divorced;Protestant
+9864;Not applicable;$25000 or more;Not applicable;Divorced;Catholic
+9865;Episcopal;Not applicable;Episcopal;Married;Protestant
+9866;Not applicable;$25000 or more;Not applicable;Married;Catholic
+9867;Not applicable;$10000 - 14999;Not applicable;Married;Jewish
+9868;Not applicable;$8000 to 9999;Not applicable;Never married;Catholic
+9869;Lutheran-dk which;$25000 or more;Lutheran-dk which;Married;Protestant
+9870;Not applicable;$25000 or more;Not applicable;Married;Jewish
+9871;Not applicable;$25000 or more;Not applicable;Married;Jewish
+9872;Not applicable;$25000 or more;Not applicable;Married;None
+9873;Not applicable;$25000 or more;Not applicable;Married;Jewish
+9874;Not applicable;Don't know;Not applicable;Never married;Jewish
+9875;Not applicable;Don't know;Not applicable;Married;Jewish
+9876;Not applicable;Not applicable;Not applicable;Married;Jewish
+9877;Not applicable;$7000 to 7999;Not applicable;Never married;Jewish
+9878;Not applicable;$15000 - 19999;Not applicable;Married;Jewish
+9879;Not applicable;$25000 or more;Not applicable;Never married;Catholic
+9880;Not applicable;Refused;Not applicable;Married;Catholic
+9881;United methodist;Not applicable;United methodist;Married;Protestant
+9882;Other;$25000 or more;Other;Divorced;Protestant
+9883;Southern baptist;$25000 or more;Southern baptist;Married;Protestant
+9884;Not applicable;$25000 or more;Not applicable;Married;None
+9885;Baptist-dk which;Not applicable;Baptist-dk which;Never married;Protestant
+9886;Not applicable;$8000 to 9999;Not applicable;Never married;Catholic
+9887;No denomination;Not applicable;No denomination;Married;Protestant
+9888;Other;$25000 or more;Other;Married;Protestant
+9889;Other;$10000 - 14999;Other;Married;Protestant
+9890;Other presbyterian;Not applicable;Other presbyterian;Divorced;Protestant
+9891;Not applicable;$25000 or more;Not applicable;Married;None
+9892;United methodist;$25000 or more;United methodist;Widowed;Protestant
+9893;Baptist-dk which;Not applicable;Baptist-dk which;Married;Protestant
+9894;Baptist-dk which;$25000 or more;Baptist-dk which;Divorced;Protestant
+9895;No denomination;$25000 or more;No denomination;Married;Protestant
+9896;Not applicable;$15000 - 19999;Not applicable;Divorced;Other
+9897;Not applicable;$25000 or more;Not applicable;Never married;None
+9898;Not applicable;$25000 or more;Not applicable;Never married;None
+9899;No denomination;Not applicable;No denomination;Never married;Christian
+9900;Southern baptist;$25000 or more;Southern baptist;Never married;Protestant

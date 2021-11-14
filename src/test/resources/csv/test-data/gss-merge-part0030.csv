@@ -1,0 +1,301 @@
+obs;race;marital;race;partyid;relig
+8701;Other;Married;Other;Not str republican;Hinduism
+8702;Black;Divorced;Black;Independent;None
+8703;Other;Married;Other;Independent;Catholic
+8704;Black;Never married;Black;Strong democrat;Protestant
+8705;White;Divorced;White;Not str democrat;Catholic
+8706;White;Divorced;White;Independent;None
+8707;White;Married;White;Independent;None
+8708;White;Married;White;Independent;Catholic
+8709;Other;Separated;Other;Independent;Catholic
+8710;White;Never married;White;Not str republican;Protestant
+8711;White;Never married;White;Strong democrat;None
+8712;White;Never married;White;Not str democrat;Buddhism
+8713;Other;Never married;Other;Ind,near dem;Catholic
+8714;White;Married;White;Independent;Catholic
+8715;White;Married;White;Not str republican;Protestant
+8716;White;Married;White;Strong democrat;Christian
+8717;Other;Divorced;Other;Strong republican;Protestant
+8718;White;Married;White;Ind,near dem;Protestant
+8719;White;Married;White;Strong democrat;Christian
+8720;White;Widowed;White;Strong republican;Protestant
+8721;White;Married;White;Strong democrat;None
+8722;White;Never married;White;Independent;Other
+8723;White;Married;White;Strong republican;Catholic
+8724;White;Married;White;Strong democrat;Catholic
+8725;White;Widowed;White;Not str republican;Catholic
+8726;Other;Never married;Other;Ind,near dem;Catholic
+8727;White;Married;White;Ind,near dem;Catholic
+8728;Black;Never married;Black;Not str democrat;Protestant
+8729;White;Never married;White;Independent;None
+8730;White;Divorced;White;Ind,near rep;None
+8731;White;Married;White;Strong republican;Protestant
+8732;Other;Never married;Other;Ind,near rep;Protestant
+8733;White;Never married;White;Not str democrat;Catholic
+8734;Other;Widowed;Other;Independent;Christian
+8735;Other;Never married;Other;Independent;None
+8736;White;Divorced;White;Other party;None
+8737;White;Divorced;White;Independent;Jewish
+8738;White;Never married;White;Ind,near dem;Catholic
+8739;White;Never married;White;Strong democrat;None
+8740;Other;Never married;Other;Independent;Catholic
+8741;Black;Never married;Black;Not str democrat;Protestant
+8742;White;Divorced;White;Strong democrat;Catholic
+8743;White;Never married;White;Ind,near rep;None
+8744;White;Separated;White;Not str democrat;None
+8745;Black;Divorced;Black;Not str democrat;Protestant
+8746;Other;Never married;Other;Ind,near dem;Catholic
+8747;White;Never married;White;Ind,near dem;None
+8748;White;Never married;White;Strong democrat;None
+8749;White;Divorced;White;Not str democrat;None
+8750;Black;Never married;Black;Strong democrat;None
+8751;White;Never married;White;Independent;None
+8752;Other;Married;Other;Independent;Catholic
+8753;White;Never married;White;Not str democrat;Catholic
+8754;White;Divorced;White;Strong democrat;Catholic
+8755;White;Never married;White;Strong republican;Catholic
+8756;Other;Married;Other;Not str democrat;Catholic
+8757;Other;Married;Other;Not str democrat;Catholic
+8758;Other;Married;Other;Not str democrat;Catholic
+8759;Other;Never married;Other;Independent;Catholic
+8760;Other;Never married;Other;Not str democrat;Catholic
+8761;Other;Married;Other;Not str democrat;Catholic
+8762;Other;Never married;Other;Not str democrat;Catholic
+8763;Other;Married;Other;Strong democrat;Catholic
+8764;Other;Married;Other;Independent;Catholic
+8765;Black;Married;Black;Strong democrat;Protestant
+8766;Black;Divorced;Black;Strong democrat;Protestant
+8767;Black;Never married;Black;Not str democrat;None
+8768;Black;Married;Black;Not str democrat;None
+8769;Black;Married;Black;Strong democrat;Protestant
+8770;Black;Widowed;Black;Ind,near dem;Protestant
+8771;Black;Widowed;Black;Strong democrat;Protestant
+8772;Other;Married;Other;Not str republican;Protestant
+8773;Other;Married;Other;Independent;Catholic
+8774;Black;Never married;Black;Strong democrat;None
+8775;Other;Never married;Other;Independent;Moslem/islam
+8776;White;Married;White;Strong democrat;None
+8777;Other;Married;Other;Not str democrat;Protestant
+8778;Other;Never married;Other;Independent;No answer
+8779;Other;Married;Other;Strong democrat;Catholic
+8780;Other;Never married;Other;Independent;Protestant
+8781;Other;Married;Other;Not str democrat;Catholic
+8782;Other;Married;Other;Independent;Catholic
+8783;Other;Married;Other;Independent;Catholic
+8784;Other;Married;Other;Independent;Catholic
+8785;Other;Married;Other;Not str republican;Catholic
+8786;Other;Married;Other;Ind,near rep;Catholic
+8787;White;Divorced;White;Ind,near dem;Protestant
+8788;Other;Married;Other;Not str democrat;Catholic
+8789;White;Divorced;White;Strong democrat;Catholic
+8790;Other;Married;Other;Independent;Catholic
+8791;Other;Never married;Other;Independent;Catholic
+8792;White;Separated;White;Ind,near rep;None
+8793;Black;Divorced;Black;Not str democrat;Protestant
+8794;Other;Never married;Other;Ind,near dem;Catholic
+8795;Black;Married;Black;Not str democrat;Protestant
+8796;Black;Married;Black;Strong democrat;Protestant
+8797;Black;Married;Black;Independent;Catholic
+8798;White;Never married;White;Not str democrat;Jewish
+8799;White;Never married;White;Independent;Catholic
+8800;White;Never married;White;Ind,near rep;Protestant
+8801;White;Never married;White;Not str democrat;Protestant
+8802;Black;Separated;Black;Strong republican;Protestant
+8803;White;Never married;White;Not str democrat;Jewish
+8804;Black;Divorced;Black;Not str democrat;Protestant
+8805;White;Married;White;Strong democrat;Catholic
+8806;Black;Married;Black;Not str republican;Protestant
+8807;Other;Divorced;Other;Ind,near dem;Catholic
+8808;White;Married;White;Independent;Protestant
+8809;White;Married;White;Not str democrat;Catholic
+8810;White;Married;White;Other party;None
+8811;White;Married;White;Not str republican;Protestant
+8812;White;Married;White;Independent;Protestant
+8813;White;Married;White;Ind,near rep;Protestant
+8814;White;Married;White;Strong democrat;Catholic
+8815;White;Married;White;Ind,near dem;Catholic
+8816;White;Widowed;White;Strong republican;Protestant
+8817;White;Married;White;Independent;Catholic
+8818;White;Married;White;No answer;Catholic
+8819;White;Married;White;Independent;Catholic
+8820;White;Widowed;White;Independent;Protestant
+8821;White;Married;White;Strong republican;Protestant
+8822;White;Married;White;Not str democrat;Catholic
+8823;White;Divorced;White;Not str democrat;Catholic
+8824;White;Married;White;Ind,near rep;Catholic
+8825;White;Widowed;White;Not str republican;Protestant
+8826;White;Married;White;Not str republican;Protestant
+8827;White;Widowed;White;Not str republican;Catholic
+8828;White;Married;White;Ind,near rep;Protestant
+8829;White;Married;White;Strong democrat;None
+8830;White;Never married;White;Independent;Catholic
+8831;White;Married;White;Independent;Catholic
+8832;White;Divorced;White;Strong democrat;Catholic
+8833;White;Never married;White;Not str republican;None
+8834;White;Married;White;Not str republican;Protestant
+8835;White;Married;White;Ind,near dem;Catholic
+8836;White;Widowed;White;Ind,near rep;Catholic
+8837;White;Married;White;Ind,near rep;Catholic
+8838;White;Married;White;Strong democrat;Catholic
+8839;White;Divorced;White;Not str democrat;Catholic
+8840;White;Widowed;White;Not str democrat;Protestant
+8841;Other;Married;Other;Not str republican;Catholic
+8842;White;Divorced;White;Strong democrat;Protestant
+8843;White;Married;White;Independent;Catholic
+8844;White;Married;White;Ind,near rep;Protestant
+8845;White;Divorced;White;Not str republican;Protestant
+8846;White;Married;White;Ind,near rep;Catholic
+8847;Other;Married;Other;Independent;Catholic
+8848;White;Married;White;Strong democrat;Protestant
+8849;White;Never married;White;Ind,near dem;Catholic
+8850;White;Married;White;Not str democrat;Protestant
+8851;White;Never married;White;Not str republican;Catholic
+8852;White;Married;White;Not str republican;Protestant
+8853;White;Married;White;Independent;Catholic
+8854;White;Never married;White;Ind,near dem;Protestant
+8855;White;Married;White;Independent;Catholic
+8856;White;Married;White;Strong republican;Protestant
+8857;White;Divorced;White;Independent;Protestant
+8858;White;Married;White;Not str democrat;Catholic
+8859;White;Married;White;Not str democrat;Protestant
+8860;White;Never married;White;Other party;None
+8861;White;Never married;White;Independent;No answer
+8862;White;Never married;White;Independent;None
+8863;White;Married;White;Independent;Catholic
+8864;White;Never married;White;Not str republican;Protestant
+8865;White;Divorced;White;Not str republican;Catholic
+8866;White;Married;White;Ind,near rep;Protestant
+8867;Other;Never married;Other;Ind,near rep;Catholic
+8868;Other;Divorced;Other;Independent;Protestant
+8869;White;Married;White;Independent;Catholic
+8870;White;Widowed;White;Independent;Protestant
+8871;White;Married;White;Strong republican;Catholic
+8872;White;Divorced;White;No answer;None
+8873;White;Married;White;Ind,near rep;Protestant
+8874;Black;Never married;Black;Independent;Protestant
+8875;Other;Never married;Other;Not str democrat;Hinduism
+8876;Black;Married;Black;Ind,near dem;Catholic
+8877;Black;Divorced;Black;Not str democrat;Protestant
+8878;Black;Married;Black;Strong democrat;Protestant
+8879;Other;Married;Other;Strong democrat;Catholic
+8880;White;Never married;White;Strong democrat;Protestant
+8881;White;Married;White;Not str democrat;Catholic
+8882;White;Widowed;White;Independent;Protestant
+8883;Black;Married;Black;Not str democrat;Protestant
+8884;White;Widowed;White;Not str democrat;Catholic
+8885;White;Never married;White;Ind,near rep;Catholic
+8886;White;Married;White;Ind,near dem;Protestant
+8887;White;Divorced;White;Ind,near dem;Protestant
+8888;White;Widowed;White;Strong democrat;Protestant
+8889;Black;Married;Black;Not str democrat;Protestant
+8890;Other;Married;Other;Strong democrat;Catholic
+8891;Other;Never married;Other;Independent;Catholic
+8892;Other;Married;Other;Independent;Catholic
+8893;Other;Married;Other;Strong republican;Catholic
+8894;Other;Divorced;Other;Ind,near dem;Catholic
+8895;Other;Married;Other;Strong democrat;Protestant
+8896;White;Married;White;Ind,near dem;None
+8897;White;Married;White;Independent;Protestant
+8898;White;Married;White;Strong democrat;Protestant
+8899;Other;Never married;Other;Ind,near rep;Christian
+8900;Black;Married;Black;Independent;Protestant
+8901;White;Married;White;Not str republican;Other
+8902;White;Never married;White;Independent;None
+8903;White;Divorced;White;Not str republican;Catholic
+8904;Other;Married;Other;Independent;Catholic
+8905;White;Married;White;Ind,near dem;Catholic
+8906;Other;Married;Other;Not str democrat;Protestant
+8907;Other;Married;Other;Not str democrat;Catholic
+8908;White;Married;White;Ind,near dem;Protestant
+8909;Other;Married;Other;Strong democrat;Catholic
+8910;Other;Never married;Other;Not str democrat;Catholic
+8911;White;Married;White;Not str republican;Protestant
+8912;Other;Married;Other;Ind,near dem;Catholic
+8913;White;Married;White;Other party;Protestant
+8914;White;Never married;White;Ind,near dem;Protestant
+8915;White;Divorced;White;Strong democrat;None
+8916;White;Married;White;Not str republican;Protestant
+8917;Other;Married;Other;Ind,near dem;Protestant
+8918;White;Widowed;White;Not str republican;Catholic
+8919;White;Divorced;White;Independent;Catholic
+8920;Other;Never married;Other;Independent;Protestant
+8921;White;Divorced;White;Independent;Protestant
+8922;White;Never married;White;Not str republican;Catholic
+8923;White;Married;White;Not str republican;Catholic
+8924;White;Married;White;Strong democrat;Protestant
+8925;White;Divorced;White;Not str republican;Catholic
+8926;Other;Never married;Other;Not str democrat;Protestant
+8927;White;Married;White;Not str democrat;Catholic
+8928;White;Never married;White;Not str republican;Protestant
+8929;Other;Never married;Other;Not str democrat;Buddhism
+8930;White;Married;White;Independent;None
+8931;White;Never married;White;Not str democrat;Protestant
+8932;White;Married;White;Not str republican;None
+8933;White;Divorced;White;Strong republican;Protestant
+8934;Other;Married;Other;Not str democrat;None
+8935;White;Divorced;White;Strong democrat;Orthodox-christian
+8936;Other;Married;Other;Not str democrat;Buddhism
+8937;Other;Never married;Other;Not str democrat;None
+8938;Other;Married;Other;Independent;Protestant
+8939;Black;Married;Black;Ind,near dem;Protestant
+8940;Other;Married;Other;Ind,near dem;None
+8941;White;Divorced;White;Not str democrat;None
+8942;White;Never married;White;Ind,near rep;None
+8943;Other;Never married;Other;Strong democrat;None
+8944;White;Widowed;White;Ind,near dem;Protestant
+8945;White;Married;White;Ind,near rep;Protestant
+8946;White;Married;White;Independent;Protestant
+8947;White;Married;White;Ind,near dem;None
+8948;White;Married;White;Not str democrat;Protestant
+8949;White;Widowed;White;Not str democrat;None
+8950;White;Divorced;White;Independent;None
+8951;White;Never married;White;Ind,near rep;Protestant
+8952;White;Married;White;Ind,near rep;Protestant
+8953;White;Married;White;Not str democrat;Protestant
+8954;White;Married;White;Not str democrat;Catholic
+8955;Other;Married;Other;Ind,near rep;Catholic
+8956;White;Divorced;White;Strong democrat;Christian
+8957;Other;Never married;Other;Not str democrat;Catholic
+8958;White;Married;White;Strong democrat;None
+8959;White;Married;White;No answer;No answer
+8960;White;Widowed;White;Ind,near rep;Protestant
+8961;White;Married;White;Not str republican;Christian
+8962;Other;Married;Other;Independent;Catholic
+8963;White;Married;White;Strong republican;Catholic
+8964;White;Married;White;Not str republican;Protestant
+8965;White;Married;White;Independent;Protestant
+8966;White;Divorced;White;Ind,near rep;Christian
+8967;Other;Never married;Other;Not str democrat;Catholic
+8968;White;Married;White;Strong democrat;Orthodox-christian
+8969;Other;Never married;Other;Strong democrat;None
+8970;White;Never married;White;Not str democrat;None
+8971;White;Married;White;Ind,near dem;Buddhism
+8972;White;Married;White;Independent;None
+8973;Black;Never married;Black;Ind,near dem;None
+8974;Other;Separated;Other;Not str republican;Catholic
+8975;Black;Divorced;Black;No answer;Christian
+8976;White;Married;White;Strong republican;Jewish
+8977;White;Married;White;Not str republican;Protestant
+8978;Black;Divorced;Black;Strong democrat;Protestant
+8979;Black;Never married;Black;Independent;Protestant
+8980;White;Never married;White;Not str democrat;None
+8981;White;Never married;White;Independent;None
+8982;Other;Married;Other;Independent;Catholic
+8983;Other;Never married;Other;Not str democrat;Catholic
+8984;Black;Divorced;Black;Ind,near dem;Protestant
+8985;White;Never married;White;Independent;Protestant
+8986;White;Married;White;Strong republican;Protestant
+8987;Other;Widowed;Other;Not str democrat;Catholic
+8988;Other;Married;Other;Not str democrat;Protestant
+8989;White;Divorced;White;Independent;Protestant
+8990;Black;Never married;Black;Independent;None
+8991;White;Married;White;Strong democrat;Moslem/islam
+8992;White;Married;White;Strong republican;Protestant
+8993;White;Married;White;Strong democrat;Other
+8994;Other;Married;Other;Independent;Catholic
+8995;White;Never married;White;Independent;None
+8996;White;Married;White;Independent;None
+8997;Other;Married;Other;Ind,near dem;Catholic
+8998;White;Divorced;White;Not str democrat;None
+8999;White;Divorced;White;Not str democrat;Protestant
+9000;White;Married;White;Strong republican;Catholic

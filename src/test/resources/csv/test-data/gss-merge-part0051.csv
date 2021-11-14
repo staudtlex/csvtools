@@ -1,0 +1,301 @@
+obs;partyid;marital;partyid;partyid;relig
+15001;Independent;Divorced;Independent;Independent;None
+15002;Strong democrat;Divorced;Strong democrat;Strong democrat;Catholic
+15003;Not str republican;Divorced;Not str republican;Not str republican;Protestant
+15004;Independent;Married;Independent;Independent;Catholic
+15005;Strong republican;Married;Strong republican;Strong republican;Protestant
+15006;Independent;Married;Independent;Independent;Catholic
+15007;Ind,near dem;Divorced;Ind,near dem;Ind,near dem;Catholic
+15008;Strong democrat;Never married;Strong democrat;Strong democrat;Catholic
+15009;Not str republican;Married;Not str republican;Not str republican;Protestant
+15010;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15011;Strong republican;Never married;Strong republican;Strong republican;Catholic
+15012;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Protestant
+15013;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15014;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15015;Independent;Never married;Independent;Independent;Catholic
+15016;Not str republican;Married;Not str republican;Not str republican;Catholic
+15017;Ind,near rep;Married;Ind,near rep;Ind,near rep;Catholic
+15018;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15019;Not str democrat;Married;Not str democrat;Not str democrat;Protestant
+15020;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15021;Strong democrat;Never married;Strong democrat;Strong democrat;Catholic
+15022;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15023;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Protestant
+15024;Independent;Married;Independent;Independent;Protestant
+15025;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15026;Independent;Married;Independent;Independent;Catholic
+15027;Strong republican;Married;Strong republican;Strong republican;Catholic
+15028;Strong democrat;Widowed;Strong democrat;Strong democrat;Catholic
+15029;Ind,near rep;Married;Ind,near rep;Ind,near rep;Catholic
+15030;Independent;Married;Independent;Independent;Catholic
+15031;Strong democrat;Never married;Strong democrat;Strong democrat;Catholic
+15032;Not str republican;Married;Not str republican;Not str republican;Protestant
+15033;Not str republican;Widowed;Not str republican;Not str republican;Catholic
+15034;Ind,near dem;Separated;Ind,near dem;Ind,near dem;Jewish
+15035;Strong democrat;Married;Strong democrat;Strong democrat;Jewish
+15036;Not str republican;Married;Not str republican;Not str republican;Jewish
+15037;Independent;Married;Independent;Independent;None
+15038;Not str republican;Never married;Not str republican;Not str republican;None
+15039;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15040;Ind,near dem;Married;Ind,near dem;Ind,near dem;Jewish
+15041;Not str republican;Divorced;Not str republican;Not str republican;Catholic
+15042;Not str republican;Never married;Not str republican;Not str republican;Catholic
+15043;Not str republican;Never married;Not str republican;Not str republican;Catholic
+15044;Not str republican;Married;Not str republican;Not str republican;Catholic
+15045;Ind,near dem;Divorced;Ind,near dem;Ind,near dem;Protestant
+15046;Not str republican;Never married;Not str republican;Not str republican;Catholic
+15047;Not str republican;Married;Not str republican;Not str republican;Catholic
+15048;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15049;Strong republican;Never married;Strong republican;Strong republican;Protestant
+15050;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15051;Ind,near dem;Divorced;Ind,near dem;Ind,near dem;None
+15052;Not str democrat;Married;Not str democrat;Not str democrat;Protestant
+15053;Independent;Divorced;Independent;Independent;Protestant
+15054;Not str republican;Married;Not str republican;Not str republican;Protestant
+15055;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15056;Strong democrat;Married;Strong democrat;Strong democrat;Catholic
+15057;Ind,near dem;Married;Ind,near dem;Ind,near dem;Protestant
+15058;Ind,near dem;Married;Ind,near dem;Ind,near dem;Moslem/islam
+15059;Ind,near dem;Married;Ind,near dem;Ind,near dem;Protestant
+15060;Ind,near dem;Separated;Ind,near dem;Ind,near dem;Protestant
+15061;Independent;Married;Independent;Independent;None
+15062;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15063;Not str democrat;Separated;Not str democrat;Not str democrat;Catholic
+15064;Other party;Married;Other party;Other party;Christian
+15065;Strong democrat;Married;Strong democrat;Strong democrat;Christian
+15066;Not str republican;Married;Not str republican;Not str republican;Catholic
+15067;Not str republican;Married;Not str republican;Not str republican;Protestant
+15068;Not str republican;Married;Not str republican;Not str republican;Protestant
+15069;Ind,near dem;Married;Ind,near dem;Ind,near dem;Protestant
+15070;Independent;Married;Independent;Independent;None
+15071;Not str republican;Married;Not str republican;Not str republican;Protestant
+15072;Ind,near rep;Married;Ind,near rep;Ind,near rep;None
+15073;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15074;Independent;Married;Independent;Independent;Catholic
+15075;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15076;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15077;Independent;Never married;Independent;Independent;None
+15078;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15079;Not str republican;Married;Not str republican;Not str republican;Catholic
+15080;Independent;Married;Independent;Independent;Catholic
+15081;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15082;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15083;Ind,near rep;Divorced;Ind,near rep;Ind,near rep;Catholic
+15084;Strong democrat;Married;Strong democrat;Strong democrat;Catholic
+15085;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15086;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15087;Strong democrat;Never married;Strong democrat;Strong democrat;Catholic
+15088;Not str republican;Never married;Not str republican;Not str republican;Protestant
+15089;Strong democrat;Divorced;Strong democrat;Strong democrat;Protestant
+15090;Strong democrat;Separated;Strong democrat;Strong democrat;Buddhism
+15091;Strong republican;Never married;Strong republican;Strong republican;Catholic
+15092;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15093;Other party;Never married;Other party;Other party;Buddhism
+15094;Ind,near dem;Married;Ind,near dem;Ind,near dem;Christian
+15095;Other party;Never married;Other party;Other party;Moslem/islam
+15096;Ind,near dem;Never married;Ind,near dem;Ind,near dem;None
+15097;Not str democrat;Never married;Not str democrat;Not str democrat;None
+15098;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15099;Independent;Never married;Independent;Independent;Protestant
+15100;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15101;Not str republican;Married;Not str republican;Not str republican;Other
+15102;Not str republican;Married;Not str republican;Not str republican;Catholic
+15103;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15104;Not str democrat;Never married;Not str democrat;Not str democrat;None
+15105;Strong republican;Married;Strong republican;Strong republican;Jewish
+15106;Not str democrat;Married;Not str democrat;Not str democrat;None
+15107;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15108;Strong democrat;Never married;Strong democrat;Strong democrat;None
+15109;Strong republican;Never married;Strong republican;Strong republican;Protestant
+15110;Ind,near dem;Married;Ind,near dem;Ind,near dem;Protestant
+15111;Not str republican;Never married;Not str republican;Not str republican;Protestant
+15112;Not str republican;Divorced;Not str republican;Not str republican;Protestant
+15113;Strong democrat;Never married;Strong democrat;Strong democrat;Jewish
+15114;Not str republican;Married;Not str republican;Not str republican;Protestant
+15115;Ind,near dem;Never married;Ind,near dem;Ind,near dem;None
+15116;Strong democrat;Separated;Strong democrat;Strong democrat;None
+15117;Strong democrat;Married;Strong democrat;Strong democrat;None
+15118;Ind,near dem;Widowed;Ind,near dem;Ind,near dem;Catholic
+15119;Independent;Never married;Independent;Independent;None
+15120;Other party;Never married;Other party;Other party;None
+15121;Ind,near rep;Never married;Ind,near rep;Ind,near rep;Christian
+15122;Independent;Married;Independent;Independent;Buddhism
+15123;Not str democrat;Married;Not str democrat;Not str democrat;None
+15124;Strong republican;Divorced;Strong republican;Strong republican;Catholic
+15125;Independent;Married;Independent;Independent;Catholic
+15126;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15127;Independent;Never married;Independent;Independent;Protestant
+15128;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15129;Strong democrat;Divorced;Strong democrat;Strong democrat;Protestant
+15130;Strong democrat;Widowed;Strong democrat;Strong democrat;Protestant
+15131;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15132;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15133;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15134;Ind,near dem;Never married;Ind,near dem;Ind,near dem;None
+15135;Not str democrat;Never married;Not str democrat;Not str democrat;None
+15136;Not str democrat;Married;Not str democrat;Not str democrat;None
+15137;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15138;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15139;Independent;Married;Independent;Independent;Christian
+15140;Independent;Separated;Independent;Independent;Catholic
+15141;Independent;Married;Independent;Independent;Catholic
+15142;Strong democrat;Divorced;Strong democrat;Strong democrat;Protestant
+15143;Strong democrat;Widowed;Strong democrat;Strong democrat;Protestant
+15144;Strong republican;Never married;Strong republican;Strong republican;Protestant
+15145;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15146;Other party;Divorced;Other party;Other party;None
+15147;Ind,near dem;Never married;Ind,near dem;Ind,near dem;None
+15148;Strong democrat;Married;Strong democrat;Strong democrat;None
+15149;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15150;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15151;Ind,near dem;Divorced;Ind,near dem;Ind,near dem;Catholic
+15152;Not str republican;Never married;Not str republican;Not str republican;Catholic
+15153;Not str democrat;Widowed;Not str democrat;Not str democrat;Jewish
+15154;Strong democrat;Never married;Strong democrat;Strong democrat;Catholic
+15155;Ind,near dem;Married;Ind,near dem;Ind,near dem;Orthodox-christian
+15156;Ind,near dem;Divorced;Ind,near dem;Ind,near dem;None
+15157;Ind,near dem;Married;Ind,near dem;Ind,near dem;Protestant
+15158;Other party;Divorced;Other party;Other party;None
+15159;Ind,near dem;Widowed;Ind,near dem;Ind,near dem;Protestant
+15160;Not str republican;Married;Not str republican;Not str republican;Protestant
+15161;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15162;Strong democrat;Divorced;Strong democrat;Strong democrat;None
+15163;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15164;Strong republican;Married;Strong republican;Strong republican;Orthodox-christian
+15165;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15166;Strong republican;Married;Strong republican;Strong republican;Protestant
+15167;Not str democrat;Married;Not str democrat;Not str democrat;None
+15168;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15169;Not str republican;Married;Not str republican;Not str republican;Protestant
+15170;Strong democrat;Married;Strong democrat;Strong democrat;Catholic
+15171;Not str democrat;Married;Not str democrat;Not str democrat;Protestant
+15172;Strong democrat;Divorced;Strong democrat;Strong democrat;Catholic
+15173;Not str republican;Divorced;Not str republican;Not str republican;Catholic
+15174;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15175;Independent;Married;Independent;Independent;Catholic
+15176;Strong democrat;Widowed;Strong democrat;Strong democrat;Catholic
+15177;Independent;Widowed;Independent;Independent;None
+15178;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15179;Strong republican;Married;Strong republican;Strong republican;Protestant
+15180;Independent;Married;Independent;Independent;Catholic
+15181;Not str democrat;Widowed;Not str democrat;Not str democrat;None
+15182;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15183;Ind,near rep;Married;Ind,near rep;Ind,near rep;Catholic
+15184;Not str democrat;Married;Not str democrat;Not str democrat;None
+15185;Ind,near dem;Divorced;Ind,near dem;Ind,near dem;Christian
+15186;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Protestant
+15187;Ind,near rep;Never married;Ind,near rep;Ind,near rep;Catholic
+15188;Strong democrat;Never married;Strong democrat;Strong democrat;Christian
+15189;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15190;Independent;Married;Independent;Independent;None
+15191;Not str republican;Widowed;Not str republican;Not str republican;Protestant
+15192;Not str republican;Divorced;Not str republican;Not str republican;Protestant
+15193;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15194;Strong republican;Married;Strong republican;Strong republican;Protestant
+15195;Strong democrat;Widowed;Strong democrat;Strong democrat;None
+15196;Strong democrat;Divorced;Strong democrat;Strong democrat;None
+15197;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Other eastern
+15198;Ind,near dem;Never married;Ind,near dem;Ind,near dem;None
+15199;Strong republican;Widowed;Strong republican;Strong republican;Protestant
+15200;Strong republican;Married;Strong republican;Strong republican;Catholic
+15201;Ind,near dem;Married;Ind,near dem;Ind,near dem;None
+15202;Independent;Married;Independent;Independent;None
+15203;Not str democrat;Married;Not str democrat;Not str democrat;Protestant
+15204;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15205;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Buddhism
+15206;Strong democrat;Divorced;Strong democrat;Strong democrat;Catholic
+15207;Independent;Married;Independent;Independent;Protestant
+15208;Independent;Separated;Independent;Independent;Christian
+15209;Ind,near dem;Married;Ind,near dem;Ind,near dem;Buddhism
+15210;Strong democrat;Married;Strong democrat;Strong democrat;None
+15211;Independent;Divorced;Independent;Independent;Protestant
+15212;Not str republican;Married;Not str republican;Not str republican;Protestant
+15213;Strong republican;Married;Strong republican;Strong republican;Protestant
+15214;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Moslem/islam
+15215;Other party;Never married;Other party;Other party;None
+15216;Ind,near rep;Never married;Ind,near rep;Ind,near rep;Catholic
+15217;Independent;Never married;Independent;Independent;None
+15218;Ind,near rep;Never married;Ind,near rep;Ind,near rep;Catholic
+15219;Strong democrat;Married;Strong democrat;Strong democrat;None
+15220;Not str democrat;Divorced;Not str democrat;Not str democrat;Protestant
+15221;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15222;Not str republican;Never married;Not str republican;Not str republican;None
+15223;Strong democrat;Divorced;Strong democrat;Strong democrat;Catholic
+15224;Not str republican;Married;Not str republican;Not str republican;Catholic
+15225;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15226;Not str republican;Divorced;Not str republican;Not str republican;None
+15227;Independent;Never married;Independent;Independent;None
+15228;Not str republican;Never married;Not str republican;Not str republican;Catholic
+15229;Ind,near rep;Married;Ind,near rep;Ind,near rep;Catholic
+15230;Not str republican;Married;Not str republican;Not str republican;Catholic
+15231;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15232;Independent;Never married;Independent;Independent;None
+15233;Not str democrat;Divorced;Not str democrat;Not str democrat;Orthodox-christian
+15234;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15235;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15236;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15237;Ind,near rep;Married;Ind,near rep;Ind,near rep;None
+15238;Ind,near dem;Married;Ind,near dem;Ind,near dem;Protestant
+15239;Ind,near dem;Never married;Ind,near dem;Ind,near dem;None
+15240;Strong democrat;Married;Strong democrat;Strong democrat;None
+15241;Not str democrat;Married;Not str democrat;Not str democrat;None
+15242;Not str republican;Never married;Not str republican;Not str republican;Protestant
+15243;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15244;Ind,near rep;Separated;Ind,near rep;Ind,near rep;Jewish
+15245;Strong republican;Widowed;Strong republican;Strong republican;Protestant
+15246;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15247;Strong democrat;Divorced;Strong democrat;Strong democrat;Catholic
+15248;Ind,near rep;Married;Ind,near rep;Ind,near rep;Jewish
+15249;Strong democrat;Widowed;Strong democrat;Strong democrat;Protestant
+15250;Strong democrat;Divorced;Strong democrat;Strong democrat;Protestant
+15251;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15252;Not str democrat;Divorced;Not str democrat;Not str democrat;Protestant
+15253;Strong democrat;Never married;Strong democrat;Strong democrat;Christian
+15254;Not str democrat;Never married;Not str democrat;Not str democrat;Moslem/islam
+15255;Not str democrat;Never married;Not str democrat;Not str democrat;Christian
+15256;Independent;Divorced;Independent;Independent;Protestant
+15257;Independent;Widowed;Independent;Independent;Protestant
+15258;Strong democrat;Married;Strong democrat;Strong democrat;Orthodox-christian
+15259;Ind,near rep;Never married;Ind,near rep;Ind,near rep;Protestant
+15260;Ind,near rep;Never married;Ind,near rep;Ind,near rep;Protestant
+15261;Ind,near dem;Never married;Ind,near dem;Ind,near dem;Catholic
+15262;Strong republican;Widowed;Strong republican;Strong republican;Jewish
+15263;Not str democrat;Married;Not str democrat;Not str democrat;Catholic
+15264;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15265;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15266;Independent;Never married;Independent;Independent;Christian
+15267;Not str republican;Widowed;Not str republican;Not str republican;Jewish
+15268;Strong republican;Married;Strong republican;Strong republican;Jewish
+15269;Strong democrat;Never married;Strong democrat;Strong democrat;Inter-nondenominational
+15270;Not str democrat;Never married;Not str democrat;Not str democrat;Moslem/islam
+15271;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15272;Strong democrat;Widowed;Strong democrat;Strong democrat;Catholic
+15273;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15274;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15275;Not str republican;Married;Not str republican;Not str republican;Protestant
+15276;No answer;Never married;No answer;No answer;None
+15277;Strong democrat;Married;Strong democrat;Strong democrat;None
+15278;Not str republican;Divorced;Not str republican;Not str republican;Christian
+15279;Not str republican;Divorced;Not str republican;Not str republican;Jewish
+15280;Not str republican;Divorced;Not str republican;Not str republican;Catholic
+15281;Strong democrat;Never married;Strong democrat;Strong democrat;Catholic
+15282;Strong republican;Married;Strong republican;Strong republican;Catholic
+15283;Not str democrat;Never married;Not str democrat;Not str democrat;Catholic
+15284;Independent;Never married;Independent;Independent;Catholic
+15285;Ind,near rep;Never married;Ind,near rep;Ind,near rep;None
+15286;Independent;Never married;Independent;Independent;Moslem/islam
+15287;Not str democrat;Never married;Not str democrat;Not str democrat;Protestant
+15288;Ind,near rep;Divorced;Ind,near rep;Ind,near rep;Catholic
+15289;Independent;Never married;Independent;Independent;Catholic
+15290;Independent;Divorced;Independent;Independent;Catholic
+15291;Not str democrat;Married;Not str democrat;Not str democrat;Jewish
+15292;Ind,near rep;Divorced;Ind,near rep;Ind,near rep;Protestant
+15293;Not str democrat;Divorced;Not str democrat;Not str democrat;None
+15294;Strong democrat;Divorced;Strong democrat;Strong democrat;Protestant
+15295;Strong democrat;Never married;Strong democrat;Strong democrat;Protestant
+15296;Strong democrat;Married;Strong democrat;Strong democrat;Protestant
+15297;Not str democrat;Married;Not str democrat;Not str democrat;Protestant
+15298;Ind,near dem;Married;Ind,near dem;Ind,near dem;Catholic
+15299;Strong democrat;Divorced;Strong democrat;Strong democrat;Protestant
+15300;Other party;Divorced;Other party;Other party;Protestant

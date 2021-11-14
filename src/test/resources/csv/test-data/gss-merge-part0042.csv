@@ -1,0 +1,301 @@
+obs;race;marital;age;year;race
+12301;Black;Married;34;2006;Black
+12302;Black;Widowed;62;2006;Black
+12303;White;Never married;29;2006;White
+12304;White;Widowed;89 or older;2006;White
+12305;Other;Never married;39;2006;Other
+12306;Other;Married;20;2006;Other
+12307;White;Married;58;2006;White
+12308;White;Married;48;2006;White
+12309;White;Divorced;58;2006;White
+12310;White;Married;61;2006;White
+12311;White;Married;48;2006;White
+12312;White;Never married;74;2006;White
+12313;White;Never married;21;2006;White
+12314;White;Divorced;40;2006;White
+12315;White;Married;31;2006;White
+12316;White;Married;36;2006;White
+12317;White;Widowed;65;2006;White
+12318;White;Never married;66;2006;White
+12319;White;Married;76;2006;White
+12320;White;Married;54;2006;White
+12321;White;Married;53;2006;White
+12322;White;Widowed;81;2006;White
+12323;White;Never married;18;2006;White
+12324;White;Married;45;2006;White
+12325;White;Married;84;2006;White
+12326;White;Married;73;2006;White
+12327;White;Married;38;2006;White
+12328;White;Married;26;2006;White
+12329;Black;Never married;28;2006;Black
+12330;Black;Widowed;80;2006;Black
+12331;Black;Never married;18;2006;Black
+12332;Black;Married;43;2006;Black
+12333;Black;Married;49;2006;Black
+12334;Black;Never married;43;2006;Black
+12335;Black;Married;32;2006;Black
+12336;Black;Separated;57;2006;Black
+12337;White;Divorced;67;2006;White
+12338;Black;Never married;22;2006;Black
+12339;Black;Divorced;32;2006;Black
+12340;White;Married;30;2006;White
+12341;White;Married;53;2006;White
+12342;White;Married;62;2006;White
+12343;Other;Married;53;2006;Other
+12344;White;Married;25;2006;White
+12345;White;Divorced;63;2006;White
+12346;White;Married;74;2006;White
+12347;White;Married;60;2006;White
+12348;White;Married;62;2006;White
+12349;White;Married;45;2006;White
+12350;White;Married;40;2006;White
+12351;White;Widowed;60;2006;White
+12352;White;Married;70;2006;White
+12353;White;Married;82;2006;White
+12354;White;Divorced;73;2006;White
+12355;Black;Separated;59;2006;Black
+12356;Black;Widowed;57;2006;Black
+12357;White;Never married;29;2006;White
+12358;Black;Widowed;62;2006;Black
+12359;Black;Never married;28;2006;Black
+12360;Black;Never married;26;2006;Black
+12361;Black;Never married;29;2006;Black
+12362;Black;Never married;40;2006;Black
+12363;White;Married;72;2006;White
+12364;Black;Divorced;55;2006;Black
+12365;Black;Married;47;2006;Black
+12366;Black;Married;45;2006;Black
+12367;Black;Never married;30;2006;Black
+12368;White;Widowed;78;2006;White
+12369;White;Married;60;2006;White
+12370;White;Married;43;2006;White
+12371;White;Married;47;2006;White
+12372;Black;Married;83;2006;Black
+12373;White;Never married;24;2006;White
+12374;Black;Never married;26;2006;Black
+12375;Black;Divorced;38;2006;Black
+12376;White;Married;69;2006;White
+12377;Black;Married;48;2006;Black
+12378;Black;Divorced;44;2006;Black
+12379;Black;Never married;24;2006;Black
+12380;Black;Never married;26;2006;Black
+12381;White;Married;24;2006;White
+12382;White;Married;78;2006;White
+12383;Black;Never married;20;2006;Black
+12384;Black;Never married;26;2006;Black
+12385;Black;Married;43;2006;Black
+12386;Black;Never married;26;2006;Black
+12387;Black;Never married;27;2006;Black
+12388;Black;Never married;25;2006;Black
+12389;Black;Never married;25;2006;Black
+12390;Black;Never married;25;2006;Black
+12391;Black;Widowed;53;2006;Black
+12392;Black;Never married;41;2006;Black
+12393;Black;Married;41;2006;Black
+12394;Black;Never married;22;2006;Black
+12395;Black;Married;28;2006;Black
+12396;Black;Divorced;42;2006;Black
+12397;White;Never married;22;2006;White
+12398;Black;Never married;34;2006;Black
+12399;Black;Never married;49;2006;Black
+12400;White;Never married;25;2006;White
+12401;Other;Married;39;2006;Other
+12402;Black;Divorced;43;2006;Black
+12403;White;Married;65;2006;White
+12404;Black;Divorced;No answer;2006;Black
+12405;Black;Married;63;2006;Black
+12406;White;Married;52;2006;White
+12407;Black;Never married;27;2006;Black
+12408;White;Divorced;35;2006;White
+12409;Black;Separated;36;2006;Black
+12410;White;Married;42;2006;White
+12411;White;Never married;19;2006;White
+12412;White;Widowed;82;2006;White
+12413;White;Separated;45;2006;White
+12414;Other;Married;32;2006;Other
+12415;White;Married;No answer;2006;White
+12416;Other;Married;29;2006;Other
+12417;Other;Never married;47;2006;Other
+12418;White;Widowed;89 or older;2006;White
+12419;Black;Married;37;2006;Black
+12420;White;Married;39;2006;White
+12421;Other;Never married;22;2006;Other
+12422;White;Married;72;2006;White
+12423;Other;Married;43;2006;Other
+12424;White;Never married;38;2006;White
+12425;Other;Separated;41;2006;Other
+12426;Black;Never married;26;2006;Black
+12427;Black;Married;47;2006;Black
+12428;Other;Married;28;2006;Other
+12429;White;Married;32;2006;White
+12430;White;Married;59;2006;White
+12431;White;Separated;43;2006;White
+12432;White;Never married;65;2006;White
+12433;White;Married;50;2006;White
+12434;White;Married;52;2006;White
+12435;White;Never married;27;2006;White
+12436;White;Divorced;69;2006;White
+12437;White;Married;47;2006;White
+12438;White;Widowed;50;2006;White
+12439;White;Married;40;2006;White
+12440;White;Widowed;82;2006;White
+12441;White;Married;36;2006;White
+12442;White;Married;37;2006;White
+12443;White;Married;41;2006;White
+12444;White;Widowed;78;2006;White
+12445;White;Divorced;61;2006;White
+12446;Black;Never married;22;2006;Black
+12447;White;Married;36;2006;White
+12448;White;Divorced;40;2006;White
+12449;White;Widowed;64;2006;White
+12450;Black;Never married;22;2006;Black
+12451;Black;Divorced;49;2006;Black
+12452;White;Widowed;79;2006;White
+12453;White;Separated;59;2006;White
+12454;White;Widowed;77;2006;White
+12455;White;Widowed;77;2006;White
+12456;Other;Never married;28;2006;Other
+12457;White;Married;48;2006;White
+12458;Black;Divorced;58;2006;Black
+12459;White;Married;63;2006;White
+12460;White;Married;32;2006;White
+12461;Black;Married;54;2006;Black
+12462;Black;Widowed;74;2006;Black
+12463;White;Widowed;77;2006;White
+12464;Black;Divorced;50;2006;Black
+12465;Black;Widowed;76;2006;Black
+12466;Black;Married;47;2006;Black
+12467;White;Widowed;79;2006;White
+12468;Black;Widowed;66;2006;Black
+12469;Black;Married;71;2006;Black
+12470;Black;Married;31;2006;Black
+12471;Black;Married;66;2006;Black
+12472;Black;Separated;33;2006;Black
+12473;Black;Divorced;45;2006;Black
+12474;Black;Never married;51;2006;Black
+12475;Black;Married;38;2006;Black
+12476;Black;Divorced;56;2006;Black
+12477;White;Never married;29;2006;White
+12478;White;Widowed;54;2006;White
+12479;Other;Never married;26;2006;Other
+12480;White;Divorced;42;2006;White
+12481;White;Married;52;2006;White
+12482;White;Never married;22;2006;White
+12483;White;Married;37;2006;White
+12484;White;Married;52;2006;White
+12485;White;Never married;67;2006;White
+12486;White;Never married;23;2006;White
+12487;White;Never married;67;2006;White
+12488;White;Married;56;2006;White
+12489;White;Married;29;2006;White
+12490;White;Widowed;67;2006;White
+12491;White;Married;43;2006;White
+12492;White;Divorced;42;2006;White
+12493;White;Divorced;65;2006;White
+12494;Other;Never married;20;2006;Other
+12495;Other;Married;24;2006;Other
+12496;White;Never married;50;2006;White
+12497;White;Married;51;2006;White
+12498;White;Married;72;2006;White
+12499;White;Married;52;2006;White
+12500;White;Married;73;2006;White
+12501;White;Divorced;54;2006;White
+12502;White;Never married;23;2006;White
+12503;White;Divorced;40;2006;White
+12504;White;Married;43;2006;White
+12505;White;Divorced;29;2006;White
+12506;White;Divorced;37;2006;White
+12507;Other;Divorced;32;2006;Other
+12508;White;Never married;20;2006;White
+12509;Other;Married;84;2006;Other
+12510;White;Married;31;2006;White
+12511;White;Divorced;40;2006;White
+12512;White;Married;50;2006;White
+12513;White;Married;35;2006;White
+12514;White;Widowed;59;2006;White
+12515;White;Never married;21;2006;White
+12516;White;Divorced;67;2006;White
+12517;White;Married;35;2006;White
+12518;Black;Never married;33;2006;Black
+12519;White;Married;69;2006;White
+12520;White;Married;36;2006;White
+12521;White;Divorced;46;2006;White
+12522;White;Separated;35;2006;White
+12523;White;Never married;19;2006;White
+12524;White;Divorced;41;2006;White
+12525;White;Divorced;47;2006;White
+12526;White;Married;64;2006;White
+12527;White;Married;69;2006;White
+12528;Black;Married;36;2006;Black
+12529;White;Married;68;2006;White
+12530;White;Divorced;64;2006;White
+12531;White;Divorced;31;2006;White
+12532;White;Married;43;2006;White
+12533;White;Married;25;2006;White
+12534;White;Married;63;2006;White
+12535;White;Married;27;2006;White
+12536;White;Divorced;34;2006;White
+12537;White;Married;55;2006;White
+12538;White;Divorced;30;2006;White
+12539;White;Married;54;2006;White
+12540;White;Never married;21;2006;White
+12541;Other;Married;48;2006;Other
+12542;White;Divorced;45;2006;White
+12543;White;Married;33;2006;White
+12544;White;Married;63;2006;White
+12545;White;Divorced;63;2006;White
+12546;White;Married;53;2006;White
+12547;White;Married;59;2006;White
+12548;White;Widowed;84;2006;White
+12549;White;Married;75;2006;White
+12550;White;Married;22;2006;White
+12551;White;Never married;63;2006;White
+12552;White;Married;54;2006;White
+12553;White;Married;32;2006;White
+12554;White;Married;59;2006;White
+12555;White;Married;59;2006;White
+12556;White;Married;48;2006;White
+12557;White;Married;38;2006;White
+12558;White;Married;63;2006;White
+12559;White;Married;64;2006;White
+12560;White;Never married;40;2006;White
+12561;White;Divorced;38;2006;White
+12562;White;Married;53;2006;White
+12563;White;Married;47;2006;White
+12564;White;Divorced;22;2006;White
+12565;White;Married;37;2006;White
+12566;White;Divorced;51;2006;White
+12567;White;Separated;39;2006;White
+12568;White;Divorced;38;2006;White
+12569;White;Married;72;2006;White
+12570;White;Divorced;51;2006;White
+12571;Black;Never married;49;2006;Black
+12572;White;Married;55;2006;White
+12573;White;Married;73;2006;White
+12574;White;Married;59;2006;White
+12575;White;Divorced;66;2006;White
+12576;White;Married;39;2006;White
+12577;White;Never married;46;2006;White
+12578;White;Never married;31;2006;White
+12579;White;Married;42;2006;White
+12580;Other;Married;43;2006;Other
+12581;Other;Divorced;64;2006;Other
+12582;Other;Widowed;49;2006;Other
+12583;Other;Separated;51;2006;Other
+12584;White;Married;23;2006;White
+12585;Black;Married;36;2006;Black
+12586;White;Divorced;46;2006;White
+12587;Other;Divorced;45;2006;Other
+12588;Other;Divorced;44;2006;Other
+12589;Other;Separated;62;2006;Other
+12590;Other;Widowed;47;2006;Other
+12591;Other;Never married;43;2006;Other
+12592;Black;Divorced;63;2006;Black
+12593;White;Married;76;2006;White
+12594;White;Married;59;2006;White
+12595;White;Divorced;67;2006;White
+12596;Other;Married;39;2006;Other
+12597;Black;Widowed;56;2006;Black
+12598;White;Married;46;2006;White
+12599;Black;Divorced;53;2006;Black
+12600;Black;Never married;56;2006;Black

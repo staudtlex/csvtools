@@ -1,0 +1,301 @@
+obs;marital;race;age;relig;marital
+16501;Married;Other;76;Protestant;Married
+16502;Married;Other;71;Buddhism;Married
+16503;Married;Other;31;None;Married
+16504;Married;White;54;Protestant;Married
+16505;Never married;White;42;Catholic;Never married
+16506;Married;White;52;Catholic;Married
+16507;Widowed;White;84;Protestant;Widowed
+16508;Never married;White;59;Catholic;Never married
+16509;Widowed;White;86;Protestant;Widowed
+16510;Never married;White;39;None;Never married
+16511;Married;White;31;Catholic;Married
+16512;Married;White;43;Catholic;Married
+16513;Married;White;59;None;Married
+16514;Married;White;41;Catholic;Married
+16515;Never married;White;18;Catholic;Never married
+16516;Married;White;55;Protestant;Married
+16517;Divorced;White;52;None;Divorced
+16518;Divorced;White;66;Jewish;Divorced
+16519;Widowed;White;80;Protestant;Widowed
+16520;Separated;White;59;Protestant;Separated
+16521;Married;White;41;Protestant;Married
+16522;Married;White;68;None;Married
+16523;Married;White;43;Catholic;Married
+16524;Married;White;65;Protestant;Married
+16525;Married;White;47;None;Married
+16526;Divorced;White;46;None;Divorced
+16527;Widowed;White;80;Protestant;Widowed
+16528;Married;White;83;Catholic;Married
+16529;Divorced;White;57;None;Divorced
+16530;Married;White;61;Protestant;Married
+16531;Widowed;White;88;Jewish;Widowed
+16532;Never married;White;20;None;Never married
+16533;Widowed;White;62;Catholic;Widowed
+16534;Never married;White;60;Catholic;Never married
+16535;Married;White;57;None;Married
+16536;Separated;White;65;None;Separated
+16537;Married;White;49;None;Married
+16538;Married;White;32;None;Married
+16539;Divorced;White;52;None;Divorced
+16540;Married;White;85;Protestant;Married
+16541;Divorced;White;39;Christian;Divorced
+16542;Married;White;75;Protestant;Married
+16543;Married;White;37;Protestant;Married
+16544;Married;White;52;Protestant;Married
+16545;Married;White;29;Christian;Married
+16546;Widowed;White;82;Protestant;Widowed
+16547;Married;White;33;Protestant;Married
+16548;Married;White;43;Protestant;Married
+16549;Never married;White;60;None;Never married
+16550;Separated;White;45;Catholic;Separated
+16551;Married;White;63;Protestant;Married
+16552;Married;White;44;Catholic;Married
+16553;Married;White;43;Catholic;Married
+16554;Married;White;30;Protestant;Married
+16555;Married;White;60;None;Married
+16556;Married;White;47;Protestant;Married
+16557;Never married;White;28;Protestant;Never married
+16558;Never married;White;25;Protestant;Never married
+16559;Married;White;62;Protestant;Married
+16560;Widowed;White;49;None;Widowed
+16561;Never married;White;26;Protestant;Never married
+16562;Married;Black;56;Protestant;Married
+16563;Never married;White;24;Catholic;Never married
+16564;Never married;White;41;None;Never married
+16565;Divorced;White;69;Buddhism;Divorced
+16566;Married;White;52;Protestant;Married
+16567;Married;White;51;Catholic;Married
+16568;Married;White;56;Catholic;Married
+16569;Married;White;69;Protestant;Married
+16570;Married;White;60;Protestant;Married
+16571;Divorced;White;67;None;Divorced
+16572;Married;White;57;Catholic;Married
+16573;Never married;White;23;None;Never married
+16574;Married;White;58;Protestant;Married
+16575;Never married;White;35;None;Never married
+16576;Divorced;White;59;Protestant;Divorced
+16577;Divorced;White;35;Catholic;Divorced
+16578;Married;White;39;Other;Married
+16579;Married;White;55;Protestant;Married
+16580;Divorced;White;69;Catholic;Divorced
+16581;Never married;White;31;None;Never married
+16582;Divorced;White;60;Catholic;Divorced
+16583;Married;Other;38;Christian;Married
+16584;Divorced;White;48;None;Divorced
+16585;Married;White;40;Protestant;Married
+16586;Never married;White;29;None;Never married
+16587;Widowed;Other;70;Catholic;Widowed
+16588;Never married;White;30;Protestant;Never married
+16589;Divorced;White;37;Protestant;Divorced
+16590;Married;White;64;Catholic;Married
+16591;Never married;White;30;None;Never married
+16592;Married;White;58;None;Married
+16593;Married;White;41;None;Married
+16594;Married;White;72;Protestant;Married
+16595;Married;White;50;Catholic;Married
+16596;Widowed;White;83;Catholic;Widowed
+16597;Widowed;White;82;Catholic;Widowed
+16598;Married;White;47;Catholic;Married
+16599;Married;White;50;Catholic;Married
+16600;Married;White;38;Protestant;Married
+16601;Married;White;88;Protestant;Married
+16602;Married;White;59;Catholic;Married
+16603;Divorced;White;51;Protestant;Divorced
+16604;Married;White;27;Christian;Married
+16605;Never married;White;19;Protestant;Never married
+16606;Divorced;White;40;Protestant;Divorced
+16607;Divorced;White;56;Other;Divorced
+16608;Separated;White;56;Protestant;Separated
+16609;Divorced;White;77;None;Divorced
+16610;Married;White;63;None;Married
+16611;Married;White;57;Protestant;Married
+16612;Married;White;72;Protestant;Married
+16613;Married;White;51;None;Married
+16614;Never married;White;46;Protestant;Never married
+16615;Widowed;White;78;Catholic;Widowed
+16616;Married;White;30;Catholic;Married
+16617;Widowed;White;74;Protestant;Widowed
+16618;Married;White;42;Protestant;Married
+16619;Married;White;61;Protestant;Married
+16620;Never married;White;37;Christian;Never married
+16621;Married;White;76;Protestant;Married
+16622;Divorced;White;50;Protestant;Divorced
+16623;Widowed;White;82;Protestant;Widowed
+16624;Divorced;White;47;Protestant;Divorced
+16625;Divorced;White;48;Protestant;Divorced
+16626;Married;White;52;Christian;Married
+16627;Widowed;White;75;Protestant;Widowed
+16628;Widowed;White;82;Protestant;Widowed
+16629;Married;White;34;Protestant;Married
+16630;Widowed;White;54;Catholic;Widowed
+16631;Married;White;25;Protestant;Married
+16632;Divorced;White;39;Protestant;Divorced
+16633;Married;White;46;Protestant;Married
+16634;Married;White;42;Protestant;Married
+16635;Married;White;58;Protestant;Married
+16636;Married;White;51;Protestant;Married
+16637;Married;White;50;Protestant;Married
+16638;Married;White;50;Protestant;Married
+16639;Married;White;37;Protestant;Married
+16640;Widowed;White;75;Protestant;Widowed
+16641;Widowed;White;61;Protestant;Widowed
+16642;Separated;White;29;None;Separated
+16643;Married;White;37;None;Married
+16644;Married;White;54;Protestant;Married
+16645;Never married;White;24;None;Never married
+16646;Married;White;32;None;Married
+16647;Married;White;30;Protestant;Married
+16648;Married;White;78;Protestant;Married
+16649;Never married;White;19;None;Never married
+16650;Married;White;45;None;Married
+16651;Married;White;61;Protestant;Married
+16652;Never married;White;67;Protestant;Never married
+16653;Divorced;White;50;None;Divorced
+16654;Married;White;35;Protestant;Married
+16655;Divorced;White;50;Protestant;Divorced
+16656;Married;White;41;None;Married
+16657;Married;White;57;Protestant;Married
+16658;Married;White;60;None;Married
+16659;Married;White;30;None;Married
+16660;Married;White;39;Protestant;Married
+16661;Widowed;White;82;Protestant;Widowed
+16662;Married;Other;43;Catholic;Married
+16663;Married;White;73;Protestant;Married
+16664;Married;White;82;Protestant;Married
+16665;Married;White;70;Protestant;Married
+16666;Separated;White;46;Catholic;Separated
+16667;Married;White;89 or older;Protestant;Married
+16668;Married;White;57;Protestant;Married
+16669;Married;White;62;Protestant;Married
+16670;Never married;White;41;Catholic;Never married
+16671;Married;White;57;Protestant;Married
+16672;Widowed;White;76;Catholic;Widowed
+16673;Married;White;38;Protestant;Married
+16674;Never married;White;69;None;Never married
+16675;Married;White;60;Catholic;Married
+16676;Married;White;66;None;Married
+16677;Married;White;34;Protestant;Married
+16678;Divorced;White;35;Christian;Divorced
+16679;Married;White;42;None;Married
+16680;Married;Black;37;None;Married
+16681;Never married;White;23;Christian;Never married
+16682;Never married;White;33;None;Never married
+16683;Married;White;62;Protestant;Married
+16684;Separated;White;52;Protestant;Separated
+16685;Married;Black;58;Catholic;Married
+16686;Married;Black;49;None;Married
+16687;Never married;Black;26;Protestant;Never married
+16688;Never married;Black;47;Christian;Never married
+16689;Divorced;White;32;Protestant;Divorced
+16690;Married;Black;42;Protestant;Married
+16691;Married;Other;30;Catholic;Married
+16692;Divorced;White;45;Protestant;Divorced
+16693;Married;White;61;Protestant;Married
+16694;Never married;White;26;Catholic;Never married
+16695;Married;White;68;Protestant;Married
+16696;Divorced;White;57;Protestant;Divorced
+16697;Married;White;36;Protestant;Married
+16698;Married;White;67;Protestant;Married
+16699;Married;White;45;Protestant;Married
+16700;Married;White;42;Protestant;Married
+16701;Divorced;Black;35;Protestant;Divorced
+16702;Married;White;37;Protestant;Married
+16703;Widowed;White;69;Protestant;Widowed
+16704;Married;White;61;Protestant;Married
+16705;Married;White;65;Protestant;Married
+16706;Married;White;52;Protestant;Married
+16707;Divorced;White;67;Protestant;Divorced
+16708;Married;White;62;Catholic;Married
+16709;Married;White;38;Protestant;Married
+16710;Married;Black;60;Protestant;Married
+16711;Never married;White;45;Protestant;Never married
+16712;Married;White;57;Protestant;Married
+16713;Married;White;62;Inter-nondenominational;Married
+16714;Married;White;40;Protestant;Married
+16715;Married;White;87;Protestant;Married
+16716;Divorced;White;65;Protestant;Divorced
+16717;Married;White;89 or older;Protestant;Married
+16718;Widowed;White;62;Protestant;Widowed
+16719;Widowed;White;87;Protestant;Widowed
+16720;Never married;Black;29;Protestant;Never married
+16721;Divorced;White;40;Protestant;Divorced
+16722;Married;White;36;Protestant;Married
+16723;Married;White;61;Protestant;Married
+16724;Married;White;24;Protestant;Married
+16725;Divorced;White;67;Protestant;Divorced
+16726;Married;White;42;Protestant;Married
+16727;Divorced;White;54;Protestant;Divorced
+16728;Married;White;45;Protestant;Married
+16729;Divorced;White;39;Protestant;Divorced
+16730;Married;White;64;Protestant;Married
+16731;Married;White;38;Protestant;Married
+16732;Married;White;54;Protestant;Married
+16733;Never married;White;21;None;Never married
+16734;Married;White;37;Protestant;Married
+16735;Married;White;32;Protestant;Married
+16736;Widowed;White;77;Inter-nondenominational;Widowed
+16737;Married;White;53;Protestant;Married
+16738;Married;White;46;Catholic;Married
+16739;Never married;White;31;Hinduism;Never married
+16740;Separated;White;48;Protestant;Separated
+16741;Married;White;33;Protestant;Married
+16742;Married;White;54;Protestant;Married
+16743;Married;White;50;Jewish;Married
+16744;Married;White;39;Catholic;Married
+16745;Married;White;46;Protestant;Married
+16746;Divorced;White;60;None;Divorced
+16747;Never married;Black;55;Catholic;Never married
+16748;Never married;Black;35;Protestant;Never married
+16749;Never married;Black;48;Protestant;Never married
+16750;Divorced;Black;30;Protestant;Divorced
+16751;Divorced;Black;62;Protestant;Divorced
+16752;Married;Black;57;Protestant;Married
+16753;Never married;Black;54;None;Never married
+16754;Married;White;63;No answer;Married
+16755;Widowed;White;55;Protestant;Widowed
+16756;Never married;Black;69;Protestant;Never married
+16757;Married;White;41;Protestant;Married
+16758;Married;White;58;Protestant;Married
+16759;Married;White;34;Protestant;Married
+16760;Divorced;White;32;Protestant;Divorced
+16761;Married;White;49;Protestant;Married
+16762;Married;White;65;Protestant;Married
+16763;Divorced;White;55;Protestant;Divorced
+16764;Divorced;White;56;Protestant;Divorced
+16765;Widowed;White;58;Protestant;Widowed
+16766;Married;White;63;Protestant;Married
+16767;Divorced;White;63;Protestant;Divorced
+16768;Widowed;White;74;Protestant;Widowed
+16769;Widowed;Black;84;Protestant;Widowed
+16770;Divorced;White;70;Protestant;Divorced
+16771;Married;White;46;No answer;Married
+16772;Never married;Black;25;Inter-nondenominational;Never married
+16773;Never married;Black;20;Protestant;Never married
+16774;Widowed;White;68;Protestant;Widowed
+16775;Never married;Black;31;None;Never married
+16776;Never married;Black;55;Protestant;Never married
+16777;Married;Black;69;Protestant;Married
+16778;Never married;Black;30;Protestant;Never married
+16779;Never married;Black;20;Protestant;Never married
+16780;Divorced;Black;59;Protestant;Divorced
+16781;Married;Black;59;Protestant;Married
+16782;Divorced;Black;47;Protestant;Divorced
+16783;Never married;Black;21;None;Never married
+16784;Never married;Black;59;Protestant;Never married
+16785;Never married;Black;22;Moslem/islam;Never married
+16786;Married;White;79;Protestant;Married
+16787;Married;White;36;Protestant;Married
+16788;Separated;White;65;Protestant;Separated
+16789;Separated;White;58;Protestant;Separated
+16790;Widowed;White;76;Protestant;Widowed
+16791;Married;White;70;Protestant;Married
+16792;Married;White;50;Protestant;Married
+16793;Married;White;32;Protestant;Married
+16794;Married;White;55;Protestant;Married
+16795;Divorced;White;51;Protestant;Divorced
+16796;Divorced;White;53;None;Divorced
+16797;Married;White;66;Protestant;Married
+16798;Married;White;67;Protestant;Married
+16799;Widowed;White;89 or older;Protestant;Widowed
+16800;Divorced;Black;43;Protestant;Divorced

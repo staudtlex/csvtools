@@ -23,24 +23,49 @@ package de.staudtlex.csvtools;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.io.BufferedReader;
+import java.io.ByteArrayOutputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class CombineCsvTest {
+  final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
+  final ByteArrayOutputStream errContent = new ByteArrayOutputStream();
+  final PrintStream originalOut = System.out;
+  final PrintStream originalErr = System.err;
+
+  @BeforeEach
+  private void setUpStreams() {
+    System.setOut(new PrintStream(outContent));
+    System.setErr(new PrintStream(errContent));
+  }
+
+  @AfterEach
+  private void restoreStreams() {
+    System.setOut(originalOut);
+    System.setErr(originalErr);
+  }
+
   @Test
   void testGetDistinct() {
     // strings
     String[] arrayWithoutDuplicates = {
-        "Neque", "porro", "quisquam", "est", "qui", "dolorem", "ipsum", "quia",
-        "dolor", "sit", "amet", "consectetur", "adipisci", "velit"
+        "Neque", "porro", "quisquam", "est,", "qui", "dolorem", "ipsum,",
+        "quia", "dolor", "sit,", "amet,", "consectetur", "adipisci",
+        "velit [...]."
     };
     String[] arrayWithDuplicates = {
-        "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est",
-        "qui", "qui", "dolorem", "ipsum", "quia", "dolor", "sit", "amet",
-        "consectetur", "adipisci", "quisquam", "velit", "ipsum"
+        "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est,",
+        "qui", "qui", "dolorem", "ipsum,", "quia", "dolor", "sit,", "amet,",
+        "consectetur", "adipisci", "quisquam", "velit [...].", "ipsum,"
     };
 
     // inputs lists
@@ -67,24 +92,66 @@ public class CombineCsvTest {
   }
 
   @Test
-  void testMakeDistinct() {
+  void testMainWithUniqueColumnNames() {
+    try {
+      String resourcePath = "src/test/resources/csv/";
+      String refFile = resourcePath + "reference-data/gss-append.csv";
+      BufferedReader reader = new BufferedReader(new FileReader(refFile));
+      String[] testFiles = CombineCsv.findFiles("resourcePath/gss-merge*.csv")
+          .stream().map(e -> e.getAbsolutePath()).toArray(String[]::new);
+      StringBuilder stringBuilder = new StringBuilder();
+      String line;
+      while ((line = reader.readLine()) != null) {
+        stringBuilder.append(line).append("\r\n");
+      }
+      CombineCsv.main(testFiles);
+      assertEquals(outContent.toString(), stringBuilder.toString());
+      reader.close();
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
 
+  @Test
+  void testMainWithDuplicatedColumnNames() {
+    try {
+      String resourcePath = "src/test/resources/csv/";
+      String refFile = resourcePath + "reference-data/gss-merge.csv";
+      String[] testFiles = CombineCsv.findFiles("resourcePath/gss-merge*.csv")
+          .stream().map(e -> e.getAbsolutePath()).toArray(String[]::new);
+      BufferedReader reader = new BufferedReader(new FileReader(refFile));
+      StringBuilder stringBuilder = new StringBuilder();
+      String line;
+      while ((line = reader.readLine()) != null) {
+        stringBuilder.append(line).append("\r\n");
+      }
+      CombineCsv.main(testFiles);
+      assertEquals(outContent.toString(), stringBuilder.toString());
+      reader.close();
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+  @Test
+  void testMakeDistinct() {
     // strings
     String[] arrayWithoutDuplicates = {
-        "Neque", "porro", "quisquam", "est", "qui", "dolorem", "ipsum", "quia",
-        "dolor", "sit", "amet", "consectetur", "adipisci", "velit"
+        "Neque", "porro", "quisquam", "est,", "qui", "dolorem", "ipsum,",
+        "quia", "dolor", "sit,", "amet,", "consectetur", "adipisci",
+        "velit [...]."
     };
     String[] arrayWithDuplicates = {
-        "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est",
-        "qui", "qui", "dolorem", "ipsum", "quia", "dolor", "sit", "amet",
-        "consectetur", "adipisci", "quisquam", "velit", "ipsum"
+        "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est,",
+        "qui", "qui", "dolorem", "ipsum,", "quia", "dolor", "sit,", "amet,",
+        "consectetur", "adipisci", "quisquam", "velit [...].", "ipsum,"
     };
     String[] arrayWithDuplicatesMadeUnique = {
         "Neque", "porro", "quisquam", "Neque__duplicated_1",
-        "quisquam__duplicated_1", "porro__duplicated_1", "est", "qui",
-        "qui__duplicated_1", "dolorem", "ipsum", "quia", "dolor", "sit", "amet",
-        "consectetur", "adipisci", "quisquam__duplicated_2", "velit",
-        "ipsum__duplicated_1"
+        "quisquam__duplicated_1", "porro__duplicated_1", "est,", "qui",
+        "qui__duplicated_1", "dolorem", "ipsum,", "quia", "dolor", "sit,",
+        "amet,", "consectetur", "adipisci", "quisquam__duplicated_2",
+        "velit [...].", "ipsum,__duplicated_1"
     };
 
     // inputs lists

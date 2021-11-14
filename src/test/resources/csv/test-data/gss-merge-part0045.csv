@@ -1,0 +1,301 @@
+obs;rincome;race;marital;year;age
+13201;Not applicable;White;Married;2008;78
+13202;$25000 or more;White;Divorced;2008;47
+13203;Lt $1000;White;Married;2008;42
+13204;$25000 or more;White;Never married;2008;32
+13205;Not applicable;White;Never married;2008;35
+13206;$25000 or more;White;Never married;2008;63
+13207;Not applicable;Black;Married;2008;36
+13208;$6000 to 6999;Black;Never married;2008;26
+13209;$25000 or more;Black;Divorced;2008;32
+13210;$25000 or more;Black;Married;2008;71
+13211;Not applicable;Black;Never married;2008;19
+13212;Not applicable;Black;Never married;2008;52
+13213;$5000 to 5999;Black;Never married;2008;36
+13214;$25000 or more;Black;Married;2008;57
+13215;$7000 to 7999;Black;Never married;2008;24
+13216;$25000 or more;Black;Separated;2008;42
+13217;Not applicable;White;Never married;2008;28
+13218;Not applicable;White;Never married;2008;19
+13219;$25000 or more;Other;Married;2008;46
+13220;$25000 or more;Black;Divorced;2008;43
+13221;Not applicable;White;Married;2008;75
+13222;$3000 to 3999;Black;Married;2008;40
+13223;$15000 - 19999;Other;Never married;2008;38
+13224;Not applicable;White;Married;2008;63
+13225;Not applicable;White;Widowed;2008;79
+13226;Refused;Black;Married;2008;40
+13227;$25000 or more;White;Married;2008;49
+13228;Not applicable;White;Married;2008;72
+13229;$25000 or more;Other;Never married;2008;38
+13230;$15000 - 19999;White;Never married;2008;23
+13231;$25000 or more;White;Married;2008;50
+13232;Not applicable;White;Widowed;2008;89 or older
+13233;$25000 or more;Black;Married;2008;48
+13234;Not applicable;White;Married;2008;71
+13235;Not applicable;Other;Never married;2008;19
+13236;Not applicable;White;Never married;2008;30
+13237;Refused;Black;Married;2008;55
+13238;Not applicable;Other;Widowed;2008;62
+13239;Not applicable;Other;Separated;2008;43
+13240;Not applicable;White;Married;2008;66
+13241;$25000 or more;Other;Married;2008;56
+13242;Not applicable;White;Married;2008;56
+13243;$15000 - 19999;White;Widowed;2008;78
+13244;Not applicable;White;Widowed;2008;89 or older
+13245;$25000 or more;White;Married;2008;51
+13246;$25000 or more;White;Divorced;2008;52
+13247;$1000 to 2999;Black;Married;2008;40
+13248;Not applicable;Black;Married;2008;57
+13249;Not applicable;Black;Divorced;2008;61
+13250;Refused;Black;Never married;2008;25
+13251;$20000 - 24999;Black;Separated;2008;44
+13252;$7000 to 7999;Black;Never married;2008;21
+13253;Not applicable;White;Married;2008;66
+13254;$20000 - 24999;White;Never married;2008;50
+13255;$10000 - 14999;White;Married;2008;45
+13256;$25000 or more;Black;Married;2008;52
+13257;$20000 - 24999;Black;Married;2008;45
+13258;$1000 to 2999;Black;Never married;2008;24
+13259;Not applicable;Black;Married;2008;70
+13260;Not applicable;Other;Married;2008;72
+13261;$25000 or more;Black;Never married;2008;28
+13262;$10000 - 14999;Other;Never married;2008;25
+13263;$25000 or more;White;Married;2008;58
+13264;Not applicable;White;Married;2008;62
+13265;$25000 or more;Black;Married;2008;60
+13266;$25000 or more;Other;Married;2008;49
+13267;$25000 or more;Black;Married;2008;47
+13268;Not applicable;White;Married;2008;34
+13269;$25000 or more;Black;Separated;2008;31
+13270;$15000 - 19999;Other;Married;2008;38
+13271;$10000 - 14999;White;Divorced;2008;44
+13272;$15000 - 19999;White;Never married;2008;24
+13273;Not applicable;White;Widowed;2008;77
+13274;Not applicable;White;Divorced;2008;45
+13275;$20000 - 24999;Other;Never married;2008;31
+13276;Refused;White;Married;2008;37
+13277;Not applicable;Other;Married;2008;38
+13278;Refused;Black;Never married;2008;24
+13279;Refused;White;Married;2008;56
+13280;$7000 to 7999;Black;Married;2008;40
+13281;$25000 or more;Black;Never married;2008;43
+13282;$20000 - 24999;White;Divorced;2008;48
+13283;Refused;Black;Never married;2008;30
+13284;$25000 or more;Black;Never married;2008;50
+13285;Refused;Black;Married;2008;49
+13286;Not applicable;White;Married;2008;32
+13287;Refused;Other;Divorced;2008;37
+13288;Not applicable;Black;Never married;2008;45
+13289;$10000 - 14999;White;Married;2008;64
+13290;$10000 - 14999;White;Married;2008;43
+13291;$6000 to 6999;White;Never married;2008;19
+13292;$25000 or more;White;Never married;2008;53
+13293;Not applicable;White;Widowed;2008;84
+13294;$25000 or more;White;Divorced;2008;63
+13295;Refused;White;Never married;2008;57
+13296;Not applicable;White;Widowed;2008;74
+13297;$7000 to 7999;Black;Widowed;2008;89 or older
+13298;Not applicable;Black;Never married;2008;20
+13299;$20000 - 24999;Black;Married;2008;28
+13300;Not applicable;White;Widowed;2008;84
+13301;Not applicable;White;Married;2008;60
+13302;$25000 or more;White;Never married;2008;25
+13303;$3000 to 3999;Black;Never married;2008;25
+13304;Not applicable;White;Married;2008;53
+13305;Not applicable;White;Divorced;2008;58
+13306;Not applicable;White;Married;2008;80
+13307;$25000 or more;White;Divorced;2008;45
+13308;$15000 - 19999;White;Married;2008;33
+13309;$25000 or more;White;Divorced;2008;64
+13310;$20000 - 24999;White;Married;2008;44
+13311;$20000 - 24999;White;Divorced;2008;41
+13312;Not applicable;White;Married;2008;68
+13313;$25000 or more;White;Divorced;2008;28
+13314;$10000 - 14999;White;Never married;2008;35
+13315;$10000 - 14999;Other;Married;2008;33
+13316;$25000 or more;White;Married;2008;57
+13317;$25000 or more;White;Married;2008;49
+13318;$25000 or more;Black;Married;2008;33
+13319;$8000 to 9999;White;Married;2008;24
+13320;$25000 or more;White;Married;2008;28
+13321;$25000 or more;White;Divorced;2008;56
+13322;$20000 - 24999;White;Married;2008;49
+13323;Not applicable;White;Married;2008;72
+13324;$25000 or more;White;Never married;2008;38
+13325;$25000 or more;Black;Divorced;2008;44
+13326;Not applicable;White;Never married;2008;22
+13327;$10000 - 14999;White;Never married;2008;20
+13328;Not applicable;Black;Never married;2008;23
+13329;Not applicable;White;Married;2008;89 or older
+13330;$10000 - 14999;White;Never married;2008;23
+13331;Not applicable;Other;Divorced;2008;43
+13332;No answer;White;Never married;2008;39
+13333;$25000 or more;Black;Divorced;2008;62
+13334;$15000 - 19999;Black;Never married;2008;36
+13335;$25000 or more;Other;Never married;2008;22
+13336;$25000 or more;Black;Never married;2008;33
+13337;$25000 or more;Black;Married;2008;56
+13338;Not applicable;Black;Never married;2008;36
+13339;Not applicable;Black;Never married;2008;31
+13340;$1000 to 2999;White;Never married;2008;24
+13341;$25000 or more;White;Married;2008;53
+13342;$25000 or more;White;Never married;2008;35
+13343;Not applicable;Black;Married;2008;68
+13344;$25000 or more;White;Never married;2008;29
+13345;$25000 or more;White;Never married;2008;30
+13346;Not applicable;Other;Married;2008;31
+13347;Not applicable;White;Divorced;2008;68
+13348;$25000 or more;White;Divorced;2008;57
+13349;$25000 or more;White;Married;2008;62
+13350;$7000 to 7999;White;Widowed;2008;80
+13351;Lt $1000;Black;Never married;2008;21
+13352;$10000 - 14999;White;Separated;2008;46
+13353;$10000 - 14999;Other;Married;2008;40
+13354;$3000 to 3999;Other;Never married;2008;20
+13355;Not applicable;White;Married;2008;35
+13356;Not applicable;White;Divorced;2008;73
+13357;Not applicable;White;Married;2008;51
+13358;$25000 or more;White;Married;2008;60
+13359;Not applicable;White;Married;2008;58
+13360;$3000 to 3999;Other;Never married;2008;19
+13361;Not applicable;White;Married;2008;64
+13362;$25000 or more;Other;Married;2008;39
+13363;$25000 or more;White;Married;2008;31
+13364;$25000 or more;White;Married;2008;44
+13365;Refused;White;Divorced;2008;47
+13366;$25000 or more;White;Married;2008;36
+13367;Not applicable;White;Never married;2008;19
+13368;$25000 or more;White;Married;2008;31
+13369;$25000 or more;White;Married;2008;51
+13370;$25000 or more;White;Divorced;2008;37
+13371;$4000 to 4999;White;Never married;2008;23
+13372;$25000 or more;White;Married;2008;56
+13373;$25000 or more;White;Married;2008;56
+13374;$25000 or more;White;Married;2008;31
+13375;$25000 or more;White;Never married;2008;29
+13376;Not applicable;White;Married;2008;62
+13377;$7000 to 7999;White;Divorced;2008;52
+13378;$10000 - 14999;Other;Married;2008;64
+13379;Not applicable;White;Widowed;2008;76
+13380;$25000 or more;White;Divorced;2008;60
+13381;$3000 to 3999;Other;Never married;2008;38
+13382;$20000 - 24999;Other;Never married;2008;33
+13383;Not applicable;White;Married;2008;73
+13384;$25000 or more;White;Married;2008;54
+13385;Not applicable;White;Never married;2008;28
+13386;$25000 or more;Other;Divorced;2008;40
+13387;Not applicable;Black;Never married;2008;20
+13388;Not applicable;Black;Never married;2008;22
+13389;$1000 to 2999;Black;Separated;2008;23
+13390;$20000 - 24999;Black;Separated;2008;31
+13391;$15000 - 19999;White;Married;2008;50
+13392;$25000 or more;Black;Married;2008;28
+13393;$25000 or more;White;Married;2008;39
+13394;Not applicable;White;Married;2008;48
+13395;Not applicable;White;Married;2008;37
+13396;$25000 or more;White;Married;2008;65
+13397;Not applicable;White;Married;2008;43
+13398;Refused;White;Married;2008;52
+13399;$25000 or more;White;Never married;2008;29
+13400;Not applicable;White;Never married;2008;24
+13401;Not applicable;White;Never married;2008;71
+13402;$15000 - 19999;Other;Never married;2008;42
+13403;$25000 or more;White;Married;2008;42
+13404;$4000 to 4999;White;Never married;2008;20
+13405;Not applicable;White;Widowed;2008;74
+13406;$25000 or more;Other;Married;2008;42
+13407;Not applicable;White;Married;2008;39
+13408;Not applicable;White;Married;2008;71
+13409;$25000 or more;White;Married;2008;62
+13410;Refused;White;Married;2008;42
+13411;No answer;White;Never married;2008;20
+13412;$25000 or more;White;Married;2008;47
+13413;$25000 or more;White;Divorced;2008;46
+13414;$25000 or more;White;Married;2008;46
+13415;$25000 or more;Other;Never married;2008;31
+13416;No answer;White;Married;2008;40
+13417;$10000 - 14999;White;Divorced;2008;57
+13418;$25000 or more;White;Divorced;2008;57
+13419;$25000 or more;White;Divorced;2008;38
+13420;$25000 or more;White;Married;2008;45
+13421;$3000 to 3999;White;Married;2008;48
+13422;$10000 - 14999;White;Married;2008;54
+13423;$25000 or more;White;Married;2008;45
+13424;Not applicable;White;Never married;2008;65
+13425;$25000 or more;Other;Divorced;2008;37
+13426;Lt $1000;Other;Married;2008;35
+13427;Not applicable;White;Widowed;2008;71
+13428;$25000 or more;White;Married;2008;54
+13429;$5000 to 5999;Black;Never married;2008;23
+13430;Not applicable;Black;Never married;2008;24
+13431;$4000 to 4999;Black;Never married;2008;22
+13432;Not applicable;White;Never married;2008;50
+13433;$25000 or more;Black;Married;2008;27
+13434;No answer;Black;Divorced;2008;50
+13435;$10000 - 14999;White;Married;2008;19
+13436;$25000 or more;White;Married;2008;51
+13437;$25000 or more;White;Married;2008;51
+13438;$20000 - 24999;White;Married;2008;25
+13439;Refused;Other;Never married;2008;39
+13440;$20000 - 24999;White;Never married;2008;29
+13441;$20000 - 24999;White;Married;2008;53
+13442;$20000 - 24999;White;Never married;2008;26
+13443;Refused;White;Divorced;2008;37
+13444;$25000 or more;White;Married;2008;62
+13445;$3000 to 3999;White;Married;2008;30
+13446;$1000 to 2999;Black;Never married;2008;19
+13447;No answer;White;Married;2008;No answer
+13448;$1000 to 2999;White;Never married;2008;19
+13449;$15000 - 19999;Other;Never married;2008;32
+13450;Not applicable;White;Never married;2008;44
+13451;$25000 or more;White;Widowed;2008;63
+13452;$25000 or more;Black;Divorced;2008;49
+13453;$25000 or more;White;Divorced;2008;33
+13454;Not applicable;White;Separated;2008;62
+13455;$10000 - 14999;Other;Married;2008;50
+13456;Not applicable;White;Widowed;2008;81
+13457;$15000 - 19999;White;Married;2008;56
+13458;Not applicable;White;Married;2008;62
+13459;Not applicable;White;Married;2008;78
+13460;Not applicable;White;Divorced;2008;86
+13461;Not applicable;White;Married;2008;65
+13462;Lt $1000;White;Never married;2008;65
+13463;$25000 or more;White;Married;2008;58
+13464;$25000 or more;Other;Never married;2008;26
+13465;Not applicable;White;Divorced;2008;68
+13466;$1000 to 2999;White;Never married;2008;20
+13467;$25000 or more;Other;Never married;2008;23
+13468;$25000 or more;White;Never married;2008;29
+13469;Not applicable;White;Widowed;2008;73
+13470;$20000 - 24999;White;Divorced;2008;37
+13471;$25000 or more;White;Married;2008;61
+13472;$15000 - 19999;White;Never married;2008;36
+13473;$25000 or more;Black;Separated;2008;53
+13474;$15000 - 19999;Black;Married;2008;64
+13475;$25000 or more;White;Married;2008;28
+13476;$25000 or more;White;Married;2008;64
+13477;Not applicable;Other;Separated;2008;75
+13478;Not applicable;White;Never married;2008;19
+13479;$25000 or more;White;Married;2008;52
+13480;Not applicable;White;Widowed;2008;44
+13481;$25000 or more;White;Divorced;2008;44
+13482;$25000 or more;White;Never married;2008;26
+13483;$20000 - 24999;Black;Never married;2008;20
+13484;$20000 - 24999;Black;Married;2008;33
+13485;$1000 to 2999;White;Never married;2008;23
+13486;$8000 to 9999;White;Married;2008;70
+13487;$25000 or more;White;Divorced;2008;36
+13488;Don't know;Black;Never married;2008;51
+13489;$1000 to 2999;White;Never married;2008;25
+13490;$25000 or more;White;Never married;2008;61
+13491;$25000 or more;White;Married;2008;35
+13492;$25000 or more;White;Married;2008;35
+13493;Not applicable;White;Widowed;2008;70
+13494;$10000 - 14999;White;Married;2008;47
+13495;Don't know;White;Married;2008;23
+13496;Not applicable;White;Married;2008;82
+13497;$25000 or more;White;Never married;2008;51
+13498;$10000 - 14999;White;Divorced;2008;69
+13499;No answer;White;Married;2008;52
+13500;$25000 or more;White;Never married;2008;53

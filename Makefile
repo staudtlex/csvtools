@@ -32,6 +32,8 @@ SRCDIR = src/main/java/de/staudtlex/csvtools
 TARGETDIR = target
 CLASSDIR = $(TARGETDIR)/classes
 TMPDIR = $(TARGETDIR)/tmp
+TESTDATADIR = src/test/resources/csv/test-data
+TESTRESULTDIR = $(TARGETDIR)/test-result-data
 
 CCSV_VERSION = 1.9.0
 CCSV_JAR = commons-csv-$(CCSV_VERSION).jar
@@ -101,19 +103,40 @@ $(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(CCSV_JAR) $(TMPDIR) compile
 
 
 # Example: run example
-.PHONY: examples jar-example.csv uber-jar-example.csv
+.PHONY: examples \
+	$(TESTRESULTDIR)/jar-append-example.csv \
+	$(TESTRESULTDIR)/uber-jar-append-example.csv \
+	$(TESTRESULTDIR)/jar-merge-example.csv \
+	$(TESTRESULTDIR)/uber-jar-merge-example.csv 
 
-examples: jar-example.csv uber-jar-example.csv
+$(TESTRESULTDIR):
+	@[ -d $@ ] || mkdir -p $@;
 
-jar-example.csv: jar
+examples: \
+	$(TESTRESULTDIR)/jar-append-example.csv \
+	$(TESTRESULTDIR)/uber-jar-append-example.csv \
+	$(TESTRESULTDIR)/jar-merge-example.csv \
+	$(TESTRESULTDIR)/uber-jar-merge-example.csv 
+
+$(TESTRESULTDIR)/jar-append-example.csv: jar $(TESTRESULTDIR)
 	$(info *** Run example (see $@) ***)
 	@$(JAVA) -classpath $(LIBDIR)/$(CCSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
-	de.staudtlex.csvtools.CombineCsv csv/*.csv > $@
+	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-append-*.csv > $@
 
-uber-jar-example.csv: uber-jar
+$(TESTRESULTDIR)/uber-jar-append-example.csv: uber-jar $(TESTRESULTDIR)
 	$(info *** Run example (see $@) ***)
-	@$(JAVA) -jar $(TARGETDIR)/$(PACKAGE_UBER_JAR) csv/*.csv > $@
+	@$(JAVA) -jar $(TARGETDIR)/$(PACKAGE_UBER_JAR) \
+	$(TESTDATADIR)/gss-append-*.csv > $@
 
+$(TESTRESULTDIR)/jar-merge-example.csv: jar $(TESTRESULTDIR)
+	$(info *** Run example (see $@) ***)
+	@$(JAVA) -classpath $(LIBDIR)/$(CCSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
+	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-merge-*.csv > $@
+
+$(TESTRESULTDIR)/uber-jar-merge-example.csv: uber-jar $(TESTRESULTDIR)
+	$(info *** Run example (see $@) ***)
+	@$(JAVA) -jar $(TARGETDIR)/$(PACKAGE_UBER_JAR) \
+	$(TESTDATADIR)/gss-merge*.csv > $@
 
 # Cleanup: remove artifacts created by make targets
 .PHONY: clean clean_targets clean_libs clean_examples 
@@ -123,7 +146,7 @@ clean: clean_targets
 clean_all: clean_targets clean_libs clean_examples
 
 clean_examples:
-	@rm -f jar-example.csv uber-jar-example.csv
+	@rm -f $(TESTRESULTDIR)/*-example.csv
 
 clean_targets:
 	@rm -rf $(TARGETDIR)
