@@ -17,7 +17,8 @@
 #     NOTE
 # =============================================================================
 # csvtools is intended to be built with Maven. In case Maven is not available 
-# on your system, use this makefile to build and package csvtools.  
+# on your system but make is, use this makefile to build, test, and package 
+# csvtools.
 
 # =============================================================================
 #     Main variables
@@ -26,17 +27,25 @@
 JAVAC = javac
 JAR = jar
 JAVA = java
+BOOTCLASSPATH_FLAG = 
 
 LIBDIR = lib
 SRCDIR = src/main/java/de/staudtlex/csvtools
 TARGETDIR = target
 CLASSDIR = $(TARGETDIR)/classes
 TMPDIR = $(TARGETDIR)/tmp
+TESTSRCDIR = src/test/java/de/staudtlex/csvtools
+TESTCLASSDIR = $(TARGETDIR)/test-classes
 TESTDATADIR = src/test/resources/csv/test-data
-TESTRESULTDIR = $(TARGETDIR)/test-result-data
+RESULTDIR = $(TARGETDIR)/test-result-data
 
-CCSV_VERSION = 1.9.0
-CCSV_JAR = commons-csv-$(CCSV_VERSION).jar
+COMMONS_CSV_VERSION = 1.9.0
+COMMONS_CSV_JAR = commons-csv-$(COMMONS_CSV_VERSION).jar
+COMMONS_CSV_URL = https://repo1.maven.org/maven2/org/apache/commons/commons-csv/$(COMMONS_CSV_VERSION)/$(COMMONS_CSV_JAR)
+
+JUNIT_CONSOLE_STANDALONE_VERSION = 1.8.1
+JUNIT_CONSOLE_STANDALONE_JAR = junit-platform-console-standalone-$(JUNIT_CONSOLE_STANDALONE_VERSION).jar
+JUNIT_CONSOLE_STANDALONE_URL = https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/$(JUNIT_CONSOLE_STANDALONE_VERSION)/$(JUNIT_CONSOLE_STANDALONE_JAR)
 
 VERSION = 1.0.0
 JAR_NAME = combine-csv-$(VERSION)
@@ -51,50 +60,69 @@ PACKAGE_UBER_JAR = $(JAR_NAME)-jar-with-dependencies.jar
 all: jar uber-jar
 
 
-# Get commons-csv-1.9.0.jar (build and runtime dependency)
+# Get build, runtime, and test dependencies
+deps: \
+	$(LIBDIR) \
+	$(LIBDIR)/$(COMMONS_CSV_JAR) \
+	$(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR)
+
 $(LIBDIR):
 	@[ -d $@ ] || mkdir -p $@;
 
-$(LIBDIR)/$(CCSV_JAR): $(LIBDIR)
-	$(info *** Download dependency ($(PACKAGE_JAR)) ***)
+$(LIBDIR)/$(COMMONS_CSV_JAR): $(LIBDIR)
+	$(info *** Download dependency ($(COMMONS_CSV_JAR)) ***)
 	@if command -v curl; then \
-		curl -s -O https://repo1.maven.org/maven2/org/apache/commons/commons-csv/$(CCSV_VERSION)/$(CCSV_JAR) -o $(CCSV_JAR); \
-		mv $(CCSV_JAR) $@; \
+		curl -s -O $(COMMONS_CSV_URL) -o $(COMMONS_CSV_JAR); \
+		mv $(COMMONS_CSV_JAR) $@; \
 	elif command -v wget; then \
-		wget -P $< "https://repo1.maven.org/maven2/org/apache/commons/commons-csv/$(CCSV_VERSION)/$(CCSV_JAR)"; \
+		wget -P $< "$(COMMONS_CSV_URL)"; \
+	else \
+		echo "Neither curl nor wget installed."; \
+	fi; 
+
+$(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR): $(LIBDIR)
+	$(info *** Download dependency ($(JUNIT_CONSOLE_STANDALONE_JAR)) ***)
+	@if command -v curl; then \
+		curl -s -O $(JUNIT_CONSOLE_STANDALONE_URL) -o $(JUNIT_CONSOLE_STANDALONE_JAR); \
+		mv $(JUNIT_CONSOLE_STANDALONE_JAR) $@; \
+	elif command -v wget; then \
+		wget -P $< "$(JUNIT_CONSOLE_STANDALONE_URL)"; \
 	else \
 		echo "Neither curl nor wget installed."; \
 	fi; 
 
 
 # Compile: generate class files
-.PHONY: compile
+.PHONY: classes
 
 $(CLASSDIR):
 	@[ -d $@ ] || mkdir -p $@;
 
-compile: $(CLASSDIR) $(LIBDIR)/$(CCSV_JAR)
+classes: $(CLASSDIR) $(LIBDIR)/$(COMMONS_CSV_JAR)
 	$(info *** Compile source files ***)
-	@$(JAVAC) -classpath $(LIBDIR)/$(CCSV_JAR) $(SRCDIR)/*.java \
-	-target 1.8 -source 1.8 -encoding utf8 -d $(CLASSDIR)
+	@$(JAVAC) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR) $(SRCDIR)/*.java \
+	-target 1.8 -source 1.8 $(BOOTCLASSPATH_FLAG) -encoding utf8 -d $(CLASSDIR)
 
 
 # Create jar
 jar: $(TARGETDIR)/$(PACKAGE_JAR)
-$(TARGETDIR)/$(PACKAGE_JAR): $(CLASSDIR) compile
+
+$(TARGETDIR)/$(PACKAGE_JAR): $(CLASSDIR) classes
 	$(info *** Create jar $@ ***)
 	@$(JAR) -cfe $@ \
 		de.staudtlex.csvtools.CombineCsv \
 		-C $< de
+
 
 # Create uber-jar
 $(TMPDIR):
 	@[ -d $@ ] || mkdir -p $@;
 
 uber-jar: $(TARGETDIR)/$(PACKAGE_UBER_JAR)
-$(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(CCSV_JAR) $(TMPDIR) compile 
+
+$(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(COMMONS_CSV_JAR) $(TMPDIR) classes
 	$(info *** Create uber-jar $(PACKAGE_UBER_JAR) ***)
-	@(cp $< $(TMPDIR)/ && cd $(TMPDIR) && $(JAR) -xf $(CCSV_JAR)) && \
+	@(cp $< $(TMPDIR)/ && cd $(TMPDIR) && $(JAR) -xf $(COMMONS_CSV_JAR)) && \
 	$(JAR) -cfe $@ \
 		de.staudtlex.csvtools.CombineCsv \
 		-C $(CLASSDIR) de \
@@ -102,41 +130,62 @@ $(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(CCSV_JAR) $(TMPDIR) compile
 		-C $(TMPDIR) META-INF
 
 
+# Compile test-classes
+$(TESTCLASSDIR):
+	@[ -d $@ ] || mkdir -p $@;
+
+test-classes: $(TESTCLASSDIR) $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR) classes
+	$(info *** Compile test source files ***)
+	@$(JAVAC) -classpath $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR):$(CLASSDIR)/ \
+	$(TESTSRCDIR)/*.java \
+	-target 1.8 -source 1.8 $(BOOTCLASSPATH_FLAG) -encoding utf8 -d $(TESTCLASSDIR)
+
+
+# Run tests
+test: test-classes
+	$(info *** Run JUnit tests ***)
+	java -jar $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR) \
+		-cp $(TESTCLASSDIR):$(CLASSDIR):$(LIBDIR)/$(COMMONS_CSV_JAR) \
+		--select-package de.staudtlex.csvtools
+
+
 # Example: run example
 .PHONY: examples \
-	$(TESTRESULTDIR)/jar-append-example.csv \
-	$(TESTRESULTDIR)/uber-jar-append-example.csv \
-	$(TESTRESULTDIR)/jar-merge-example.csv \
-	$(TESTRESULTDIR)/uber-jar-merge-example.csv 
+	$(RESULTDIR)/jar-append-example.csv \
+	$(RESULTDIR)/uber-jar-append-example.csv \
+	$(RESULTDIR)/jar-merge-example.csv \
+	$(RESULTDIR)/uber-jar-merge-example.csv 
 
-$(TESTRESULTDIR):
+$(RESULTDIR):
 	@[ -d $@ ] || mkdir -p $@;
 
 examples: \
-	$(TESTRESULTDIR)/jar-append-example.csv \
-	$(TESTRESULTDIR)/uber-jar-append-example.csv \
-	$(TESTRESULTDIR)/jar-merge-example.csv \
-	$(TESTRESULTDIR)/uber-jar-merge-example.csv 
+	$(RESULTDIR)/jar-append-example.csv \
+	$(RESULTDIR)/uber-jar-append-example.csv \
+	$(RESULTDIR)/jar-merge-example.csv \
+	$(RESULTDIR)/uber-jar-merge-example.csv 
+	cd $(RESULTDIR) && dos2unix *
 
-$(TESTRESULTDIR)/jar-append-example.csv: jar $(TESTRESULTDIR)
+$(RESULTDIR)/jar-append-example.csv: jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
 	@$(JAVA) -classpath $(LIBDIR)/$(CCSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
 	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-append-*.csv > $@
 
-$(TESTRESULTDIR)/uber-jar-append-example.csv: uber-jar $(TESTRESULTDIR)
+$(RESULTDIR)/uber-jar-append-example.csv: uber-jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
 	@$(JAVA) -jar $(TARGETDIR)/$(PACKAGE_UBER_JAR) \
 	$(TESTDATADIR)/gss-append-*.csv > $@
 
-$(TESTRESULTDIR)/jar-merge-example.csv: jar $(TESTRESULTDIR)
+$(RESULTDIR)/jar-merge-example.csv: jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
 	@$(JAVA) -classpath $(LIBDIR)/$(CCSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
 	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-merge-*.csv > $@
 
-$(TESTRESULTDIR)/uber-jar-merge-example.csv: uber-jar $(TESTRESULTDIR)
+$(RESULTDIR)/uber-jar-merge-example.csv: uber-jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
 	@$(JAVA) -jar $(TARGETDIR)/$(PACKAGE_UBER_JAR) \
 	$(TESTDATADIR)/gss-merge*.csv > $@
+
 
 # Cleanup: remove artifacts created by make targets
 .PHONY: clean clean_targets clean_libs clean_examples 
@@ -146,7 +195,7 @@ clean: clean_targets
 clean_all: clean_targets clean_libs clean_examples
 
 clean_examples:
-	@rm -f $(TESTRESULTDIR)/*-example.csv
+	@rm -f $(RESULTDIR)/*-example.csv
 
 clean_targets:
 	@rm -rf $(TARGETDIR)

@@ -259,8 +259,9 @@ public class CombineCsv {
     /**
      * Creates a CsvData instance from the specified records.
      * 
-     * @param records the list of records (as {@code List<Map<String, String>>})
-     *                  from which to create the CsvData instance
+     * @param records the list of records (as
+     *                  {@code List<LinkedHashMap<String, String>>}) from which
+     *                  to create the CsvData instance
      */
     public CsvData(List<LinkedHashMap<String, String>> records) {
       this.records = records;

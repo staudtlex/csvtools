@@ -180,4 +180,59 @@ public class CombineCsvTest {
 
   }
 
+  @Test
+  void testReadRegularHeader() {
+    // write:
+    // - regular header (no duplicates)
+    assertEquals(Arrays.asList(new String[] {
+        "obs", "year", "age", "denom", "relig", "partyid", "rincome", "race",
+        "marital", "tvhours"
+    }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-1.csv"));
+  }
+
+  @Test
+  void testReadHeaderWithDuplicates() {
+    // - header with duplicates
+    assertEquals(Arrays.asList(new String[] {
+        "obs", "year", "age", "denom", "relig", "partyid", "rincome", "race",
+        "marital", "tvhours", "year", "age", "denom"
+    }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-2.csv"));
+  }
+
+  @Test
+  void testReadHeaderWithCommaSeparatedColumnNames() {
+    // - header with comma-separated columns (yields list with single string)
+    assertEquals(Arrays.asList(new String[] {
+        "obs,year,age,denom,relig,partyid,rincome,race,marital,tvhours"
+    }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-3.csv"));
+  }
+
+  @Test
+  void testReadHeaderWithDoubleQuotedColumnNames() {
+    // - header with double-quoted column names
+    assertEquals(Arrays.asList(new String[] {
+        "obs", "year", "age", "denom", "relig", "partyid", "rincome", "race",
+        "marital", "tvhours"
+    }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-4.csv"));
+  }
+
+  @Test
+  void testReadHeaderWithSingleQuotedColumnNames() {
+    // - header with single-quoted column names
+    assertEquals(Arrays.asList(new String[] {
+        "'obs'", "'year'", "'age'", "'denom'", "'relig'", "'partyid'",
+        "'rincome'", "'race'", "'marital'", "'tvhours'"
+    }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-5.csv"));
+  }
+
+  @Test
+  void testReadHeaderWithEscapedDoubleQuotes() {
+    // - header with escaped double quotes and double-quoted single quotes
+    assertEquals(Arrays.asList(new String[] {
+        "obs", "year \";\"", "age \"(in years)\"", "denom", "relig", "partyid",
+        "rincome", "race", "marital",
+        "tvhours \"'double-quoted single quotes'\""
+    }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-6.csv"));
+  }
+
 }
