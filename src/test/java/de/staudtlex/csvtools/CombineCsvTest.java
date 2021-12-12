@@ -31,6 +31,7 @@ import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.LinkedHashSet;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -57,38 +58,38 @@ public class CombineCsvTest {
   @Test
   void testGetDistinct() {
     // strings
-    String[] arrayWithoutDuplicates = {
+    String[] withoutDupl = {
         "Neque", "porro", "quisquam", "est,", "qui", "dolorem", "ipsum,",
         "quia", "dolor", "sit,", "amet,", "consectetur", "adipisci",
         "velit [...]."
     };
-    String[] arrayWithDuplicates = {
+    String[] withDupl = {
         "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est,",
         "qui", "qui", "dolorem", "ipsum,", "quia", "dolor", "sit,", "amet,",
         "consectetur", "adipisci", "quisquam", "velit [...].", "ipsum,"
     };
 
     // inputs lists
-    List<String> listWithoutDuplicates = Arrays.asList(arrayWithoutDuplicates);
-    List<String> listWithDuplicates = Arrays.asList(arrayWithDuplicates);
+    List<String> listWithoutDupl = Arrays.asList(withoutDupl);
+    List<String> listWithDupl = Arrays.asList(withDupl);
     List<String> singletonList = Arrays.asList("Neque");
     List<String> emptyList = new ArrayList<String>();
 
     // expected results
-    List<String> referenceListWithoutDuplicates = Arrays
-        .asList(arrayWithoutDuplicates);
-    List<String> referenceListWithDuplicatesMadeUnique = Arrays
-        .asList(arrayWithoutDuplicates);
-    List<String> referenceSingletonList = Arrays.asList("Neque");
-    List<String> referenceEmptyList = new ArrayList<String>();
+    LinkedHashSet<String> refListWithoutDupl = new LinkedHashSet<>(
+        Arrays.asList(withoutDupl));
+    LinkedHashSet<String> refListWithDuplMadeUnique = new LinkedHashSet<>(
+        Arrays.asList(withoutDupl));
+    LinkedHashSet<String> refSingletonList = new LinkedHashSet<>(
+        Arrays.asList("Neque"));
+    LinkedHashSet<String> refEmptyList = new LinkedHashSet<>();
 
     // run tests
-    assertEquals(referenceListWithoutDuplicates,
-        CombineCsv.getDistinct(listWithoutDuplicates));
-    assertEquals(referenceListWithDuplicatesMadeUnique,
-        CombineCsv.getDistinct(listWithDuplicates));
-    assertEquals(referenceSingletonList, CombineCsv.getDistinct(singletonList));
-    assertEquals(referenceEmptyList, CombineCsv.getDistinct(emptyList));
+    assertEquals(refListWithoutDupl, CombineCsv.getDistinct(listWithoutDupl));
+    assertEquals(refListWithDuplMadeUnique,
+        CombineCsv.getDistinct(listWithDupl));
+    assertEquals(refSingletonList, CombineCsv.getDistinct(singletonList));
+    assertEquals(refEmptyList, CombineCsv.getDistinct(emptyList));
   }
 
   @Test
@@ -136,17 +137,17 @@ public class CombineCsvTest {
   @Test
   void testMakeDistinct() {
     // strings
-    String[] arrayWithoutDuplicates = {
+    String[] withoutDupl = {
         "Neque", "porro", "quisquam", "est,", "qui", "dolorem", "ipsum,",
         "quia", "dolor", "sit,", "amet,", "consectetur", "adipisci",
         "velit [...]."
     };
-    String[] arrayWithDuplicates = {
+    String[] withDupl = {
         "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est,",
         "qui", "qui", "dolorem", "ipsum,", "quia", "dolor", "sit,", "amet,",
         "consectetur", "adipisci", "quisquam", "velit [...].", "ipsum,"
     };
-    String[] arrayWithDuplicatesMadeUnique = {
+    String[] withDuplMadeUnique = {
         "Neque", "porro", "quisquam", "Neque__duplicated_1",
         "quisquam__duplicated_1", "porro__duplicated_1", "est,", "qui",
         "qui__duplicated_1", "dolorem", "ipsum,", "quia", "dolor", "sit,",
@@ -155,27 +156,28 @@ public class CombineCsvTest {
     };
 
     // inputs lists
-    List<String> listWithoutDuplicates = Arrays.asList(arrayWithoutDuplicates);
-    List<String> listWithDuplicates = Arrays.asList(arrayWithDuplicates);
+    List<String> listWithoutDupl = Arrays.asList(withoutDupl);
+    List<String> listWithDupl = Arrays.asList(withDupl);
     List<String> singletonList = Arrays.asList("Neque");
     List<String> emptyList = new ArrayList<String>();
 
     // expected results
-    List<String> referenceListWithoutDuplicates = Arrays
-        .asList(arrayWithoutDuplicates);
-    List<String> referenceListWithDuplicatesMadeUnique = Arrays
-        .asList(arrayWithDuplicatesMadeUnique);
-    List<String> referenceSingletonList = Arrays.asList("Neque");
-    List<String> referenceEmptyList = new ArrayList<String>();
+    LinkedHashSet<String> refListWithoutDupl = new LinkedHashSet<>(
+        Arrays.asList(withoutDupl));
+    LinkedHashSet<String> refListWithDuplMadeUnique = new LinkedHashSet<>(
+        Arrays.asList(withDuplMadeUnique));
+    LinkedHashSet<String> refSingletonList = new LinkedHashSet<>(
+        Arrays.asList("Neque"));
+    LinkedHashSet<String> refEmptyList = new LinkedHashSet<String>();
 
     // run tests
-    assertEquals(referenceListWithoutDuplicates,
-        CombineCsv.makeDistinct(listWithoutDuplicates, "__duplicated_"));
-    assertEquals(referenceListWithDuplicatesMadeUnique,
-        CombineCsv.makeDistinct(listWithDuplicates, "__duplicated_"));
-    assertEquals(referenceSingletonList,
+    assertEquals(refListWithoutDupl,
+        CombineCsv.makeDistinct(listWithoutDupl, "__duplicated_"));
+    assertEquals(refListWithDuplMadeUnique,
+        CombineCsv.makeDistinct(listWithDupl, "__duplicated_"));
+    assertEquals(refSingletonList,
         CombineCsv.makeDistinct(singletonList, "__duplicated_"));
-    assertEquals(referenceEmptyList,
+    assertEquals(refEmptyList,
         CombineCsv.makeDistinct(emptyList, "__duplicated_"));
 
   }

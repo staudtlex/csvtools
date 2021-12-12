@@ -4,10 +4,10 @@ _combine-csv_ is a Java tool to combine CSV-formatted files into a single file. 
 
 ## Dependencies
 
-- Java OpenJDK (version 8 or higher)
+- OpenJDK (version 8 or higher)
 - Maven (or GNU make)
 - Apache Commons CSV (see [https://commons.apache.org/proper/commons-csv/](https://commons.apache.org/proper/commons-csv/))
-- JUnit ConsoleLauncher (see [https://junit.org/junit5/docs/current/user-guide/#running-tests-console-launcher](https://junit.org/junit5/docs/current/user-guide/#running-tests-console-launcher))
+- JUnit ConsoleLauncher (required for testing only; see [https://junit.org/junit5/docs/current/user-guide/#running-tests-console-launcher](https://junit.org/junit5/docs/current/user-guide/#running-tests-console-launcher))
 
 ## Build and test
 

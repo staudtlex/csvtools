@@ -37,7 +37,7 @@ TMPDIR = $(TARGETDIR)/tmp
 TESTSRCDIR = src/test/java/de/staudtlex/csvtools
 TESTCLASSDIR = $(TARGETDIR)/test-classes
 TESTDATADIR = src/test/resources/csv/test-data
-RESULTDIR = $(TARGETDIR)/test-result-data
+RESULTDIR = $(TARGETDIR)/result-data
 
 COMMONS_CSV_VERSION = 1.9.0
 COMMONS_CSV_JAR = commons-csv-$(COMMONS_CSV_VERSION).jar
@@ -168,7 +168,7 @@ examples: \
 
 $(RESULTDIR)/jar-append-example.csv: jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
-	@$(JAVA) -classpath $(LIBDIR)/$(CCSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
+	@$(JAVA) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
 	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-append-*.csv > $@
 
 $(RESULTDIR)/uber-jar-append-example.csv: uber-jar $(RESULTDIR)
@@ -178,7 +178,7 @@ $(RESULTDIR)/uber-jar-append-example.csv: uber-jar $(RESULTDIR)
 
 $(RESULTDIR)/jar-merge-example.csv: jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
-	@$(JAVA) -classpath $(LIBDIR)/$(CCSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
+	@$(JAVA) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
 	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-merge-*.csv > $@
 
 $(RESULTDIR)/uber-jar-merge-example.csv: uber-jar $(RESULTDIR)

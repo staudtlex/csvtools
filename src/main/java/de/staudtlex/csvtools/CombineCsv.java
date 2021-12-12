@@ -27,6 +27,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -79,64 +80,56 @@ public class CombineCsv {
    * Disambiguates duplicated list entries.
    * <p>
    * For example, given a string list {@code ["a","a","b"]} and suffix
-   * {@code "dupl"}, returns {@code ["a","a_dupl_1","b"]}.
+   * {@code "dupl"}, returns sorted set containing {@code ["a","a_dupl_1","b"]}.
    * 
    * @param stringList the list of (possibly duplicated) strings
    * @param suffix     the suffix to append to duplicated strings
-   * @return the list of disambiguated strings
+   * @return the sorted set of disambiguated strings
    * @see #getDistinct(List)
    */
-  public static List<String> makeDistinct(List<String> stringList,
+  public static LinkedHashSet<String> makeDistinct(List<String> stringList,
       String suffix) {
     if (stringList.size() < 2) {
-      return stringList;
+      return new LinkedHashSet<String>(stringList);
     }
     int n = stringList.size();
-    List<String> uniqueStringList = new ArrayList<String>(n);
+    LinkedHashSet<String> uniqueStringSet = new LinkedHashSet<>(n);
     HashMap<String, Integer> duplicateStrings = new HashMap<String, Integer>(n);
     for (String str : stringList) {
       Integer lookup = duplicateStrings.get(str);
       if (lookup == null) {
-        // falls in duplicateStrings string str nicht enthalten ist, füge str zu
-        // uniqueStringList hinzu
-        uniqueStringList.add(str);
+        // if str is not contained in duplicateStrings, add str to
+        // uniqueStringSet
+        uniqueStringSet.add(str);
         duplicateStrings.put(str, 1);
       } else {
-        // ansonsten (lookup != null, str in duplicateStrings enthalten),
-        // füge str einen Unterstrich und den Wert von lookup hinzu (bspw. x,
-        // x_1, x_2, x_anzahl-der-Duplikate)
-        uniqueStringList.add(str + suffix + lookup);
+        // else (lookup != null, duplicateStrings contains str), append suffix
+        // and value of lookup to str to make it unique (e.g. x, x_1, x_2,
+        // x_number-of-duplicates)
+        uniqueStringSet.add(str + suffix + lookup);
         duplicateStrings.put(str, lookup + 1);
       }
     }
-    return uniqueStringList;
+    return uniqueStringSet;
   }
 
   /**
-   * Creates a list of distinct strings by removing any duplicated list entries.
+   * Creates a set of distinct strings, removing any duplicated list entries.
    * 
    * @param stringList list of (possibly duplicated) strings
-   * @return list of distinct strings
+   * @return sorted set of distinct strings
    * @see #makeDistinct(List, String)
    */
-  public static List<String> getDistinct(List<String> stringList) {
+  public static LinkedHashSet<String> getDistinct(List<String> stringList) {
     if (stringList == null) {
       return null;
     }
     int n = stringList.size();
-    List<String> uniqueStringList = new ArrayList<String>(n / 10);
-    HashMap<String, Integer> duplicateStrings = new HashMap<String, Integer>(
-        n / 10);
+    LinkedHashSet<String> uniqueStringSet = new LinkedHashSet<>(n / 10);
     for (String str : stringList) {
-      Integer lookup = duplicateStrings.get(str);
-      if (lookup == null) {
-        // falls in duplicateStrings string str nicht enthalten ist, füge str zu
-        // uniqueStringList hinzu
-        uniqueStringList.add(str);
-        duplicateStrings.put(str, 1);
-      }
+      uniqueStringSet.add(str);
     }
-    return uniqueStringList;
+    return uniqueStringSet;
   }
 
   /**
@@ -179,7 +172,8 @@ public class CombineCsv {
    *                            {@code path}.
    * @throws RuntimeException if there is a problem reading the header (keys).
    */
-  public static List<CSVRecord> parseCsv(String path, List<String> keys) {
+  public static List<CSVRecord> parseCsv(String path,
+      LinkedHashSet<String> keys) {
     try {
       Reader csvFile1 = Files.newBufferedReader(Paths.get(path),
           StandardCharsets.UTF_8);
@@ -201,15 +195,15 @@ public class CombineCsv {
   }
 
   /**
-   * Rearranges a record based on a list of unique strings.
+   * Rearranges a record based on a set of unique strings.
    * 
    * @param record the record to be rearranged
-   * @param keys   the list of unique strings from which to construct the
+   * @param keys   the set of unique strings from which to construct the
    *                 rearranged record
    * @return the rearranged record as {@code Map<String, String>}
    */
   public static LinkedHashMap<String, String> rearrangeMap(
-      Map<String, String> record, List<String> keys) {
+      Map<String, String> record, LinkedHashSet<String> keys) {
     LinkedHashMap<String, String> rearrangedMap = keys.parallelStream().collect(
         Collectors.toMap(e -> e, e -> "", (o1, o2) -> o1, LinkedHashMap::new));
     record.keySet().stream().forEach(e -> rearrangedMap.put(e, record.get(e)));
@@ -217,7 +211,7 @@ public class CombineCsv {
   }
 
   /**
-   * Rearranges all records of an ImportedCsvData-object based on a list of
+   * Rearranges all records of an ImportedCsvData-object based on a set of
    * unique strings.
    * 
    * @param csvData the {@link ImportedCsvData} whose records are to be
@@ -225,9 +219,10 @@ public class CombineCsv {
    * @param keys    the list of unique strings from which to construct the
    *                  rearranged record
    * @return the {@link CsvData} containing the rearranged records
-   * @see #rearrangeMap(Map, List)
+   * @see #rearrangeMap(Map, LinkedHashSet)
    */
-  public static CsvData rearrange(ImportedCsvData csvData, List<String> keys) {
+  public static CsvData rearrange(ImportedCsvData csvData,
+      LinkedHashSet<String> keys) {
     List<LinkedHashMap<String, String>> rearrangedRecords = csvData.getRecords()
         .parallelStream().map(e -> rearrangeMap(e, keys))
         .collect(Collectors.toList());
@@ -262,9 +257,15 @@ public class CombineCsv {
      * @param records the list of records (as
      *                  {@code List<LinkedHashMap<String, String>>}) from which
      *                  to create the CsvData instance
+     * @throws IllegalArgumentException when the list passed to the constructor
+     *                                    is empty
      */
-    public CsvData(List<LinkedHashMap<String, String>> records) {
+    public CsvData(List<LinkedHashMap<String, String>> records)
+        throws IllegalArgumentException {
       this.records = records;
+      if (records.isEmpty()) {
+        throw new IllegalArgumentException("Record is empty");
+      }
       this.keys = new ArrayList<>(records.get(0).keySet());
     }
 
@@ -319,7 +320,7 @@ public class CombineCsv {
     private File file;
     private String filePath;
     private String fileName;
-    private List<String> keys;
+    private LinkedHashSet<String> keys;
     private List<Map<String, String>> records;
 
     /**
@@ -361,7 +362,7 @@ public class CombineCsv {
     /**
      * @return the records' keys
      */
-    public List<String> getKeys() {
+    public LinkedHashSet<String> getKeys() {
       return keys;
     }
 
@@ -404,7 +405,7 @@ public class CombineCsv {
     // (3) Merge data from each CSV file
     final List<String> keys = csvData.stream().map(e -> e.getKeys())
         .flatMap(e -> e.stream()).collect(Collectors.toList());
-    final List<String> distinctKeys = getDistinct(keys);
+    final LinkedHashSet<String> distinctKeys = getDistinct(keys);
 
     // - rearrange CSV records according to distinct keys
     // -> ensure order of map entries here
