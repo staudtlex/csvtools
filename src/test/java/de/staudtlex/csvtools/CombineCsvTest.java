@@ -58,31 +58,31 @@ public class CombineCsvTest {
   @Test
   void testGetDistinct() {
     // strings
-    String[] withoutDupl = {
+    final String[] withoutDupl = {
         "Neque", "porro", "quisquam", "est,", "qui", "dolorem", "ipsum,",
         "quia", "dolor", "sit,", "amet,", "consectetur", "adipisci",
         "velit [...]."
     };
-    String[] withDupl = {
+    final String[] withDupl = {
         "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est,",
         "qui", "qui", "dolorem", "ipsum,", "quia", "dolor", "sit,", "amet,",
         "consectetur", "adipisci", "quisquam", "velit [...].", "ipsum,"
     };
 
     // inputs lists
-    List<String> listWithoutDupl = Arrays.asList(withoutDupl);
-    List<String> listWithDupl = Arrays.asList(withDupl);
-    List<String> singletonList = Arrays.asList("Neque");
-    List<String> emptyList = new ArrayList<String>();
+    final List<String> listWithoutDupl = Arrays.asList(withoutDupl);
+    final List<String> listWithDupl = Arrays.asList(withDupl);
+    final List<String> singletonList = Arrays.asList("Neque");
+    final List<String> emptyList = new ArrayList<String>();
 
     // expected results
-    LinkedHashSet<String> refListWithoutDupl = new LinkedHashSet<>(
+    final LinkedHashSet<String> refListWithoutDupl = new LinkedHashSet<>(
         Arrays.asList(withoutDupl));
-    LinkedHashSet<String> refListWithDuplMadeUnique = new LinkedHashSet<>(
+    final LinkedHashSet<String> refListWithDuplMadeUnique = new LinkedHashSet<>(
         Arrays.asList(withoutDupl));
-    LinkedHashSet<String> refSingletonList = new LinkedHashSet<>(
+    final LinkedHashSet<String> refSingletonList = new LinkedHashSet<>(
         Arrays.asList("Neque"));
-    LinkedHashSet<String> refEmptyList = new LinkedHashSet<>();
+    final LinkedHashSet<String> refEmptyList = new LinkedHashSet<>();
 
     // run tests
     assertEquals(refListWithoutDupl, CombineCsv.getDistinct(listWithoutDupl));
@@ -92,15 +92,22 @@ public class CombineCsvTest {
     assertEquals(refEmptyList, CombineCsv.getDistinct(emptyList));
   }
 
+  // Test CombineCsv.main()
+  // Todo:
+  // - csv format does not correspond to expectation (delimiter is not ;)
+  // - more columns in header than body
+  // - merging large csv files
+
   @Test
   void testMainWithUniqueColumnNames() {
     try {
-      String resourcePath = "src/test/resources/csv/";
-      String refFile = resourcePath + "reference-data/gss-append.csv";
-      BufferedReader reader = new BufferedReader(new FileReader(refFile));
-      String[] testFiles = CombineCsv.findFiles("resourcePath/gss-merge*.csv")
-          .stream().map(e -> e.getAbsolutePath()).toArray(String[]::new);
-      StringBuilder stringBuilder = new StringBuilder();
+      final String resourcePath = "src/test/resources/csv/";
+      final String refFile = resourcePath + "reference-data/gss-append.csv";
+      final BufferedReader reader = new BufferedReader(new FileReader(refFile));
+      final String[] testFiles = CombineCsv
+          .findFiles("resourcePath/gss-merge*.csv").stream()
+          .map(e -> e.getAbsolutePath()).toArray(String[]::new);
+      final StringBuilder stringBuilder = new StringBuilder();
       String line;
       while ((line = reader.readLine()) != null) {
         stringBuilder.append(line).append("\r\n");
@@ -108,7 +115,7 @@ public class CombineCsvTest {
       CombineCsv.main(testFiles);
       assertEquals(outContent.toString(), stringBuilder.toString());
       reader.close();
-    } catch (IOException e) {
+    } catch (final IOException e) {
       e.printStackTrace();
     }
   }
@@ -116,12 +123,13 @@ public class CombineCsvTest {
   @Test
   void testMainWithDuplicatedColumnNames() {
     try {
-      String resourcePath = "src/test/resources/csv/";
-      String refFile = resourcePath + "reference-data/gss-merge.csv";
-      String[] testFiles = CombineCsv.findFiles("resourcePath/gss-merge*.csv")
-          .stream().map(e -> e.getAbsolutePath()).toArray(String[]::new);
-      BufferedReader reader = new BufferedReader(new FileReader(refFile));
-      StringBuilder stringBuilder = new StringBuilder();
+      final String resourcePath = "src/test/resources/csv/";
+      final String refFile = resourcePath + "reference-data/gss-merge.csv";
+      final String[] testFiles = CombineCsv
+          .findFiles("resourcePath/gss-merge*.csv").stream()
+          .map(e -> e.getAbsolutePath()).toArray(String[]::new);
+      final BufferedReader reader = new BufferedReader(new FileReader(refFile));
+      final StringBuilder stringBuilder = new StringBuilder();
       String line;
       while ((line = reader.readLine()) != null) {
         stringBuilder.append(line).append("\r\n");
@@ -129,7 +137,7 @@ public class CombineCsvTest {
       CombineCsv.main(testFiles);
       assertEquals(outContent.toString(), stringBuilder.toString());
       reader.close();
-    } catch (IOException e) {
+    } catch (final IOException e) {
       e.printStackTrace();
     }
   }
@@ -137,17 +145,17 @@ public class CombineCsvTest {
   @Test
   void testMakeDistinct() {
     // strings
-    String[] withoutDupl = {
+    final String[] withoutDupl = {
         "Neque", "porro", "quisquam", "est,", "qui", "dolorem", "ipsum,",
         "quia", "dolor", "sit,", "amet,", "consectetur", "adipisci",
         "velit [...]."
     };
-    String[] withDupl = {
+    final String[] withDupl = {
         "Neque", "porro", "quisquam", "Neque", "quisquam", "porro", "est,",
         "qui", "qui", "dolorem", "ipsum,", "quia", "dolor", "sit,", "amet,",
         "consectetur", "adipisci", "quisquam", "velit [...].", "ipsum,"
     };
-    String[] withDuplMadeUnique = {
+    final String[] withDuplMadeUnique = {
         "Neque", "porro", "quisquam", "Neque__duplicated_1",
         "quisquam__duplicated_1", "porro__duplicated_1", "est,", "qui",
         "qui__duplicated_1", "dolorem", "ipsum,", "quia", "dolor", "sit,",
@@ -156,19 +164,19 @@ public class CombineCsvTest {
     };
 
     // inputs lists
-    List<String> listWithoutDupl = Arrays.asList(withoutDupl);
-    List<String> listWithDupl = Arrays.asList(withDupl);
-    List<String> singletonList = Arrays.asList("Neque");
-    List<String> emptyList = new ArrayList<String>();
+    final List<String> listWithoutDupl = Arrays.asList(withoutDupl);
+    final List<String> listWithDupl = Arrays.asList(withDupl);
+    final List<String> singletonList = Arrays.asList("Neque");
+    final List<String> emptyList = new ArrayList<String>();
 
     // expected results
-    LinkedHashSet<String> refListWithoutDupl = new LinkedHashSet<>(
+    final LinkedHashSet<String> refListWithoutDupl = new LinkedHashSet<>(
         Arrays.asList(withoutDupl));
-    LinkedHashSet<String> refListWithDuplMadeUnique = new LinkedHashSet<>(
+    final LinkedHashSet<String> refListWithDuplMadeUnique = new LinkedHashSet<>(
         Arrays.asList(withDuplMadeUnique));
-    LinkedHashSet<String> refSingletonList = new LinkedHashSet<>(
+    final LinkedHashSet<String> refSingletonList = new LinkedHashSet<>(
         Arrays.asList("Neque"));
-    LinkedHashSet<String> refEmptyList = new LinkedHashSet<String>();
+    final LinkedHashSet<String> refEmptyList = new LinkedHashSet<String>();
 
     // run tests
     assertEquals(refListWithoutDupl,
@@ -180,6 +188,20 @@ public class CombineCsvTest {
     assertEquals(refEmptyList,
         CombineCsv.makeDistinct(emptyList, "__duplicated_"));
 
+  }
+
+  @Test
+  void testMerge() {
+    // observation order corresponds to:
+    // - row order in imported csv files and
+    // - import order of csv files
+  }
+
+  @Test
+  void testParseCsv() {
+    // write:
+    // - number of colum names is smaller than number of columns per row
+    // - number of colum names is larger than number of columns per row
   }
 
   @Test
@@ -235,6 +257,16 @@ public class CombineCsvTest {
         "rincome", "race", "marital",
         "tvhours \"'double-quoted single quotes'\""
     }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-6.csv"));
+  }
+
+  @Test
+  void testRearrange() {
+
+  }
+
+  @Test
+  void testRearrangeMap() {
+
   }
 
 }
