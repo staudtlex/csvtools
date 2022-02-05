@@ -57,17 +57,18 @@ public class CombineCsv {
    * @return the list of files
    * @throws IOException if an I/O error occurs
    */
-  public static List<File> findFiles(String dirOrFilePath) throws IOException {
-    String filePath = new File(dirOrFilePath).isDirectory()
+  public static List<File> findFiles(final String dirOrFilePath)
+      throws IOException {
+    final String filePath = new File(dirOrFilePath).isDirectory()
         ? dirOrFilePath + "/*"
         : dirOrFilePath;
-    Path path = Paths.get(filePath).toAbsolutePath();
-    Path baseDir = path.getParent();
-    String glob = path.getFileName().toString();
-    List<File> fileList = new ArrayList<File>();
+    final Path path = Paths.get(filePath).toAbsolutePath();
+    final Path baseDir = path.getParent();
+    final String glob = path.getFileName().toString();
+    final List<File> fileList = new ArrayList<File>();
     try (
         DirectoryStream<Path> paths = Files.newDirectoryStream(baseDir, glob)) {
-      for (Path e : paths) {
+      for (final Path e : paths) {
         if (e.toFile().isFile()) {
           fileList.add(e.toFile());
         }
@@ -87,16 +88,17 @@ public class CombineCsv {
    * @return the sorted set of disambiguated strings
    * @see #getDistinct(List)
    */
-  public static LinkedHashSet<String> makeDistinct(List<String> stringList,
-      String suffix) {
+  public static LinkedHashSet<String> makeDistinct(
+      final List<String> stringList, final String suffix) {
     if (stringList.size() < 2) {
       return new LinkedHashSet<String>(stringList);
     }
-    int n = stringList.size();
-    LinkedHashSet<String> uniqueStringSet = new LinkedHashSet<>(n);
-    HashMap<String, Integer> duplicateStrings = new HashMap<String, Integer>(n);
-    for (String str : stringList) {
-      Integer lookup = duplicateStrings.get(str);
+    final int n = stringList.size();
+    final LinkedHashSet<String> uniqueStringSet = new LinkedHashSet<>(n);
+    final HashMap<String, Integer> duplicateStrings = new HashMap<String, Integer>(
+        n);
+    for (final String str : stringList) {
+      final Integer lookup = duplicateStrings.get(str);
       if (lookup == null) {
         // if str is not contained in duplicateStrings, add str to
         // uniqueStringSet
@@ -120,13 +122,14 @@ public class CombineCsv {
    * @return sorted set of distinct strings
    * @see #makeDistinct(List, String)
    */
-  public static LinkedHashSet<String> getDistinct(List<String> stringList) {
+  public static LinkedHashSet<String> getDistinct(
+      final List<String> stringList) {
     if (stringList == null) {
       return null;
     }
-    int n = stringList.size();
-    LinkedHashSet<String> uniqueStringSet = new LinkedHashSet<>(n / 10);
-    for (String str : stringList) {
+    final int n = stringList.size();
+    final LinkedHashSet<String> uniqueStringSet = new LinkedHashSet<>(n / 10);
+    for (final String str : stringList) {
       uniqueStringSet.add(str);
     }
     return uniqueStringSet;
@@ -141,9 +144,9 @@ public class CombineCsv {
    *                            {@code path}.
    * @throws RuntimeException if there is a problem reading the header.
    */
-  public static List<String> readHeader(String path) {
+  public static List<String> readHeader(final String path) {
     try {
-      Reader csvFile = Files.newBufferedReader(Paths.get(path),
+      final Reader csvFile = Files.newBufferedReader(Paths.get(path),
           StandardCharsets.UTF_8);
 
       final CSVFormat RawCsvFormat = CSVFormat.Builder.create().setHeader()
@@ -152,12 +155,12 @@ public class CombineCsv {
           .setAllowDuplicateHeaderNames(true).setTrim(true).setQuote('"')
           .build();
 
-      CSVParser rawCsvParser = new CSVParser(csvFile, RawCsvFormat);
-      List<String> recordKeys = rawCsvParser.getHeaderNames();
+      final CSVParser rawCsvParser = new CSVParser(csvFile, RawCsvFormat);
+      final List<String> recordKeys = rawCsvParser.getHeaderNames();
       rawCsvParser.close();
 
       return recordKeys;
-    } catch (IOException e) {
+    } catch (final IOException e) {
       throw new RuntimeException(e);
     }
   }
@@ -172,10 +175,10 @@ public class CombineCsv {
    *                            {@code path}.
    * @throws RuntimeException if there is a problem reading the header (keys).
    */
-  public static List<CSVRecord> parseCsv(String path,
-      LinkedHashSet<String> keys) {
+  public static List<CSVRecord> parseCsv(final String path,
+      final LinkedHashSet<String> keys) {
     try {
-      Reader csvFile1 = Files.newBufferedReader(Paths.get(path),
+      final Reader csvFile1 = Files.newBufferedReader(Paths.get(path),
           StandardCharsets.UTF_8);
 
       final CSVFormat myCsvFormat = CSVFormat.Builder.create()
@@ -184,12 +187,12 @@ public class CombineCsv {
           .setAllowMissingColumnNames(false).setAllowDuplicateHeaderNames(true)
           .setTrim(true).setQuote('"').build();
 
-      CSVParser csvParser = new CSVParser(csvFile1, myCsvFormat);
-      List<CSVRecord> records = csvParser.getRecords();
+      final CSVParser csvParser = new CSVParser(csvFile1, myCsvFormat);
+      final List<CSVRecord> records = csvParser.getRecords();
       csvParser.close();
 
       return records;
-    } catch (IOException e) {
+    } catch (final IOException e) {
       throw new RuntimeException(e);
     }
   }
@@ -203,9 +206,10 @@ public class CombineCsv {
    * @return the rearranged record as {@code Map<String, String>}
    */
   public static LinkedHashMap<String, String> rearrangeMap(
-      Map<String, String> record, LinkedHashSet<String> keys) {
-    LinkedHashMap<String, String> rearrangedMap = keys.parallelStream().collect(
-        Collectors.toMap(e -> e, e -> "", (o1, o2) -> o1, LinkedHashMap::new));
+      final Map<String, String> record, final LinkedHashSet<String> keys) {
+    final LinkedHashMap<String, String> rearrangedMap = keys.parallelStream()
+        .collect(Collectors.toMap(e -> e, e -> "", (o1, o2) -> o1,
+            LinkedHashMap::new));
     record.keySet().stream().forEach(e -> rearrangedMap.put(e, record.get(e)));
     return rearrangedMap;
   }
@@ -221,10 +225,10 @@ public class CombineCsv {
    * @return the {@link CsvData} containing the rearranged records
    * @see #rearrangeMap(Map, LinkedHashSet)
    */
-  public static CsvData rearrange(ImportedCsvData csvData,
-      LinkedHashSet<String> keys) {
-    List<LinkedHashMap<String, String>> rearrangedRecords = csvData.getRecords()
-        .parallelStream().map(e -> rearrangeMap(e, keys))
+  public static CsvData rearrange(final ImportedCsvData csvData,
+      final LinkedHashSet<String> keys) {
+    final List<LinkedHashMap<String, String>> rearrangedRecords = csvData
+        .getRecords().parallelStream().map(e -> rearrangeMap(e, keys))
         .collect(Collectors.toList());
     return new CsvData(rearrangedRecords);
   }
@@ -237,8 +241,8 @@ public class CombineCsv {
    *                      merged
    * @return the CsvData containing the merged records
    */
-  public static CsvData merge(List<CsvData> csvDataList) {
-    List<LinkedHashMap<String, String>> records = csvDataList.stream()
+  public static CsvData merge(final List<CsvData> csvDataList) {
+    final List<LinkedHashMap<String, String>> records = csvDataList.stream()
         .flatMap(e -> e.getRecords().stream()).collect(Collectors.toList());
     return new CsvData(records);
   }
@@ -248,8 +252,8 @@ public class CombineCsv {
    * Provides a method to format and print the records to {@code stdout}.
    */
   public static class CsvData {
-    private List<String> keys;
-    private List<LinkedHashMap<String, String>> records;
+    private final List<String> keys;
+    private final List<LinkedHashMap<String, String>> records;
 
     /**
      * Creates a CsvData instance from the specified records.
@@ -260,7 +264,7 @@ public class CombineCsv {
      * @throws IllegalArgumentException when the list passed to the constructor
      *                                    is empty
      */
-    public CsvData(List<LinkedHashMap<String, String>> records)
+    public CsvData(final List<LinkedHashMap<String, String>> records)
         throws IllegalArgumentException {
       this.records = records;
       if (records.isEmpty()) {
@@ -291,7 +295,7 @@ public class CombineCsv {
      * @throws RuntimeException
      */
     public String formatRecords() {
-      StringBuilder formattedRecords = new StringBuilder();
+      final StringBuilder formattedRecords = new StringBuilder();
 
       final CSVFormat outformat = CSVFormat.Builder.create()
           .setHeader(keys.toArray(new String[0])).setDelimiter(';')
@@ -299,11 +303,11 @@ public class CombineCsv {
           .build();
 
       try {
-        CSVPrinter printer = new CSVPrinter(formattedRecords, outformat);
+        final CSVPrinter printer = new CSVPrinter(formattedRecords, outformat);
         printer.printRecords(
             records.stream().map(e -> e.values()).collect(Collectors.toList()));
         printer.close();
-      } catch (IOException e) {
+      } catch (final IOException e) {
         throw new RuntimeException(e);
       }
       return formattedRecords.toString();
@@ -317,18 +321,18 @@ public class CombineCsv {
    * instantiation.
    */
   public static class ImportedCsvData {
-    private File file;
-    private String filePath;
-    private String fileName;
-    private LinkedHashSet<String> keys;
-    private List<Map<String, String>> records;
+    private final File file;
+    private final String filePath;
+    private final String fileName;
+    private final LinkedHashSet<String> keys;
+    private final List<Map<String, String>> records;
 
     /**
      * Creates an ImportedCsvData instance from a CSV file.
      * 
      * @param f the {@link File} from which to read the CSV records
      */
-    public ImportedCsvData(File f) {
+    public ImportedCsvData(final File f) {
       this.file = f;
       this.filePath = f.getAbsolutePath();
       this.fileName = f.getName();
@@ -340,14 +344,14 @@ public class CombineCsv {
     /**
      * @return the {@code File} used for instantiation
      */
-    public File getFile() {
+    public final File getFile() {
       return file;
     }
 
     /**
      * @return the CSV source's absolute file path
      */
-    public String getFilePath() {
+    public final String getFilePath() {
       return filePath;
     }
 
@@ -355,21 +359,21 @@ public class CombineCsv {
      * @return the CSV source's file name, that is the last element of the
      *         absolute file path
      */
-    public String getFileName() {
+    public final String getFileName() {
       return fileName;
     }
 
     /**
      * @return the records' keys
      */
-    public LinkedHashSet<String> getKeys() {
+    public final LinkedHashSet<String> getKeys() {
       return keys;
     }
 
     /**
      * @return the CsvData instance's records
      */
-    public List<Map<String, String>> getRecords() {
+    public final List<Map<String, String>> getRecords() {
       return records;
     }
 
