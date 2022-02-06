@@ -25,6 +25,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
@@ -33,6 +34,12 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import org.apache.commons.cli.CommandLine;
+import org.apache.commons.cli.CommandLineParser;
+import org.apache.commons.cli.DefaultParser;
+import org.apache.commons.cli.HelpFormatter;
+import org.apache.commons.cli.Options;
+import org.apache.commons.cli.ParseException;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVPrinter;
@@ -119,7 +126,8 @@ public class CombineCsv {
    * Creates a set of distinct strings, removing any duplicated list entries.
    * 
    * @param stringList list of (possibly duplicated) strings
-   * @return sorted set of distinct strings
+   * @return set of distinct strings. Set elements appear in the same order as
+   *         in the input list (save for removed duplicates)
    * @see #makeDistinct(List, String)
    */
   public static LinkedHashSet<String> getDistinct(
@@ -133,6 +141,18 @@ public class CombineCsv {
       uniqueStringSet.add(str);
     }
     return uniqueStringSet;
+  }
+
+  /**
+   * Create a set of alphabetially ordered strings.
+   * 
+   * @param set list of unique strings
+   * @return an alphabetially sorted set of distinct strings
+   */
+  public static LinkedHashSet<String> sort(final LinkedHashSet<String> set) {
+    final ArrayList<String> sortList = new ArrayList<>(set);
+    Collections.sort(sortList);
+    return new LinkedHashSet<String>(sortList);
   }
 
   /**
@@ -292,7 +312,8 @@ public class CombineCsv {
      * record. Returns a string suitable for printing to stdout.
      * 
      * @return the records' string-representation
-     * @throws RuntimeException
+     * @throws RuntimeException when an error occurs while formatting the CSV
+     *                            records
      */
     public String formatRecords() {
       final StringBuilder formattedRecords = new StringBuilder();
@@ -384,23 +405,67 @@ public class CombineCsv {
    * duplicated column names and extending the number of columns. Results are
    * printed to {@code stdout}.
    * 
-   * @param args the paths to the files that are to be merged. When used from
-   *               the command line, globs are automatically expanded to an
-   *               array of strings.
+   * @param args the paths to the files that are to be merged as well as options
+   *               and option arguments. When used from the command line, globs
+   *               are automatically expanded to an array of strings.
    */
   public static void main(String[] args) {
+    // Define options
+    final Options options = new Options();
+    options.addOption("r", "reorder", true,
+        "Reorder columns according to a comma-separated list of column names. Duplicated column names as well as column names not present in the input files will be ignored");
+    options.addOption("h", "help", false, "Display this help message");
+
+    // Define help
+    final HelpFormatter formatter = new HelpFormatter();
+    final String cmdLineSyntax = "combineCsv [-h] [-r <custom-order>] <file-1 file-2 ...>";
+    final String header = "\nOptions:";
+    final String footer = "";
+
+    // Parse named options and remaining positional arguments
+    final CommandLineParser parser = new DefaultParser();
+    String customOrder = "";
+    Boolean providesCustomOrder = false;
+    Boolean requiresHelp = false;
+    try {
+      final CommandLine cmd = parser.parse(options, args);
+      providesCustomOrder = cmd.hasOption("r");
+      requiresHelp = cmd.hasOption("h");
+      if (requiresHelp) {
+        formatter.printHelp(cmdLineSyntax, header, options, footer);
+        System.exit(0);
+      } else if (providesCustomOrder) {
+        customOrder = cmd.getOptionValue("r");
+      }
+      args = cmd.getArgs();
+    } catch (final ParseException e) {
+      System.err.println(
+          "Unable to parse command line options: " + e.getMessage() + "\n");
+      formatter.printHelp(cmdLineSyntax, header, options, footer);
+      System.exit(1);
+    }
     if (args.length < 1) {
-      System.out.println("Command requires at least one CSV file");
-      return;
+      System.err.println("Command requires at least one CSV file\n");
+      formatter.printHelp(cmdLineSyntax, header, options, footer);
+      System.exit(1);
     }
 
-    // (1) Get array of CSV files that are to be merged
+    // (1) Get array of CSV file names that are to be merged. Exit and check if
+    // specified files exist
     final File[] csvFileList = Stream.of(args)
         .map(e -> Paths.get(e).toAbsolutePath().toFile())
         .collect(Collectors.toList()).toArray(new File[0]);
 
-    // Todo: check if specified files exist
-    // Stream.of(csvFileList).filter(e -> Files.exists(e.toPath()));
+    final File[] missingFiles = Stream.of(csvFileList)
+        .filter(e -> !Files.exists(e.toPath())).collect(Collectors.toList())
+        .toArray(new File[0]);
+    if (missingFiles.length > 0) {
+      final String message = "The following files were not found: ";
+      System.err.println(message + Stream.of(missingFiles).map(e -> e.getName())
+          .reduce("", (e1, e2) -> e1 + e2) + "\n");
+      formatter.printHelp(cmdLineSyntax, header, options, footer);
+      System.exit(1);
+    }
 
     // (2) Import CSV data from files
     final List<ImportedCsvData> csvData = Stream.of(csvFileList).parallel()
@@ -412,9 +477,20 @@ public class CombineCsv {
     final LinkedHashSet<String> distinctKeys = getDistinct(keys);
 
     // - rearrange CSV records according to distinct keys
-    // -> ensure order of map entries here
+    final LinkedHashSet<String> keyOrderSet;
+    if (providesCustomOrder) {
+      keyOrderSet = Stream.of(customOrder.split(",", -1))
+          .filter(e -> distinctKeys.contains(e)) // ignore possibly non-existing
+                                                 // columns passed in with
+                                                 // option -r
+          .collect(Collectors.toCollection(LinkedHashSet::new));
+      keyOrderSet.addAll(distinctKeys);
+    } else {
+      keyOrderSet = distinctKeys;
+    }
+
     final List<CsvData> rearrangedCsvData = csvData.stream()
-        .map(e -> rearrange(e, distinctKeys)).collect(Collectors.toList());
+        .map(e -> rearrange(e, keyOrderSet)).collect(Collectors.toList());
 
     // - collect rearranged CSV records in single CsvData
     final CsvData mergedCsvData = merge(rearrangedCsvData);

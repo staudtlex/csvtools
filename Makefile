@@ -43,11 +43,15 @@ COMMONS_CSV_VERSION = 1.9.0
 COMMONS_CSV_JAR = commons-csv-$(COMMONS_CSV_VERSION).jar
 COMMONS_CSV_URL = https://repo1.maven.org/maven2/org/apache/commons/commons-csv/$(COMMONS_CSV_VERSION)/$(COMMONS_CSV_JAR)
 
+COMMONS_CLI_VERSION = 1.5.0
+COMMONS_CLI_JAR = commons-cli-$(COMMONS_CLI_VERSION).jar
+COMMONS_CLI_URL = https://repo1.maven.org/maven2/commons-cli/commons-cli/$(COMMONS_CLI_VERSION)/$(COMMONS_CLI_JAR)
+
 JUNIT_CONSOLE_STANDALONE_VERSION = 1.8.1
 JUNIT_CONSOLE_STANDALONE_JAR = junit-platform-console-standalone-$(JUNIT_CONSOLE_STANDALONE_VERSION).jar
 JUNIT_CONSOLE_STANDALONE_URL = https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/$(JUNIT_CONSOLE_STANDALONE_VERSION)/$(JUNIT_CONSOLE_STANDALONE_JAR)
 
-VERSION = 1.0.0
+VERSION = 1.2.0
 JAR_NAME = combine-csv-$(VERSION)
 PACKAGE_JAR = $(JAR_NAME).jar
 PACKAGE_UBER_JAR = $(JAR_NAME)-jar-with-dependencies.jar
@@ -64,6 +68,7 @@ all: jar uber-jar
 deps: \
 	$(LIBDIR) \
 	$(LIBDIR)/$(COMMONS_CSV_JAR) \
+	$(LIBDIR)/$(COMMONS_CLI_JAR) \
 	$(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR)
 
 $(LIBDIR):
@@ -76,6 +81,17 @@ $(LIBDIR)/$(COMMONS_CSV_JAR): $(LIBDIR)
 		mv $(COMMONS_CSV_JAR) $@; \
 	elif command -v wget; then \
 		wget -P $< "$(COMMONS_CSV_URL)"; \
+	else \
+		echo "Neither curl nor wget installed."; \
+	fi; 
+
+$(LIBDIR)/$(COMMONS_CLI_JAR): $(LIBDIR)
+	$(info *** Download dependency ($(COMMONS_CLI_JAR)) ***)
+	@if command -v curl; then \
+		curl -s -O $(COMMONS_CLI_URL) -o $(COMMONS_CLI_JAR); \
+		mv $(COMMONS_CLI_JAR) $@; \
+	elif command -v wget; then \
+		wget -P $< "$(COMMONS_CLI_URL)"; \
 	else \
 		echo "Neither curl nor wget installed."; \
 	fi; 
@@ -98,9 +114,10 @@ $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR): $(LIBDIR)
 $(CLASSDIR):
 	@[ -d $@ ] || mkdir -p $@;
 
-classes: $(CLASSDIR) $(LIBDIR)/$(COMMONS_CSV_JAR)
+classes: $(CLASSDIR) $(LIBDIR)/$(COMMONS_CSV_JAR) $(LIBDIR)/$(COMMONS_CLI_JAR)
 	$(info *** Compile source files ***)
-	@$(JAVAC) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR) $(SRCDIR)/*.java \
+	@$(JAVAC) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(LIBDIR)/$(COMMONS_CLI_JAR) \
+	$(SRCDIR)/*.java \
 	-target 1.8 -source 1.8 $(BOOTCLASSPATH_FLAG) -encoding utf8 -d $(CLASSDIR)
 
 
@@ -120,9 +137,12 @@ $(TMPDIR):
 
 uber-jar: $(TARGETDIR)/$(PACKAGE_UBER_JAR)
 
-$(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(COMMONS_CSV_JAR) $(TMPDIR) classes
+$(TARGETDIR)/$(PACKAGE_UBER_JAR): $(LIBDIR)/$(COMMONS_CSV_JAR) $(LIBDIR)/$(COMMONS_CLI_JAR) $(TMPDIR) classes
 	$(info *** Create uber-jar $(PACKAGE_UBER_JAR) ***)
-	@(cp $< $(TMPDIR)/ && cd $(TMPDIR) && $(JAR) -xf $(COMMONS_CSV_JAR)) && \
+	@(cp $(LIBDIR)/$(COMMONS_CSV_JAR) $(TMPDIR)/ && \
+		cd $(TMPDIR) && $(JAR) -xf $(COMMONS_CSV_JAR)) && \
+	(cp $(LIBDIR)/$(COMMONS_CLI_JAR) $(TMPDIR)/ && \
+		cd $(TMPDIR) && $(JAR) -xf $(COMMONS_CLI_JAR)) && \
 	$(JAR) -cfe $@ \
 		de.staudtlex.csvtools.CombineCsv \
 		-C $(CLASSDIR) de \
@@ -145,7 +165,7 @@ test-classes: $(TESTCLASSDIR) $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR) classes
 test: test-classes
 	$(info *** Run JUnit tests ***)
 	java -jar $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR) \
-		-cp $(TESTCLASSDIR):$(CLASSDIR):$(LIBDIR)/$(COMMONS_CSV_JAR) \
+		-cp $(TESTCLASSDIR):$(CLASSDIR):$(LIBDIR)/$(COMMONS_CSV_JAR):$(LIBDIR)/$(COMMONS_CLI_JAR) \
 		--select-package de.staudtlex.csvtools
 
 
@@ -168,7 +188,7 @@ examples: \
 
 $(RESULTDIR)/jar-append-example.csv: jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
-	@$(JAVA) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
+	@$(JAVA) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(LIBDIR)/$(COMMONS_CLI_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
 	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-append-*.csv > $@
 
 $(RESULTDIR)/uber-jar-append-example.csv: uber-jar $(RESULTDIR)
@@ -178,7 +198,7 @@ $(RESULTDIR)/uber-jar-append-example.csv: uber-jar $(RESULTDIR)
 
 $(RESULTDIR)/jar-merge-example.csv: jar $(RESULTDIR)
 	$(info *** Run example (see $@) ***)
-	@$(JAVA) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
+	@$(JAVA) -classpath $(LIBDIR)/$(COMMONS_CSV_JAR):$(LIBDIR)/$(COMMONS_CLI_JAR):$(TARGETDIR)/$(PACKAGE_JAR) \
 	de.staudtlex.csvtools.CombineCsv $(TESTDATADIR)/gss-merge-*.csv > $@
 
 $(RESULTDIR)/uber-jar-merge-example.csv: uber-jar $(RESULTDIR)
