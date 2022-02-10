@@ -190,19 +190,19 @@ public class CombineCsvTest {
 
   }
 
-  @Test
-  void testMerge() {
-    // observation order corresponds to:
-    // - row order in imported csv files and
-    // - import order of csv files
-  }
+  // @Test
+  // void testMerge() {
+  // // observation order corresponds to:
+  // // - row order in imported csv files and
+  // // - import order of csv files
+  // }
 
-  @Test
-  void testParseCsv() {
-    // write:
-    // - number of colum names is smaller than number of columns per row
-    // - number of colum names is larger than number of columns per row
-  }
+  // @Test
+  // void testParseCsv() {
+  // // write:
+  // // - number of colum names is smaller than number of columns per row
+  // // - number of colum names is larger than number of columns per row
+  // }
 
   @Test
   void testReadRegularHeader() {
@@ -259,14 +259,19 @@ public class CombineCsvTest {
     }), CombineCsv.readHeader("src/test/resources/csv/test-data/header-6.csv"));
   }
 
-  @Test
-  void testRearrange() {
+  // @Test
+  // void testSort() {
 
-  }
+  // }
 
-  @Test
-  void testRearrangeMap() {
+  // @Test
+  // void testRearrange() {
 
-  }
+  // }
+
+  // @Test
+  // void testRearrangeMap() {
+
+  // }
 
 }

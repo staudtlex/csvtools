@@ -51,7 +51,7 @@ JUNIT_CONSOLE_STANDALONE_VERSION = 1.8.1
 JUNIT_CONSOLE_STANDALONE_JAR = junit-platform-console-standalone-$(JUNIT_CONSOLE_STANDALONE_VERSION).jar
 JUNIT_CONSOLE_STANDALONE_URL = https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/$(JUNIT_CONSOLE_STANDALONE_VERSION)/$(JUNIT_CONSOLE_STANDALONE_JAR)
 
-VERSION = 1.2.0
+VERSION = 1.2.1
 JAR_NAME = combine-csv-$(VERSION)
 PACKAGE_JAR = $(JAR_NAME).jar
 PACKAGE_UBER_JAR = $(JAR_NAME)-jar-with-dependencies.jar
@@ -167,6 +167,8 @@ test: test-classes
 	java -jar $(LIBDIR)/$(JUNIT_CONSOLE_STANDALONE_JAR) \
 		-cp $(TESTCLASSDIR):$(CLASSDIR):$(LIBDIR)/$(COMMONS_CSV_JAR):$(LIBDIR)/$(COMMONS_CLI_JAR) \
 		--select-package de.staudtlex.csvtools
+
+
 
 
 # Example: run example
